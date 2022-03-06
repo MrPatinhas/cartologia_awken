@@ -83,7 +83,6 @@ def get_local(t,h,a):
     elif(t==a):
         return 'FORA'
 
-
 def classify_score(score):
     if(score<0):
         return "F"
@@ -99,7 +98,6 @@ def classify_score(score):
 def get_rod_num(x):
     return int(x[-2:])
 
-
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
@@ -112,7 +110,6 @@ def get_most_similar(nome, df_scout):
     df_aux = df_aux.sort_values(by='ratio_').tail(1)
 
     return df_aux.atleta_id.tolist()[0]
-
 
 def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
 
@@ -366,7 +363,6 @@ def get_player_dispersion(df_data, df_liga, team_name, param_size = 0.05, min_nu
 
     return p
 
-
 def get_plot_scout_decisivo(df_data,df_liga, alpha_y=1.4, photo_height=30):
 
     de_para_time_logo = df_liga[['home_team_nome','home_team_logo']].drop_duplicates(subset=['home_team_nome','home_team_logo'],keep='first')
@@ -585,7 +581,6 @@ def get_sg_plot(df_data, df_liga, local):
 
     return f
 
-# Create models from data
 def best_fit_distribution(data, bins=200, ax=None):
     """Model data by finding best fit distribution to data"""
     # Get histogram of original data
@@ -675,12 +670,7 @@ def make_pdf(dist, params, size=10000):
 
     return pdf
 
-def get_round_plot(df_data, tid,
-                   scout1='Avaliação Jogador',
-                   scout2='Nota Cartola Jogador',
-                   sc1 = 'player_grade',
-                   sc2 = 'prev_cartola',
-                   min_num_jogos=10):
+def get_round_plot(df_data, tid, scout1='Avaliação Jogador', scout2='Nota Cartola Jogador', sc1 = 'player_grade', sc2 = 'prev_cartola', min_num_jogos=10):
 
     pl = df_data.groupby('player_id')['round_'].count().reset_index()
     pl = pl[pl['round_']>=min_num_jogos]['player_id'].tolist()
@@ -756,8 +746,12 @@ def get_round_plot(df_data, tid,
     p.text(0, inner_radius + 10, ['10'],
            text_font_size="11px", text_align="center", text_baseline="middle")
 
+    path_origin = os.path.dirname(__file__)
+
+    path = "{0}/local_dbs/pictures/Imagem1.png".format(path_origin)
+
     source_ = ColumnDataSource(dict(
-        url = [r"local_dbs\pictures\Imagem1.png"],
+        url = ["https://i.ibb.co/fvbCyHB/Imagem1.png"],
         x_  = [0],
         y_  = [inner_radius + 10]
     ))
@@ -937,7 +931,6 @@ def get_mapa_confronto(df_data, rodada_atual, df_liga, pos__):
     p.border_fill_color = None
     return p
 
-
 def get_pont_distribution(df_data, team_id_ = -1, player_id_=-1, dist_user = st.norm, flag_std=4):
     p = figure(title='Distribuição de Probabilidade',
                tools='',
@@ -1047,3 +1040,769 @@ def get_pont_distribution(df_data, team_id_ = -1, player_id_=-1, dist_user = st.
     p.xaxis.ticker = [int(x) for x in range(int(min(edges)-1), int(max(edges)+1),3)]
 
     return p
+
+def get_exponential_smooth(data_):
+    data = data_.values[-10:]
+    x0 = data[0]
+    ema = x0
+    alpha = 2/(len(data)+1)
+    for value in data[1:]:
+        ema = value*alpha + (1-alpha)*ema
+    return np.round(ema, decimals=3)
+
+def get_plot_team_evolution(id_, dataframe_pontuacao_relativa, df_liga, rodada_atual):
+
+    df_r = df_liga[df_liga['rod_num']==rodada_atual]
+
+    team_1 = df_r[df_r['id_']==id_].home_team_nome.tolist()[0]
+    team_id1 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_1].team_id.unique().tolist()[0]
+    y1 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_1].points_relative.tolist()
+    x1 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_1].rod_num.tolist()
+    xvals=np.linspace(min(x1), max(x1), 10*len(x1))
+    spl = CubicSpline(x1, y1) # First generate spline function
+    y_smooth = spl(xvals) # then evalute for your interpolated points
+    p = figure(plot_width=450, plot_height=500, output_backend="webgl")
+    p.line(xvals, y_smooth, line_color="red", line_alpha = 0.5, legend = team_1)
+    p.square(x1, y1, line_color="red", line_alpha = 0.9, fill_color=None)
+
+    team_2 = df_r[df_r['id_']==id_].away_team_nome.tolist()[0]
+    team_id2 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_2].team_id.unique().tolist()[0]
+    y2 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_2].points_relative.tolist()
+    x2 = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_2].rod_num.tolist()
+    xvals=np.linspace(min(x2), max(x2), 10*len(x2))
+    spl = CubicSpline(x2, y2) # First generate spline function
+    y_smooth = spl(xvals) # then evalute for your interpolated points
+    p.line(xvals, y_smooth, legend =team_2, line_color="blue", line_alpha = 0.5)
+    p.square(x2, y2, line_color="blue", line_alpha = 0.9, fill_color=None)
+
+    # Vertical line
+    vline = Span(location=x1[-1], dimension='height', line_color='black', line_width=1, line_alpha=0.5, line_dash = 'dotted')
+    # Horizontal line
+    hline = Span(location=y1[-1], dimension='width', line_color='red', line_width=1, line_alpha=0.7, line_dash = 'dotted')
+
+    # Horizontal line
+    hline3 = Span(location=y2[-1], dimension='width', line_color='blue', line_width=1, line_alpha=0.7, line_dash = 'dotted')
+
+    # Horizontal line
+    hline4 = Span(location=1, dimension='width', line_color='black', line_width=1, line_alpha=0.5, line_dash = 'dotted')
+
+    # Horizontal line
+    hline2 = Span(location=0, dimension='width', line_color='black', line_width=1, line_alpha=0.5, line_dash = 'dotted')
+
+    p.renderers.extend([vline, hline, hline2, hline3, hline4])
+
+    df_escudos = df_liga[['home_team_id','home_team_logo']].drop_duplicates()
+    esc_ = df_escudos[df_escudos['home_team_id']==team_id1]['home_team_logo'].tolist()[0]
+    esc_a = df_escudos[df_escudos['home_team_id']==team_id2]['home_team_logo'].tolist()[0]
+
+
+    if(y1[-1]>=y2[-1]):
+        source_imgs = ColumnDataSource({'x':[x1[-1]-1],'y':[y1[-2]+0.1],'escudo_url':[esc_]})
+        image2 = ImageURL(url="escudo_url", x="x", y='y', w=2, h = 0.15, anchor="center")
+        p.add_glyph(source_imgs, image2)
+
+        source_imgs = ColumnDataSource({'x':[x2[-1]-1],'y':[y2[-2]-0.1],'escudo_url':[esc_a]})
+        image2 = ImageURL(url="escudo_url", x="x", y='y', w=2, h = 0.15, anchor="center")
+        p.add_glyph(source_imgs, image2)
+    else:
+        source_imgs = ColumnDataSource({'x':[x1[-1]-1],'y':[y1[-2]-0.1],'escudo_url':[esc_]})
+        image2 = ImageURL(url="escudo_url", x="x", y='y', w=2, h = 0.15, anchor="center")
+        p.add_glyph(source_imgs, image2)
+
+        source_imgs = ColumnDataSource({'x':[x2[-1]-1],'y':[y2[-2]+0.1],'escudo_url':[esc_a]})
+        image2 = ImageURL(url="escudo_url", x="x", y='y', w=2, h = 0.15, anchor="center")
+        p.add_glyph(source_imgs, image2)
+
+    label_ = Label(x=x1[-1]-1.5, y=(y2[-1]), text='{0:.2f}'.format(abs(y2[-1])),
+          border_line_color='white',
+          text_font_size = '15px',
+          border_line_alpha=1.0,
+          background_fill_color='white',
+          background_fill_alpha=1.0)
+
+    p.add_layout(label_)
+
+    label_ = Label(x=x1[-1]-1.5, y=(y1[-1]), text='{0:.2f}'.format(abs(y1[-1])),
+          border_line_color='white',
+          text_font_size = '15px',
+          border_line_alpha=1.0,
+          background_fill_color='white',
+          background_fill_alpha=1.0)
+
+    p.add_layout(label_)
+
+
+    label_ = Label(x=x1[0]+0.25, y=(0.77), text='TOP 5',
+          border_line_color='white',
+          text_font_size = '15px',
+          text_color = 'white',
+          border_line_alpha=1.0,
+          background_fill_color='green',
+          background_fill_alpha=1.0)
+
+    p.add_layout(label_)
+
+
+    label_ = Label(x=x1[0]+0.20, y=(0.20), text='LAST 5',
+          border_line_color='white',
+          text_font_size = '15px',
+          text_color = 'white',
+          border_line_alpha=1.0,
+          background_fill_color='red',
+          background_fill_alpha=1.0)
+
+    p.add_layout(label_)
+
+    df_ = dataframe_pontuacao_relativa[dataframe_pontuacao_relativa['team_name']==team_1]
+    source = ColumnDataSource(df_)
+
+    band = Band(base='rod_num', lower=0, upper=0.25, source=source, level='underlay',
+                fill_alpha=0.5, line_width=1, line_color=None, fill_color='pink')
+    p.add_layout(band)
+
+    band = Band(base='rod_num', lower=0.75, upper=1.16, source=source, level='underlay',
+                fill_alpha=0.5, line_width=1, line_color=None, fill_color='lightgreen')
+    p.add_layout(band)
+
+    band = Band(base='rod_num', lower=0.25, upper=0.75, source=source, level='underlay',
+                fill_alpha=0.5, line_width=1, line_color=None, fill_color='lightyellow')
+    p.add_layout(band)
+
+    p.x_range = Range1d(min(x1), max(x1))
+    p.y_range = Range1d(0, 1.16)
+
+    p.ygrid.grid_line_color = None
+    p.xgrid.grid_line_color = None
+
+    p.xaxis.ticker = FixedTicker(ticks=[])
+    p.yaxis.ticker = FixedTicker(ticks=[])
+    p.xaxis.axis_line_color= None
+    p.yaxis.axis_line_color= None
+    p.legend.location = "bottom_left"
+
+    return p
+
+def get_datatframe_player_quantile(df_data):
+    #Parâmetros médios equipes
+    dados_equipes = pd.merge(df_data[(df_data['player_grade']>0)].groupby(['oponente_id','rod_num']).agg(
+    qtd_jogadores = ('player_id','count'),
+    med_chutes_no_gol = ('chutes_no_gol', 'sum'),
+    med_desarmes_executado = ('desarmes_executado', 'sum'),
+    med_faltas_sofridas = ('faltas_sofridas', 'sum'),
+    med_chutes_fora = ('chutes_fora', 'sum'),
+    med_gols = ('gols', 'sum'),
+    med_assistencias = ('assistencias', 'sum')
+    ).reset_index(), df_data[['team_name','team_id']].drop_duplicates(), how='left', left_on='oponente_id', right_on='team_id')
+
+    dados_equipes['med_chutes_no_gol'] = dados_equipes['med_chutes_no_gol']/dados_equipes['qtd_jogadores']
+    dados_equipes['med_desarmes_executado'] = dados_equipes['med_desarmes_executado']/dados_equipes['qtd_jogadores']
+    dados_equipes['med_faltas_sofridas'] = dados_equipes['med_faltas_sofridas']/dados_equipes['qtd_jogadores']
+    dados_equipes['med_chutes_fora'] = dados_equipes['med_chutes_fora']/dados_equipes['qtd_jogadores']
+    dados_equipes['med_gols'] = dados_equipes['med_gols']/dados_equipes['qtd_jogadores']
+    dados_equipes['med_assistencias'] = dados_equipes['med_assistencias']/dados_equipes['qtd_jogadores']
+
+    dados_equipes = dados_equipes.groupby(['oponente_id','team_name']).agg(
+    med_chutes_no_gol = ('med_chutes_no_gol', get_exponential_smooth),
+    med_desarmes_executado = ('med_desarmes_executado', get_exponential_smooth),
+    med_faltas_sofridas = ('med_faltas_sofridas', get_exponential_smooth),
+    med_chutes_fora = ('med_chutes_fora', get_exponential_smooth),
+    med_gols = ('med_gols', get_exponential_smooth),
+    med_assistencias = ('med_assistencias', get_exponential_smooth)
+    ).reset_index()
+
+    dataframe_player = df_data[(df_data['player_grade']>0)].groupby(['player_id','player_name','team_id','team_name']).agg(
+    player_position = ('player_position', lambda x:x.value_counts().index[0]),
+    med_chutes_no_gol = ('chutes_no_gol', get_exponential_smooth),
+    med_desarmes_executado = ('desarmes_executado', get_exponential_smooth),
+    med_faltas_sofridas = ('faltas_sofridas', get_exponential_smooth),
+    med_chutes_fora = ('chutes_fora', get_exponential_smooth),
+    med_gols = ('gols', get_exponential_smooth),
+    med_assistencias = ('assistencias', get_exponential_smooth)
+    ).reset_index()
+
+    return dataframe_player
+
+def get_round_quantile_player(player_id_, df_data, dataframe_player):
+
+    dict_nice_label = dict({
+    'chutes no gol': "FD",
+     'desarmes executado': "DS",
+     'faltas sofridas': "FS",
+     'chutes fora': "FF",
+     'gols': "G" ,
+     'assistencias': "A"
+    })
+
+    drug_color = OrderedDict([
+        ("quant",   "#0d3362"),
+    ])
+
+    df_player_aux = dataframe_player[dataframe_player['player_id']==player_id_]
+    resp = []
+    for col_ in df_player_aux.columns[-6:]:
+        str_ = col_.split("med_")[1].replace("_", " ")
+        quantile = stats.percentileofscore(dataframe_player[col_], df_player_aux[col_].tolist()[0])
+        resp.append([str_, quantile])
+
+    df_quantile = pd.DataFrame(data = resp, columns=['categoria','quant'])
+    df_quantile['player_id'] = player_id_
+    df_quantile = pd.merge(df_quantile, df_data[['player_id','player_photo','player_name']].drop_duplicates(), how='left')
+    df_quantile['color_'] = df_quantile.apply(lambda x: get_color_quantile(x['quant']), axis=1)
+    df_quantile['label_cat'] = df_quantile['categoria'].map(dict_nice_label)
+
+    df = df_quantile.copy()
+    tid = df_data[df_data['player_id']==player_id_].team_id.unique().tolist()[0]
+    depara_clube_logo = df_data[['home_team_logo','home_team_id','home_team_nome']].drop_duplicates(keep='first')
+    logo = depara_clube_logo[depara_clube_logo['home_team_id']==tid]['home_team_logo']
+
+    width = 450
+    height = 500
+    inner_radius = 30
+    outer_radius = inner_radius + 12
+
+    minr = sqrt(log(0.1 * 1E4))
+    maxr = sqrt(log(1000 * 1E4))
+    a = (outer_radius - inner_radius) / (minr - maxr)
+    b = inner_radius - a * maxr
+
+    def rad(mic):
+        return mic + inner_radius
+
+    big_angle = 2.0 * np.pi / (len(df) + 1)
+    small_angle = big_angle / 5
+    base_sizing = 50
+
+    p = figure(plot_width=width, plot_height=height, title="",
+        x_axis_type=None, y_axis_type=None,
+        x_range=(-base_sizing, base_sizing), y_range=(-base_sizing, base_sizing),
+        min_border=0, outline_line_color=None,
+        background_fill_color='white')
+
+    p.xgrid.grid_line_color = None
+    p.ygrid.grid_line_color = None
+
+    # annular wedges
+    angles = np.pi/2 - big_angle/2 - df.index.to_series()*big_angle
+    colors = df_quantile['color_'].tolist()
+    p.annular_wedge(
+        0, 0, inner_radius, outer_radius, -big_angle+angles, angles, color=colors,
+    )
+
+    # small wedges
+    p.annular_wedge(0, 0, inner_radius, rad(df.quant/10),
+                    -big_angle+angles+2*small_angle, -big_angle+angles+4*small_angle,
+                    color=drug_color['quant'])
+
+    #p.annular_wedge(0, 0, inner_radius,rad(df.pc_),
+    #                -big_angle+angles+1*small_angle, -big_angle+angles+2*small_angle,
+    #                color=drug_color['pc_'])
+
+
+    # circular axes and lables
+    #labels = np.power(10.0, np.arange(1, 2))
+    radii = []
+    radii.append(inner_radius + 10)
+    p.circle(0, 0, radius=inner_radius + 10, fill_color=None, line_color="white")
+    p.text(0, inner_radius + 10, ['10'],
+           text_font_size="11px", text_align="center", text_baseline="middle")
+
+    path_origin = os.path.dirname(__file__)
+
+    path = "{0}\\local_dbs\\pictures\\Imagem1.png".format(path_origin)
+
+    #url = os.path.join(os.path.basename(os.path.dirname(__file__)), "local_dbs", "Imagem1.png")
+
+
+    source_ = ColumnDataSource(dict(
+        url = ["https://i.ibb.co/fvbCyHB/Imagem1.png"],
+        x_  = [0],
+        y_  = [inner_radius + 10]
+    ))
+
+    image3 = ImageURL(url='url', x='x_', y='y_', w=14, h = 14, anchor="center")
+    p.add_glyph(source_, image3)
+
+    source_l = ColumnDataSource(dict(
+        url = [logo],
+        x_  = [0],
+        y_  = [20]
+    ))
+
+    image4 = ImageURL(url='url', x='x_', y='y_', w=10, h = 10, anchor="center")
+    p.add_glyph(source_l, image4)
+
+    p.text(0, inner_radius, ['Cartologia'],
+           text_font_size="20px", text_align="center", text_baseline="middle")
+
+
+
+    # radial axes
+    p.annular_wedge(0, 0, inner_radius-5, outer_radius+10,
+                    -big_angle+angles, -big_angle+angles, color="black")
+
+    # bacteria labels
+    #xr = radii[0]*np.cos(np.array(-big_angle/2 + angles))*1.05
+    #yr = radii[0]*np.sin(np.array(-big_angle/2 + angles))*1.05
+    xr = (inner_radius-14)*np.cos(np.array(-big_angle+angles+3*small_angle))*1
+    yr = (inner_radius-14)*np.sin(np.array(-big_angle+angles+3*small_angle))*1
+    label_angle=np.array(-big_angle/2+angles)
+    label_angle[label_angle < -np.pi/2] += np.pi # easier to read labels on the left side
+    p.text(xr, yr, df.label_cat, #angle=label_angle,
+           text_font_size="14px", text_align="center", text_baseline="middle", text_font_style="bold")
+    p.circle(xr, yr, size=23, fill_alpha=0.2, color=colors)
+
+    xr = radii[0]*np.cos(np.array(-big_angle/2 + angles+1*small_angle))*1.3
+    yr = radii[0]*np.sin(np.array(-big_angle/2 + angles+1*small_angle))*1.3
+    label_angle=np.array(-big_angle/2+angles+1*small_angle)
+    label_angle[label_angle < -np.pi/2] += np.pi # easier to read labels on the left side
+
+    source = ColumnDataSource(dict(
+        url = [df.player_photo.unique().tolist()[0]],
+        x_  = [0],
+        y_  = [4],
+        angle_ = label_angle
+    ))
+
+    image2 = ImageURL(url='url', x='x_', y='y_', w=16, h = 16, anchor="center")
+    p.add_glyph(source, image2)
+
+    p.rect([0], [-8], width=24, height=5, fill_alpha=0.6,
+           color="#F2F3F4")
+
+    p.text(0, -8, text=[df_quantile.player_name.unique().tolist()[0]],
+           text_font_size="12px", text_align="center", text_baseline="middle")
+
+    # bacteria labels
+    xr = (inner_radius-7)*np.cos(np.array(-big_angle+angles+3*small_angle))*1
+    yr = (inner_radius-7)*np.sin(np.array(-big_angle+angles+3*small_angle))*1
+    label_angle=np.array(-big_angle+angles+3*small_angle)
+    label_angle[label_angle < -np.pi/2] += np.pi # easier to read labels on the left side
+    p.text(xr, yr, ['{0:.0f}'.format(x) for x in df.quant.tolist()], #angle=label_angle,
+           text_font_size="14px", text_align="center", text_baseline="middle", text_font_style="bold")
+    p.circle(xr, yr, size=23, fill_alpha=0.2, color="#F2F3F4")
+
+    return p
+
+
+def get_radar_plot(t_n, pos, df_data, df_liga, rodada_atual):
+    #(df_data['curr_rod_exec_code']==1) &
+
+    df_r = df_liga[df_liga['rod_num']==rodada_atual]
+
+
+    df_execution_team = df_data[
+                                (df_data['player_grade']>0) &
+                               (df_data['player_position'].isin(pos))].groupby(['team_name','team_id']).agg(
+        DS = ('desarmes_executado','sum'),
+        FS = ('faltas_sofridas','sum'),
+        A = ('assistencias', 'sum'),
+        G = ('gols', 'sum'),
+        F = ('chutes', 'sum'),
+        qj = ('round_',pd.Series.nunique)
+    ).reset_index()
+
+    df_execution_team['DS_'] = df_execution_team['DS']/df_execution_team['qj']
+    df_execution_team['F_'] = df_execution_team['F']/df_execution_team['qj']
+    df_execution_team['A_'] = df_execution_team['A']/df_execution_team['qj']
+    df_execution_team['G_'] = df_execution_team['G']/df_execution_team['qj']
+    df_execution_team['FS_'] = df_execution_team['FS']/df_execution_team['qj']
+
+    df_execution_team['DS_n'] = (df_execution_team['DS_']/df_execution_team['DS_'].mean() - 1)*100
+    df_execution_team['F_n'] = (df_execution_team['F_']/df_execution_team['F_'].mean() - 1)*100
+    df_execution_team['FS_n'] = (df_execution_team['FS_']/df_execution_team['FS_'].mean() - 1)*100
+    df_execution_team['A_n'] = (df_execution_team['A_']/df_execution_team['A_'].mean() - 1)*100
+    df_execution_team['G_n'] = (df_execution_team['G_']/df_execution_team['G_'].mean() - 1)*100
+
+    df_execution_team_res = df_execution_team[['team_id','team_name','G_n','DS_n','F_n','FS_n','A_n']]
+#(df_data['curr_rod_ced_code']==1) &
+    df_cedido_team = df_data[ (df_data['player_grade']>0)&
+                               (df_data['player_position'].isin(pos))].groupby(['oponente_id']).agg(
+        DS = ('desarmes_executado','sum'),
+        FS = ('faltas_sofridas','sum'),
+        A = ('assistencias', 'sum'),
+        G = ('gols', 'sum'),
+        F = ('chutes', 'sum'),
+        qj = ('round_',pd.Series.nunique)
+    ).reset_index()
+
+    df_cedido_team = pd.merge(df_cedido_team,
+                              df_data[['team_id', 'team_name']].drop_duplicates(),
+                              how='left', left_on='oponente_id', right_on='team_id').drop('oponente_id', axis=1)
+
+    df_cedido_team['DS_'] = df_cedido_team['DS']/df_cedido_team['qj']
+    df_cedido_team['F_'] = df_cedido_team['F']/df_cedido_team['qj']
+    df_cedido_team['A_'] = df_cedido_team['A']/df_cedido_team['qj']
+    df_cedido_team['G_'] = df_cedido_team['G']/df_cedido_team['qj']
+    df_cedido_team['FS_'] = df_cedido_team['FS']/df_cedido_team['qj']
+
+    df_cedido_team['DS_n'] = (df_cedido_team['DS_']/df_cedido_team['DS_'].mean() - 1)*100
+    df_cedido_team['F_n'] = (df_cedido_team['F_']/df_cedido_team['F_'].mean() - 1)*100
+    df_cedido_team['FS_n'] = (df_cedido_team['FS_']/df_cedido_team['FS_'].mean() - 1)*100
+    df_cedido_team['A_n'] = (df_cedido_team['A_']/df_cedido_team['A_'].mean() - 1)*100
+    df_cedido_team['G_n'] = (df_cedido_team['G_']/df_cedido_team['G_'].mean() - 1)*100
+
+    df_cedido_team_res = df_cedido_team[['team_id','team_name','G_n','DS_n','F_n','FS_n','A_n']]
+
+    df_confrontos_tids = df_r[['away_team_id','home_team_id']]
+
+    t_n_a = df_confrontos_tids[df_confrontos_tids['away_team_id']==t_n]
+    if(len(t_n_a)>0):
+        t_n_a = t_n_a['home_team_id'].tolist()[0]
+    else:
+        t_n_a = df_confrontos_tids[df_confrontos_tids['home_team_id']==t_n]['away_team_id'].tolist()[0]
+
+    dados_exec = df_execution_team_res[df_execution_team_res['team_id']==t_n].iloc[0,2:]
+    dados_ced = df_cedido_team_res[df_cedido_team_res['team_id']==t_n_a].iloc[0,2:]
+
+    df_escudos = df_liga[['home_team_id','home_team_logo']].drop_duplicates()
+    esc_ = df_escudos[df_escudos['home_team_id']==t_n]['home_team_logo'].tolist()[0]
+    esc_a = df_escudos[df_escudos['home_team_id']==t_n_a]['home_team_logo'].tolist()[0]
+
+    num_vars = 5
+
+    centre = 0
+    theta = np.linspace(0, 2*np.pi, num_vars, endpoint=False)
+    # rotate theta such that the first axis is at the top
+    theta += np.pi/2
+
+    nome = df_execution_team_res[df_execution_team_res['team_id']==t_n]['team_name'].tolist()[0]
+
+    nome_a = df_execution_team_res[df_execution_team_res['team_id']==t_n_a]['team_name'].tolist()[0]
+
+    s_ = 500
+    wid_ = s_
+    hei_ = s_
+
+    p = figure(x_range=Range1d(-260,260),
+                            y_range=Range1d(-260,260), plot_width=wid_, plot_height=hei_, tools='')
+
+    p.add_layout(Title(text="Radar - Visão " + nome.upper(), align="center"), "above")
+
+    f1 = np.array([x + 100 for x in dados_exec])
+    f2 = np.array([x + 100 for x in dados_ced])
+
+    verts = unit_poly_verts(220, theta, centre)
+    x = [v[0] for v in verts]
+    y = [v[1] for v in verts]
+    text = ['G','DS','F','FS','A','']
+    source = ColumnDataSource({'x':x + [centre ],'y':y + [200],'text':text})
+    labels = LabelSet(x="x",y="y",text="text",source=source,x_offset=-10, y_offset=-10, text_font_style='bold')
+    p.add_layout(labels)
+
+    c_ = []
+    for x_,y_ in zip(f1,f2):
+        xa = x_ - 100
+        ya = y_ - 100
+
+        if(xa>=0 and ya>=0):
+            c_.append('green')
+        elif(xa>=0 and ya<0):
+            c_.append('yellow')
+        elif(xa<0 and ya>=0):
+            c_.append('blue')
+        else:
+            c_.append('red')
+
+
+    source_r = ColumnDataSource({'x':x,'y':y,'cc':c_})
+    p.circle(x='x', y='y', size=30, fill_color='cc', fill_alpha=0.2, source=source_r, line_color='cc')
+
+    source_imgs = ColumnDataSource({'x':[-200],'y':[200],'escudo_url':[esc_]})
+    image2 = ImageURL(url="escudo_url", x="x", y='y', w=90, h = 90, anchor="center")
+    p.add_glyph(source_imgs, image2)
+
+
+    verts_ = unit_poly_verts(200, np.linspace(0, 2*np.pi, 100, endpoint=True) + np.pi/2, centre)
+    x_ = [v[0] for v in verts_]
+    y_ = [v[1] for v in verts_]
+
+    source_ = ColumnDataSource({'x':x_ + [centre ],'y':y_ + [200]})
+
+    p.line(x="x", y="y", source=source_, color='red')
+
+    verts_ = unit_poly_verts(100, np.linspace(0, 2*np.pi, 100, endpoint=True) + np.pi/2, centre)
+    x_ = [v[0] for v in verts_]
+    y_ = [v[1] for v in verts_]
+
+    source_ = ColumnDataSource({'x':x_ + [centre ],'y':y_ + [100]})
+
+    p.line(x="x", y="y", source=source_, color='grey', line_alpha=1, line_dash='dashed')
+
+    verts_ = unit_poly_verts(50, np.linspace(0, 2*np.pi, 100, endpoint=True) + np.pi/2, centre)
+    x_ = [v[0] for v in verts_]
+    y_ = [v[1] for v in verts_]
+
+    source_ = ColumnDataSource({'x':x_ + [centre ],'y':y_ + [50]})
+
+    p.line(x="x", y="y", source=source_, color='red', line_alpha=1, line_dash='dashed')
+
+    verts_ = unit_poly_verts(150, np.linspace(0, 2*np.pi, 100, endpoint=True) + np.pi/2, centre)
+    x_ = [v[0] for v in verts_]
+    y_ = [v[1] for v in verts_]
+
+    source_ = ColumnDataSource({'x':x_ + [centre ],'y':y_ + [150]})
+
+    p.line(x="x", y="y", source=source_, color='green', line_alpha=1, line_dash='dashed')
+
+
+    source_l = ColumnDataSource({'x':[0]*3,'y':[50,100,150],'text':['-50%', '0', '50%']})
+    labels_ = LabelSet(x='x',y='y',text='text',source=source_l,x_offset=-10, y_offset=-20)
+    p.add_layout(labels_)
+
+    # example factor:
+
+    #xt = np.array(x)
+    flist = [f1,f2]
+    colors = ['blue','yellow']
+    p_ = []
+    for i in range(len(flist)):
+        xt, yt = radar_patch(flist[i], theta, centre)
+        p_.append(p.patch(x=xt, y=yt, fill_alpha=0.2, fill_color=colors[i]))
+
+
+    p.ygrid.grid_line_color = None
+    p.xgrid.grid_line_color = None
+
+    p.xaxis.ticker = FixedTicker(ticks=[])
+    p.yaxis.ticker = FixedTicker(ticks=[])
+    p.xaxis.axis_line_color= None
+    p.yaxis.axis_line_color= None
+    p.outline_line_color = None
+
+    legend = Legend(items=[(fruit, [r]) for (fruit, r) in zip(['Executado - ' + nome.upper(),
+                                                               'Cedido - ' + nome_a.upper()], p_)],
+                    location=(0.05*wid_, 0*hei_))
+    p.add_layout(legend, 'center')
+
+    p.legend.label_text_font_size = '8pt'
+    p.legend.border_line_color = None
+
+    return p
+
+
+def get_plot_best_within_pos_team(pos, team_n, df_data, df_liga):
+
+    de_para_time_logo = df_liga[['home_team_nome','home_team_logo']].drop_duplicates(subset=['home_team_nome','home_team_logo'],keep='first')
+
+    df_top_scouts = df_data[(df_data['player_grade']>0) &
+            (df_data['player_position'].isin([pos])) &
+            (df_data['team_name']==team_n)].groupby(['player_id','player_photo','team_name','team_id']).agg(
+            player_name = ('player_name','first'),
+            scout_ = ('prev_cartola','mean'),
+            qj = ('round_', 'count')
+        ).reset_index().sort_values(by='scout_', ascending=False)
+    #df_top_scouts = df_top_scouts[df_top_scouts['qj']>=19]
+    df_top_scouts['media_j']= df_top_scouts['qj']
+    df_top_scouts = df_top_scouts.sort_values(by='scout_', ascending=False).head(10)
+
+    last_game = df_data[(df_data['player_grade']>0) &
+            (df_data['player_position'].isin([pos])) &
+            (df_data['team_name']==team_n)].sort_values(by='date').fix_id.unique().tolist()[-5:]
+
+    last_players = df_data[(df_data['player_grade']>0) &
+                (df_data['player_position'].isin([pos])) &
+                (df_data['team_name']==team_n) & (df_data['fix_id'].isin(last_game))].groupby(['player_id','player_name','player_photo','team_name','team_id']).agg(
+                qj_r = ('round_', 'count')
+            ).reset_index().sort_values(by='qj_r', ascending=False)
+
+    df_top_scouts = pd.merge(df_top_scouts, last_players[['player_id','qj_r']], how='left', on='player_id').fillna(0)
+    df_top_scouts = df_top_scouts.drop_duplicates(subset='player_name', keep='first')
+
+    max_y_1 = max(df_top_scouts['scout_'].tolist())
+    df_top_scouts['label_pos'] = [x + max_y_1/6 for x in df_top_scouts['scout_'].tolist()]
+
+    df_top_scouts['label_pos_data'] = [x*0.9 for x in df_top_scouts['scout_'].tolist()]
+    df_top_scouts['label_data'] = ['{0:.1f}'.format(x) for x in df_top_scouts['scout_'].tolist()]
+
+    df_top_scouts['label_pos_data_2'] = [x for x in df_top_scouts['media_j'].tolist()]
+    df_top_scouts['label_data_2'] = ['{0:.0f}'.format(x) for x in df_top_scouts['media_j'].tolist()]
+
+    df_top_scouts['label_pos_data_3'] = [x + max_y_1/2.7 for x in df_top_scouts['scout_'].tolist()]
+    df_top_scouts['label_data_3'] = ['{0:.0f}'.format(x) if x>0 else "" for x in df_top_scouts['qj_r'].tolist()]
+
+    df_top_scouts['label_pos_data_4'] = [x + max_y_1/2 for x in df_top_scouts['scout_'].tolist()]
+    df_top_scouts['label_data_4'] = ['{0:.0f}'.format(x) if x>0 else "" for x in df_top_scouts['qj'].tolist()]
+
+    df_top_scouts = pd.merge(df_top_scouts,
+                                       de_para_time_logo,how='left',left_on='team_name', right_on='home_team_nome')
+
+    try:
+        df_clube = df_top_scouts.iloc[-2].to_frame().T
+    except:
+        df_clube = df_top_scouts.iloc[-1].to_frame().T
+    df_clube['pos_'] = max_y_1 + max_y_1/3
+
+    source = ColumnDataSource(df_top_scouts)
+    f = figure(x_range=df_top_scouts.player_name.tolist(),
+                        y_range=Range1d(0,max(df_top_scouts['scout_'].tolist())*1.68),
+                    plot_height=600,
+                    plot_width = 600)
+
+
+    b1 = f.vbar(x='player_name', bottom=0, top='scout_', width=0.5, source=source, color='#FFCD58')
+    f.hex(x='player_name', y='label_pos_data', size=40, source=source, color='#010100', fill_alpha=0.5)
+    f.text(x='player_name', y='label_pos_data', source=source, text='label_data', x_offset=-12, y_offset=+10, text_color='white')
+
+    f.yaxis.axis_label = 'Média de Pontos'
+
+    image2 = ImageURL(url="player_photo", x="player_name", y='label_pos', w=0.8, h = max_y_1/4, anchor="center")
+    f.add_glyph(source, image2)
+
+    #source_ = ColumnDataSource(df_clube)
+    #image3 = ImageURL(url="home_team_logo", x="player_name", y='pos_', w=1, h = 1, anchor="center")
+    #f.add_glyph(source_, image3)
+
+    # Setting the second y axis range name and range
+    #l_2 = df_top_scouts['media_j'].tolist()
+    #f.extra_y_ranges = {"foo": Range1d(start=min(l_2)*0.5, end=max(l_2)*4)}
+
+    # Setting the rect glyph params for the second graph.
+    # Using the aditional y range named "foo" and "right" y axis here.
+    #l1 = f.line(x='player_name', y='media_j',color="green", line_dash='dashed',line_width=2 ,y_range_name="foo", source=source)
+
+    #f.circle(x='player_name', y='media_j', size=5, source=source, color='#010100', fill_alpha=0.5, y_range_name="foo")
+
+    #f.text(x='player_name', y='label_pos_data_2', source=source, text='label_data_2', x_offset=-10, y_range_name="foo")
+
+    #l2 = f.line(x='player_name', y='scout_max',color="black",line_dash='dashed', source=source)
+
+    f.circle(x='player_name', y='label_pos_data_3', size=20, source=source, color='#010100', fill_alpha=0.1, legend='# Últimos 5 Jogos')
+
+    f.text(x='player_name', y='label_pos_data_3', source=source, text='label_data_3', x_offset=-5, y_offset=10)
+
+    f.hex(x='player_name', y='label_pos_data_4', size=30, source=source, color='green', fill_alpha=0.1, legend='# Jogos')
+
+    f.text(x='player_name', y='label_pos_data_4', source=source, text='label_data_4', x_offset=-10, y_offset=10)
+
+    #legend = Legend(items=[(fruit, [r]) for (fruit, r) in zip(['Pontuação Média','Qtd Jogos'], [b1,l1])], location=(20, 400))
+    #f.add_layout(legend, 'center')
+
+    f.xaxis.major_label_orientation = math.pi/4
+
+    f.ygrid.grid_line_color = None
+    f.xgrid.grid_line_color = None
+    f.add_layout(Title(text='TOP 10 jogadores em {0} do {1}'.format(pos.upper(), team_n.upper()), align="center"), "above")
+    return f, df_top_scouts[df_top_scouts['qj']>=3].sort_values(by=['qj','scout_'], ascending=False).head(3).player_id.unique().tolist()
+
+
+def get_team_res(team_n, pos, df_data, df_liga, rodada_atual, dataframe_pontuacao_relativa, dataframe_player):
+
+    df_r = df_liga[df_liga['rod_num']==rodada_atual]
+    i = 0
+    #lists_of_teams = get_top_4_teams(pos)
+    plots = []
+    row_ = []
+    row_count = 0
+
+    fix_id_ = df_r[(df_r['home_team_nome']==team_n) | (df_r['away_team_nome']==team_n)].id_.tolist()[0]
+
+    row_.append(get_plot_team_evolution(fix_id_, dataframe_pontuacao_relativa, df_liga, rodada_atual))
+    plt_, pp = get_plot_best_within_pos_team(pos, team_n, df_data, df_liga)
+    plt_.plot_width = 450
+    plt_.plot_height = 500
+    plt_.background_fill_color = 'white'
+    plt_.border_fill_color = 'white'
+    plt_.outline_line_color = 'white'
+    plt_.min_border_bottom = 15
+
+    row_.append(plt_)
+    #export_png(plt_,  get_export_path_(country_of_league, i))
+    i = i+1
+    #time.sleep(10)
+    plt_col2 = get_radar_plot(df_data[df_data['team_name']==team_n]['team_id'].unique().tolist()[0], [pos], df_data, df_liga, rodada_atual)
+    plt_col2.background_fill_color = 'white'
+
+    #export_png(plt_col2, get_export_path_(country_of_league, i), timeout = 15)
+    i = i+1
+
+    row_.append(plt_col2)
+
+    for p in pp:
+        try:
+            plt_player = get_pont_distribution(df_data, team_id_ = -1, player_id_=p, dist_user=st.cauchy, flag_std=4)
+            plt_player.background_fill_color = 'white'
+            plt_player.border_fill_color = 'white'
+            plt_player.outline_line_color = 'white'
+            plt_player.plot_width = 450
+            plt_player.plot_height = 400
+            plt_player.min_border_bottom = 15
+
+            #export_png(plt_player, get_export_path_(country_of_league, i), timeout = 10)
+            #i = i+1
+            row_.append(plt_player)
+        except:
+            pass
+
+    for p in pp:
+        try:
+            plt_player = get_round_quantile_player(p, df_data, dataframe_player)
+            plt_player.background_fill_color = 'white'
+            plt_player.border_fill_color = 'white'
+            plt_player.outline_line_color = 'white'
+        #plt_player.min_border_bottom = 150
+
+        #export_png(plt_player, get_export_path_(country_of_league, i), timeout = 10)
+        #i = i+1
+            row_.append(plt_player)
+        except:
+            pass
+
+
+    row_count = row_count + 1
+    if(row_count==1):
+        row_count = 0
+        plots.append(row_)
+        row_ = []
+
+    custom_disp_end = []
+    for plots_ in plots:
+        custom_disp_r = []
+        custom_disp_temp = []
+        index_ = 0
+        for p_ in plots_:
+            if(index_>=0):
+                custom_disp_temp.append(p_)
+                custom_disp_r.append(custom_disp_temp)
+                custom_disp_temp = []
+                index_=0
+            else:
+                custom_disp_temp.append(p_)
+                index_ = index_ + 1
+
+        for god_ in custom_disp_r:
+            custom_disp_end.append(god_)
+
+    grid = gridplot(custom_disp_end, plot_width=500)
+
+    return grid
+
+
+def unit_poly_verts(r, theta, centre ):
+    """Return vertices of polygon for subplot axes.
+    This polygon is circumscribed by a unit circle centered at (0.5, 0.5)
+    """
+    x0, y0= [centre ] * 2
+    verts = [(r*np.cos(t) + x0, r*np.sin(t) + y0) for t in theta]
+    return verts
+
+def radar_patch(r, theta, centre ):
+    """ Returns the x and y coordinates corresponding to the magnitudes of
+    each variable displayed in the radar plot
+    """
+    # offset from centre of circle
+    offset = 0.01
+    yt = (r) * np.sin(theta) + centre
+    xt = (r) * np.cos(theta) + centre
+    return xt, yt
+
+def get_color_quantile(quant):
+    if(quant/100>=0.9):
+        return "#1ABC9C"
+    elif(quant/100>=0.75):
+        return "#D1F2EB"
+    elif(quant/100>=0.5):
+        return "#FCF3CF"
+    elif(quant/100>=0.25):
+        return "#FADBD8"
+    else:
+        return "#CB4335"
