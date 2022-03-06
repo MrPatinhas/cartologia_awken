@@ -24,6 +24,7 @@ from math import log, sqrt
 from bokeh.io import export_png
 import numpy as np
 import pandas as pd
+import os
 from bokeh.document import Document
 from bokeh.embed import file_html
 from bokeh.layouts import gridplot
@@ -138,9 +139,11 @@ def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
     else:
         code = -1
 
-    path = r"\local_dbs\{0}\{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower())
-    path_old_partidas = r"\local_dbs\{0}\{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower())
-    path_old_predictions = r"\local_dbs\{0}\{1}_dados_bets.csv".format(country_of_league, country_of_league.lower())
+    path = os.path.dirname(__file__)
+
+    path = r"{2}\local_dbs\{0}\{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower(), path)
+    path_old_partidas = r"{2}\local_dbs\{0}\{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower(), path)
+    path_old_predictions = r"{2}\local_dbs\{0}\{1}_dados_bets.csv".format(country_of_league, country_of_league.lower(), path)
     #if Path(path).is_file():
     df_data = pd.read_csv(path).drop('Unnamed: 0',axis=1)
     df_liga = pd.read_csv(path_old_partidas).drop('Unnamed: 0',axis=1)
