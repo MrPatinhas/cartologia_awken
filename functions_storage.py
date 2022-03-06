@@ -141,11 +141,11 @@ def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
     path = r"local_dbs\{0}\{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower())
     path_old_partidas = r"local_dbs\{0}\{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower())
     path_old_predictions = r"local_dbs\{0}\{1}_dados_bets.csv".format(country_of_league, country_of_league.lower())
-    if Path(path).is_file():
-        df_data = pd.read_csv(path).drop('Unnamed: 0',axis=1)
-        df_liga = pd.read_csv(path_old_partidas).drop('Unnamed: 0',axis=1)
-    if Path(path_old_predictions).is_file():
-        df_pred_players = pd.read_csv(path_old_predictions).drop('Unnamed: 0',axis=1)
+    #if Path(path).is_file():
+    df_data = pd.read_csv(path).drop('Unnamed: 0',axis=1)
+    df_liga = pd.read_csv(path_old_partidas).drop('Unnamed: 0',axis=1)
+    #if Path(path_old_predictions).is_file():
+    df_pred_players = pd.read_csv(path_old_predictions).drop('Unnamed: 0',axis=1)
 
     df_data = df_data.fillna(0)
 
