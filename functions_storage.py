@@ -139,11 +139,11 @@ def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
     else:
         code = -1
 
-    path = os.path.dirname(__file__)
+    path_origin = os.path.dirname(__file__)
 
-    path = "{2}/local_dbs/{0}/{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower(), path)
-    path_old_partidas = "{2}/local_dbs/{0}/{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower(), path)
-    path_old_predictions = "{2}/local_dbs/{0}/{1}_dados_bets.csv".format(country_of_league, country_of_league.lower(), path)
+    path = "{2}/local_dbs/{0}/{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower(), path_origin)
+    path_old_partidas = "{2}/local_dbs/{0}/{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower(), path_origin)
+    path_old_predictions = "{2}/local_dbs/{0}/{1}_dados_bets.csv".format(country_of_league, country_of_league.lower(), path_origin)
     #if Path(path).is_file():
     df_data = pd.read_csv(path).drop('Unnamed: 0',axis=1)
     df_liga = pd.read_csv(path_old_partidas).drop('Unnamed: 0',axis=1)
