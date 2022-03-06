@@ -138,9 +138,9 @@ def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
     else:
         code = -1
 
-    path = r"C:\Users\thiag\Documents\Cartologia\API_football\{0}\{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower())
-    path_old_partidas = r"C:\Users\thiag\Documents\Cartologia\API_football\{0}\{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower())
-    path_old_predictions = r"C:\Users\thiag\Documents\Cartologia\API_football\{0}\{1}_dados_bets.csv".format(country_of_league, country_of_league.lower())
+    path = r"local_dbs\{0}\{1}_dados_jogadores.csv".format(country_of_league, country_of_league.lower())
+    path_old_partidas = r"local_dbs\{0}\{1}_dados_partidas.csv".format(country_of_league, country_of_league.lower())
+    path_old_predictions = r"local_dbs\{0}\{1}_dados_bets.csv".format(country_of_league, country_of_league.lower())
     if Path(path).is_file():
         df_data = pd.read_csv(path).drop('Unnamed: 0',axis=1)
         df_liga = pd.read_csv(path_old_partidas).drop('Unnamed: 0',axis=1)
@@ -754,7 +754,7 @@ def get_round_plot(df_data, tid,
            text_font_size="11px", text_align="center", text_baseline="middle")
 
     source_ = ColumnDataSource(dict(
-        url = [r"C:\Users\thiag\Pictures\Imagem1.png"],
+        url = [r"local_dbs\pictures\Imagem1.png"],
         x_  = [0],
         y_  = [inner_radius + 10]
     ))
