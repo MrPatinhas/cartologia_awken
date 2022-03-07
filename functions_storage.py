@@ -696,8 +696,8 @@ def get_round_plot(df_data, tid, scout1='Avaliação Jogador', scout2='Nota Cart
 
     df = df_bayern.copy()
 
-    width = 650
-    height = 650
+    width = 900
+    height = 900
     inner_radius = 30
     outer_radius = inner_radius + 15
 
@@ -778,12 +778,12 @@ def get_round_plot(df_data, tid, scout1='Avaliação Jogador', scout2='Nota Cart
                     -big_angle+angles, -big_angle+angles, color="black")
 
     # bacteria labels
-    xr = radii[0]*np.cos(np.array(-big_angle/2 + angles))*1.3
-    yr = radii[0]*np.sin(np.array(-big_angle/2 + angles))*1.3
+    xr = radii[0]*np.cos(np.array(-big_angle*1.2/2 + angles))*1.3
+    yr = radii[0]*np.sin(np.array(-big_angle*1.2/2 + angles))*1.3
     label_angle=np.array(-big_angle/2+angles)
     label_angle[label_angle < -np.pi/2] += np.pi # easier to read labels on the left side
     p.text(xr, yr, df.player_name, angle=label_angle,
-           text_font_size="12px", text_align="center", text_baseline="middle")
+           text_font_size="16px", text_align="center", text_baseline="middle")
 
     xr = radii[0]*np.cos(np.array(-big_angle/2 + angles+1*small_angle))*1.3
     yr = radii[0]*np.sin(np.array(-big_angle/2 + angles+1*small_angle))*1.3
@@ -797,7 +797,7 @@ def get_round_plot(df_data, tid, scout1='Avaliação Jogador', scout2='Nota Cart
         angle_ = label_angle
     ))
 
-    image2 = ImageURL(url='url', x='x_', y='y_', w=7, h = 7, anchor="center")
+    image2 = ImageURL(url='url', x='x_', y='y_', w=9, h = 9, anchor="center")
     p.add_glyph(source, image2)
 
     # bacteria labels
@@ -821,12 +821,12 @@ def get_round_plot(df_data, tid, scout1='Avaliação Jogador', scout2='Nota Cart
     # OK, these hand drawn legends are pretty clunky, will be improved in future release
     p.circle([-20, -20], [-370, -390], color=list(gram_color.values()), radius=5)
     p.text([-40, -30], [-370, -390], text=["Gram-" + gr for gr in gram_color.keys()],
-           text_font_size="9px", text_align="left", text_baseline="middle")
+           text_font_size="20px", text_align="left", text_baseline="middle")
 
     p.rect([0, 0], [10, -10], width=35, height=5,
            color=list(drug_color.values()))
     p.text([-10, -15], [10, -10], text=[scout1, scout2], text_color='white',
-           text_font_size="12px", text_align="left", text_baseline="middle")
+           text_font_size="20px", text_align="left", text_baseline="middle")
 
     p.outline_line_color = None
     p.background_fill_color = 'white'
@@ -1685,7 +1685,7 @@ def get_plot_best_within_pos_team(pos, team_n, df_data, df_liga):
     return f, df_top_scouts[df_top_scouts['qj']>=3].sort_values(by=['qj','scout_'], ascending=False).head(3).player_id.unique().tolist()
 
 
-def get_team_res(team_n, pos, df_data, df_liga, rodada_atual, dataframe_pontuacao_relativa, dataframe_player):
+def get_team_res(team_n, pos, df_data, df_liga, rodada_atual, dataframe_pontuacao_relativa, dataframe_player, graphs_by_row=2):
 
     df_r = df_liga[df_liga['rod_num']==rodada_atual]
     i = 0
@@ -1760,7 +1760,7 @@ def get_team_res(team_n, pos, df_data, df_liga, rodada_atual, dataframe_pontuaca
         custom_disp_temp = []
         index_ = 0
         for p_ in plots_:
-            if(index_>=0):
+            if(index_>=graphs_by_row):
                 custom_disp_temp.append(p_)
                 custom_disp_r.append(custom_disp_temp)
                 custom_disp_temp = []

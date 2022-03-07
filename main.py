@@ -65,10 +65,52 @@ from pathlib import Path
 import streamlit as stream
 from functions_storage import *
 
+stream.set_page_config(
+     page_title="Cartologia | Soccer Analysis",
+     page_icon="🎲",
+     layout="wide",
+     initial_sidebar_state="expanded",
+     menu_items={
+         'Get Help': 'https://www.extremelycoolapp.com/help',
+         'Report a bug': "https://www.extremelycoolapp.com/bug",
+         'About': "# This is a header. This is an *extremely* cool app!"
+     }
+ )
+
+main_parameters_dict = dict({
+     'Premier League (ENG)':{
+         "rodada_atual": 28,
+         "country_name": "England"
+     },
+     'Serie A (ITA)':{
+         "rodada_atual": 28,
+         "country_name": "Italy"
+     },
+     'Bundesliga (GER)':{
+         "rodada_atual": 25,
+         "country_name": "Germany"
+     },
+     'La Liga (SPA)':{
+         "rodada_atual": 27,
+         "country_name": "Spain"
+     },
+     'Paulistao (BRA)':{
+         "rodada_atual": 10,
+         "country_name": "Paulista"
+     },
+
+ })
+
+minor_parameters_dict = dict({
+      'Atacantes':"F",
+      'Meio Campo': "M",
+      'Defensores': "D"
+  })
+
 @stream.cache
 def load_data(rodada_atual_, country_of_league, year):
 
-    df_data, df_liga = generate_df_data_dataframe(rodada_atual_, 'Spain','2021')
+    df_data, df_liga = generate_df_data_dataframe(rodada_atual_, country_of_league,year)
     dataframe_pontuacao_relativa = get_pontuacao_relativa(df_liga)
     dataframe_player = get_datatframe_player_quantile(df_data)
     team_table = df_data[['home_team_id','home_team_nome']].drop_duplicates(keep='first')
@@ -78,85 +120,111 @@ def load_data(rodada_atual_, country_of_league, year):
 
     return df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list
 
-stream.markdown("### 🎲 The Application")
-rodada_atual_ = 27
-country_of_league = 'Spain'
-year = '2021'
+stream.markdown("### 🎲 Cartologia | Soccer Analysis | Fantasy Games")
 
-df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list = load_data(rodada_atual_, country_of_league, year)
+if 'key' not in stream.session_state:
+    stream.session_state['league_decision'] = 'UNDEFINED'
 
-cb1, cb2, cb3 = stream.columns(3)
-flag_plot_mapas = cb1.checkbox('Mapa de Confronto')
-flag_plot_gol = cb2.checkbox('Análise de Goleiros')
-flag_plot_decisivo = cb3.checkbox('Análise de Decisivo')
+league_selection = stream.selectbox(
+'Selecione a Liga',
+["", 'Premier League (ENG)', 'Serie A (ITA)', 'Bundesliga (GER)','La Liga (SPA)','Paulistao (BRA)']
+)
 
-cb1, cb2 = stream.columns(2)
-flag_plot_time_conteiner = cb1.checkbox('Análise de Equipe')
-flag_plot_campeonato_conteiner = cb2.checkbox('Análise de Campeonato')
+if(league_selection!=""):
+    rodada_atual_ = main_parameters_dict[league_selection]['rodada_atual']
+    country_of_league = main_parameters_dict[league_selection]['country_name']
+    year = '2021'
+    df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list = load_data(rodada_atual_, country_of_league, year)
 
-team_selector = ""
-if(flag_plot_time_conteiner):
-    team_selector = stream.selectbox(
-    'How would you like to be contacted?',
-    team_name_list
-    )
+    stream.session_state['league_decision'] = 'DEFINED'
 
-container_time = stream.container()
+if(stream.session_state['league_decision'] == 'DEFINED'):
+    cb1, cb2 = stream.columns(2)
+    flag_plot_time_conteiner = cb1.checkbox('Análise de Equipe')
+    flag_plot_campeonato_conteiner = cb2.checkbox('Análise de Campeonato')
 
-container_campeonato = stream.container()
+    team_selector = ""
+    if(flag_plot_time_conteiner):
+        team_selector = stream.selectbox(
+        'Selecione o Time',
+        team_name_list
+        )
 
-if(team_selector!="" and flag_plot_time_conteiner):
-    pt = get_team_res(team_selector, "M", df_data, df_liga, rodada_atual_, dataframe_pontuacao_relativa, dataframe_player)
-    container_time.bokeh_chart(pt)
+        position_selector = stream.selectbox(
+        'Selecione a Posição',
+        ["", "Atacantes", "Meio Campo", "Defensores"]
+        )
 
-    tid__ = team_table[team_table['home_team_nome']==team_selector].home_team_id.tolist()[0]
+    container_time = stream.container()
 
-    p5 = get_round_plot(df_data, tid__,
-                       scout1='Avaliação Jogador',
-                       scout2='Nota Cartola Jogador',
-                       sc1 = 'player_grade',
-                       sc2 = 'prev_cartola',
-                       min_num_jogos=10)
+    container_campeonato = stream.container()
 
-    container_time.bokeh_chart(p5)
+    if(team_selector!="" and flag_plot_time_conteiner):
 
-if(flag_plot_campeonato_conteiner):
+        container_time.markdown("### 👀 Análise de Time | {}".format(team_selector))
 
-    p2 = get_plot_scout_decisivo(df_data, df_liga, alpha_y=1.75, photo_height=30)
-    container_campeonato.bokeh_chart(p2)
+        if(position_selector!=""):
 
-    p3 = get_goleiro_plot(df_data, df_liga, alpha_y = 1.7, photo_height = 20, legend_desloc = 1.8, w_ = 0.9)
-    container_campeonato.bokeh_chart(p3)
+            pt = get_team_res(team_selector,
+                             minor_parameters_dict[position_selector],
+                             df_data,
+                             df_liga,
+                             rodada_atual_,
+                             dataframe_pontuacao_relativa,
+                             dataframe_player)
 
-    p4_1 = get_sg_plot(df_data, df_liga,'CASA')
-    p4_1.background_fill_color = 'white'
-    p4_1.border_fill_color = 'white'
-    p4_1.outline_line_color = 'white'
+            container_time.bokeh_chart(pt)
 
-    p4_2 = get_sg_plot(df_data, df_liga,'FORA')
-    p4_2.background_fill_color = 'white'
-    p4_2.border_fill_color = 'white'
-    p4_2.outline_line_color = 'white'
+        tid__ = team_table[team_table['home_team_nome']==team_selector].home_team_id.tolist()[0]
 
-    grid_sg = gridplot([[p4_1], [p4_2]])
-    container_campeonato.bokeh_chart(grid_sg)
+        p5 = get_round_plot(df_data, tid__,
+                           scout1='Pontuação Média',
+                           scout2='Desvio Padrão Pontuação',
+                           sc1 = 'prev_cartola',
+                           sc2 = 'prev_cartola',
+                           min_num_jogos=5)
 
-    mapa_plot_F = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'F')
-    mapa_plot_F.plot_width = 800
-    mapa_plot_F.plot_height = 600
+        container_time.bokeh_chart(p5)
 
-    mapa_plot_M = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'M')
-    mapa_plot_M.plot_width = 800
-    mapa_plot_M.plot_height = 600
+    if(flag_plot_campeonato_conteiner):
 
-    mapa_plot_D = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'D')
-    mapa_plot_D.plot_width = 800
-    mapa_plot_D.plot_height = 600
+        container_campeonato.markdown("### 🌎 Análise da Liga | {}".format(league_selection))
 
-    mapa_plot_G = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'G')
-    mapa_plot_G.plot_width = 800
-    mapa_plot_G.plot_height = 600
+        p2 = get_plot_scout_decisivo(df_data, df_liga, alpha_y=1.75, photo_height=30)
+        container_campeonato.bokeh_chart(p2)
 
-    grid_confronto = gridplot([[mapa_plot_F, mapa_plot_M], [mapa_plot_D, mapa_plot_G]])
+        p3 = get_goleiro_plot(df_data, df_liga, alpha_y = 1.6, photo_height = main_parameters_dict[league_selection]['rodada_atual']*0.9, legend_desloc = 1.6, w_ = 0.9)
+        container_campeonato.bokeh_chart(p3)
 
-    container_campeonato.bokeh_chart(grid_confronto)
+        p4_1 = get_sg_plot(df_data, df_liga,'CASA')
+        p4_1.background_fill_color = 'white'
+        p4_1.border_fill_color = 'white'
+        p4_1.outline_line_color = 'white'
+
+        p4_2 = get_sg_plot(df_data, df_liga,'FORA')
+        p4_2.background_fill_color = 'white'
+        p4_2.border_fill_color = 'white'
+        p4_2.outline_line_color = 'white'
+
+        grid_sg = gridplot([[p4_1], [p4_2]])
+        container_campeonato.bokeh_chart(grid_sg)
+
+        mapa_plot_F = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'F')
+        mapa_plot_F.plot_width = 750
+        mapa_plot_F.plot_height = 600
+
+        mapa_plot_M = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'M')
+        mapa_plot_M.plot_width = 750
+        mapa_plot_M.plot_height = 600
+
+        mapa_plot_D = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'D')
+        mapa_plot_D.plot_width = 750
+        mapa_plot_D.plot_height = 600
+
+        mapa_plot_G = get_mapa_confronto(df_data, rodada_atual_, df_liga, 'G')
+        mapa_plot_G.plot_width = 750
+        mapa_plot_G.plot_height = 600
+
+        grid_confronto = gridplot([[mapa_plot_F, mapa_plot_M], [mapa_plot_D, mapa_plot_G]])
+
+        container_campeonato.bokeh_chart(grid_confronto)
