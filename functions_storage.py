@@ -383,6 +383,7 @@ def get_team_corner_plot(df_data, dataframe_lances_finalizacao_global__, depara_
     total_ = len(df_player_)
     top_dataframe['label'] = ['({0:.1f}%)'.format(x/total_*100, int(x)) for x,y in zip(top_dataframe['F'].tolist(), top_dataframe['gols'].tolist())]
     top_dataframe_ = pd.merge(top_dataframe, depara_apis, how='left', left_on='player', right_on='understat_id')
+    top_dataframe_ = top_dataframe_[~pd.isnull(top_dataframe_['player_id'])]
     top_dataframe_['player_id'] = top_dataframe_['player_id'].astype(int)
     top_dataframe_ = pd.merge(top_dataframe_, df_data[['player_id','player_photo']].drop_duplicates(), how='left')
 

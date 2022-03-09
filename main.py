@@ -115,7 +115,7 @@ def load_data(rodada_atual_, country_of_league, year):
     dataframe_player = get_datatframe_player_quantile(df_data)
     team_table = df_data[['home_team_id','home_team_nome']].drop_duplicates(keep='first')
 
-    if(country_of_league=='England' or country_of_league=='Italy'):
+    if((country_of_league=='England') or (country_of_league=='Italy')):
         stream.session_state['flag_understat'] = True
     else:
         stream.session_state['flag_understat'] = False
@@ -151,7 +151,6 @@ if(league_selection!=""):
     country_of_league = main_parameters_dict[league_selection]['country_name']
     year = '2021'
     df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list, dataframe_lances_finalizacao_global__, depara_understat, end_df = load_data(rodada_atual_, country_of_league, year)
-
     stream.session_state['league_decision'] = 'DEFINED'
 
 if(stream.session_state['league_decision'] == 'DEFINED'):
