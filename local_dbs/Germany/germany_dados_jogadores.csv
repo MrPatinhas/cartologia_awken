@@ -8222,362 +8222,680 @@
 8220,719555,169,Eintracht Frankfurt,FORA,2601,Daichi Kamada,https://media.api-sports.io/football/players/2601.png,44.0,M,6.5,True,0,1.0,,0,0,0,0,13,10,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
 8221,719555,169,Eintracht Frankfurt,FORA,161922,Ansgar Knauff,https://media.api-sports.io/football/players/161922.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 8222,719555,169,Eintracht Frankfurt,FORA,36987,Sam Lammers,https://media.api-sports.io/football/players/36987.png,1.0,F,,True,0,,,0,0,0,0,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-0,719556,169,Eintracht Frankfurt,CASA,1800,Kevin Trapp,https://media.api-sports.io/football/players/1800.png,90.0,G,8,False,0,,,0,1,0,8,29,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,719556,169,Eintracht Frankfurt,CASA,1809,Tuta,https://media.api-sports.io/football/players/1809.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,29,15,1,2,13,4,0,4,0,2,0,0,0,0,0,0,0
-2,719556,169,Eintracht Frankfurt,CASA,1805,Martin Hinteregger,https://media.api-sports.io/football/players/1805.png,90.0,D,6.2,False,0,,,0,0,0,0,39,26,0,3,6,2,0,1,0,1,0,0,0,0,0,0,0
-3,719556,169,Eintracht Frankfurt,CASA,1807,Evan Ndicka,https://media.api-sports.io/football/players/1807.png,90.0,D,6.5,False,0,1.0,,0,0,0,0,45,32,1,2,10,4,0,2,0,1,0,0,0,0,0,0,0
-4,719556,169,Eintracht Frankfurt,CASA,1812,Danny da Costa,https://media.api-sports.io/football/players/1812.png,90.0,M,6.2,False,0,,,0,0,0,0,12,6,0,0,9,3,1,3,0,1,0,0,0,0,0,0,0
-5,719556,169,Eintracht Frankfurt,CASA,38123,Ajdin Hrustić,https://media.api-sports.io/football/players/38123.png,83.0,M,6.2,False,0,,,0,0,0,0,28,20,0,3,13,5,2,3,1,1,0,0,0,0,0,0,0
-6,719556,169,Eintracht Frankfurt,CASA,957,Djibril Sow,https://media.api-sports.io/football/players/957.png,90.0,M,6.9,False,0,,,0,0,0,0,32,23,1,1,13,4,0,2,1,4,0,0,0,0,0,0,0
-7,719556,169,Eintracht Frankfurt,CASA,24841,Christopher Lenz,https://media.api-sports.io/football/players/24841.png,78.0,M,6.6,False,0,1.0,,0,0,0,0,28,17,0,0,8,4,0,0,0,1,1,0,0,0,0,0,0
-8,719556,169,Eintracht Frankfurt,CASA,161922,Ansgar Knauff,https://media.api-sports.io/football/players/161922.png,67.0,F,6.6,False,1,,,0,0,0,0,6,4,0,0,11,4,0,1,0,0,0,0,0,0,0,0,0
-9,719556,169,Eintracht Frankfurt,CASA,1821,Filip Kostić,https://media.api-sports.io/football/players/1821.png,90.0,F,7,False,1,2.0,1.0,0,0,0,0,27,16,0,1,8,3,0,0,1,1,0,0,0,0,0,0,0
-10,719556,169,Eintracht Frankfurt,CASA,15884,Jesper Lindstrøm,https://media.api-sports.io/football/players/15884.png,82.0,F,6.7,False,0,,,0,0,0,0,14,8,0,1,9,1,1,0,0,1,0,0,0,0,0,0,0
-11,719556,169,Eintracht Frankfurt,CASA,26291,Jens Grahl,https://media.api-sports.io/football/players/26291.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719556,169,Eintracht Frankfurt,CASA,1154,Stefan Ilsanker,https://media.api-sports.io/football/players/1154.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719556,169,Eintracht Frankfurt,CASA,1819,Makoto Hasebe,https://media.api-sports.io/football/players/1819.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719556,169,Eintracht Frankfurt,CASA,1811,Almamy Touré,https://media.api-sports.io/football/players/1811.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719556,169,Eintracht Frankfurt,CASA,39073,Jens Petter Hauge,https://media.api-sports.io/football/players/39073.png,12.0,F,6.9,True,0,,,0,0,0,0,5,3,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0
-16,719556,169,Eintracht Frankfurt,CASA,1803,Timothy Chandler,https://media.api-sports.io/football/players/1803.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,719556,169,Eintracht Frankfurt,CASA,36987,Sam Lammers,https://media.api-sports.io/football/players/36987.png,11.0,F,6.6,True,0,,,0,0,0,0,4,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-18,719556,169,Eintracht Frankfurt,CASA,2601,Daichi Kamada,https://media.api-sports.io/football/players/2601.png,8.0,M,6.2,True,0,,,0,0,0,0,6,4,0,0,4,1,0,1,0,1,0,0,0,0,0,0,0
-19,719556,169,Eintracht Frankfurt,CASA,6011,Rafael Santos Borré,https://media.api-sports.io/football/players/6011.png,23.0,F,6.5,True,1,,,0,0,0,0,4,2,0,0,3,1,0,1,0,2,0,0,0,0,0,0,0
-20,719556,157,Bayern Munich,FORA,498,Sven Ulreich,https://media.api-sports.io/football/players/498.png,90.0,G,7.2,False,0,,,0,0,0,1,41,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,719556,157,Bayern Munich,FORA,1149,Dayot Upamecano,https://media.api-sports.io/football/players/1149.png,90.0,D,7.3,False,0,,,0,0,0,0,97,78,0,2,13,8,1,1,1,1,0,0,0,0,0,0,0
-22,719556,157,Bayern Munich,FORA,506,Niklas Süle,https://media.api-sports.io/football/players/506.png,90.0,D,7.9,False,0,,,0,0,0,0,122,112,0,1,4,4,0,0,0,0,0,0,0,0,0,0,0
-23,719556,157,Bayern Munich,FORA,33,Lucas Hernández,https://media.api-sports.io/football/players/33.png,90.0,D,7.2,False,0,,,0,0,0,0,88,72,0,2,9,7,0,0,0,0,1,0,0,0,0,0,0
-24,719556,157,Bayern Munich,FORA,2725,Benjamin Pavard,https://media.api-sports.io/football/players/2725.png,90.0,M,7.3,False,0,1.0,,0,0,0,0,52,35,0,2,8,7,0,1,1,0,0,0,0,0,0,0,0
-25,719556,157,Bayern Munich,FORA,502,Joshua Kimmich,https://media.api-sports.io/football/players/502.png,90.0,M,9.3,False,0,3.0,2.0,0,0,1,0,92,84,1,1,14,9,3,2,5,1,1,0,0,0,0,0,0
-26,719556,157,Bayern Munich,FORA,1159,Marcel Sabitzer,https://media.api-sports.io/football/players/1159.png,67.0,M,7.3,False,0,1.0,,0,0,0,0,37,26,0,1,8,7,1,0,2,0,0,0,0,0,0,0,0
-27,719556,157,Bayern Munich,FORA,508,Kingsley Coman,https://media.api-sports.io/football/players/508.png,89.0,M,7.2,False,2,2.0,2.0,0,0,0,0,41,34,0,1,13,7,4,1,1,0,0,0,0,0,0,0,0
-28,719556,157,Bayern Munich,FORA,510,Serge Gnabry,https://media.api-sports.io/football/players/510.png,90.0,F,8.2,False,0,2.0,,0,0,0,0,63,54,0,0,10,6,3,0,1,0,0,0,0,0,0,0,0
-29,719556,157,Bayern Munich,FORA,181812,Jamal Musiala,https://media.api-sports.io/football/players/181812.png,82.0,F,6.5,False,1,1.0,,0,0,0,0,24,18,0,1,15,7,2,1,3,0,0,0,0,0,0,0,0
-30,719556,157,Bayern Munich,FORA,521,Robert Lewandowski,https://media.api-sports.io/football/players/521.png,90.0,F,6.3,False,2,5.0,3.0,0,0,0,0,26,17,0,0,12,7,3,0,1,0,0,0,0,0,0,0,0
-31,719556,157,Bayern Munich,FORA,495,Christian Früchtl,https://media.api-sports.io/football/players/495.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719556,157,Bayern Munich,FORA,19610,Omar Richards,https://media.api-sports.io/football/players/19610.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719556,157,Bayern Munich,FORA,125171,Josip Stanišić,https://media.api-sports.io/football/players/125171.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719556,157,Bayern Munich,FORA,133110,Tanguy Nianzou,https://media.api-sports.io/football/players/133110.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719556,157,Bayern Munich,FORA,327895,Paul Wanner,https://media.api-sports.io/football/players/327895.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,719556,157,Bayern Munich,FORA,47341,Marc Roca,https://media.api-sports.io/football/players/47341.png,8.0,M,6.6,True,0,,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-37,719556,157,Bayern Munich,FORA,644,Leroy Sané,https://media.api-sports.io/football/players/644.png,23.0,F,7.2,True,0,1.0,1.0,1,0,0,0,8,7,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
-38,719556,157,Bayern Munich,FORA,162037,Malik Tillman,https://media.api-sports.io/football/players/162037.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,719556,157,Bayern Munich,FORA,275,Eric Maxim Choupo-Moting,https://media.api-sports.io/football/players/275.png,1.0,F,,True,0,1.0,1.0,0,0,0,0,1,1,0,0,3,2,1,0,0,1,0,0,0,0,0,0,0
-0,719557,168,Bayer Leverkusen,CASA,963,Lukáš Hrádecký,https://media.api-sports.io/football/players/963.png,90.0,G,7.7,False,0,,,0,0,0,3,23,22,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-1,719557,168,Bayer Leverkusen,CASA,152654,Jeremie Frimpong,https://media.api-sports.io/football/players/152654.png,76.0,D,7.2,False,1,1.0,,0,0,0,0,47,39,0,2,15,8,2,1,3,0,0,0,0,0,0,0,0
-2,719557,168,Bayer Leverkusen,CASA,972,Jonathan Tah,https://media.api-sports.io/football/players/972.png,86.0,D,7.2,False,0,,,0,0,0,0,108,99,1,0,6,4,1,0,0,1,0,0,0,0,0,0,0
-3,719557,168,Bayer Leverkusen,CASA,41150,Edmond Tapsoba,https://media.api-sports.io/football/players/41150.png,90.0,D,7.6,False,0,,,0,0,0,0,121,113,0,3,8,7,0,1,1,0,0,0,0,0,0,0,0
-4,719557,168,Bayer Leverkusen,CASA,530,Mitchel Bakker,https://media.api-sports.io/football/players/530.png,82.0,D,7.5,False,0,,,0,0,0,0,71,59,1,2,2,2,0,0,1,0,0,0,0,0,0,0,0
-5,719557,168,Bayer Leverkusen,CASA,974,Charles Aránguiz,https://media.api-sports.io/football/players/974.png,90.0,M,8.2,False,0,1.0,,0,0,0,0,111,101,0,3,8,6,0,1,0,1,0,0,0,0,0,0,0
-6,719557,168,Bayer Leverkusen,CASA,6002,Exequiel Palacios,https://media.api-sports.io/football/players/6002.png,76.0,M,7.2,False,0,3.0,1.0,0,0,0,0,97,94,0,0,13,6,1,4,1,1,0,0,0,0,0,0,0
-7,719557,168,Bayer Leverkusen,CASA,277,Moussa Diaby,https://media.api-sports.io/football/players/277.png,82.0,M,8.2,False,0,3.0,3.0,2,0,0,0,46,39,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0
-8,719557,168,Bayer Leverkusen,CASA,203224,Florian Wirtz,https://media.api-sports.io/football/players/203224.png,90.0,M,8.3,False,0,1.0,,0,0,0,0,61,56,0,0,19,12,10,0,2,2,0,0,0,0,0,0,0
-9,719557,168,Bayer Leverkusen,CASA,987,Paulinho,https://media.api-sports.io/football/players/987.png,90.0,M,7.6,False,1,5.0,2.0,0,0,1,0,49,44,1,1,15,8,1,1,0,2,0,0,0,0,0,0,0
-10,719557,168,Bayer Leverkusen,CASA,982,Lucas Alario,https://media.api-sports.io/football/players/982.png,90.0,F,7.5,False,1,4.0,3.0,1,0,0,0,21,15,0,0,8,5,3,0,0,0,0,0,0,0,0,0,0
-11,719557,168,Bayer Leverkusen,CASA,25802,Lennart Grill,https://media.api-sports.io/football/players/25802.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719557,168,Bayer Leverkusen,CASA,25168,Niklas Lomb,https://media.api-sports.io/football/players/25168.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719557,168,Bayer Leverkusen,CASA,19018,Timothy Fosu-Mensah,https://media.api-sports.io/football/players/19018.png,14.0,D,6.9,True,0,,,0,0,0,0,6,6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-14,719557,168,Bayer Leverkusen,CASA,127817,Piero Hincapie,https://media.api-sports.io/football/players/127817.png,8.0,D,6.7,True,0,,,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719557,168,Bayer Leverkusen,CASA,48119,Odilon Kossounou,https://media.api-sports.io/football/players/48119.png,4.0,D,,True,0,,,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,719557,168,Bayer Leverkusen,CASA,536,Daley Sinkgraven,https://media.api-sports.io/football/players/536.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,719557,168,Bayer Leverkusen,CASA,24903,Robert Andrich,https://media.api-sports.io/football/players/24903.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,719557,168,Bayer Leverkusen,CASA,717,Kerem Demirbay,https://media.api-sports.io/football/players/717.png,14.0,M,6.6,True,0,,,0,0,0,0,13,13,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-19,719557,168,Bayer Leverkusen,CASA,129682,Amine Adli,https://media.api-sports.io/football/players/129682.png,8.0,F,6.5,True,0,,,0,0,0,0,7,4,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
-20,719557,188,Arminia Bielefeld,FORA,25004,Stefan Ortega,https://media.api-sports.io/football/players/25004.png,90.0,G,6.9,False,0,,,0,3,0,6,41,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,719557,188,Arminia Bielefeld,FORA,8579,Nathan De Medina,https://media.api-sports.io/football/players/8579.png,90.0,D,5.9,False,0,,,0,0,0,0,23,20,0,2,8,3,0,0,2,0,0,0,0,0,0,0,0
-22,719557,188,Arminia Bielefeld,FORA,41799,Guilherme Ramos,https://media.api-sports.io/football/players/41799.png,90.0,D,6.3,False,0,,,0,0,0,0,22,15,0,5,7,1,0,4,0,1,0,0,0,0,0,0,0
-23,719557,188,Arminia Bielefeld,FORA,48065,Joakim Nilsson,https://media.api-sports.io/football/players/48065.png,90.0,D,6.7,False,0,,,0,0,0,0,24,22,2,3,2,1,0,1,0,0,0,0,0,0,0,0,0
-24,719557,188,Arminia Bielefeld,FORA,15848,Jacob Laursen,https://media.api-sports.io/football/players/15848.png,90.0,D,6.7,False,0,,,0,0,0,0,23,17,1,1,6,4,3,1,0,1,0,0,0,0,0,0,0
-25,719557,188,Arminia Bielefeld,FORA,25499,Fabian Kunze,https://media.api-sports.io/football/players/25499.png,90.0,M,6.3,False,0,2.0,,0,0,0,0,37,29,0,0,18,9,1,2,1,3,1,0,0,0,0,0,0
-26,719557,188,Arminia Bielefeld,FORA,24829,Sebastian Vasiliadis,https://media.api-sports.io/football/players/24829.png,45.0,M,6.6,False,0,1.0,1.0,0,0,0,0,8,6,0,1,6,3,0,2,1,0,0,0,0,0,0,0,0
-27,719557,188,Arminia Bielefeld,FORA,126642,Patrick Wimmer,https://media.api-sports.io/football/players/126642.png,76.0,M,6.7,False,0,1.0,,0,0,0,0,28,19,0,2,15,6,5,3,1,1,0,0,0,0,0,0,0
-28,719557,188,Arminia Bielefeld,FORA,417,Alessandro Schöpf,https://media.api-sports.io/football/players/417.png,86.0,M,6.9,False,0,1.0,1.0,0,0,0,0,42,34,0,1,5,4,1,0,1,0,0,0,0,0,0,0,0
-29,719557,188,Arminia Bielefeld,FORA,24968,Masaya Okugawa,https://media.api-sports.io/football/players/24968.png,76.0,M,6.7,False,0,,,0,0,0,0,25,18,0,3,16,7,0,4,1,3,0,0,0,0,0,0,0
-30,719557,188,Arminia Bielefeld,FORA,24973,Janni Serra,https://media.api-sports.io/football/players/24973.png,45.0,F,6.7,False,0,,,0,0,0,0,12,9,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0
-31,719557,188,Arminia Bielefeld,FORA,25309,Stefanos Kapino,https://media.api-sports.io/football/players/25309.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719557,188,Arminia Bielefeld,FORA,25011,Amos Pieper,https://media.api-sports.io/football/players/25011.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719557,188,Arminia Bielefeld,FORA,7197,Andrés Andrade,https://media.api-sports.io/football/players/7197.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719557,188,Arminia Bielefeld,FORA,50873,George Bello,https://media.api-sports.io/football/players/50873.png,14.0,D,6.5,True,0,,,0,0,0,0,2,2,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0
-35,719557,188,Arminia Bielefeld,FORA,725,Robin Hack,https://media.api-sports.io/football/players/725.png,14.0,F,6.2,True,0,,,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
-36,719557,188,Arminia Bielefeld,FORA,24228,Bryan Lasme,https://media.api-sports.io/football/players/24228.png,45.0,F,6.2,True,1,1.0,1.0,0,0,0,0,8,5,0,0,6,1,0,0,1,1,0,0,0,0,0,0,0
-37,719557,188,Arminia Bielefeld,FORA,25025,Fabian Klos,https://media.api-sports.io/football/players/25025.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,719557,188,Arminia Bielefeld,FORA,25109,Florian Krüger,https://media.api-sports.io/football/players/25109.png,4.0,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,719557,188,Arminia Bielefeld,FORA,26306,Gonzalo Castro,https://media.api-sports.io/football/players/26306.png,45.0,M,6.6,True,0,,,0,0,0,0,17,13,0,2,3,2,0,1,0,0,0,0,0,0,0,0,0
-0,719558,182,Union Berlin,CASA,25284,Andreas Luthe,https://media.api-sports.io/football/players/25284.png,90.0,G,6.3,False,0,,,0,1,0,0,25,11,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-1,719558,182,Union Berlin,CASA,25147,Paul Jäckel,https://media.api-sports.io/football/players/25147.png,90.0,D,6.6,False,0,,,0,0,0,0,47,38,1,1,7,3,0,0,2,2,1,0,0,0,0,0,0
-2,719558,182,Union Berlin,CASA,25403,Robin Knoche,https://media.api-sports.io/football/players/25403.png,90.0,D,7.2,False,0,,,0,0,0,0,72,56,2,2,8,5,0,2,1,1,0,0,0,0,0,0,0
-3,719558,182,Union Berlin,CASA,26297,Timo Baumgartl,https://media.api-sports.io/football/players/26297.png,90.0,D,7.2,False,0,,,0,0,0,0,54,42,0,1,7,6,0,0,0,0,1,0,0,0,0,0,0
-4,719558,182,Union Berlin,CASA,25300,Rani Khedira,https://media.api-sports.io/football/players/25300.png,90.0,M,6.3,False,0,,,0,0,0,0,28,20,1,1,11,3,0,0,1,5,1,0,0,0,0,0,0
-5,719558,182,Union Berlin,CASA,24848,Christopher Trimmel,https://media.api-sports.io/football/players/24848.png,90.0,M,6.5,False,0,,,0,0,0,0,41,25,0,1,6,4,2,0,0,2,1,0,0,0,0,0,0
-6,719558,182,Union Berlin,CASA,25379,Genki Haraguchi,https://media.api-sports.io/football/players/25379.png,76.0,M,8,False,0,1.0,1.0,1,0,0,0,26,21,2,3,6,5,0,0,2,0,0,0,0,0,0,0,0
-7,719558,182,Union Berlin,CASA,24854,Grischa Prömel,https://media.api-sports.io/football/players/24854.png,86.0,M,6.3,False,0,,,0,0,0,0,24,16,0,0,16,6,0,3,4,0,0,0,0,0,0,0,0
-8,719558,182,Union Berlin,CASA,25452,Niko Giesselmann,https://media.api-sports.io/football/players/25452.png,86.0,M,6.9,False,0,,,0,0,1,0,40,31,0,1,9,4,0,2,4,1,0,0,0,0,0,0,0
-9,719558,182,Union Berlin,CASA,37938,Sheraldo Becker,https://media.api-sports.io/football/players/37938.png,76.0,F,8.5,False,0,1.0,1.0,1,0,1,0,15,11,0,0,11,6,3,0,1,0,0,0,0,0,0,0,0
-10,719558,182,Union Berlin,CASA,25030,Andreas Voglsammer,https://media.api-sports.io/football/players/25030.png,67.0,F,6.6,False,0,,,0,0,0,0,10,3,0,0,13,6,0,1,2,0,0,0,0,0,0,0,0
-11,719558,182,Union Berlin,CASA,1798,Frederik Rønnow,https://media.api-sports.io/football/players/1798.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719558,182,Union Berlin,CASA,404,Bastian Oczipka,https://media.api-sports.io/football/players/404.png,8.0,D,6.2,True,0,,,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
-13,719558,182,Union Berlin,CASA,24845,Julian Ryerson,https://media.api-sports.io/football/players/24845.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719558,182,Union Berlin,CASA,26237,Dominique Heintz,https://media.api-sports.io/football/players/26237.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719558,182,Union Berlin,CASA,25323,Kevin Möhwald,https://media.api-sports.io/football/players/25323.png,14.0,M,6.5,True,1,,,0,0,0,0,7,7,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0
-16,719558,182,Union Berlin,CASA,25922,Levin Öztunali,https://media.api-sports.io/football/players/25922.png,8.0,M,6.3,True,0,,,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-17,719558,182,Union Berlin,CASA,24826,Sven Michel,https://media.api-sports.io/football/players/24826.png,14.0,F,6.7,True,0,,,0,0,0,0,3,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-18,719558,182,Union Berlin,CASA,8598,Taiwo Awoniyi,https://media.api-sports.io/football/players/8598.png,23.0,F,7.2,True,0,1.0,1.0,1,0,0,0,10,10,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0
-19,719558,182,Union Berlin,CASA,25929,Anthony Ujah,https://media.api-sports.io/football/players/25929.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,719558,164,FSV Mainz 05,FORA,25906,Robin Zentner,https://media.api-sports.io/football/players/25906.png,90.0,G,5.6,False,0,,,0,3,0,0,24,14,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-21,719558,164,FSV Mainz 05,FORA,25907,Stefan Bell,https://media.api-sports.io/football/players/25907.png,70.0,D,6.9,False,0,2.0,,0,0,0,0,49,39,1,1,10,4,0,0,0,2,0,0,0,0,0,0,0
-22,719558,164,FSV Mainz 05,FORA,25913,Alexander Hack,https://media.api-sports.io/football/players/25913.png,62.0,D,6.7,False,0,,,0,0,0,0,41,32,0,1,8,5,0,0,0,1,1,0,0,0,0,0,0
-23,719558,164,FSV Mainz 05,FORA,25916,Moussa Niakhaté,https://media.api-sports.io/football/players/25916.png,90.0,D,6.2,False,0,1.0,,0,0,0,0,55,45,0,0,5,2,0,0,1,3,0,0,0,0,0,0,0
-24,719558,164,FSV Mainz 05,FORA,48378,Silvan Widmer,https://media.api-sports.io/football/players/48378.png,90.0,M,7,False,0,,,0,0,0,0,36,30,1,2,15,8,2,2,1,2,0,0,0,0,0,0,0
-25,719558,164,FSV Mainz 05,FORA,177665,Anton Stach,https://media.api-sports.io/football/players/177665.png,90.0,M,7.3,False,0,2.0,,0,0,1,0,52,40,0,2,12,8,0,0,5,2,0,0,0,0,0,0,0
-26,719558,164,FSV Mainz 05,FORA,979,Dominik Kohr,https://media.api-sports.io/football/players/979.png,60.0,M,5.9,False,0,,,0,0,0,0,36,28,0,0,4,1,0,1,0,2,2,1,0,0,0,0,0
-27,719558,164,FSV Mainz 05,FORA,25914,Aarón Martin Caricol,https://media.api-sports.io/football/players/25914.png,90.0,M,6.6,False,0,2.0,,0,0,0,0,27,22,0,0,6,3,0,0,2,0,0,0,0,0,0,0,0
-28,719558,164,FSV Mainz 05,FORA,25926,Jonathan Burkardt,https://media.api-sports.io/football/players/25926.png,77.0,F,6.2,False,0,,,0,0,0,0,17,13,0,0,12,2,0,1,1,2,0,0,0,0,0,0,0
-29,719558,164,FSV Mainz 05,FORA,2906,Jae-Sung Lee,https://media.api-sports.io/football/players/2906.png,70.0,F,6.7,False,0,,,0,0,0,0,30,23,0,0,13,6,3,1,1,1,0,0,0,0,0,0,0
-30,719558,164,FSV Mainz 05,FORA,25928,Karim Onisiwo,https://media.api-sports.io/football/players/25928.png,62.0,F,6.7,False,0,,,0,0,0,0,14,7,0,0,4,2,1,0,0,1,0,0,0,0,0,0,0
-31,719558,164,FSV Mainz 05,FORA,180553,Lasse Finn Rieß,https://media.api-sports.io/football/players/180553.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719558,164,FSV Mainz 05,FORA,7649,David Nemeth,https://media.api-sports.io/football/players/7649.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719558,164,FSV Mainz 05,FORA,202731,Niklas Tauer,https://media.api-sports.io/football/players/202731.png,20.0,M,6.9,True,0,,,0,0,0,0,9,7,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0
-34,719558,164,FSV Mainz 05,FORA,25461,Kevin Stöger,https://media.api-sports.io/football/players/25461.png,28.0,M,5.9,True,0,,,0,0,0,0,14,8,0,0,3,2,2,1,0,0,1,0,0,0,0,0,0
-35,719558,164,FSV Mainz 05,FORA,25925,Jean-Paul Boëtius,https://media.api-sports.io/football/players/25925.png,20.0,M,6.6,True,0,,,0,0,0,0,12,10,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0
-36,719558,164,FSV Mainz 05,FORA,25918,Leandro Barreiro,https://media.api-sports.io/football/players/25918.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,719558,164,FSV Mainz 05,FORA,25908,Daniel Brosinski,https://media.api-sports.io/football/players/25908.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,719558,164,FSV Mainz 05,FORA,1941,Marcus Ingvartsen,https://media.api-sports.io/football/players/1941.png,28.0,F,6.6,True,0,1.0,,0,0,0,0,7,5,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-39,719558,164,FSV Mainz 05,FORA,37242,Delano Burgzorg,https://media.api-sports.io/football/players/37242.png,13.0,F,7.5,True,0,1.0,1.0,1,0,0,0,2,2,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
-0,719559,163,Borussia Monchengladbach,CASA,2802,Yann Sommer,https://media.api-sports.io/football/players/2802.png,90.0,G,6,False,0,,,0,2,0,0,38,31,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,719559,163,Borussia Monchengladbach,CASA,2915,Matthias Ginter,https://media.api-sports.io/football/players/2915.png,90.0,D,7.2,False,0,2.0,2.0,0,0,0,0,83,71,0,2,17,10,0,2,2,3,0,0,0,0,0,0,0
-2,719559,163,Borussia Monchengladbach,CASA,2803,Nico Elvedi,https://media.api-sports.io/football/players/2803.png,90.0,D,7,False,0,2.0,,0,0,0,0,82,79,1,1,13,7,0,0,0,1,0,0,0,0,0,0,0
-3,719559,163,Borussia Monchengladbach,CASA,25628,Jordan Beyer,https://media.api-sports.io/football/players/25628.png,90.0,D,6.3,False,0,,,0,0,0,0,76,71,0,0,10,5,0,2,2,2,1,0,0,0,0,0,0
-4,719559,163,Borussia Monchengladbach,CASA,1082,Stefan Lainer,https://media.api-sports.io/football/players/1082.png,81.0,M,7.2,False,0,2.0,,0,0,0,0,31,23,0,0,5,5,2,0,1,0,0,0,0,0,0,0,0
-5,719559,163,Borussia Monchengladbach,CASA,25637,Christoph Kramer,https://media.api-sports.io/football/players/25637.png,60.0,M,6.3,False,0,,,0,0,0,0,38,26,0,2,7,4,1,0,0,1,0,0,0,0,0,0,0
-6,719559,163,Borussia Monchengladbach,CASA,25638,Florian Neuhaus,https://media.api-sports.io/football/players/25638.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,52,43,0,0,7,6,3,1,2,0,0,0,0,0,0,0,0
-7,719559,163,Borussia Monchengladbach,CASA,2194,Ramy Bensebaini,https://media.api-sports.io/football/players/2194.png,90.0,M,6.6,False,0,2.0,1.0,0,0,0,0,53,44,0,0,10,4,1,1,1,0,0,0,0,0,0,0,0
-8,719559,163,Borussia Monchengladbach,CASA,25635,Jonas Hofmann,https://media.api-sports.io/football/players/25635.png,90.0,F,7.3,False,0,1.0,1.0,0,0,0,0,53,44,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0
-9,719559,163,Borussia Monchengladbach,CASA,25646,Alassane Pléa,https://media.api-sports.io/football/players/25646.png,90.0,F,8.6,False,0,2.0,,0,0,2,0,44,34,0,0,16,6,2,1,2,2,0,0,0,0,0,0,0
-10,719559,163,Borussia Monchengladbach,CASA,21509,Marcus Thuram,https://media.api-sports.io/football/players/21509.png,77.0,F,7.7,False,0,4.0,2.0,1,0,0,0,15,9,0,0,14,8,0,0,2,0,0,0,0,0,0,0,0
-11,719559,163,Borussia Monchengladbach,CASA,25627,Tobias Sippel,https://media.api-sports.io/football/players/25627.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719559,163,Borussia Monchengladbach,CASA,22147,Kouadio Koné,https://media.api-sports.io/football/players/22147.png,30.0,M,6.3,True,0,1.0,1.0,0,0,0,0,20,19,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0
-13,719559,163,Borussia Monchengladbach,CASA,24962,László Bénes,https://media.api-sports.io/football/players/24962.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719559,163,Borussia Monchengladbach,CASA,25641,Keanan Bennetts,https://media.api-sports.io/football/players/25641.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719559,163,Borussia Monchengladbach,CASA,25644,Patrick Herrmann,https://media.api-sports.io/football/players/25644.png,9.0,F,6.3,True,0,,,0,0,0,0,4,4,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0
-16,719559,163,Borussia Monchengladbach,CASA,163069,Luca Netz,https://media.api-sports.io/football/players/163069.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,719559,163,Borussia Monchengladbach,CASA,50852,Joseph Scally,https://media.api-sports.io/football/players/50852.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,719559,163,Borussia Monchengladbach,CASA,421,Breel Embolo,https://media.api-sports.io/football/players/421.png,13.0,F,7.2,True,0,3.0,3.0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-19,719559,163,Borussia Monchengladbach,CASA,153286,Conor Noß,https://media.api-sports.io/football/players/153286.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,719559,161,VfL Wolfsburg,FORA,2918,Koen Casteels,https://media.api-sports.io/football/players/2918.png,90.0,G,7.9,False,0,,,0,2,0,8,33,18,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
-21,719559,161,VfL Wolfsburg,FORA,20995,Maxence Lacroix,https://media.api-sports.io/football/players/20995.png,70.0,D,6.5,False,0,,,0,0,0,0,16,13,0,2,8,5,1,0,0,2,0,1,0,0,0,0,0
-22,719559,161,VfL Wolfsburg,FORA,1408,Sebastiaan Bornauw,https://media.api-sports.io/football/players/1408.png,90.0,D,7.5,False,0,1.0,1.0,1,0,0,0,24,16,1,1,4,3,0,0,0,0,0,0,0,0,0,0,0
-23,719559,161,VfL Wolfsburg,FORA,25397,John Brooks,https://media.api-sports.io/football/players/25397.png,90.0,D,6.2,False,0,,,0,0,0,0,27,17,1,0,6,2,1,2,0,0,0,0,0,0,0,0,0
-24,719559,161,VfL Wolfsburg,FORA,25917,Ridle Baku,https://media.api-sports.io/football/players/25917.png,58.0,M,7,False,2,,,0,0,1,0,14,9,0,0,7,1,0,2,0,1,1,0,0,0,0,0,0
-25,719559,161,VfL Wolfsburg,FORA,25408,Maximilian Arnold,https://media.api-sports.io/football/players/25408.png,90.0,M,6.5,False,0,,,0,0,0,0,39,23,0,1,4,2,0,1,0,0,0,0,0,0,0,0,0
-26,719559,161,VfL Wolfsburg,FORA,127413,Aster Vranckx,https://media.api-sports.io/football/players/127413.png,58.0,M,7.2,False,0,,,0,0,0,0,22,15,1,2,15,8,1,0,2,4,0,0,0,0,0,0,0
-27,719559,161,VfL Wolfsburg,FORA,25404,Jérôme Roussillon,https://media.api-sports.io/football/players/25404.png,90.0,M,6.3,False,0,,,0,0,0,0,23,19,0,0,10,5,2,0,2,1,0,0,0,0,0,0,0
-28,719559,161,VfL Wolfsburg,FORA,24,Maximilian Philipp,https://media.api-sports.io/football/players/24.png,45.0,F,6.5,False,1,1.0,,0,0,1,0,12,10,0,0,5,1,0,1,0,1,1,0,0,0,0,0,0
-29,719559,161,VfL Wolfsburg,FORA,25329,Max Kruse,https://media.api-sports.io/football/players/25329.png,78.0,F,6.7,False,0,1.0,,0,0,0,0,26,20,0,0,11,4,2,1,1,0,0,0,0,0,0,0,0
-30,719559,161,VfL Wolfsburg,FORA,1302,Jonas Wind,https://media.api-sports.io/football/players/1302.png,90.0,F,7.6,False,1,2.0,1.0,1,0,0,0,26,19,1,0,20,9,0,0,2,4,0,0,0,0,0,0,0
-31,719559,161,VfL Wolfsburg,FORA,25396,Pavao Pervan,https://media.api-sports.io/football/players/25396.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719559,161,VfL Wolfsburg,FORA,946,Kevin Mbabu,https://media.api-sports.io/football/players/946.png,32.0,D,6.7,True,0,,,0,0,0,0,8,4,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0
-33,719559,161,VfL Wolfsburg,FORA,25400,Yannick Gerhardt,https://media.api-sports.io/football/players/25400.png,45.0,M,6.3,True,0,,,0,0,0,0,11,6,0,0,8,4,1,1,2,1,1,0,0,0,0,0,0
-34,719559,161,VfL Wolfsburg,FORA,637,Felix Nmecha,https://media.api-sports.io/football/players/637.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719559,161,VfL Wolfsburg,FORA,1095,Xaver Schlager,https://media.api-sports.io/football/players/1095.png,32.0,M,6.9,True,0,,,0,0,0,0,6,3,0,0,6,5,0,1,2,0,0,0,0,0,0,0,0
-36,719559,161,VfL Wolfsburg,FORA,2809,Renato Steffen,https://media.api-sports.io/football/players/2809.png,12.0,M,6.2,True,0,,,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-37,719559,161,VfL Wolfsburg,FORA,148284,Bartosz Białek,https://media.api-sports.io/football/players/148284.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,719559,161,VfL Wolfsburg,FORA,25458,Dodi Lukebakio,https://media.api-sports.io/football/players/25458.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,719559,161,VfL Wolfsburg,FORA,26260,Luca Waldschmidt,https://media.api-sports.io/football/players/26260.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,719560,160,SC Freiburg,CASA,26232,Mark Flekken,https://media.api-sports.io/football/players/26232.png,90.0,G,7.3,False,0,,,0,0,0,2,40,34,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
-1,719560,160,SC Freiburg,CASA,26239,Lukas Kübler,https://media.api-sports.io/football/players/26239.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,53,47,1,1,7,2,0,0,2,0,0,0,0,0,0,0,0
-2,719560,160,SC Freiburg,CASA,26240,Philipp Lienhart,https://media.api-sports.io/football/players/26240.png,89.0,D,7.2,False,0,,,0,0,0,0,68,61,0,1,9,5,0,1,1,0,0,0,0,0,0,0,0
-3,719560,160,SC Freiburg,CASA,26243,Nico Schlotterbeck,https://media.api-sports.io/football/players/26243.png,90.0,D,7.2,False,0,,,0,0,0,0,60,54,1,1,4,1,0,1,0,1,0,0,0,0,0,0,0
-4,719560,160,SC Freiburg,CASA,26236,Christian Günter,https://media.api-sports.io/football/players/26236.png,90.0,D,6.6,False,0,,,0,0,0,0,41,37,0,0,6,2,0,2,0,1,0,0,0,0,0,0,0
-5,719560,160,SC Freiburg,CASA,2917,Maximilian Eggestein,https://media.api-sports.io/football/players/2917.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,74,64,1,1,15,9,1,2,1,2,0,0,0,0,0,0,0
-6,719560,160,SC Freiburg,CASA,26250,Nicolas Höfler,https://media.api-sports.io/football/players/26250.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,50,46,2,1,14,7,1,3,1,3,1,0,0,0,0,0,0
-7,719560,160,SC Freiburg,CASA,26252,Roland Sallai,https://media.api-sports.io/football/players/26252.png,64.0,M,7.2,False,0,1.0,,0,0,0,0,19,16,0,3,11,4,1,3,2,2,0,0,1,0,0,0,0
-8,719560,160,SC Freiburg,CASA,512,Woo-Yeong Jeong,https://media.api-sports.io/football/players/512.png,82.0,M,6.9,False,0,1.0,,0,0,0,0,35,25,0,1,6,2,0,0,0,0,0,0,0,0,0,0,0
-9,719560,160,SC Freiburg,CASA,26248,Vincenzo Grifo,https://media.api-sports.io/football/players/26248.png,82.0,M,8,False,1,5.0,2.0,1,0,0,0,45,36,1,2,6,4,1,0,0,1,0,0,0,0,1,0,0
-10,719560,160,SC Freiburg,CASA,26258,Nils Petersen,https://media.api-sports.io/football/players/26258.png,64.0,F,7,False,0,1.0,,0,0,0,0,8,5,0,0,9,4,0,1,0,1,0,0,0,0,0,0,0
-11,719560,160,SC Freiburg,CASA,26087,Benjamin Uphoff,https://media.api-sports.io/football/players/26087.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719560,160,SC Freiburg,CASA,26235,Manuel Gulde,https://media.api-sports.io/football/players/26235.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719560,160,SC Freiburg,CASA,26242,Keven Schlotterbeck,https://media.api-sports.io/football/players/26242.png,1.0,D,,True,0,,,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719560,160,SC Freiburg,CASA,26249,Janik Haberer,https://media.api-sports.io/football/players/26249.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719560,160,SC Freiburg,CASA,25303,Jonathan Schmid,https://media.api-sports.io/football/players/25303.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,719560,160,SC Freiburg,CASA,202844,Noah Weißhaupt,https://media.api-sports.io/football/players/202844.png,8.0,F,7,True,0,,,0,0,0,0,5,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
-17,719560,160,SC Freiburg,CASA,46930,Ermedin Demirović,https://media.api-sports.io/football/players/46930.png,8.0,F,7.3,True,0,,,0,0,1,0,3,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-18,719560,160,SC Freiburg,CASA,26255,Lucas Höler,https://media.api-sports.io/football/players/26255.png,26.0,F,7.2,True,0,2.0,1.0,1,0,0,0,5,4,0,0,11,7,2,2,1,0,0,0,0,0,0,0,0
-19,719560,160,SC Freiburg,CASA,178077,Kevin Schade,https://media.api-sports.io/football/players/178077.png,26.0,F,7.2,True,0,1.0,1.0,1,0,0,0,9,7,0,0,4,1,0,1,0,1,0,0,0,0,0,0,0
-20,719560,159,Hertha Berlin,FORA,162502,Marcel Laurenz Lotka,https://media.api-sports.io/football/players/162502.png,90.0,G,6.2,False,0,,,0,3,0,2,26,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,719560,159,Hertha Berlin,FORA,25343,Peter Pekarík,https://media.api-sports.io/football/players/25343.png,90.0,D,6.3,False,0,1.0,1.0,0,0,0,0,29,25,0,0,5,3,0,0,0,1,0,0,0,0,0,0,0
-22,719560,159,Hertha Berlin,FORA,1108,Dedryck Boyata,https://media.api-sports.io/football/players/1108.png,90.0,D,6.3,False,0,,,0,0,0,0,50,45,0,1,5,5,0,0,1,0,0,0,0,0,0,0,0
-23,719560,159,Hertha Berlin,FORA,286711,Linus Gechter,https://media.api-sports.io/football/players/286711.png,69.0,D,6.2,False,0,2.0,,0,0,0,0,32,24,1,0,9,2,0,0,0,2,0,0,0,1,0,0,0
-24,719560,159,Hertha Berlin,FORA,39058,Fredrik Andre Bjorkan,https://media.api-sports.io/football/players/39058.png,90.0,D,6.7,False,0,,,0,0,0,0,34,30,1,1,13,7,2,1,2,3,1,0,0,0,0,0,0
-25,719560,159,Hertha Berlin,FORA,25348,Vladimír Darida,https://media.api-sports.io/football/players/25348.png,70.0,M,7.2,False,0,1.0,,0,0,0,0,35,24,0,0,7,3,0,0,2,0,0,0,0,0,0,0,0
-26,719560,159,Hertha Berlin,FORA,664,Lucas Tousart,https://media.api-sports.io/football/players/664.png,90.0,M,7.2,False,0,,,0,0,0,0,44,37,0,3,9,7,3,1,1,0,0,0,0,0,0,0,0
-27,719560,159,Hertha Berlin,FORA,418,Suat Serdar,https://media.api-sports.io/football/players/418.png,90.0,M,6.9,False,0,,,0,0,0,0,32,23,0,0,15,10,4,1,2,1,0,0,0,0,0,0,0
-28,719560,159,Hertha Berlin,FORA,25307,Marco Richter,https://media.api-sports.io/football/players/25307.png,78.0,F,7,False,0,2.0,1.0,0,0,0,0,17,10,0,0,12,6,3,0,3,0,0,0,0,0,0,0,0
-29,719560,159,Hertha Berlin,FORA,121,Stevan Jovetić,https://media.api-sports.io/football/players/121.png,90.0,F,7.2,False,0,1.0,,0,0,0,0,25,18,0,0,12,5,0,1,1,2,1,0,0,0,0,0,0
-30,719560,159,Hertha Berlin,FORA,724,Ishak Belfodil,https://media.api-sports.io/football/players/724.png,78.0,F,6.6,False,4,2.0,,0,0,0,0,14,10,0,0,7,4,2,0,0,0,0,0,0,0,0,0,0
-31,719560,159,Hertha Berlin,FORA,26317,Nils-Jonathan Körber,https://media.api-sports.io/football/players/26317.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719560,159,Hertha Berlin,FORA,88008,Cimo Röcker,https://media.api-sports.io/football/players/88008.png,21.0,D,6.2,True,0,,,0,0,0,0,16,11,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
-33,719560,159,Hertha Berlin,FORA,25342,Maximilian Mittelstädt,https://media.api-sports.io/football/players/25342.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719560,159,Hertha Berlin,FORA,26305,Santiago Ascacibar,https://media.api-sports.io/football/players/26305.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719560,159,Hertha Berlin,FORA,541,Jurgen Ekkelenkamp,https://media.api-sports.io/football/players/541.png,12.0,M,6.2,True,0,,,0,0,0,0,3,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-36,719560,159,Hertha Berlin,FORA,279993,Anton Kade,https://media.api-sports.io/football/players/279993.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,719560,159,Hertha Berlin,FORA,34171,Dong-jun Lee,https://media.api-sports.io/football/players/34171.png,20.0,M,6,True,1,2.0,,0,0,0,0,1,1,0,0,6,3,2,1,1,0,0,0,0,0,0,0,0
-38,719560,159,Hertha Berlin,FORA,25362,Davie Selke,https://media.api-sports.io/football/players/25362.png,12.0,F,6.5,True,0,,,0,0,0,0,2,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
-39,719560,159,Hertha Berlin,FORA,22179,Myziane Maolida,https://media.api-sports.io/football/players/22179.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,719561,167,1899 Hoffenheim,CASA,702,Oliver Baumann,https://media.api-sports.io/football/players/702.png,90.0,G,6.6,False,0,,,0,1,0,3,26,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,719561,167,1899 Hoffenheim,CASA,711,Stefan Posch,https://media.api-sports.io/football/players/711.png,90.0,D,6.7,False,0,1.0,1.0,0,0,0,0,67,52,0,0,11,5,0,1,0,2,0,0,0,0,0,0,0
-2,719561,167,1899 Hoffenheim,CASA,719,Florian Grillitsch,https://media.api-sports.io/football/players/719.png,90.0,D,6.6,False,0,,,0,0,0,0,64,58,0,3,8,2,0,2,1,2,0,0,0,0,0,0,0
-3,719561,167,1899 Hoffenheim,CASA,708,Benjamin Hübner,https://media.api-sports.io/football/players/708.png,90.0,D,7.2,False,0,2.0,1.0,0,0,0,0,52,43,1,2,15,9,0,1,0,2,1,0,0,0,0,0,0
-4,719561,167,1899 Hoffenheim,CASA,709,Pavel Kadeřábek,https://media.api-sports.io/football/players/709.png,70.0,M,6.6,False,0,1.0,,0,0,0,0,33,23,1,2,5,2,0,1,1,1,0,0,0,0,0,0,0
-5,719561,167,1899 Hoffenheim,CASA,715,Christoph Baumgartner,https://media.api-sports.io/football/players/715.png,90.0,M,8.3,False,0,3.0,3.0,2,0,0,0,27,19,0,0,13,4,0,1,1,2,1,0,0,0,0,0,0
-6,719561,167,1899 Hoffenheim,CASA,718,Dennis Geiger,https://media.api-sports.io/football/players/718.png,58.0,M,6.9,False,0,,,0,0,0,0,14,12,0,1,5,3,0,0,0,1,1,0,0,0,0,0,0
-7,719561,167,1899 Hoffenheim,CASA,25158,David Raum,https://media.api-sports.io/football/players/25158.png,90.0,M,6.3,False,0,,,0,0,0,0,37,27,0,0,11,2,0,3,0,0,0,0,0,0,0,0,0
-8,719561,167,1899 Hoffenheim,CASA,90590,Georginio Rutter,https://media.api-sports.io/football/players/90590.png,81.0,F,6.9,False,1,,,0,0,0,0,15,13,0,0,13,8,1,0,4,2,0,0,0,0,0,0,0
-9,719561,167,1899 Hoffenheim,CASA,726,Andrej Kramarić,https://media.api-sports.io/football/players/726.png,90.0,F,7.2,False,1,1.0,,0,0,0,0,30,28,0,1,5,3,1,1,1,0,0,0,0,0,0,0,0
-10,719561,167,1899 Hoffenheim,CASA,25389,Ihlas Bebou,https://media.api-sports.io/football/players/25389.png,70.0,F,6.3,False,0,3.0,1.0,0,0,0,0,12,8,0,0,8,4,0,0,1,1,0,0,0,0,0,0,0
-11,719561,167,1899 Hoffenheim,CASA,163066,Luca Philipp,https://media.api-sports.io/football/players/163066.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719561,167,1899 Hoffenheim,CASA,710,Kasim Adams,https://media.api-sports.io/football/players/710.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719561,167,1899 Hoffenheim,CASA,25366,Kevin Akpoguma,https://media.api-sports.io/football/players/25366.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719561,167,1899 Hoffenheim,CASA,266599,Justin Che,https://media.api-sports.io/football/players/266599.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719561,167,1899 Hoffenheim,CASA,416,Sebastian Rudy,https://media.api-sports.io/football/players/416.png,32.0,M,7.5,True,0,,,0,0,1,0,16,12,2,1,4,3,0,0,1,0,0,0,0,0,0,0,0
-16,719561,167,1899 Hoffenheim,CASA,137210,Angelo Stiller,https://media.api-sports.io/football/players/137210.png,20.0,M,6.6,True,0,,,0,0,0,0,19,16,0,0,5,3,0,1,2,0,0,0,0,0,0,0,0
-17,719561,167,1899 Hoffenheim,CASA,1094,Diadié Samassékou,https://media.api-sports.io/football/players/1094.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,719561,167,1899 Hoffenheim,CASA,1097,Munas Dabbur,https://media.api-sports.io/football/players/1097.png,20.0,F,6.2,True,0,,,0,0,0,0,11,6,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0
-19,719561,167,1899 Hoffenheim,CASA,22,Jacob Bruun Larsen,https://media.api-sports.io/football/players/22.png,9.0,F,6.9,True,0,,,0,0,0,0,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-20,719561,172,VfB Stuttgart,FORA,25905,Florian Müller,https://media.api-sports.io/football/players/25905.png,90.0,G,7.3,False,0,,,0,2,0,4,26,24,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-21,719561,172,VfB Stuttgart,FORA,26244,Pascal Stenzel,https://media.api-sports.io/football/players/26244.png,73.0,D,7.7,False,0,,,0,0,0,0,47,40,1,2,6,5,0,0,1,0,0,0,0,0,0,0,0
-22,719561,172,VfB Stuttgart,FORA,1445,Konstantinos Mavropanos,https://media.api-sports.io/football/players/1445.png,90.0,D,7.3,False,0,2.0,1.0,0,0,0,0,33,30,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0
-23,719561,172,VfB Stuttgart,FORA,25368,Waldemar Anton,https://media.api-sports.io/football/players/25368.png,90.0,D,6.2,False,0,,,0,0,0,0,43,37,0,1,7,2,0,1,0,2,1,0,0,0,0,0,0
-24,719561,172,VfB Stuttgart,FORA,32893,Hiroki Ito,https://media.api-sports.io/football/players/32893.png,90.0,D,7.3,False,0,,,0,0,0,0,45,37,1,3,9,5,0,0,1,1,0,0,0,0,0,0,0
-25,719561,172,VfB Stuttgart,FORA,81573,Omar Marmoush,https://media.api-sports.io/football/players/81573.png,86.0,M,6.5,False,1,2.0,1.0,0,0,0,0,26,15,0,1,22,10,3,0,2,2,0,0,0,0,0,0,0
-26,719561,172,VfB Stuttgart,FORA,8500,Wataru Endo,https://media.api-sports.io/football/players/8500.png,90.0,M,7.9,False,0,2.0,1.0,1,0,0,0,27,20,2,0,11,8,0,0,1,3,0,0,0,0,0,0,0
-27,719561,172,VfB Stuttgart,FORA,24963,Atakan Karazor,https://media.api-sports.io/football/players/24963.png,90.0,M,6.7,False,0,,,0,0,0,0,32,20,0,1,11,6,2,0,1,2,0,0,0,0,0,0,0
-28,719561,172,VfB Stuttgart,FORA,24882,Orel Mangala,https://media.api-sports.io/football/players/24882.png,37.0,M,6.6,False,0,,,0,0,0,0,9,8,0,0,9,6,2,0,3,1,0,0,0,0,0,0,0
-29,719561,172,VfB Stuttgart,FORA,24798,Chris Führich,https://media.api-sports.io/football/players/24798.png,45.0,M,6.9,False,0,2.0,,0,0,0,0,11,9,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
-30,719561,172,VfB Stuttgart,FORA,265363,Tiago Tomás,https://media.api-sports.io/football/players/265363.png,90.0,F,6.3,False,3,1.0,1.0,0,0,0,0,10,6,0,0,10,2,1,1,1,0,0,0,0,0,0,0,0
-31,719561,172,VfB Stuttgart,FORA,25597,Fabian Bredlow,https://media.api-sports.io/football/players/25597.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719561,172,VfB Stuttgart,FORA,138818,Clinton Mola,https://media.api-sports.io/football/players/138818.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719561,172,VfB Stuttgart,FORA,152418,Naouirou Ahamada,https://media.api-sports.io/football/players/152418.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719561,172,VfB Stuttgart,FORA,207236,Ömer Faruk Beyaz,https://media.api-sports.io/football/players/207236.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719561,172,VfB Stuttgart,FORA,25026,Roberto Massimo,https://media.api-sports.io/football/players/25026.png,17.0,M,6.7,True,0,,,0,0,0,0,5,3,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0
-36,719561,172,VfB Stuttgart,FORA,26311,Erik Thommy,https://media.api-sports.io/football/players/26311.png,12.0,M,6.6,True,0,,,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,719561,172,VfB Stuttgart,FORA,179567,Lilian Egloff,https://media.api-sports.io/football/players/179567.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,719561,172,VfB Stuttgart,FORA,25183,Philipp Förster,https://media.api-sports.io/football/players/25183.png,53.0,M,6.7,True,0,,,0,0,0,0,15,12,0,0,7,3,0,0,0,2,1,0,0,0,0,0,0
-39,719561,172,VfB Stuttgart,FORA,7722,Saša Kalajdžić,https://media.api-sports.io/football/players/7722.png,45.0,F,7.2,True,0,,,0,0,1,0,23,15,0,2,10,6,2,0,2,0,0,0,0,0,0,0,0
-0,719562,170,FC Augsburg,CASA,24837,Rafał Gikiewicz,https://media.api-sports.io/football/players/24837.png,90.0,G,7.7,False,0,,,0,1,0,5,34,24,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-1,719562,170,FC Augsburg,CASA,25293,Reece Oxford,https://media.api-sports.io/football/players/25293.png,90.0,D,7.3,False,0,1.0,1.0,0,0,0,0,39,31,0,5,8,5,0,1,1,1,0,0,0,0,0,0,0
-2,719562,170,FC Augsburg,CASA,25290,Jeffrey Gouweleeuw,https://media.api-sports.io/football/players/25290.png,90.0,D,6.6,False,1,,,0,0,0,0,35,23,1,0,10,7,0,1,1,1,0,0,0,0,0,0,0
-3,719562,170,FC Augsburg,CASA,25406,Felix Uduokhai,https://media.api-sports.io/football/players/25406.png,90.0,D,6.9,False,0,,,0,0,0,0,42,36,1,1,7,3,0,1,1,1,0,0,0,0,0,0,0
-4,719562,170,FC Augsburg,CASA,410,Daniel Caligiuri,https://media.api-sports.io/football/players/410.png,90.0,M,6.9,False,0,,,0,0,0,0,30,22,0,3,8,3,1,3,0,0,0,0,0,0,0,0,0
-5,719562,170,FC Augsburg,CASA,25355,Arne Maier,https://media.api-sports.io/football/players/25355.png,90.0,M,7.2,False,0,2.0,1.0,0,0,1,0,27,20,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
-6,719562,170,FC Augsburg,CASA,24904,Niklas Dorsch,https://media.api-sports.io/football/players/24904.png,59.0,M,6.9,False,0,,,0,0,0,0,32,27,0,3,11,5,1,1,1,4,1,0,0,0,0,0,0
-7,719562,170,FC Augsburg,CASA,15901,Mads Pedersen,https://media.api-sports.io/football/players/15901.png,71.0,M,6.6,False,0,,,0,0,0,0,19,13,0,1,13,7,1,1,0,2,0,0,0,0,0,0,0
-8,719562,170,FC Augsburg,CASA,25297,Michael Gregoritsch,https://media.api-sports.io/football/players/25297.png,70.0,F,6.6,False,0,2.0,1.0,0,0,0,0,17,9,0,1,6,2,0,2,0,1,0,0,0,0,0,0,0
-9,719562,170,FC Augsburg,CASA,73868,Ricardo Pepi,https://media.api-sports.io/football/players/73868.png,59.0,F,6.5,False,0,,,0,0,0,0,10,5,0,0,4,1,0,1,1,0,0,0,0,0,0,0,0
-10,719562,170,FC Augsburg,CASA,48471,Ruben Vargas,https://media.api-sports.io/football/players/48471.png,89.0,F,6.3,False,1,,,0,0,0,0,19,13,0,0,16,6,2,0,1,1,1,0,0,0,0,0,0
-11,719562,170,FC Augsburg,CASA,2192,Tomáš Koubek,https://media.api-sports.io/football/players/2192.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719562,170,FC Augsburg,CASA,10375,Iago,https://media.api-sports.io/football/players/10375.png,19.0,D,6.6,True,0,,,0,0,0,0,13,11,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
-13,719562,170,FC Augsburg,CASA,25288,Raphael Framberger,https://media.api-sports.io/football/players/25288.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719562,170,FC Augsburg,CASA,16063,Frederik Franck Winther,https://media.api-sports.io/football/players/16063.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719562,170,FC Augsburg,CASA,25302,Jan Morávek,https://media.api-sports.io/football/players/25302.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,719562,170,FC Augsburg,CASA,162079,Lasse Günther,https://media.api-sports.io/football/players/162079.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0
-17,719562,170,FC Augsburg,CASA,2577,Carlos Gruezo,https://media.api-sports.io/football/players/2577.png,31.0,M,6.9,True,0,1.0,,0,0,0,0,7,7,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0
-18,719562,170,FC Augsburg,CASA,26257,Florian Niederlechner,https://media.api-sports.io/football/players/26257.png,31.0,F,6.5,True,0,,,0,0,0,0,3,3,0,0,5,1,1,1,0,1,0,0,0,0,0,0,0
-19,719562,170,FC Augsburg,CASA,25385,Noah Joel Sarenren Bazee,https://media.api-sports.io/football/players/25385.png,20.0,M,7.2,True,0,1.0,1.0,1,0,0,0,3,2,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0
-20,719562,165,Borussia Dortmund,FORA,25282,Gregor Kobel,https://media.api-sports.io/football/players/25282.png,90.0,G,7,False,0,,,0,1,0,3,37,28,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0
-21,719562,165,Borussia Dortmund,FORA,864,Emre Can,https://media.api-sports.io/football/players/864.png,90.0,D,6.9,False,0,,,0,0,0,0,75,61,1,4,14,7,1,2,2,1,0,0,0,0,0,0,0
-22,719562,165,Borussia Dortmund,FORA,501,Mats Hummels,https://media.api-sports.io/football/players/501.png,90.0,D,7.3,False,0,,,0,0,0,0,82,70,1,1,8,5,1,1,1,1,0,0,0,0,0,0,0
-23,719562,165,Borussia Dortmund,FORA,1084,Marin Pongračić,https://media.api-sports.io/football/players/1084.png,90.0,D,7.3,False,0,,,0,0,0,0,65,54,0,5,9,7,2,0,0,1,0,0,0,0,0,0,0
-24,719562,165,Borussia Dortmund,FORA,2929,Thorgan Hazard,https://media.api-sports.io/football/players/2929.png,90.0,M,7.5,False,1,1.0,1.0,1,0,0,0,51,45,0,1,15,8,3,1,2,1,0,0,0,0,0,0,0
-25,719562,165,Borussia Dortmund,FORA,14,Mahmoud Dahoud,https://media.api-sports.io/football/players/14.png,81.0,M,7.2,False,0,1.0,1.0,0,0,1,0,58,46,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0
-26,719562,165,Borussia Dortmund,FORA,20,Axel Witsel,https://media.api-sports.io/football/players/20.png,90.0,M,6.9,False,0,,,0,0,0,0,71,67,0,0,7,4,0,0,1,0,0,0,0,0,0,0,0
-27,719562,165,Borussia Dortmund,FORA,129718,Jude Bellingham,https://media.api-sports.io/football/players/129718.png,90.0,M,6.5,False,0,,,0,0,0,0,41,38,0,1,15,6,0,1,4,3,1,0,0,0,0,0,0
-28,719562,165,Borussia Dortmund,FORA,8,Raphaël Guerreiro,https://media.api-sports.io/football/players/8.png,90.0,M,7.2,False,0,1.0,1.0,0,0,0,0,67,55,0,1,5,4,4,0,0,0,0,0,0,0,0,0,0
-29,719562,165,Borussia Dortmund,FORA,984,Julian Brandt,https://media.api-sports.io/football/players/984.png,68.0,F,6.9,False,0,1.0,1.0,0,0,0,0,48,41,0,0,5,3,0,1,1,0,0,0,0,0,0,0,0
-30,719562,165,Borussia Dortmund,FORA,249,Donyell Malen,https://media.api-sports.io/football/players/249.png,68.0,F,7.3,False,0,3.0,2.0,0,0,0,0,11,9,0,0,6,3,2,0,1,0,0,0,0,0,0,0,0
-31,719562,165,Borussia Dortmund,FORA,2,Marwin Hitz,https://media.api-sports.io/football/players/2.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719562,165,Borussia Dortmund,FORA,721,Nico Schulz,https://media.api-sports.io/football/players/721.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719562,165,Borussia Dortmund,FORA,19068,Felix Passlack,https://media.api-sports.io/football/players/19068.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719562,165,Borussia Dortmund,FORA,162568,Soumaila Coulibaly,https://media.api-sports.io/football/players/162568.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719562,165,Borussia Dortmund,FORA,26,Marius Wolf,https://media.api-sports.io/football/players/26.png,22.0,M,6.3,True,0,,,0,0,0,0,11,9,0,1,6,3,0,0,1,1,0,0,0,0,0,0,0
-36,719562,165,Borussia Dortmund,FORA,10166,Reinier,https://media.api-sports.io/football/players/10166.png,9.0,M,6.3,True,0,,,0,0,0,0,4,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
-37,719562,165,Borussia Dortmund,FORA,161919,Youssoufa Moukoko,https://media.api-sports.io/football/players/161919.png,22.0,F,6.5,True,1,1.0,,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
-38,719562,165,Borussia Dortmund,FORA,26343,Steffen Tigges,https://media.api-sports.io/football/players/26343.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,719563,176,VfL BOCHUM,CASA,25058,Manuel Riemann,https://media.api-sports.io/football/players/25058.png,94.0,G,6.5,False,0,,,0,1,0,0,47,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,719563,176,VfL BOCHUM,CASA,1109,Cristian Gamboa,https://media.api-sports.io/football/players/1109.png,94.0,D,7.2,False,0,1.0,,0,0,0,0,42,36,1,1,9,5,2,2,0,1,1,0,0,0,0,0,0
-2,719563,176,VfL BOCHUM,CASA,25061,Armel Bella-Kotchap,https://media.api-sports.io/football/players/25061.png,94.0,D,6.9,False,1,,,0,0,0,0,44,31,0,2,8,7,0,0,3,1,0,0,0,0,0,0,0
-3,719563,176,VfL BOCHUM,CASA,25066,Maxim Leitsch,https://media.api-sports.io/football/players/25066.png,94.0,D,7.3,False,0,1.0,,0,0,0,0,46,39,0,4,10,6,1,0,0,2,0,0,0,0,0,0,0
-4,719563,176,VfL BOCHUM,CASA,25067,Danilo Soares,https://media.api-sports.io/football/players/25067.png,94.0,D,6.3,False,0,,,0,0,0,0,55,39,0,2,9,4,1,2,0,0,0,0,0,0,0,0,0
-5,719563,176,VfL BOCHUM,CASA,25614,Eduard Löwen,https://media.api-sports.io/football/players/25614.png,86.0,M,6.9,False,0,,,0,0,0,0,41,32,0,0,10,4,2,2,0,1,0,0,0,0,0,0,0
-6,719563,176,VfL BOCHUM,CASA,25074,Anthony Losilla,https://media.api-sports.io/football/players/25074.png,94.0,M,7.3,False,0,1.0,,0,0,0,0,44,35,0,1,12,8,1,0,1,1,0,0,0,0,0,0,0
-7,719563,176,VfL BOCHUM,CASA,25413,Elvis Rexhbeçaj,https://media.api-sports.io/football/players/25413.png,94.0,M,6.7,False,0,3.0,1.0,0,0,0,0,40,23,0,0,12,6,0,0,3,1,0,0,0,0,0,0,0
-8,719563,176,VfL BOCHUM,CASA,25375,Takuma Asano,https://media.api-sports.io/football/players/25375.png,72.0,F,6.6,False,1,,,0,0,0,0,13,10,0,0,9,3,1,0,0,3,0,0,0,0,0,0,0
-9,719563,176,VfL BOCHUM,CASA,24861,Sebastian Polter,https://media.api-sports.io/football/players/24861.png,71.0,F,6.7,False,1,1.0,,0,0,0,0,11,9,0,0,14,4,0,0,0,2,0,0,0,0,0,0,0
-10,719563,176,VfL BOCHUM,CASA,25081,Miloš Pantović,https://media.api-sports.io/football/players/25081.png,72.0,F,6.6,False,0,1.0,,0,0,0,0,16,11,0,1,8,1,0,0,1,3,0,0,0,0,0,0,0
-11,719563,176,VfL BOCHUM,CASA,25363,Michael Esser,https://media.api-sports.io/football/players/25363.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719563,176,VfL BOCHUM,CASA,61411,Erhan Mašović,https://media.api-sports.io/football/players/61411.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719563,176,VfL BOCHUM,CASA,25294,Konstantinos Stafylidis,https://media.api-sports.io/football/players/25294.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719563,176,VfL BOCHUM,CASA,25919,Gerrit Holtmann,https://media.api-sports.io/football/players/25919.png,22.0,F,6.9,True,0,,,0,0,0,0,8,7,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0
-15,719563,176,VfL BOCHUM,CASA,24815,Christopher Antwi-Adjei,https://media.api-sports.io/football/players/24815.png,22.0,F,6.3,True,0,1.0,,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0
-16,719563,176,VfL BOCHUM,CASA,163022,Patrick Osterhage,https://media.api-sports.io/football/players/163022.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,719563,176,VfL BOCHUM,CASA,25078,Robert Tesche,https://media.api-sports.io/football/players/25078.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,719563,176,VfL BOCHUM,CASA,18981,Jürgen Locadia,https://media.api-sports.io/football/players/18981.png,23.0,F,6.3,True,1,,,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,719563,176,VfL BOCHUM,CASA,47000,Danny Blum,https://media.api-sports.io/football/players/47000.png,8.0,F,6.6,True,0,,,0,0,0,0,3,3,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0
-20,719563,173,RB Leipzig,FORA,1139,Péter Gulácsi,https://media.api-sports.io/football/players/1139.png,94.0,G,6.9,False,0,,,0,0,0,1,30,20,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-21,719563,173,RB Leipzig,FORA,1144,Lukas Klostermann,https://media.api-sports.io/football/players/1144.png,94.0,D,7.2,False,0,,,0,0,0,0,39,33,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0
-22,719563,173,RB Leipzig,FORA,1148,Willi Orbán,https://media.api-sports.io/football/players/1148.png,94.0,D,7.2,False,0,,,0,0,0,0,34,18,1,2,10,8,0,0,3,0,0,0,0,0,0,0,0
-23,719563,173,RB Leipzig,FORA,22250,Mohamed Simakan,https://media.api-sports.io/football/players/22250.png,94.0,D,7.5,False,0,,,0,0,0,0,41,32,1,1,12,10,0,0,3,0,1,0,0,0,0,0,0
-24,719563,173,RB Leipzig,FORA,1146,Nordi Mukiele,https://media.api-sports.io/football/players/1146.png,72.0,M,6.3,False,0,,,0,0,0,0,21,12,0,1,8,3,1,0,0,2,0,0,0,0,0,0,0
-25,719563,173,RB Leipzig,FORA,1150,Tyler Adams,https://media.api-sports.io/football/players/1150.png,59.0,M,6.5,False,0,,,0,0,0,0,27,20,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
-26,719563,173,RB Leipzig,FORA,1153,Amadou Haidara,https://media.api-sports.io/football/players/1153.png,94.0,M,7.3,False,0,,,0,0,0,0,49,42,0,0,18,12,1,2,2,2,0,0,0,0,0,0,0
-27,719563,173,RB Leipzig,FORA,227,Angeliño,https://media.api-sports.io/football/players/227.png,94.0,M,7.7,False,0,,,0,0,0,0,49,39,2,1,5,3,1,1,0,0,0,0,0,0,0,0,0
-28,719563,173,RB Leipzig,FORA,1152,Emil Forsberg,https://media.api-sports.io/football/players/1152.png,81.0,F,6.9,False,0,2.0,,0,0,0,0,34,30,0,0,5,2,1,1,0,0,0,0,0,0,0,0,0
-29,719563,173,RB Leipzig,FORA,1167,Yussuf Poulsen,https://media.api-sports.io/football/players/1167.png,58.0,F,6.2,False,0,1.0,,0,0,0,0,21,12,0,0,13,5,0,0,1,1,0,0,0,0,0,0,0
-30,719563,173,RB Leipzig,FORA,1096,Dominik Szoboszlai,https://media.api-sports.io/football/players/1096.png,58.0,F,6.2,False,1,,,0,0,0,0,19,10,0,1,14,3,2,2,1,1,0,0,0,0,0,0,0
-31,719563,173,RB Leipzig,FORA,46988,Josep Martínez,https://media.api-sports.io/football/players/46988.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719563,173,RB Leipzig,FORA,25199,Philipp Tschauner,https://media.api-sports.io/football/players/25199.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719563,173,RB Leipzig,FORA,98,Benjamin Henrichs,https://media.api-sports.io/football/players/98.png,22.0,D,7.2,True,0,,,0,0,1,0,8,4,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0
-34,719563,173,RB Leipzig,FORA,1143,Marcel Halstenberg,https://media.api-sports.io/football/players/1143.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,719563,173,RB Leipzig,FORA,1157,Konrad Laimer,https://media.api-sports.io/football/players/1157.png,13.0,M,6.9,True,0,,,0,0,0,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,719563,173,RB Leipzig,FORA,269,Christopher Nkunku,https://media.api-sports.io/football/players/269.png,36.0,M,7.2,True,0,1.0,1.0,1,0,0,0,6,5,0,0,3,2,0,0,2,1,0,0,0,0,0,0,0
-37,719563,173,RB Leipzig,FORA,1323,Dani Olmo,https://media.api-sports.io/football/players/1323.png,35.0,M,6.3,True,0,,,0,0,0,0,16,13,0,0,4,1,0,2,0,1,0,0,0,0,0,0,0
-38,719563,173,RB Leipzig,FORA,2063,André Silva,https://media.api-sports.io/football/players/2063.png,36.0,F,6.5,True,0,1.0,,0,0,0,0,10,4,0,0,4,0,0,1,0,1,0,0,0,0,0,0,0
-39,719563,173,RB Leipzig,FORA,162170,Hugo Novoa Ramos,https://media.api-sports.io/football/players/162170.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,719564,178,SpVgg Greuther Furth,CASA,39034,Andreas Linde,https://media.api-sports.io/football/players/39034.png,90.0,G,7,False,0,,,0,1,0,3,34,17,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-1,719564,178,SpVgg Greuther Furth,CASA,113591,Marco Meyerhofer,https://media.api-sports.io/football/players/113591.png,90.0,D,7,False,0,1.0,,0,0,0,0,30,25,1,1,8,3,1,0,1,1,0,0,0,0,0,0,0
-2,719564,178,SpVgg Greuther Furth,CASA,24905,Sebastian Griesbeck,https://media.api-sports.io/football/players/24905.png,90.0,D,7.3,False,0,1.0,1.0,1,0,0,0,25,18,1,3,8,3,1,0,1,2,0,0,0,0,0,0,0
-3,719564,178,SpVgg Greuther Furth,CASA,232,Nick Viergever,https://media.api-sports.io/football/players/232.png,90.0,D,6.6,False,0,,,0,0,0,0,19,14,0,1,3,2,0,0,1,1,0,0,0,0,0,0,0
-4,719564,178,SpVgg Greuther Furth,CASA,25401,Gian-Luca Itter,https://media.api-sports.io/football/players/25401.png,90.0,D,7.7,False,0,,,0,0,1,0,31,18,1,1,10,7,1,1,0,0,0,0,0,0,0,0,0
-5,719564,178,SpVgg Greuther Furth,CASA,25161,Paul Seguin,https://media.api-sports.io/football/players/25161.png,90.0,M,6.5,False,0,,,0,0,0,0,36,24,0,0,14,6,1,0,1,1,0,0,0,0,0,0,0
-6,719564,178,SpVgg Greuther Furth,CASA,25013,Max Christiansen,https://media.api-sports.io/football/players/25013.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,33,27,1,5,15,7,1,3,1,2,0,0,0,0,0,0,0
-7,719564,178,SpVgg Greuther Furth,CASA,25617,Timothy Tillman,https://media.api-sports.io/football/players/25617.png,57.0,M,6.3,False,0,2.0,2.0,0,0,0,0,11,7,0,0,9,3,0,2,1,3,1,0,0,0,0,0,0
-8,719564,178,SpVgg Greuther Furth,CASA,24936,Jeremy Dudziak,https://media.api-sports.io/football/players/24936.png,90.0,M,6.7,False,1,,,0,0,0,0,22,17,0,1,11,5,0,0,3,1,0,0,0,0,0,0,0
-9,719564,178,SpVgg Greuther Furth,CASA,1827,Branimir Hrgota,https://media.api-sports.io/football/players/1827.png,90.0,F,6.5,False,1,1.0,,0,0,0,0,8,5,0,1,12,3,1,0,0,2,0,0,0,0,0,0,0
-10,719564,178,SpVgg Greuther Furth,CASA,128533,Jamie Leweling,https://media.api-sports.io/football/players/128533.png,86.0,F,6.9,False,1,2.0,1.0,0,0,0,0,22,11,0,0,14,4,4,0,0,0,0,0,0,0,0,0,0
-11,719564,178,SpVgg Greuther Furth,CASA,25143,Leon Schaffran,https://media.api-sports.io/football/players/25143.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,719564,178,SpVgg Greuther Furth,CASA,25144,Maximilian Bauer,https://media.api-sports.io/football/players/25144.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,719564,178,SpVgg Greuther Furth,CASA,25285,Simon Asta,https://media.api-sports.io/football/players/25285.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,719564,178,SpVgg Greuther Furth,CASA,1813,Jetro Willems,https://media.api-sports.io/football/players/1813.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,719564,178,SpVgg Greuther Furth,CASA,25165,Julian Green,https://media.api-sports.io/football/players/25165.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,719564,178,SpVgg Greuther Furth,CASA,48563,Afimico Pululu,https://media.api-sports.io/football/players/48563.png,8.0,F,6.6,True,0,,,0,0,0,0,1,0,0,0,4,3,1,0,2,1,0,0,0,0,0,0,0
-17,719564,178,SpVgg Greuther Furth,CASA,129131,Tobias Raschl,https://media.api-sports.io/football/players/129131.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,719564,178,SpVgg Greuther Furth,CASA,25277,Håvard Nielsen,https://media.api-sports.io/football/players/25277.png,33.0,F,6.9,True,0,1.0,1.0,0,0,0,0,11,7,0,0,8,4,0,0,2,1,0,0,0,0,0,0,0
-19,719564,178,SpVgg Greuther Furth,CASA,194682,Dickson Abiama,https://media.api-sports.io/football/players/194682.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,719564,192,FC Koln,FORA,15871,Marvin Schwäbe,https://media.api-sports.io/football/players/15871.png,90.0,G,7,False,0,,,0,1,0,4,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,719564,192,FC Koln,FORA,24794,Benno Schmitz,https://media.api-sports.io/football/players/24794.png,90.0,D,6.9,False,0,,,0,0,0,0,46,33,0,1,12,6,0,1,3,3,0,0,0,0,0,0,0
-22,719564,192,FC Koln,FORA,108474,Luca Kilian,https://media.api-sports.io/football/players/108474.png,90.0,D,7.2,False,0,,,0,0,0,0,40,35,2,1,6,5,0,0,0,0,0,0,0,0,0,0,0
-23,719564,192,FC Koln,FORA,90641,Timo Hübers,https://media.api-sports.io/football/players/90641.png,90.0,D,8.2,False,0,,,0,0,0,0,60,48,2,3,13,10,0,1,0,2,0,0,0,0,0,0,0
-24,719564,192,FC Koln,FORA,24801,Jonas Hector,https://media.api-sports.io/football/players/24801.png,90.0,D,7.2,False,0,1.0,,0,0,1,0,68,57,0,1,10,6,0,2,2,0,0,0,0,0,0,0,0
-25,719564,192,FC Koln,FORA,21587,Ellyes Skhiri,https://media.api-sports.io/football/players/21587.png,90.0,M,7.2,False,0,3.0,,0,0,0,0,38,28,0,0,19,12,2,1,2,1,1,0,0,0,0,0,0
-26,719564,192,FC Koln,FORA,24807,Salih Özcan,https://media.api-sports.io/football/players/24807.png,64.0,M,7.3,False,0,1.0,,0,0,0,0,25,22,0,2,10,7,2,0,2,2,1,0,0,0,0,0,0
-27,719564,192,FC Koln,FORA,24803,Florian Kainz,https://media.api-sports.io/football/players/24803.png,75.0,M,7.9,False,0,2.0,2.0,1,0,0,0,36,23,0,0,14,5,0,3,0,2,0,0,0,0,0,0,0
-28,719564,192,FC Koln,FORA,426,Mark Uth,https://media.api-sports.io/football/players/426.png,84.0,M,7.2,False,0,1.0,1.0,0,0,0,0,26,19,0,0,7,4,0,0,1,0,0,0,0,0,0,0,0
-29,719564,192,FC Koln,FORA,24811,Anthony Modeste,https://media.api-sports.io/football/players/24811.png,84.0,F,6.9,False,0,2.0,1.0,0,0,0,0,11,7,0,0,9,4,0,0,1,1,0,0,0,0,0,0,0
-30,719564,192,FC Koln,FORA,181908,Jan Thielmann,https://media.api-sports.io/football/players/181908.png,75.0,F,6.5,False,0,1.0,,0,0,0,0,18,12,0,0,5,2,1,0,0,1,0,0,0,0,0,0,0
-31,719564,192,FC Koln,FORA,24785,Timo Horn,https://media.api-sports.io/football/players/24785.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-32,719564,192,FC Koln,FORA,38112,Julian Chabot,https://media.api-sports.io/football/players/38112.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,719564,192,FC Koln,FORA,36916,Kingsley Ehizibue,https://media.api-sports.io/football/players/36916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,719564,192,FC Koln,FORA,1725,Dejan Ljubičić,https://media.api-sports.io/football/players/1725.png,26.0,M,6.3,True,0,2.0,,0,0,0,0,9,6,0,0,4,2,1,2,1,0,0,0,0,0,0,0,0
-35,719564,192,FC Koln,FORA,25349,Ondrej Duda,https://media.api-sports.io/football/players/25349.png,10.0,M,6.5,True,0,,,0,0,0,0,3,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
-36,719564,192,FC Koln,FORA,24809,Louis Schaub,https://media.api-sports.io/football/players/24809.png,15.0,M,6.3,True,0,1.0,,0,0,0,0,13,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-37,719564,192,FC Koln,FORA,24970,Kingsley Schindler,https://media.api-sports.io/football/players/24970.png,15.0,M,6.9,True,0,,,0,0,0,0,8,4,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0
-38,719564,192,FC Koln,FORA,203040,Tim Lemperle,https://media.api-sports.io/football/players/203040.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,719564,192,FC Koln,FORA,2862,Sebastian Andersson,https://media.api-sports.io/football/players/2862.png,10.0,F,6.7,True,0,,,0,0,0,0,2,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+8223,719556,169,Eintracht Frankfurt,CASA,1800,Kevin Trapp,https://media.api-sports.io/football/players/1800.png,90.0,G,8.0,False,0,,,0,1,0,8,29,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8224,719556,169,Eintracht Frankfurt,CASA,1809,Tuta,https://media.api-sports.io/football/players/1809.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,29,15,1,2,13,4,0,4,0,2,0,0,0,0,0,0,0
+8225,719556,169,Eintracht Frankfurt,CASA,1805,Martin Hinteregger,https://media.api-sports.io/football/players/1805.png,90.0,D,6.2,False,0,,,0,0,0,0,39,26,0,3,6,2,0,1,0,1,0,0,0,0,0,0,0
+8226,719556,169,Eintracht Frankfurt,CASA,1807,Evan Ndicka,https://media.api-sports.io/football/players/1807.png,90.0,D,6.5,False,0,1.0,,0,0,0,0,45,32,1,2,10,4,0,2,0,1,0,0,0,0,0,0,0
+8227,719556,169,Eintracht Frankfurt,CASA,1812,Danny da Costa,https://media.api-sports.io/football/players/1812.png,90.0,M,6.2,False,0,,,0,0,0,0,12,6,0,0,9,3,1,3,0,1,0,0,0,0,0,0,0
+8228,719556,169,Eintracht Frankfurt,CASA,38123,Ajdin Hrustić,https://media.api-sports.io/football/players/38123.png,83.0,M,6.2,False,0,,,0,0,0,0,28,20,0,3,13,5,2,3,1,1,0,0,0,0,0,0,0
+8229,719556,169,Eintracht Frankfurt,CASA,957,Djibril Sow,https://media.api-sports.io/football/players/957.png,90.0,M,6.9,False,0,,,0,0,0,0,32,23,1,1,13,4,0,2,1,4,0,0,0,0,0,0,0
+8230,719556,169,Eintracht Frankfurt,CASA,24841,Christopher Lenz,https://media.api-sports.io/football/players/24841.png,78.0,M,6.6,False,0,1.0,,0,0,0,0,28,17,0,0,8,4,0,0,0,1,1,0,0,0,0,0,0
+8231,719556,169,Eintracht Frankfurt,CASA,161922,Ansgar Knauff,https://media.api-sports.io/football/players/161922.png,67.0,F,6.6,False,1,,,0,0,0,0,6,4,0,0,11,4,0,1,0,0,0,0,0,0,0,0,0
+8232,719556,169,Eintracht Frankfurt,CASA,1821,Filip Kostić,https://media.api-sports.io/football/players/1821.png,90.0,F,7.0,False,1,2.0,1.0,0,0,0,0,27,16,0,1,8,3,0,0,1,1,0,0,0,0,0,0,0
+8233,719556,169,Eintracht Frankfurt,CASA,15884,Jesper Lindstrøm,https://media.api-sports.io/football/players/15884.png,82.0,F,6.7,False,0,,,0,0,0,0,14,8,0,1,9,1,1,0,0,1,0,0,0,0,0,0,0
+8234,719556,169,Eintracht Frankfurt,CASA,26291,Jens Grahl,https://media.api-sports.io/football/players/26291.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8235,719556,169,Eintracht Frankfurt,CASA,1154,Stefan Ilsanker,https://media.api-sports.io/football/players/1154.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8236,719556,169,Eintracht Frankfurt,CASA,1819,Makoto Hasebe,https://media.api-sports.io/football/players/1819.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8237,719556,169,Eintracht Frankfurt,CASA,1811,Almamy Touré,https://media.api-sports.io/football/players/1811.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8238,719556,169,Eintracht Frankfurt,CASA,39073,Jens Petter Hauge,https://media.api-sports.io/football/players/39073.png,12.0,F,6.9,True,0,,,0,0,0,0,5,3,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0
+8239,719556,169,Eintracht Frankfurt,CASA,1803,Timothy Chandler,https://media.api-sports.io/football/players/1803.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8240,719556,169,Eintracht Frankfurt,CASA,36987,Sam Lammers,https://media.api-sports.io/football/players/36987.png,11.0,F,6.6,True,0,,,0,0,0,0,4,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8241,719556,169,Eintracht Frankfurt,CASA,2601,Daichi Kamada,https://media.api-sports.io/football/players/2601.png,8.0,M,6.2,True,0,,,0,0,0,0,6,4,0,0,4,1,0,1,0,1,0,0,0,0,0,0,0
+8242,719556,169,Eintracht Frankfurt,CASA,6011,Rafael Santos Borré,https://media.api-sports.io/football/players/6011.png,23.0,F,6.5,True,1,,,0,0,0,0,4,2,0,0,3,1,0,1,0,2,0,0,0,0,0,0,0
+8243,719556,157,Bayern Munich,FORA,498,Sven Ulreich,https://media.api-sports.io/football/players/498.png,90.0,G,7.2,False,0,,,0,0,0,1,41,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8244,719556,157,Bayern Munich,FORA,1149,Dayot Upamecano,https://media.api-sports.io/football/players/1149.png,90.0,D,7.3,False,0,,,0,0,0,0,97,78,0,2,13,8,1,1,1,1,0,0,0,0,0,0,0
+8245,719556,157,Bayern Munich,FORA,506,Niklas Süle,https://media.api-sports.io/football/players/506.png,90.0,D,7.9,False,0,,,0,0,0,0,122,112,0,1,4,4,0,0,0,0,0,0,0,0,0,0,0
+8246,719556,157,Bayern Munich,FORA,33,Lucas Hernández,https://media.api-sports.io/football/players/33.png,90.0,D,7.2,False,0,,,0,0,0,0,88,72,0,2,9,7,0,0,0,0,1,0,0,0,0,0,0
+8247,719556,157,Bayern Munich,FORA,2725,Benjamin Pavard,https://media.api-sports.io/football/players/2725.png,90.0,M,7.3,False,0,1.0,,0,0,0,0,52,35,0,2,8,7,0,1,1,0,0,0,0,0,0,0,0
+8248,719556,157,Bayern Munich,FORA,502,Joshua Kimmich,https://media.api-sports.io/football/players/502.png,90.0,M,9.3,False,0,3.0,2.0,0,0,1,0,92,84,1,1,14,9,3,2,5,1,1,0,0,0,0,0,0
+8249,719556,157,Bayern Munich,FORA,1159,Marcel Sabitzer,https://media.api-sports.io/football/players/1159.png,67.0,M,7.3,False,0,1.0,,0,0,0,0,37,26,0,1,8,7,1,0,2,0,0,0,0,0,0,0,0
+8250,719556,157,Bayern Munich,FORA,508,Kingsley Coman,https://media.api-sports.io/football/players/508.png,89.0,M,7.2,False,2,2.0,2.0,0,0,0,0,41,34,0,1,13,7,4,1,1,0,0,0,0,0,0,0,0
+8251,719556,157,Bayern Munich,FORA,510,Serge Gnabry,https://media.api-sports.io/football/players/510.png,90.0,F,8.2,False,0,2.0,,0,0,0,0,63,54,0,0,10,6,3,0,1,0,0,0,0,0,0,0,0
+8252,719556,157,Bayern Munich,FORA,181812,Jamal Musiala,https://media.api-sports.io/football/players/181812.png,82.0,F,6.5,False,1,1.0,,0,0,0,0,24,18,0,1,15,7,2,1,3,0,0,0,0,0,0,0,0
+8253,719556,157,Bayern Munich,FORA,521,Robert Lewandowski,https://media.api-sports.io/football/players/521.png,90.0,F,6.3,False,2,5.0,3.0,0,0,0,0,26,17,0,0,12,7,3,0,1,0,0,0,0,0,0,0,0
+8254,719556,157,Bayern Munich,FORA,495,Christian Früchtl,https://media.api-sports.io/football/players/495.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8255,719556,157,Bayern Munich,FORA,19610,Omar Richards,https://media.api-sports.io/football/players/19610.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8256,719556,157,Bayern Munich,FORA,125171,Josip Stanišić,https://media.api-sports.io/football/players/125171.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8257,719556,157,Bayern Munich,FORA,133110,Tanguy Nianzou,https://media.api-sports.io/football/players/133110.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8258,719556,157,Bayern Munich,FORA,327895,Paul Wanner,https://media.api-sports.io/football/players/327895.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8259,719556,157,Bayern Munich,FORA,47341,Marc Roca,https://media.api-sports.io/football/players/47341.png,8.0,M,6.6,True,0,,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8260,719556,157,Bayern Munich,FORA,644,Leroy Sané,https://media.api-sports.io/football/players/644.png,23.0,F,7.2,True,0,1.0,1.0,1,0,0,0,8,7,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8261,719556,157,Bayern Munich,FORA,162037,Malik Tillman,https://media.api-sports.io/football/players/162037.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8262,719556,157,Bayern Munich,FORA,275,Eric Maxim Choupo-Moting,https://media.api-sports.io/football/players/275.png,1.0,F,,True,0,1.0,1.0,0,0,0,0,1,1,0,0,3,2,1,0,0,1,0,0,0,0,0,0,0
+8263,719557,168,Bayer Leverkusen,CASA,963,Lukáš Hrádecký,https://media.api-sports.io/football/players/963.png,90.0,G,7.7,False,0,,,0,0,0,3,23,22,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8264,719557,168,Bayer Leverkusen,CASA,152654,Jeremie Frimpong,https://media.api-sports.io/football/players/152654.png,76.0,D,7.2,False,1,1.0,,0,0,0,0,47,39,0,2,15,8,2,1,3,0,0,0,0,0,0,0,0
+8265,719557,168,Bayer Leverkusen,CASA,972,Jonathan Tah,https://media.api-sports.io/football/players/972.png,86.0,D,7.2,False,0,,,0,0,0,0,108,99,1,0,6,4,1,0,0,1,0,0,0,0,0,0,0
+8266,719557,168,Bayer Leverkusen,CASA,41150,Edmond Tapsoba,https://media.api-sports.io/football/players/41150.png,90.0,D,7.6,False,0,,,0,0,0,0,121,113,0,3,8,7,0,1,1,0,0,0,0,0,0,0,0
+8267,719557,168,Bayer Leverkusen,CASA,530,Mitchel Bakker,https://media.api-sports.io/football/players/530.png,82.0,D,7.5,False,0,,,0,0,0,0,71,59,1,2,2,2,0,0,1,0,0,0,0,0,0,0,0
+8268,719557,168,Bayer Leverkusen,CASA,974,Charles Aránguiz,https://media.api-sports.io/football/players/974.png,90.0,M,8.2,False,0,1.0,,0,0,0,0,111,101,0,3,8,6,0,1,0,1,0,0,0,0,0,0,0
+8269,719557,168,Bayer Leverkusen,CASA,6002,Exequiel Palacios,https://media.api-sports.io/football/players/6002.png,76.0,M,7.2,False,0,3.0,1.0,0,0,0,0,97,94,0,0,13,6,1,4,1,1,0,0,0,0,0,0,0
+8270,719557,168,Bayer Leverkusen,CASA,277,Moussa Diaby,https://media.api-sports.io/football/players/277.png,82.0,M,8.2,False,0,3.0,3.0,2,0,0,0,46,39,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0
+8271,719557,168,Bayer Leverkusen,CASA,203224,Florian Wirtz,https://media.api-sports.io/football/players/203224.png,90.0,M,8.3,False,0,1.0,,0,0,0,0,61,56,0,0,19,12,10,0,2,2,0,0,0,0,0,0,0
+8272,719557,168,Bayer Leverkusen,CASA,987,Paulinho,https://media.api-sports.io/football/players/987.png,90.0,M,7.6,False,1,5.0,2.0,0,0,1,0,49,44,1,1,15,8,1,1,0,2,0,0,0,0,0,0,0
+8273,719557,168,Bayer Leverkusen,CASA,982,Lucas Alario,https://media.api-sports.io/football/players/982.png,90.0,F,7.5,False,1,4.0,3.0,1,0,0,0,21,15,0,0,8,5,3,0,0,0,0,0,0,0,0,0,0
+8274,719557,168,Bayer Leverkusen,CASA,25802,Lennart Grill,https://media.api-sports.io/football/players/25802.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8275,719557,168,Bayer Leverkusen,CASA,25168,Niklas Lomb,https://media.api-sports.io/football/players/25168.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8276,719557,168,Bayer Leverkusen,CASA,19018,Timothy Fosu-Mensah,https://media.api-sports.io/football/players/19018.png,14.0,D,6.9,True,0,,,0,0,0,0,6,6,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8277,719557,168,Bayer Leverkusen,CASA,127817,Piero Hincapie,https://media.api-sports.io/football/players/127817.png,8.0,D,6.7,True,0,,,0,0,0,0,9,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8278,719557,168,Bayer Leverkusen,CASA,48119,Odilon Kossounou,https://media.api-sports.io/football/players/48119.png,4.0,D,,True,0,,,0,0,0,0,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8279,719557,168,Bayer Leverkusen,CASA,536,Daley Sinkgraven,https://media.api-sports.io/football/players/536.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8280,719557,168,Bayer Leverkusen,CASA,24903,Robert Andrich,https://media.api-sports.io/football/players/24903.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8281,719557,168,Bayer Leverkusen,CASA,717,Kerem Demirbay,https://media.api-sports.io/football/players/717.png,14.0,M,6.6,True,0,,,0,0,0,0,13,13,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+8282,719557,168,Bayer Leverkusen,CASA,129682,Amine Adli,https://media.api-sports.io/football/players/129682.png,8.0,F,6.5,True,0,,,0,0,0,0,7,4,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0
+8283,719557,188,Arminia Bielefeld,FORA,25004,Stefan Ortega,https://media.api-sports.io/football/players/25004.png,90.0,G,6.9,False,0,,,0,3,0,6,41,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8284,719557,188,Arminia Bielefeld,FORA,8579,Nathan De Medina,https://media.api-sports.io/football/players/8579.png,90.0,D,5.9,False,0,,,0,0,0,0,23,20,0,2,8,3,0,0,2,0,0,0,0,0,0,0,0
+8285,719557,188,Arminia Bielefeld,FORA,41799,Guilherme Ramos,https://media.api-sports.io/football/players/41799.png,90.0,D,6.3,False,0,,,0,0,0,0,22,15,0,5,7,1,0,4,0,1,0,0,0,0,0,0,0
+8286,719557,188,Arminia Bielefeld,FORA,48065,Joakim Nilsson,https://media.api-sports.io/football/players/48065.png,90.0,D,6.7,False,0,,,0,0,0,0,24,22,2,3,2,1,0,1,0,0,0,0,0,0,0,0,0
+8287,719557,188,Arminia Bielefeld,FORA,15848,Jacob Laursen,https://media.api-sports.io/football/players/15848.png,90.0,D,6.7,False,0,,,0,0,0,0,23,17,1,1,6,4,3,1,0,1,0,0,0,0,0,0,0
+8288,719557,188,Arminia Bielefeld,FORA,25499,Fabian Kunze,https://media.api-sports.io/football/players/25499.png,90.0,M,6.3,False,0,2.0,,0,0,0,0,37,29,0,0,18,9,1,2,1,3,1,0,0,0,0,0,0
+8289,719557,188,Arminia Bielefeld,FORA,24829,Sebastian Vasiliadis,https://media.api-sports.io/football/players/24829.png,45.0,M,6.6,False,0,1.0,1.0,0,0,0,0,8,6,0,1,6,3,0,2,1,0,0,0,0,0,0,0,0
+8290,719557,188,Arminia Bielefeld,FORA,126642,Patrick Wimmer,https://media.api-sports.io/football/players/126642.png,76.0,M,6.7,False,0,1.0,,0,0,0,0,28,19,0,2,15,6,5,3,1,1,0,0,0,0,0,0,0
+8291,719557,188,Arminia Bielefeld,FORA,417,Alessandro Schöpf,https://media.api-sports.io/football/players/417.png,86.0,M,6.9,False,0,1.0,1.0,0,0,0,0,42,34,0,1,5,4,1,0,1,0,0,0,0,0,0,0,0
+8292,719557,188,Arminia Bielefeld,FORA,24968,Masaya Okugawa,https://media.api-sports.io/football/players/24968.png,76.0,M,6.7,False,0,,,0,0,0,0,25,18,0,3,16,7,0,4,1,3,0,0,0,0,0,0,0
+8293,719557,188,Arminia Bielefeld,FORA,24973,Janni Serra,https://media.api-sports.io/football/players/24973.png,45.0,F,6.7,False,0,,,0,0,0,0,12,9,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0
+8294,719557,188,Arminia Bielefeld,FORA,25309,Stefanos Kapino,https://media.api-sports.io/football/players/25309.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8295,719557,188,Arminia Bielefeld,FORA,25011,Amos Pieper,https://media.api-sports.io/football/players/25011.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8296,719557,188,Arminia Bielefeld,FORA,7197,Andrés Andrade,https://media.api-sports.io/football/players/7197.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8297,719557,188,Arminia Bielefeld,FORA,50873,George Bello,https://media.api-sports.io/football/players/50873.png,14.0,D,6.5,True,0,,,0,0,0,0,2,2,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+8298,719557,188,Arminia Bielefeld,FORA,725,Robin Hack,https://media.api-sports.io/football/players/725.png,14.0,F,6.2,True,0,,,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+8299,719557,188,Arminia Bielefeld,FORA,24228,Bryan Lasme,https://media.api-sports.io/football/players/24228.png,45.0,F,6.2,True,1,1.0,1.0,0,0,0,0,8,5,0,0,6,1,0,0,1,1,0,0,0,0,0,0,0
+8300,719557,188,Arminia Bielefeld,FORA,25025,Fabian Klos,https://media.api-sports.io/football/players/25025.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8301,719557,188,Arminia Bielefeld,FORA,25109,Florian Krüger,https://media.api-sports.io/football/players/25109.png,4.0,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8302,719557,188,Arminia Bielefeld,FORA,26306,Gonzalo Castro,https://media.api-sports.io/football/players/26306.png,45.0,M,6.6,True,0,,,0,0,0,0,17,13,0,2,3,2,0,1,0,0,0,0,0,0,0,0,0
+8303,719558,182,Union Berlin,CASA,25284,Andreas Luthe,https://media.api-sports.io/football/players/25284.png,90.0,G,6.3,False,0,,,0,1,0,0,25,11,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8304,719558,182,Union Berlin,CASA,25147,Paul Jäckel,https://media.api-sports.io/football/players/25147.png,90.0,D,6.6,False,0,,,0,0,0,0,47,38,1,1,7,3,0,0,2,2,1,0,0,0,0,0,0
+8305,719558,182,Union Berlin,CASA,25403,Robin Knoche,https://media.api-sports.io/football/players/25403.png,90.0,D,7.2,False,0,,,0,0,0,0,72,56,2,2,8,5,0,2,1,1,0,0,0,0,0,0,0
+8306,719558,182,Union Berlin,CASA,26297,Timo Baumgartl,https://media.api-sports.io/football/players/26297.png,90.0,D,7.2,False,0,,,0,0,0,0,54,42,0,1,7,6,0,0,0,0,1,0,0,0,0,0,0
+8307,719558,182,Union Berlin,CASA,25300,Rani Khedira,https://media.api-sports.io/football/players/25300.png,90.0,M,6.3,False,0,,,0,0,0,0,28,20,1,1,11,3,0,0,1,5,1,0,0,0,0,0,0
+8308,719558,182,Union Berlin,CASA,24848,Christopher Trimmel,https://media.api-sports.io/football/players/24848.png,90.0,M,6.5,False,0,,,0,0,0,0,41,25,0,1,6,4,2,0,0,2,1,0,0,0,0,0,0
+8309,719558,182,Union Berlin,CASA,25379,Genki Haraguchi,https://media.api-sports.io/football/players/25379.png,76.0,M,8.0,False,0,1.0,1.0,1,0,0,0,26,21,2,3,6,5,0,0,2,0,0,0,0,0,0,0,0
+8310,719558,182,Union Berlin,CASA,24854,Grischa Prömel,https://media.api-sports.io/football/players/24854.png,86.0,M,6.3,False,0,,,0,0,0,0,24,16,0,0,16,6,0,3,4,0,0,0,0,0,0,0,0
+8311,719558,182,Union Berlin,CASA,25452,Niko Giesselmann,https://media.api-sports.io/football/players/25452.png,86.0,M,6.9,False,0,,,0,0,1,0,40,31,0,1,9,4,0,2,4,1,0,0,0,0,0,0,0
+8312,719558,182,Union Berlin,CASA,37938,Sheraldo Becker,https://media.api-sports.io/football/players/37938.png,76.0,F,8.5,False,0,1.0,1.0,1,0,1,0,15,11,0,0,11,6,3,0,1,0,0,0,0,0,0,0,0
+8313,719558,182,Union Berlin,CASA,25030,Andreas Voglsammer,https://media.api-sports.io/football/players/25030.png,67.0,F,6.6,False,0,,,0,0,0,0,10,3,0,0,13,6,0,1,2,0,0,0,0,0,0,0,0
+8314,719558,182,Union Berlin,CASA,1798,Frederik Rønnow,https://media.api-sports.io/football/players/1798.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8315,719558,182,Union Berlin,CASA,404,Bastian Oczipka,https://media.api-sports.io/football/players/404.png,8.0,D,6.2,True,0,,,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+8316,719558,182,Union Berlin,CASA,24845,Julian Ryerson,https://media.api-sports.io/football/players/24845.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8317,719558,182,Union Berlin,CASA,26237,Dominique Heintz,https://media.api-sports.io/football/players/26237.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8318,719558,182,Union Berlin,CASA,25323,Kevin Möhwald,https://media.api-sports.io/football/players/25323.png,14.0,M,6.5,True,1,,,0,0,0,0,7,7,0,0,2,1,1,1,0,0,0,0,0,0,0,0,0
+8319,719558,182,Union Berlin,CASA,25922,Levin Öztunali,https://media.api-sports.io/football/players/25922.png,8.0,M,6.3,True,0,,,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8320,719558,182,Union Berlin,CASA,24826,Sven Michel,https://media.api-sports.io/football/players/24826.png,14.0,F,6.7,True,0,,,0,0,0,0,3,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+8321,719558,182,Union Berlin,CASA,8598,Taiwo Awoniyi,https://media.api-sports.io/football/players/8598.png,23.0,F,7.2,True,0,1.0,1.0,1,0,0,0,10,10,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0
+8322,719558,182,Union Berlin,CASA,25929,Anthony Ujah,https://media.api-sports.io/football/players/25929.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8323,719558,164,FSV Mainz 05,FORA,25906,Robin Zentner,https://media.api-sports.io/football/players/25906.png,90.0,G,5.6,False,0,,,0,3,0,0,24,14,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8324,719558,164,FSV Mainz 05,FORA,25907,Stefan Bell,https://media.api-sports.io/football/players/25907.png,70.0,D,6.9,False,0,2.0,,0,0,0,0,49,39,1,1,10,4,0,0,0,2,0,0,0,0,0,0,0
+8325,719558,164,FSV Mainz 05,FORA,25913,Alexander Hack,https://media.api-sports.io/football/players/25913.png,62.0,D,6.7,False,0,,,0,0,0,0,41,32,0,1,8,5,0,0,0,1,1,0,0,0,0,0,0
+8326,719558,164,FSV Mainz 05,FORA,25916,Moussa Niakhaté,https://media.api-sports.io/football/players/25916.png,90.0,D,6.2,False,0,1.0,,0,0,0,0,55,45,0,0,5,2,0,0,1,3,0,0,0,0,0,0,0
+8327,719558,164,FSV Mainz 05,FORA,48378,Silvan Widmer,https://media.api-sports.io/football/players/48378.png,90.0,M,7.0,False,0,,,0,0,0,0,36,30,1,2,15,8,2,2,1,2,0,0,0,0,0,0,0
+8328,719558,164,FSV Mainz 05,FORA,177665,Anton Stach,https://media.api-sports.io/football/players/177665.png,90.0,M,7.3,False,0,2.0,,0,0,1,0,52,40,0,2,12,8,0,0,5,2,0,0,0,0,0,0,0
+8329,719558,164,FSV Mainz 05,FORA,979,Dominik Kohr,https://media.api-sports.io/football/players/979.png,60.0,M,5.9,False,0,,,0,0,0,0,36,28,0,0,4,1,0,1,0,2,2,1,0,0,0,0,0
+8330,719558,164,FSV Mainz 05,FORA,25914,Aarón Martin Caricol,https://media.api-sports.io/football/players/25914.png,90.0,M,6.6,False,0,2.0,,0,0,0,0,27,22,0,0,6,3,0,0,2,0,0,0,0,0,0,0,0
+8331,719558,164,FSV Mainz 05,FORA,25926,Jonathan Burkardt,https://media.api-sports.io/football/players/25926.png,77.0,F,6.2,False,0,,,0,0,0,0,17,13,0,0,12,2,0,1,1,2,0,0,0,0,0,0,0
+8332,719558,164,FSV Mainz 05,FORA,2906,Jae-Sung Lee,https://media.api-sports.io/football/players/2906.png,70.0,F,6.7,False,0,,,0,0,0,0,30,23,0,0,13,6,3,1,1,1,0,0,0,0,0,0,0
+8333,719558,164,FSV Mainz 05,FORA,25928,Karim Onisiwo,https://media.api-sports.io/football/players/25928.png,62.0,F,6.7,False,0,,,0,0,0,0,14,7,0,0,4,2,1,0,0,1,0,0,0,0,0,0,0
+8334,719558,164,FSV Mainz 05,FORA,180553,Lasse Finn Rieß,https://media.api-sports.io/football/players/180553.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8335,719558,164,FSV Mainz 05,FORA,7649,David Nemeth,https://media.api-sports.io/football/players/7649.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8336,719558,164,FSV Mainz 05,FORA,202731,Niklas Tauer,https://media.api-sports.io/football/players/202731.png,20.0,M,6.9,True,0,,,0,0,0,0,9,7,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0
+8337,719558,164,FSV Mainz 05,FORA,25461,Kevin Stöger,https://media.api-sports.io/football/players/25461.png,28.0,M,5.9,True,0,,,0,0,0,0,14,8,0,0,3,2,2,1,0,0,1,0,0,0,0,0,0
+8338,719558,164,FSV Mainz 05,FORA,25925,Jean-Paul Boëtius,https://media.api-sports.io/football/players/25925.png,20.0,M,6.6,True,0,,,0,0,0,0,12,10,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+8339,719558,164,FSV Mainz 05,FORA,25918,Leandro Barreiro,https://media.api-sports.io/football/players/25918.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8340,719558,164,FSV Mainz 05,FORA,25908,Daniel Brosinski,https://media.api-sports.io/football/players/25908.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8341,719558,164,FSV Mainz 05,FORA,1941,Marcus Ingvartsen,https://media.api-sports.io/football/players/1941.png,28.0,F,6.6,True,0,1.0,,0,0,0,0,7,5,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+8342,719558,164,FSV Mainz 05,FORA,37242,Delano Burgzorg,https://media.api-sports.io/football/players/37242.png,13.0,F,7.5,True,0,1.0,1.0,1,0,0,0,2,2,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
+8343,719559,163,Borussia Monchengladbach,CASA,2802,Yann Sommer,https://media.api-sports.io/football/players/2802.png,90.0,G,6.0,False,0,,,0,2,0,0,38,31,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+8344,719559,163,Borussia Monchengladbach,CASA,2915,Matthias Ginter,https://media.api-sports.io/football/players/2915.png,90.0,D,7.2,False,0,2.0,2.0,0,0,0,0,83,71,0,2,17,10,0,2,2,3,0,0,0,0,0,0,0
+8345,719559,163,Borussia Monchengladbach,CASA,2803,Nico Elvedi,https://media.api-sports.io/football/players/2803.png,90.0,D,7.0,False,0,2.0,,0,0,0,0,82,79,1,1,13,7,0,0,0,1,0,0,0,0,0,0,0
+8346,719559,163,Borussia Monchengladbach,CASA,25628,Jordan Beyer,https://media.api-sports.io/football/players/25628.png,90.0,D,6.3,False,0,,,0,0,0,0,76,71,0,0,10,5,0,2,2,2,1,0,0,0,0,0,0
+8347,719559,163,Borussia Monchengladbach,CASA,1082,Stefan Lainer,https://media.api-sports.io/football/players/1082.png,81.0,M,7.2,False,0,2.0,,0,0,0,0,31,23,0,0,5,5,2,0,1,0,0,0,0,0,0,0,0
+8348,719559,163,Borussia Monchengladbach,CASA,25637,Christoph Kramer,https://media.api-sports.io/football/players/25637.png,60.0,M,6.3,False,0,,,0,0,0,0,38,26,0,2,7,4,1,0,0,1,0,0,0,0,0,0,0
+8349,719559,163,Borussia Monchengladbach,CASA,25638,Florian Neuhaus,https://media.api-sports.io/football/players/25638.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,52,43,0,0,7,6,3,1,2,0,0,0,0,0,0,0,0
+8350,719559,163,Borussia Monchengladbach,CASA,2194,Ramy Bensebaini,https://media.api-sports.io/football/players/2194.png,90.0,M,6.6,False,0,2.0,1.0,0,0,0,0,53,44,0,0,10,4,1,1,1,0,0,0,0,0,0,0,0
+8351,719559,163,Borussia Monchengladbach,CASA,25635,Jonas Hofmann,https://media.api-sports.io/football/players/25635.png,90.0,F,7.3,False,0,1.0,1.0,0,0,0,0,53,44,0,1,3,0,0,0,0,1,0,0,0,0,0,0,0
+8352,719559,163,Borussia Monchengladbach,CASA,25646,Alassane Pléa,https://media.api-sports.io/football/players/25646.png,90.0,F,8.6,False,0,2.0,,0,0,2,0,44,34,0,0,16,6,2,1,2,2,0,0,0,0,0,0,0
+8353,719559,163,Borussia Monchengladbach,CASA,21509,Marcus Thuram,https://media.api-sports.io/football/players/21509.png,77.0,F,7.7,False,0,4.0,2.0,1,0,0,0,15,9,0,0,14,8,0,0,2,0,0,0,0,0,0,0,0
+8354,719559,163,Borussia Monchengladbach,CASA,25627,Tobias Sippel,https://media.api-sports.io/football/players/25627.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8355,719559,163,Borussia Monchengladbach,CASA,22147,Kouadio Koné,https://media.api-sports.io/football/players/22147.png,30.0,M,6.3,True,0,1.0,1.0,0,0,0,0,20,19,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0
+8356,719559,163,Borussia Monchengladbach,CASA,24962,László Bénes,https://media.api-sports.io/football/players/24962.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8357,719559,163,Borussia Monchengladbach,CASA,25641,Keanan Bennetts,https://media.api-sports.io/football/players/25641.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8358,719559,163,Borussia Monchengladbach,CASA,25644,Patrick Herrmann,https://media.api-sports.io/football/players/25644.png,9.0,F,6.3,True,0,,,0,0,0,0,4,4,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0
+8359,719559,163,Borussia Monchengladbach,CASA,163069,Luca Netz,https://media.api-sports.io/football/players/163069.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8360,719559,163,Borussia Monchengladbach,CASA,50852,Joseph Scally,https://media.api-sports.io/football/players/50852.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8361,719559,163,Borussia Monchengladbach,CASA,421,Breel Embolo,https://media.api-sports.io/football/players/421.png,13.0,F,7.2,True,0,3.0,3.0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8362,719559,163,Borussia Monchengladbach,CASA,153286,Conor Noß,https://media.api-sports.io/football/players/153286.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8363,719559,161,VfL Wolfsburg,FORA,2918,Koen Casteels,https://media.api-sports.io/football/players/2918.png,90.0,G,7.9,False,0,,,0,2,0,8,33,18,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+8364,719559,161,VfL Wolfsburg,FORA,20995,Maxence Lacroix,https://media.api-sports.io/football/players/20995.png,70.0,D,6.5,False,0,,,0,0,0,0,16,13,0,2,8,5,1,0,0,2,0,1,0,0,0,0,0
+8365,719559,161,VfL Wolfsburg,FORA,1408,Sebastiaan Bornauw,https://media.api-sports.io/football/players/1408.png,90.0,D,7.5,False,0,1.0,1.0,1,0,0,0,24,16,1,1,4,3,0,0,0,0,0,0,0,0,0,0,0
+8366,719559,161,VfL Wolfsburg,FORA,25397,John Brooks,https://media.api-sports.io/football/players/25397.png,90.0,D,6.2,False,0,,,0,0,0,0,27,17,1,0,6,2,1,2,0,0,0,0,0,0,0,0,0
+8367,719559,161,VfL Wolfsburg,FORA,25917,Ridle Baku,https://media.api-sports.io/football/players/25917.png,58.0,M,7.0,False,2,,,0,0,1,0,14,9,0,0,7,1,0,2,0,1,1,0,0,0,0,0,0
+8368,719559,161,VfL Wolfsburg,FORA,25408,Maximilian Arnold,https://media.api-sports.io/football/players/25408.png,90.0,M,6.5,False,0,,,0,0,0,0,39,23,0,1,4,2,0,1,0,0,0,0,0,0,0,0,0
+8369,719559,161,VfL Wolfsburg,FORA,127413,Aster Vranckx,https://media.api-sports.io/football/players/127413.png,58.0,M,7.2,False,0,,,0,0,0,0,22,15,1,2,15,8,1,0,2,4,0,0,0,0,0,0,0
+8370,719559,161,VfL Wolfsburg,FORA,25404,Jérôme Roussillon,https://media.api-sports.io/football/players/25404.png,90.0,M,6.3,False,0,,,0,0,0,0,23,19,0,0,10,5,2,0,2,1,0,0,0,0,0,0,0
+8371,719559,161,VfL Wolfsburg,FORA,24,Maximilian Philipp,https://media.api-sports.io/football/players/24.png,45.0,F,6.5,False,1,1.0,,0,0,1,0,12,10,0,0,5,1,0,1,0,1,1,0,0,0,0,0,0
+8372,719559,161,VfL Wolfsburg,FORA,25329,Max Kruse,https://media.api-sports.io/football/players/25329.png,78.0,F,6.7,False,0,1.0,,0,0,0,0,26,20,0,0,11,4,2,1,1,0,0,0,0,0,0,0,0
+8373,719559,161,VfL Wolfsburg,FORA,1302,Jonas Wind,https://media.api-sports.io/football/players/1302.png,90.0,F,7.6,False,1,2.0,1.0,1,0,0,0,26,19,1,0,20,9,0,0,2,4,0,0,0,0,0,0,0
+8374,719559,161,VfL Wolfsburg,FORA,25396,Pavao Pervan,https://media.api-sports.io/football/players/25396.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8375,719559,161,VfL Wolfsburg,FORA,946,Kevin Mbabu,https://media.api-sports.io/football/players/946.png,32.0,D,6.7,True,0,,,0,0,0,0,8,4,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+8376,719559,161,VfL Wolfsburg,FORA,25400,Yannick Gerhardt,https://media.api-sports.io/football/players/25400.png,45.0,M,6.3,True,0,,,0,0,0,0,11,6,0,0,8,4,1,1,2,1,1,0,0,0,0,0,0
+8377,719559,161,VfL Wolfsburg,FORA,637,Felix Nmecha,https://media.api-sports.io/football/players/637.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8378,719559,161,VfL Wolfsburg,FORA,1095,Xaver Schlager,https://media.api-sports.io/football/players/1095.png,32.0,M,6.9,True,0,,,0,0,0,0,6,3,0,0,6,5,0,1,2,0,0,0,0,0,0,0,0
+8379,719559,161,VfL Wolfsburg,FORA,2809,Renato Steffen,https://media.api-sports.io/football/players/2809.png,12.0,M,6.2,True,0,,,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8380,719559,161,VfL Wolfsburg,FORA,148284,Bartosz Białek,https://media.api-sports.io/football/players/148284.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8381,719559,161,VfL Wolfsburg,FORA,25458,Dodi Lukebakio,https://media.api-sports.io/football/players/25458.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8382,719559,161,VfL Wolfsburg,FORA,26260,Luca Waldschmidt,https://media.api-sports.io/football/players/26260.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8383,719560,160,SC Freiburg,CASA,26232,Mark Flekken,https://media.api-sports.io/football/players/26232.png,90.0,G,7.3,False,0,,,0,0,0,2,40,34,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+8384,719560,160,SC Freiburg,CASA,26239,Lukas Kübler,https://media.api-sports.io/football/players/26239.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,53,47,1,1,7,2,0,0,2,0,0,0,0,0,0,0,0
+8385,719560,160,SC Freiburg,CASA,26240,Philipp Lienhart,https://media.api-sports.io/football/players/26240.png,89.0,D,7.2,False,0,,,0,0,0,0,68,61,0,1,9,5,0,1,1,0,0,0,0,0,0,0,0
+8386,719560,160,SC Freiburg,CASA,26243,Nico Schlotterbeck,https://media.api-sports.io/football/players/26243.png,90.0,D,7.2,False,0,,,0,0,0,0,60,54,1,1,4,1,0,1,0,1,0,0,0,0,0,0,0
+8387,719560,160,SC Freiburg,CASA,26236,Christian Günter,https://media.api-sports.io/football/players/26236.png,90.0,D,6.6,False,0,,,0,0,0,0,41,37,0,0,6,2,0,2,0,1,0,0,0,0,0,0,0
+8388,719560,160,SC Freiburg,CASA,2917,Maximilian Eggestein,https://media.api-sports.io/football/players/2917.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,74,64,1,1,15,9,1,2,1,2,0,0,0,0,0,0,0
+8389,719560,160,SC Freiburg,CASA,26250,Nicolas Höfler,https://media.api-sports.io/football/players/26250.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,50,46,2,1,14,7,1,3,1,3,1,0,0,0,0,0,0
+8390,719560,160,SC Freiburg,CASA,26252,Roland Sallai,https://media.api-sports.io/football/players/26252.png,64.0,M,7.2,False,0,1.0,,0,0,0,0,19,16,0,3,11,4,1,3,2,2,0,0,1,0,0,0,0
+8391,719560,160,SC Freiburg,CASA,512,Woo-Yeong Jeong,https://media.api-sports.io/football/players/512.png,82.0,M,6.9,False,0,1.0,,0,0,0,0,35,25,0,1,6,2,0,0,0,0,0,0,0,0,0,0,0
+8392,719560,160,SC Freiburg,CASA,26248,Vincenzo Grifo,https://media.api-sports.io/football/players/26248.png,82.0,M,8.0,False,1,5.0,2.0,1,0,0,0,45,36,1,2,6,4,1,0,0,1,0,0,0,0,1,0,0
+8393,719560,160,SC Freiburg,CASA,26258,Nils Petersen,https://media.api-sports.io/football/players/26258.png,64.0,F,7.0,False,0,1.0,,0,0,0,0,8,5,0,0,9,4,0,1,0,1,0,0,0,0,0,0,0
+8394,719560,160,SC Freiburg,CASA,26087,Benjamin Uphoff,https://media.api-sports.io/football/players/26087.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8395,719560,160,SC Freiburg,CASA,26235,Manuel Gulde,https://media.api-sports.io/football/players/26235.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8396,719560,160,SC Freiburg,CASA,26242,Keven Schlotterbeck,https://media.api-sports.io/football/players/26242.png,1.0,D,,True,0,,,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8397,719560,160,SC Freiburg,CASA,26249,Janik Haberer,https://media.api-sports.io/football/players/26249.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8398,719560,160,SC Freiburg,CASA,25303,Jonathan Schmid,https://media.api-sports.io/football/players/25303.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8399,719560,160,SC Freiburg,CASA,202844,Noah Weißhaupt,https://media.api-sports.io/football/players/202844.png,8.0,F,7.0,True,0,,,0,0,0,0,5,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+8400,719560,160,SC Freiburg,CASA,46930,Ermedin Demirović,https://media.api-sports.io/football/players/46930.png,8.0,F,7.3,True,0,,,0,0,1,0,3,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+8401,719560,160,SC Freiburg,CASA,26255,Lucas Höler,https://media.api-sports.io/football/players/26255.png,26.0,F,7.2,True,0,2.0,1.0,1,0,0,0,5,4,0,0,11,7,2,2,1,0,0,0,0,0,0,0,0
+8402,719560,160,SC Freiburg,CASA,178077,Kevin Schade,https://media.api-sports.io/football/players/178077.png,26.0,F,7.2,True,0,1.0,1.0,1,0,0,0,9,7,0,0,4,1,0,1,0,1,0,0,0,0,0,0,0
+8403,719560,159,Hertha Berlin,FORA,162502,Marcel Laurenz Lotka,https://media.api-sports.io/football/players/162502.png,90.0,G,6.2,False,0,,,0,3,0,2,26,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8404,719560,159,Hertha Berlin,FORA,25343,Peter Pekarík,https://media.api-sports.io/football/players/25343.png,90.0,D,6.3,False,0,1.0,1.0,0,0,0,0,29,25,0,0,5,3,0,0,0,1,0,0,0,0,0,0,0
+8405,719560,159,Hertha Berlin,FORA,1108,Dedryck Boyata,https://media.api-sports.io/football/players/1108.png,90.0,D,6.3,False,0,,,0,0,0,0,50,45,0,1,5,5,0,0,1,0,0,0,0,0,0,0,0
+8406,719560,159,Hertha Berlin,FORA,286711,Linus Gechter,https://media.api-sports.io/football/players/286711.png,69.0,D,6.2,False,0,2.0,,0,0,0,0,32,24,1,0,9,2,0,0,0,2,0,0,0,1,0,0,0
+8407,719560,159,Hertha Berlin,FORA,39058,Fredrik Andre Bjorkan,https://media.api-sports.io/football/players/39058.png,90.0,D,6.7,False,0,,,0,0,0,0,34,30,1,1,13,7,2,1,2,3,1,0,0,0,0,0,0
+8408,719560,159,Hertha Berlin,FORA,25348,Vladimír Darida,https://media.api-sports.io/football/players/25348.png,70.0,M,7.2,False,0,1.0,,0,0,0,0,35,24,0,0,7,3,0,0,2,0,0,0,0,0,0,0,0
+8409,719560,159,Hertha Berlin,FORA,664,Lucas Tousart,https://media.api-sports.io/football/players/664.png,90.0,M,7.2,False,0,,,0,0,0,0,44,37,0,3,9,7,3,1,1,0,0,0,0,0,0,0,0
+8410,719560,159,Hertha Berlin,FORA,418,Suat Serdar,https://media.api-sports.io/football/players/418.png,90.0,M,6.9,False,0,,,0,0,0,0,32,23,0,0,15,10,4,1,2,1,0,0,0,0,0,0,0
+8411,719560,159,Hertha Berlin,FORA,25307,Marco Richter,https://media.api-sports.io/football/players/25307.png,78.0,F,7.0,False,0,2.0,1.0,0,0,0,0,17,10,0,0,12,6,3,0,3,0,0,0,0,0,0,0,0
+8412,719560,159,Hertha Berlin,FORA,121,Stevan Jovetić,https://media.api-sports.io/football/players/121.png,90.0,F,7.2,False,0,1.0,,0,0,0,0,25,18,0,0,12,5,0,1,1,2,1,0,0,0,0,0,0
+8413,719560,159,Hertha Berlin,FORA,724,Ishak Belfodil,https://media.api-sports.io/football/players/724.png,78.0,F,6.6,False,4,2.0,,0,0,0,0,14,10,0,0,7,4,2,0,0,0,0,0,0,0,0,0,0
+8414,719560,159,Hertha Berlin,FORA,26317,Nils-Jonathan Körber,https://media.api-sports.io/football/players/26317.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8415,719560,159,Hertha Berlin,FORA,88008,Cimo Röcker,https://media.api-sports.io/football/players/88008.png,21.0,D,6.2,True,0,,,0,0,0,0,16,11,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+8416,719560,159,Hertha Berlin,FORA,25342,Maximilian Mittelstädt,https://media.api-sports.io/football/players/25342.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8417,719560,159,Hertha Berlin,FORA,26305,Santiago Ascacibar,https://media.api-sports.io/football/players/26305.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8418,719560,159,Hertha Berlin,FORA,541,Jurgen Ekkelenkamp,https://media.api-sports.io/football/players/541.png,12.0,M,6.2,True,0,,,0,0,0,0,3,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+8419,719560,159,Hertha Berlin,FORA,279993,Anton Kade,https://media.api-sports.io/football/players/279993.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8420,719560,159,Hertha Berlin,FORA,34171,Dong-jun Lee,https://media.api-sports.io/football/players/34171.png,20.0,M,6.0,True,1,2.0,,0,0,0,0,1,1,0,0,6,3,2,1,1,0,0,0,0,0,0,0,0
+8421,719560,159,Hertha Berlin,FORA,25362,Davie Selke,https://media.api-sports.io/football/players/25362.png,12.0,F,6.5,True,0,,,0,0,0,0,2,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+8422,719560,159,Hertha Berlin,FORA,22179,Myziane Maolida,https://media.api-sports.io/football/players/22179.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8423,719561,167,1899 Hoffenheim,CASA,702,Oliver Baumann,https://media.api-sports.io/football/players/702.png,90.0,G,6.6,False,0,,,0,1,0,3,26,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8424,719561,167,1899 Hoffenheim,CASA,711,Stefan Posch,https://media.api-sports.io/football/players/711.png,90.0,D,6.7,False,0,1.0,1.0,0,0,0,0,67,52,0,0,11,5,0,1,0,2,0,0,0,0,0,0,0
+8425,719561,167,1899 Hoffenheim,CASA,719,Florian Grillitsch,https://media.api-sports.io/football/players/719.png,90.0,D,6.6,False,0,,,0,0,0,0,64,58,0,3,8,2,0,2,1,2,0,0,0,0,0,0,0
+8426,719561,167,1899 Hoffenheim,CASA,708,Benjamin Hübner,https://media.api-sports.io/football/players/708.png,90.0,D,7.2,False,0,2.0,1.0,0,0,0,0,52,43,1,2,15,9,0,1,0,2,1,0,0,0,0,0,0
+8427,719561,167,1899 Hoffenheim,CASA,709,Pavel Kadeřábek,https://media.api-sports.io/football/players/709.png,70.0,M,6.6,False,0,1.0,,0,0,0,0,33,23,1,2,5,2,0,1,1,1,0,0,0,0,0,0,0
+8428,719561,167,1899 Hoffenheim,CASA,715,Christoph Baumgartner,https://media.api-sports.io/football/players/715.png,90.0,M,8.3,False,0,3.0,3.0,2,0,0,0,27,19,0,0,13,4,0,1,1,2,1,0,0,0,0,0,0
+8429,719561,167,1899 Hoffenheim,CASA,718,Dennis Geiger,https://media.api-sports.io/football/players/718.png,58.0,M,6.9,False,0,,,0,0,0,0,14,12,0,1,5,3,0,0,0,1,1,0,0,0,0,0,0
+8430,719561,167,1899 Hoffenheim,CASA,25158,David Raum,https://media.api-sports.io/football/players/25158.png,90.0,M,6.3,False,0,,,0,0,0,0,37,27,0,0,11,2,0,3,0,0,0,0,0,0,0,0,0
+8431,719561,167,1899 Hoffenheim,CASA,90590,Georginio Rutter,https://media.api-sports.io/football/players/90590.png,81.0,F,6.9,False,1,,,0,0,0,0,15,13,0,0,13,8,1,0,4,2,0,0,0,0,0,0,0
+8432,719561,167,1899 Hoffenheim,CASA,726,Andrej Kramarić,https://media.api-sports.io/football/players/726.png,90.0,F,7.2,False,1,1.0,,0,0,0,0,30,28,0,1,5,3,1,1,1,0,0,0,0,0,0,0,0
+8433,719561,167,1899 Hoffenheim,CASA,25389,Ihlas Bebou,https://media.api-sports.io/football/players/25389.png,70.0,F,6.3,False,0,3.0,1.0,0,0,0,0,12,8,0,0,8,4,0,0,1,1,0,0,0,0,0,0,0
+8434,719561,167,1899 Hoffenheim,CASA,163066,Luca Philipp,https://media.api-sports.io/football/players/163066.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8435,719561,167,1899 Hoffenheim,CASA,710,Kasim Adams,https://media.api-sports.io/football/players/710.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8436,719561,167,1899 Hoffenheim,CASA,25366,Kevin Akpoguma,https://media.api-sports.io/football/players/25366.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8437,719561,167,1899 Hoffenheim,CASA,266599,Justin Che,https://media.api-sports.io/football/players/266599.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8438,719561,167,1899 Hoffenheim,CASA,416,Sebastian Rudy,https://media.api-sports.io/football/players/416.png,32.0,M,7.5,True,0,,,0,0,1,0,16,12,2,1,4,3,0,0,1,0,0,0,0,0,0,0,0
+8439,719561,167,1899 Hoffenheim,CASA,137210,Angelo Stiller,https://media.api-sports.io/football/players/137210.png,20.0,M,6.6,True,0,,,0,0,0,0,19,16,0,0,5,3,0,1,2,0,0,0,0,0,0,0,0
+8440,719561,167,1899 Hoffenheim,CASA,1094,Diadié Samassékou,https://media.api-sports.io/football/players/1094.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8441,719561,167,1899 Hoffenheim,CASA,1097,Munas Dabbur,https://media.api-sports.io/football/players/1097.png,20.0,F,6.2,True,0,,,0,0,0,0,11,6,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0
+8442,719561,167,1899 Hoffenheim,CASA,22,Jacob Bruun Larsen,https://media.api-sports.io/football/players/22.png,9.0,F,6.9,True,0,,,0,0,0,0,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8443,719561,172,VfB Stuttgart,FORA,25905,Florian Müller,https://media.api-sports.io/football/players/25905.png,90.0,G,7.3,False,0,,,0,2,0,4,26,24,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8444,719561,172,VfB Stuttgart,FORA,26244,Pascal Stenzel,https://media.api-sports.io/football/players/26244.png,73.0,D,7.7,False,0,,,0,0,0,0,47,40,1,2,6,5,0,0,1,0,0,0,0,0,0,0,0
+8445,719561,172,VfB Stuttgart,FORA,1445,Konstantinos Mavropanos,https://media.api-sports.io/football/players/1445.png,90.0,D,7.3,False,0,2.0,1.0,0,0,0,0,33,30,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0
+8446,719561,172,VfB Stuttgart,FORA,25368,Waldemar Anton,https://media.api-sports.io/football/players/25368.png,90.0,D,6.2,False,0,,,0,0,0,0,43,37,0,1,7,2,0,1,0,2,1,0,0,0,0,0,0
+8447,719561,172,VfB Stuttgart,FORA,32893,Hiroki Ito,https://media.api-sports.io/football/players/32893.png,90.0,D,7.3,False,0,,,0,0,0,0,45,37,1,3,9,5,0,0,1,1,0,0,0,0,0,0,0
+8448,719561,172,VfB Stuttgart,FORA,81573,Omar Marmoush,https://media.api-sports.io/football/players/81573.png,86.0,M,6.5,False,1,2.0,1.0,0,0,0,0,26,15,0,1,22,10,3,0,2,2,0,0,0,0,0,0,0
+8449,719561,172,VfB Stuttgart,FORA,8500,Wataru Endo,https://media.api-sports.io/football/players/8500.png,90.0,M,7.9,False,0,2.0,1.0,1,0,0,0,27,20,2,0,11,8,0,0,1,3,0,0,0,0,0,0,0
+8450,719561,172,VfB Stuttgart,FORA,24963,Atakan Karazor,https://media.api-sports.io/football/players/24963.png,90.0,M,6.7,False,0,,,0,0,0,0,32,20,0,1,11,6,2,0,1,2,0,0,0,0,0,0,0
+8451,719561,172,VfB Stuttgart,FORA,24882,Orel Mangala,https://media.api-sports.io/football/players/24882.png,37.0,M,6.6,False,0,,,0,0,0,0,9,8,0,0,9,6,2,0,3,1,0,0,0,0,0,0,0
+8452,719561,172,VfB Stuttgart,FORA,24798,Chris Führich,https://media.api-sports.io/football/players/24798.png,45.0,M,6.9,False,0,2.0,,0,0,0,0,11,9,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
+8453,719561,172,VfB Stuttgart,FORA,265363,Tiago Tomás,https://media.api-sports.io/football/players/265363.png,90.0,F,6.3,False,3,1.0,1.0,0,0,0,0,10,6,0,0,10,2,1,1,1,0,0,0,0,0,0,0,0
+8454,719561,172,VfB Stuttgart,FORA,25597,Fabian Bredlow,https://media.api-sports.io/football/players/25597.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8455,719561,172,VfB Stuttgart,FORA,138818,Clinton Mola,https://media.api-sports.io/football/players/138818.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8456,719561,172,VfB Stuttgart,FORA,152418,Naouirou Ahamada,https://media.api-sports.io/football/players/152418.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8457,719561,172,VfB Stuttgart,FORA,207236,Ömer Faruk Beyaz,https://media.api-sports.io/football/players/207236.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8458,719561,172,VfB Stuttgart,FORA,25026,Roberto Massimo,https://media.api-sports.io/football/players/25026.png,17.0,M,6.7,True,0,,,0,0,0,0,5,3,0,2,1,1,1,0,0,0,0,0,0,0,0,0,0
+8459,719561,172,VfB Stuttgart,FORA,26311,Erik Thommy,https://media.api-sports.io/football/players/26311.png,12.0,M,6.6,True,0,,,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8460,719561,172,VfB Stuttgart,FORA,179567,Lilian Egloff,https://media.api-sports.io/football/players/179567.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8461,719561,172,VfB Stuttgart,FORA,25183,Philipp Förster,https://media.api-sports.io/football/players/25183.png,53.0,M,6.7,True,0,,,0,0,0,0,15,12,0,0,7,3,0,0,0,2,1,0,0,0,0,0,0
+8462,719561,172,VfB Stuttgart,FORA,7722,Saša Kalajdžić,https://media.api-sports.io/football/players/7722.png,45.0,F,7.2,True,0,,,0,0,1,0,23,15,0,2,10,6,2,0,2,0,0,0,0,0,0,0,0
+8463,719562,170,FC Augsburg,CASA,24837,Rafał Gikiewicz,https://media.api-sports.io/football/players/24837.png,90.0,G,7.7,False,0,,,0,1,0,5,34,24,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8464,719562,170,FC Augsburg,CASA,25293,Reece Oxford,https://media.api-sports.io/football/players/25293.png,90.0,D,7.3,False,0,1.0,1.0,0,0,0,0,39,31,0,5,8,5,0,1,1,1,0,0,0,0,0,0,0
+8465,719562,170,FC Augsburg,CASA,25290,Jeffrey Gouweleeuw,https://media.api-sports.io/football/players/25290.png,90.0,D,6.6,False,1,,,0,0,0,0,35,23,1,0,10,7,0,1,1,1,0,0,0,0,0,0,0
+8466,719562,170,FC Augsburg,CASA,25406,Felix Uduokhai,https://media.api-sports.io/football/players/25406.png,90.0,D,6.9,False,0,,,0,0,0,0,42,36,1,1,7,3,0,1,1,1,0,0,0,0,0,0,0
+8467,719562,170,FC Augsburg,CASA,410,Daniel Caligiuri,https://media.api-sports.io/football/players/410.png,90.0,M,6.9,False,0,,,0,0,0,0,30,22,0,3,8,3,1,3,0,0,0,0,0,0,0,0,0
+8468,719562,170,FC Augsburg,CASA,25355,Arne Maier,https://media.api-sports.io/football/players/25355.png,90.0,M,7.2,False,0,2.0,1.0,0,0,1,0,27,20,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
+8469,719562,170,FC Augsburg,CASA,24904,Niklas Dorsch,https://media.api-sports.io/football/players/24904.png,59.0,M,6.9,False,0,,,0,0,0,0,32,27,0,3,11,5,1,1,1,4,1,0,0,0,0,0,0
+8470,719562,170,FC Augsburg,CASA,15901,Mads Pedersen,https://media.api-sports.io/football/players/15901.png,71.0,M,6.6,False,0,,,0,0,0,0,19,13,0,1,13,7,1,1,0,2,0,0,0,0,0,0,0
+8471,719562,170,FC Augsburg,CASA,25297,Michael Gregoritsch,https://media.api-sports.io/football/players/25297.png,70.0,F,6.6,False,0,2.0,1.0,0,0,0,0,17,9,0,1,6,2,0,2,0,1,0,0,0,0,0,0,0
+8472,719562,170,FC Augsburg,CASA,73868,Ricardo Pepi,https://media.api-sports.io/football/players/73868.png,59.0,F,6.5,False,0,,,0,0,0,0,10,5,0,0,4,1,0,1,1,0,0,0,0,0,0,0,0
+8473,719562,170,FC Augsburg,CASA,48471,Ruben Vargas,https://media.api-sports.io/football/players/48471.png,89.0,F,6.3,False,1,,,0,0,0,0,19,13,0,0,16,6,2,0,1,1,1,0,0,0,0,0,0
+8474,719562,170,FC Augsburg,CASA,2192,Tomáš Koubek,https://media.api-sports.io/football/players/2192.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8475,719562,170,FC Augsburg,CASA,10375,Iago,https://media.api-sports.io/football/players/10375.png,19.0,D,6.6,True,0,,,0,0,0,0,13,11,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+8476,719562,170,FC Augsburg,CASA,25288,Raphael Framberger,https://media.api-sports.io/football/players/25288.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8477,719562,170,FC Augsburg,CASA,16063,Frederik Franck Winther,https://media.api-sports.io/football/players/16063.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8478,719562,170,FC Augsburg,CASA,25302,Jan Morávek,https://media.api-sports.io/football/players/25302.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8479,719562,170,FC Augsburg,CASA,162079,Lasse Günther,https://media.api-sports.io/football/players/162079.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,0
+8480,719562,170,FC Augsburg,CASA,2577,Carlos Gruezo,https://media.api-sports.io/football/players/2577.png,31.0,M,6.9,True,0,1.0,,0,0,0,0,7,7,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0
+8481,719562,170,FC Augsburg,CASA,26257,Florian Niederlechner,https://media.api-sports.io/football/players/26257.png,31.0,F,6.5,True,0,,,0,0,0,0,3,3,0,0,5,1,1,1,0,1,0,0,0,0,0,0,0
+8482,719562,170,FC Augsburg,CASA,25385,Noah Joel Sarenren Bazee,https://media.api-sports.io/football/players/25385.png,20.0,M,7.2,True,0,1.0,1.0,1,0,0,0,3,2,0,1,2,1,0,0,0,1,0,0,0,0,0,0,0
+8483,719562,165,Borussia Dortmund,FORA,25282,Gregor Kobel,https://media.api-sports.io/football/players/25282.png,90.0,G,7.0,False,0,,,0,1,0,3,37,28,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0
+8484,719562,165,Borussia Dortmund,FORA,864,Emre Can,https://media.api-sports.io/football/players/864.png,90.0,D,6.9,False,0,,,0,0,0,0,75,61,1,4,14,7,1,2,2,1,0,0,0,0,0,0,0
+8485,719562,165,Borussia Dortmund,FORA,501,Mats Hummels,https://media.api-sports.io/football/players/501.png,90.0,D,7.3,False,0,,,0,0,0,0,82,70,1,1,8,5,1,1,1,1,0,0,0,0,0,0,0
+8486,719562,165,Borussia Dortmund,FORA,1084,Marin Pongračić,https://media.api-sports.io/football/players/1084.png,90.0,D,7.3,False,0,,,0,0,0,0,65,54,0,5,9,7,2,0,0,1,0,0,0,0,0,0,0
+8487,719562,165,Borussia Dortmund,FORA,2929,Thorgan Hazard,https://media.api-sports.io/football/players/2929.png,90.0,M,7.5,False,1,1.0,1.0,1,0,0,0,51,45,0,1,15,8,3,1,2,1,0,0,0,0,0,0,0
+8488,719562,165,Borussia Dortmund,FORA,14,Mahmoud Dahoud,https://media.api-sports.io/football/players/14.png,81.0,M,7.2,False,0,1.0,1.0,0,0,1,0,58,46,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0
+8489,719562,165,Borussia Dortmund,FORA,20,Axel Witsel,https://media.api-sports.io/football/players/20.png,90.0,M,6.9,False,0,,,0,0,0,0,71,67,0,0,7,4,0,0,1,0,0,0,0,0,0,0,0
+8490,719562,165,Borussia Dortmund,FORA,129718,Jude Bellingham,https://media.api-sports.io/football/players/129718.png,90.0,M,6.5,False,0,,,0,0,0,0,41,38,0,1,15,6,0,1,4,3,1,0,0,0,0,0,0
+8491,719562,165,Borussia Dortmund,FORA,8,Raphaël Guerreiro,https://media.api-sports.io/football/players/8.png,90.0,M,7.2,False,0,1.0,1.0,0,0,0,0,67,55,0,1,5,4,4,0,0,0,0,0,0,0,0,0,0
+8492,719562,165,Borussia Dortmund,FORA,984,Julian Brandt,https://media.api-sports.io/football/players/984.png,68.0,F,6.9,False,0,1.0,1.0,0,0,0,0,48,41,0,0,5,3,0,1,1,0,0,0,0,0,0,0,0
+8493,719562,165,Borussia Dortmund,FORA,249,Donyell Malen,https://media.api-sports.io/football/players/249.png,68.0,F,7.3,False,0,3.0,2.0,0,0,0,0,11,9,0,0,6,3,2,0,1,0,0,0,0,0,0,0,0
+8494,719562,165,Borussia Dortmund,FORA,2,Marwin Hitz,https://media.api-sports.io/football/players/2.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8495,719562,165,Borussia Dortmund,FORA,721,Nico Schulz,https://media.api-sports.io/football/players/721.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8496,719562,165,Borussia Dortmund,FORA,19068,Felix Passlack,https://media.api-sports.io/football/players/19068.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8497,719562,165,Borussia Dortmund,FORA,162568,Soumaila Coulibaly,https://media.api-sports.io/football/players/162568.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8498,719562,165,Borussia Dortmund,FORA,26,Marius Wolf,https://media.api-sports.io/football/players/26.png,22.0,M,6.3,True,0,,,0,0,0,0,11,9,0,1,6,3,0,0,1,1,0,0,0,0,0,0,0
+8499,719562,165,Borussia Dortmund,FORA,10166,Reinier,https://media.api-sports.io/football/players/10166.png,9.0,M,6.3,True,0,,,0,0,0,0,4,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+8500,719562,165,Borussia Dortmund,FORA,161919,Youssoufa Moukoko,https://media.api-sports.io/football/players/161919.png,22.0,F,6.5,True,1,1.0,,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+8501,719562,165,Borussia Dortmund,FORA,26343,Steffen Tigges,https://media.api-sports.io/football/players/26343.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8502,719563,176,VfL BOCHUM,CASA,25058,Manuel Riemann,https://media.api-sports.io/football/players/25058.png,94.0,G,6.5,False,0,,,0,1,0,0,47,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8503,719563,176,VfL BOCHUM,CASA,1109,Cristian Gamboa,https://media.api-sports.io/football/players/1109.png,94.0,D,7.2,False,0,1.0,,0,0,0,0,42,36,1,1,9,5,2,2,0,1,1,0,0,0,0,0,0
+8504,719563,176,VfL BOCHUM,CASA,25061,Armel Bella-Kotchap,https://media.api-sports.io/football/players/25061.png,94.0,D,6.9,False,1,,,0,0,0,0,44,31,0,2,8,7,0,0,3,1,0,0,0,0,0,0,0
+8505,719563,176,VfL BOCHUM,CASA,25066,Maxim Leitsch,https://media.api-sports.io/football/players/25066.png,94.0,D,7.3,False,0,1.0,,0,0,0,0,46,39,0,4,10,6,1,0,0,2,0,0,0,0,0,0,0
+8506,719563,176,VfL BOCHUM,CASA,25067,Danilo Soares,https://media.api-sports.io/football/players/25067.png,94.0,D,6.3,False,0,,,0,0,0,0,55,39,0,2,9,4,1,2,0,0,0,0,0,0,0,0,0
+8507,719563,176,VfL BOCHUM,CASA,25614,Eduard Löwen,https://media.api-sports.io/football/players/25614.png,86.0,M,6.9,False,0,,,0,0,0,0,41,32,0,0,10,4,2,2,0,1,0,0,0,0,0,0,0
+8508,719563,176,VfL BOCHUM,CASA,25074,Anthony Losilla,https://media.api-sports.io/football/players/25074.png,94.0,M,7.3,False,0,1.0,,0,0,0,0,44,35,0,1,12,8,1,0,1,1,0,0,0,0,0,0,0
+8509,719563,176,VfL BOCHUM,CASA,25413,Elvis Rexhbeçaj,https://media.api-sports.io/football/players/25413.png,94.0,M,6.7,False,0,3.0,1.0,0,0,0,0,40,23,0,0,12,6,0,0,3,1,0,0,0,0,0,0,0
+8510,719563,176,VfL BOCHUM,CASA,25375,Takuma Asano,https://media.api-sports.io/football/players/25375.png,72.0,F,6.6,False,1,,,0,0,0,0,13,10,0,0,9,3,1,0,0,3,0,0,0,0,0,0,0
+8511,719563,176,VfL BOCHUM,CASA,24861,Sebastian Polter,https://media.api-sports.io/football/players/24861.png,71.0,F,6.7,False,1,1.0,,0,0,0,0,11,9,0,0,14,4,0,0,0,2,0,0,0,0,0,0,0
+8512,719563,176,VfL BOCHUM,CASA,25081,Miloš Pantović,https://media.api-sports.io/football/players/25081.png,72.0,F,6.6,False,0,1.0,,0,0,0,0,16,11,0,1,8,1,0,0,1,3,0,0,0,0,0,0,0
+8513,719563,176,VfL BOCHUM,CASA,25363,Michael Esser,https://media.api-sports.io/football/players/25363.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8514,719563,176,VfL BOCHUM,CASA,61411,Erhan Mašović,https://media.api-sports.io/football/players/61411.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8515,719563,176,VfL BOCHUM,CASA,25294,Konstantinos Stafylidis,https://media.api-sports.io/football/players/25294.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8516,719563,176,VfL BOCHUM,CASA,25919,Gerrit Holtmann,https://media.api-sports.io/football/players/25919.png,22.0,F,6.9,True,0,,,0,0,0,0,8,7,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0
+8517,719563,176,VfL BOCHUM,CASA,24815,Christopher Antwi-Adjei,https://media.api-sports.io/football/players/24815.png,22.0,F,6.3,True,0,1.0,,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0
+8518,719563,176,VfL BOCHUM,CASA,163022,Patrick Osterhage,https://media.api-sports.io/football/players/163022.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8519,719563,176,VfL BOCHUM,CASA,25078,Robert Tesche,https://media.api-sports.io/football/players/25078.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8520,719563,176,VfL BOCHUM,CASA,18981,Jürgen Locadia,https://media.api-sports.io/football/players/18981.png,23.0,F,6.3,True,1,,,0,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8521,719563,176,VfL BOCHUM,CASA,47000,Danny Blum,https://media.api-sports.io/football/players/47000.png,8.0,F,6.6,True,0,,,0,0,0,0,3,3,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0
+8522,719563,173,RB Leipzig,FORA,1139,Péter Gulácsi,https://media.api-sports.io/football/players/1139.png,94.0,G,6.9,False,0,,,0,0,0,1,30,20,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8523,719563,173,RB Leipzig,FORA,1144,Lukas Klostermann,https://media.api-sports.io/football/players/1144.png,94.0,D,7.2,False,0,,,0,0,0,0,39,33,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0
+8524,719563,173,RB Leipzig,FORA,1148,Willi Orbán,https://media.api-sports.io/football/players/1148.png,94.0,D,7.2,False,0,,,0,0,0,0,34,18,1,2,10,8,0,0,3,0,0,0,0,0,0,0,0
+8525,719563,173,RB Leipzig,FORA,22250,Mohamed Simakan,https://media.api-sports.io/football/players/22250.png,94.0,D,7.5,False,0,,,0,0,0,0,41,32,1,1,12,10,0,0,3,0,1,0,0,0,0,0,0
+8526,719563,173,RB Leipzig,FORA,1146,Nordi Mukiele,https://media.api-sports.io/football/players/1146.png,72.0,M,6.3,False,0,,,0,0,0,0,21,12,0,1,8,3,1,0,0,2,0,0,0,0,0,0,0
+8527,719563,173,RB Leipzig,FORA,1150,Tyler Adams,https://media.api-sports.io/football/players/1150.png,59.0,M,6.5,False,0,,,0,0,0,0,27,20,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0
+8528,719563,173,RB Leipzig,FORA,1153,Amadou Haidara,https://media.api-sports.io/football/players/1153.png,94.0,M,7.3,False,0,,,0,0,0,0,49,42,0,0,18,12,1,2,2,2,0,0,0,0,0,0,0
+8529,719563,173,RB Leipzig,FORA,227,Angeliño,https://media.api-sports.io/football/players/227.png,94.0,M,7.7,False,0,,,0,0,0,0,49,39,2,1,5,3,1,1,0,0,0,0,0,0,0,0,0
+8530,719563,173,RB Leipzig,FORA,1152,Emil Forsberg,https://media.api-sports.io/football/players/1152.png,81.0,F,6.9,False,0,2.0,,0,0,0,0,34,30,0,0,5,2,1,1,0,0,0,0,0,0,0,0,0
+8531,719563,173,RB Leipzig,FORA,1167,Yussuf Poulsen,https://media.api-sports.io/football/players/1167.png,58.0,F,6.2,False,0,1.0,,0,0,0,0,21,12,0,0,13,5,0,0,1,1,0,0,0,0,0,0,0
+8532,719563,173,RB Leipzig,FORA,1096,Dominik Szoboszlai,https://media.api-sports.io/football/players/1096.png,58.0,F,6.2,False,1,,,0,0,0,0,19,10,0,1,14,3,2,2,1,1,0,0,0,0,0,0,0
+8533,719563,173,RB Leipzig,FORA,46988,Josep Martínez,https://media.api-sports.io/football/players/46988.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8534,719563,173,RB Leipzig,FORA,25199,Philipp Tschauner,https://media.api-sports.io/football/players/25199.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8535,719563,173,RB Leipzig,FORA,98,Benjamin Henrichs,https://media.api-sports.io/football/players/98.png,22.0,D,7.2,True,0,,,0,0,1,0,8,4,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0
+8536,719563,173,RB Leipzig,FORA,1143,Marcel Halstenberg,https://media.api-sports.io/football/players/1143.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8537,719563,173,RB Leipzig,FORA,1157,Konrad Laimer,https://media.api-sports.io/football/players/1157.png,13.0,M,6.9,True,0,,,0,0,0,0,7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8538,719563,173,RB Leipzig,FORA,269,Christopher Nkunku,https://media.api-sports.io/football/players/269.png,36.0,M,7.2,True,0,1.0,1.0,1,0,0,0,6,5,0,0,3,2,0,0,2,1,0,0,0,0,0,0,0
+8539,719563,173,RB Leipzig,FORA,1323,Dani Olmo,https://media.api-sports.io/football/players/1323.png,35.0,M,6.3,True,0,,,0,0,0,0,16,13,0,0,4,1,0,2,0,1,0,0,0,0,0,0,0
+8540,719563,173,RB Leipzig,FORA,2063,André Silva,https://media.api-sports.io/football/players/2063.png,36.0,F,6.5,True,0,1.0,,0,0,0,0,10,4,0,0,4,0,0,1,0,1,0,0,0,0,0,0,0
+8541,719563,173,RB Leipzig,FORA,162170,Hugo Novoa Ramos,https://media.api-sports.io/football/players/162170.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8542,719564,178,SpVgg Greuther Furth,CASA,39034,Andreas Linde,https://media.api-sports.io/football/players/39034.png,90.0,G,7.0,False,0,,,0,1,0,3,34,17,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+8543,719564,178,SpVgg Greuther Furth,CASA,113591,Marco Meyerhofer,https://media.api-sports.io/football/players/113591.png,90.0,D,7.0,False,0,1.0,,0,0,0,0,30,25,1,1,8,3,1,0,1,1,0,0,0,0,0,0,0
+8544,719564,178,SpVgg Greuther Furth,CASA,24905,Sebastian Griesbeck,https://media.api-sports.io/football/players/24905.png,90.0,D,7.3,False,0,1.0,1.0,1,0,0,0,25,18,1,3,8,3,1,0,1,2,0,0,0,0,0,0,0
+8545,719564,178,SpVgg Greuther Furth,CASA,232,Nick Viergever,https://media.api-sports.io/football/players/232.png,90.0,D,6.6,False,0,,,0,0,0,0,19,14,0,1,3,2,0,0,1,1,0,0,0,0,0,0,0
+8546,719564,178,SpVgg Greuther Furth,CASA,25401,Gian-Luca Itter,https://media.api-sports.io/football/players/25401.png,90.0,D,7.7,False,0,,,0,0,1,0,31,18,1,1,10,7,1,1,0,0,0,0,0,0,0,0,0
+8547,719564,178,SpVgg Greuther Furth,CASA,25161,Paul Seguin,https://media.api-sports.io/football/players/25161.png,90.0,M,6.5,False,0,,,0,0,0,0,36,24,0,0,14,6,1,0,1,1,0,0,0,0,0,0,0
+8548,719564,178,SpVgg Greuther Furth,CASA,25013,Max Christiansen,https://media.api-sports.io/football/players/25013.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,33,27,1,5,15,7,1,3,1,2,0,0,0,0,0,0,0
+8549,719564,178,SpVgg Greuther Furth,CASA,25617,Timothy Tillman,https://media.api-sports.io/football/players/25617.png,57.0,M,6.3,False,0,2.0,2.0,0,0,0,0,11,7,0,0,9,3,0,2,1,3,1,0,0,0,0,0,0
+8550,719564,178,SpVgg Greuther Furth,CASA,24936,Jeremy Dudziak,https://media.api-sports.io/football/players/24936.png,90.0,M,6.7,False,1,,,0,0,0,0,22,17,0,1,11,5,0,0,3,1,0,0,0,0,0,0,0
+8551,719564,178,SpVgg Greuther Furth,CASA,1827,Branimir Hrgota,https://media.api-sports.io/football/players/1827.png,90.0,F,6.5,False,1,1.0,,0,0,0,0,8,5,0,1,12,3,1,0,0,2,0,0,0,0,0,0,0
+8552,719564,178,SpVgg Greuther Furth,CASA,128533,Jamie Leweling,https://media.api-sports.io/football/players/128533.png,86.0,F,6.9,False,1,2.0,1.0,0,0,0,0,22,11,0,0,14,4,4,0,0,0,0,0,0,0,0,0,0
+8553,719564,178,SpVgg Greuther Furth,CASA,25143,Leon Schaffran,https://media.api-sports.io/football/players/25143.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8554,719564,178,SpVgg Greuther Furth,CASA,25144,Maximilian Bauer,https://media.api-sports.io/football/players/25144.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8555,719564,178,SpVgg Greuther Furth,CASA,25285,Simon Asta,https://media.api-sports.io/football/players/25285.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8556,719564,178,SpVgg Greuther Furth,CASA,1813,Jetro Willems,https://media.api-sports.io/football/players/1813.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8557,719564,178,SpVgg Greuther Furth,CASA,25165,Julian Green,https://media.api-sports.io/football/players/25165.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8558,719564,178,SpVgg Greuther Furth,CASA,48563,Afimico Pululu,https://media.api-sports.io/football/players/48563.png,8.0,F,6.6,True,0,,,0,0,0,0,1,0,0,0,4,3,1,0,2,1,0,0,0,0,0,0,0
+8559,719564,178,SpVgg Greuther Furth,CASA,129131,Tobias Raschl,https://media.api-sports.io/football/players/129131.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8560,719564,178,SpVgg Greuther Furth,CASA,25277,Håvard Nielsen,https://media.api-sports.io/football/players/25277.png,33.0,F,6.9,True,0,1.0,1.0,0,0,0,0,11,7,0,0,8,4,0,0,2,1,0,0,0,0,0,0,0
+8561,719564,178,SpVgg Greuther Furth,CASA,194682,Dickson Abiama,https://media.api-sports.io/football/players/194682.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8562,719564,192,FC Koln,FORA,15871,Marvin Schwäbe,https://media.api-sports.io/football/players/15871.png,90.0,G,7.0,False,0,,,0,1,0,4,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8563,719564,192,FC Koln,FORA,24794,Benno Schmitz,https://media.api-sports.io/football/players/24794.png,90.0,D,6.9,False,0,,,0,0,0,0,46,33,0,1,12,6,0,1,3,3,0,0,0,0,0,0,0
+8564,719564,192,FC Koln,FORA,108474,Luca Kilian,https://media.api-sports.io/football/players/108474.png,90.0,D,7.2,False,0,,,0,0,0,0,40,35,2,1,6,5,0,0,0,0,0,0,0,0,0,0,0
+8565,719564,192,FC Koln,FORA,90641,Timo Hübers,https://media.api-sports.io/football/players/90641.png,90.0,D,8.2,False,0,,,0,0,0,0,60,48,2,3,13,10,0,1,0,2,0,0,0,0,0,0,0
+8566,719564,192,FC Koln,FORA,24801,Jonas Hector,https://media.api-sports.io/football/players/24801.png,90.0,D,7.2,False,0,1.0,,0,0,1,0,68,57,0,1,10,6,0,2,2,0,0,0,0,0,0,0,0
+8567,719564,192,FC Koln,FORA,21587,Ellyes Skhiri,https://media.api-sports.io/football/players/21587.png,90.0,M,7.2,False,0,3.0,,0,0,0,0,38,28,0,0,19,12,2,1,2,1,1,0,0,0,0,0,0
+8568,719564,192,FC Koln,FORA,24807,Salih Özcan,https://media.api-sports.io/football/players/24807.png,64.0,M,7.3,False,0,1.0,,0,0,0,0,25,22,0,2,10,7,2,0,2,2,1,0,0,0,0,0,0
+8569,719564,192,FC Koln,FORA,24803,Florian Kainz,https://media.api-sports.io/football/players/24803.png,75.0,M,7.9,False,0,2.0,2.0,1,0,0,0,36,23,0,0,14,5,0,3,0,2,0,0,0,0,0,0,0
+8570,719564,192,FC Koln,FORA,426,Mark Uth,https://media.api-sports.io/football/players/426.png,84.0,M,7.2,False,0,1.0,1.0,0,0,0,0,26,19,0,0,7,4,0,0,1,0,0,0,0,0,0,0,0
+8571,719564,192,FC Koln,FORA,24811,Anthony Modeste,https://media.api-sports.io/football/players/24811.png,84.0,F,6.9,False,0,2.0,1.0,0,0,0,0,11,7,0,0,9,4,0,0,1,1,0,0,0,0,0,0,0
+8572,719564,192,FC Koln,FORA,181908,Jan Thielmann,https://media.api-sports.io/football/players/181908.png,75.0,F,6.5,False,0,1.0,,0,0,0,0,18,12,0,0,5,2,1,0,0,1,0,0,0,0,0,0,0
+8573,719564,192,FC Koln,FORA,24785,Timo Horn,https://media.api-sports.io/football/players/24785.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8574,719564,192,FC Koln,FORA,38112,Julian Chabot,https://media.api-sports.io/football/players/38112.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8575,719564,192,FC Koln,FORA,36916,Kingsley Ehizibue,https://media.api-sports.io/football/players/36916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8576,719564,192,FC Koln,FORA,1725,Dejan Ljubičić,https://media.api-sports.io/football/players/1725.png,26.0,M,6.3,True,0,2.0,,0,0,0,0,9,6,0,0,4,2,1,2,1,0,0,0,0,0,0,0,0
+8577,719564,192,FC Koln,FORA,25349,Ondrej Duda,https://media.api-sports.io/football/players/25349.png,10.0,M,6.5,True,0,,,0,0,0,0,3,2,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+8578,719564,192,FC Koln,FORA,24809,Louis Schaub,https://media.api-sports.io/football/players/24809.png,15.0,M,6.3,True,0,1.0,,0,0,0,0,13,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8579,719564,192,FC Koln,FORA,24970,Kingsley Schindler,https://media.api-sports.io/football/players/24970.png,15.0,M,6.9,True,0,,,0,0,0,0,8,4,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0
+8580,719564,192,FC Koln,FORA,203040,Tim Lemperle,https://media.api-sports.io/football/players/203040.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8581,719564,192,FC Koln,FORA,2862,Sebastian Andersson,https://media.api-sports.io/football/players/2862.png,10.0,F,6.7,True,0,,,0,0,0,0,2,1,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+0,719565,157,Bayern Munich,CASA,498,Sven Ulreich,https://media.api-sports.io/football/players/498.png,90.0,G,6.7,False,0,,,0,1,0,2,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,719565,157,Bayern Munich,CASA,2725,Benjamin Pavard,https://media.api-sports.io/football/players/2725.png,90.0,D,8,False,0,1.0,,0,0,0,0,92,85,2,5,4,3,0,0,0,0,0,0,0,0,0,0,0
+2,719565,157,Bayern Munich,CASA,506,Niklas Süle,https://media.api-sports.io/football/players/506.png,90.0,D,7.6,False,0,2.0,1.0,1,0,0,0,107,99,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0
+3,719565,157,Bayern Munich,CASA,1149,Dayot Upamecano,https://media.api-sports.io/football/players/1149.png,90.0,D,7.2,False,0,,,0,0,0,0,101,91,1,0,6,5,0,1,0,0,0,0,0,0,0,0,0
+4,719565,157,Bayern Munich,CASA,19610,Omar Richards,https://media.api-sports.io/football/players/19610.png,61.0,D,7,False,0,1.0,,0,0,0,0,32,27,0,1,15,9,1,0,3,3,0,0,0,0,0,0,0
+5,719565,157,Bayern Munich,CASA,502,Joshua Kimmich,https://media.api-sports.io/football/players/502.png,90.0,M,7.3,False,0,,,0,0,0,0,95,86,0,2,15,9,2,2,3,1,0,0,0,0,0,0,0
+6,719565,157,Bayern Munich,CASA,181812,Jamal Musiala,https://media.api-sports.io/football/players/181812.png,90.0,M,6.9,False,0,1.0,1.0,0,0,0,0,40,32,0,2,7,4,2,0,1,0,0,0,0,0,0,0,0
+7,719565,157,Bayern Munich,CASA,508,Kingsley Coman,https://media.api-sports.io/football/players/508.png,86.0,M,6.9,False,0,,,0,0,0,0,38,33,0,2,10,5,1,1,2,3,1,0,0,0,0,0,0
+8,719565,157,Bayern Munich,CASA,522,Thomas Müller,https://media.api-sports.io/football/players/522.png,61.0,M,6.9,False,0,2.0,1.0,0,0,0,0,32,27,0,0,7,2,0,0,2,0,0,0,0,0,0,0,0
+9,719565,157,Bayern Munich,CASA,510,Serge Gnabry,https://media.api-sports.io/football/players/510.png,74.0,M,7.2,False,1,2.0,,0,0,0,0,44,38,0,1,5,3,2,0,0,0,0,0,0,0,0,0,0
+10,719565,157,Bayern Munich,CASA,521,Robert Lewandowski,https://media.api-sports.io/football/players/521.png,90.0,F,6.6,False,1,3.0,1.0,0,0,0,0,23,16,0,0,7,4,1,0,1,0,0,0,0,0,0,0,0
+11,719565,157,Bayern Munich,CASA,495,Christian Früchtl,https://media.api-sports.io/football/players/495.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719565,157,Bayern Munich,CASA,1915,Bouna Sarr,https://media.api-sports.io/football/players/1915.png,4.0,D,,True,0,,,0,0,0,0,7,3,0,0,3,2,2,0,0,0,0,0,0,0,0,0,0
+13,719565,157,Bayern Munich,CASA,133110,Tanguy Nianzou,https://media.api-sports.io/football/players/133110.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,719565,157,Bayern Munich,CASA,125171,Josip Stanišić,https://media.api-sports.io/football/players/125171.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719565,157,Bayern Munich,CASA,47341,Marc Roca,https://media.api-sports.io/football/players/47341.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719565,157,Bayern Munich,CASA,1159,Marcel Sabitzer,https://media.api-sports.io/football/players/1159.png,29.0,M,6.6,True,0,1.0,1.0,0,0,0,0,19,16,0,0,3,1,1,0,0,1,0,0,0,0,0,0,0
+17,719565,157,Bayern Munich,CASA,327895,Paul Wanner,https://media.api-sports.io/football/players/327895.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,719565,157,Bayern Munich,CASA,644,Leroy Sané,https://media.api-sports.io/football/players/644.png,29.0,F,6.9,True,0,,,0,0,0,0,25,22,0,0,4,3,2,1,0,0,0,0,0,0,0,0,0
+19,719565,157,Bayern Munich,CASA,275,Eric Maxim Choupo-Moting,https://media.api-sports.io/football/players/275.png,16.0,F,6.3,True,0,,,0,0,0,0,4,4,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0
+20,719565,168,Bayer Leverkusen,FORA,963,Lukáš Hrádecký,https://media.api-sports.io/football/players/963.png,90.0,G,7.2,False,0,,,0,1,0,4,29,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,719565,168,Bayer Leverkusen,FORA,41150,Edmond Tapsoba,https://media.api-sports.io/football/players/41150.png,90.0,D,7,False,0,,,0,0,0,0,39,27,1,1,8,7,0,0,1,1,0,0,0,0,0,0,0
+22,719565,168,Bayer Leverkusen,FORA,972,Jonathan Tah,https://media.api-sports.io/football/players/972.png,90.0,D,6.6,False,0,,,0,0,0,0,19,15,1,1,2,1,0,1,0,0,0,0,0,0,0,0,0
+23,719565,168,Bayer Leverkusen,FORA,127817,Piero Hincapie,https://media.api-sports.io/football/players/127817.png,90.0,D,7.2,False,0,,,0,0,0,0,35,26,1,5,9,5,0,0,2,2,0,0,0,0,0,0,0
+24,719565,168,Bayer Leverkusen,FORA,152654,Jeremie Frimpong,https://media.api-sports.io/football/players/152654.png,90.0,M,6.3,False,0,1.0,1.0,0,0,0,0,27,21,0,0,11,5,1,0,2,1,0,0,0,0,0,0,0
+25,719565,168,Bayer Leverkusen,FORA,974,Charles Aránguiz,https://media.api-sports.io/football/players/974.png,90.0,M,6.7,False,0,1.0,1.0,0,0,0,0,28,22,0,3,12,5,0,5,1,2,0,0,0,0,0,0,0
+26,719565,168,Bayer Leverkusen,FORA,717,Kerem Demirbay,https://media.api-sports.io/football/players/717.png,90.0,M,7.2,False,0,,,0,0,0,0,39,36,0,3,9,4,1,2,2,2,1,0,0,0,0,0,0
+27,719565,168,Bayer Leverkusen,FORA,530,Mitchel Bakker,https://media.api-sports.io/football/players/530.png,82.0,M,6.7,False,0,,,0,0,0,0,26,20,0,2,5,1,1,1,0,2,1,0,0,0,0,0,0
+28,719565,168,Bayer Leverkusen,FORA,129682,Amine Adli,https://media.api-sports.io/football/players/129682.png,70.0,F,6.3,False,0,3.0,,0,0,0,0,15,9,0,0,11,3,1,0,0,3,0,0,0,0,0,0,0
+29,719565,168,Bayer Leverkusen,FORA,277,Moussa Diaby,https://media.api-sports.io/football/players/277.png,89.0,F,6.3,False,3,,,0,0,0,0,28,20,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0
+30,719565,168,Bayer Leverkusen,FORA,203224,Florian Wirtz,https://media.api-sports.io/football/players/203224.png,89.0,F,6.2,False,0,1.0,,0,0,0,0,21,12,0,1,11,4,1,2,2,1,0,0,0,0,0,0,0
+31,719565,168,Bayer Leverkusen,FORA,25802,Lennart Grill,https://media.api-sports.io/football/players/25802.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719565,168,Bayer Leverkusen,FORA,19018,Timothy Fosu-Mensah,https://media.api-sports.io/football/players/19018.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719565,168,Bayer Leverkusen,FORA,48119,Odilon Kossounou,https://media.api-sports.io/football/players/48119.png,8.0,D,7,True,0,,,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719565,168,Bayer Leverkusen,FORA,536,Daley Sinkgraven,https://media.api-sports.io/football/players/536.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,719565,168,Bayer Leverkusen,FORA,975,Julian Baumgartlinger,https://media.api-sports.io/football/players/975.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,719565,168,Bayer Leverkusen,FORA,6002,Exequiel Palacios,https://media.api-sports.io/football/players/6002.png,20.0,M,6.9,True,0,,,0,0,0,0,7,7,0,0,5,3,0,1,0,0,0,0,0,0,0,0,0
+37,719565,168,Bayer Leverkusen,FORA,987,Paulinho,https://media.api-sports.io/football/players/987.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,719565,168,Bayer Leverkusen,FORA,1221,Sardar Azmoun,https://media.api-sports.io/football/players/1221.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+39,719565,168,Bayer Leverkusen,FORA,982,Lucas Alario,https://media.api-sports.io/football/players/982.png,1.0,F,,True,0,,,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+0,719566,173,RB Leipzig,CASA,1139,Péter Gulácsi,https://media.api-sports.io/football/players/1139.png,90.0,G,6.7,False,0,,,0,1,0,2,14,14,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+1,719566,173,RB Leipzig,CASA,1144,Lukas Klostermann,https://media.api-sports.io/football/players/1144.png,90.0,D,6.9,False,0,,,0,0,0,0,88,83,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+2,719566,173,RB Leipzig,CASA,1148,Willi Orbán,https://media.api-sports.io/football/players/1148.png,90.0,D,6.9,False,0,1.0,1.0,0,0,0,0,128,119,0,3,17,6,0,1,1,2,0,0,0,0,0,0,0
+3,719566,173,RB Leipzig,CASA,129033,Joško Gvardiol,https://media.api-sports.io/football/players/129033.png,90.0,D,7.3,False,0,1.0,,0,0,0,0,136,117,0,4,10,7,0,0,2,1,0,0,0,0,0,0,0
+4,719566,173,RB Leipzig,CASA,1146,Nordi Mukiele,https://media.api-sports.io/football/players/1146.png,58.0,M,6.6,False,0,,,0,0,0,0,35,29,0,1,4,2,1,0,0,1,0,0,0,0,0,0,0
+5,719566,173,RB Leipzig,CASA,1155,Kevin Kampl,https://media.api-sports.io/football/players/1155.png,58.0,M,7,False,0,,,0,0,0,0,77,69,0,1,2,2,1,0,0,0,0,0,0,0,0,0,0
+6,719566,173,RB Leipzig,CASA,1153,Amadou Haidara,https://media.api-sports.io/football/players/1153.png,90.0,M,7.5,False,0,1.0,,0,0,0,0,64,57,0,4,9,7,2,1,2,0,0,0,0,0,0,0,0
+7,719566,173,RB Leipzig,CASA,227,Angeliño,https://media.api-sports.io/football/players/227.png,90.0,M,7.9,False,0,1.0,1.0,1,0,0,0,52,43,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0
+8,719566,173,RB Leipzig,CASA,1152,Emil Forsberg,https://media.api-sports.io/football/players/1152.png,79.0,F,7.2,False,0,1.0,1.0,0,0,0,0,55,47,0,0,8,3,0,0,2,1,0,0,0,0,0,0,0
+9,719566,173,RB Leipzig,CASA,1167,Yussuf Poulsen,https://media.api-sports.io/football/players/1167.png,59.0,F,6.9,False,1,,,0,0,0,0,16,9,0,0,5,3,0,0,2,0,0,0,0,0,0,0,0
+10,719566,173,RB Leipzig,CASA,269,Christopher Nkunku,https://media.api-sports.io/football/players/269.png,90.0,F,6.7,False,0,1.0,,0,0,0,0,34,33,0,0,8,5,2,0,2,2,0,0,0,0,0,0,0
+11,719566,173,RB Leipzig,CASA,46988,Josep Martínez,https://media.api-sports.io/football/players/46988.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719566,173,RB Leipzig,CASA,22250,Mohamed Simakan,https://media.api-sports.io/football/players/22250.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719566,173,RB Leipzig,CASA,98,Benjamin Henrichs,https://media.api-sports.io/football/players/98.png,32.0,D,7,True,0,2.0,1.0,0,0,0,0,33,25,0,0,4,2,1,0,1,1,1,0,0,0,0,0,0
+14,719566,173,RB Leipzig,CASA,1143,Marcel Halstenberg,https://media.api-sports.io/football/players/1143.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719566,173,RB Leipzig,CASA,1323,Dani Olmo,https://media.api-sports.io/football/players/1323.png,32.0,M,7,True,0,2.0,1.0,0,0,0,0,30,26,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0
+16,719566,173,RB Leipzig,CASA,1157,Konrad Laimer,https://media.api-sports.io/football/players/1157.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,719566,173,RB Leipzig,CASA,1096,Dominik Szoboszlai,https://media.api-sports.io/football/players/1096.png,11.0,M,7.2,True,0,,,0,0,1,0,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,719566,173,RB Leipzig,CASA,1150,Tyler Adams,https://media.api-sports.io/football/players/1150.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,719566,173,RB Leipzig,CASA,2063,André Silva,https://media.api-sports.io/football/players/2063.png,31.0,F,6.6,True,0,1.0,1.0,0,0,0,0,10,9,0,0,6,2,0,1,0,0,0,0,0,0,0,0,0
+20,719566,160,SC Freiburg,FORA,26232,Mark Flekken,https://media.api-sports.io/football/players/26232.png,90.0,G,7.2,False,0,,,0,1,0,5,29,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,719566,160,SC Freiburg,FORA,26235,Manuel Gulde,https://media.api-sports.io/football/players/26235.png,89.0,D,7.3,False,0,,,0,0,0,0,29,24,0,4,8,4,0,0,0,3,0,0,0,0,0,0,0
+22,719566,160,SC Freiburg,FORA,26240,Philipp Lienhart,https://media.api-sports.io/football/players/26240.png,90.0,D,7.3,False,0,,,0,0,0,0,47,35,1,6,4,2,0,0,1,1,0,0,0,0,0,0,0
+23,719566,160,SC Freiburg,FORA,26243,Nico Schlotterbeck,https://media.api-sports.io/football/players/26243.png,65.0,D,7.3,False,0,1.0,1.0,0,0,0,0,37,30,0,2,5,4,2,0,0,0,0,0,0,0,0,0,0
+24,719566,160,SC Freiburg,FORA,26239,Lukas Kübler,https://media.api-sports.io/football/players/26239.png,90.0,M,6.7,False,2,,,0,0,0,0,15,14,1,2,5,1,0,1,0,2,0,0,0,0,0,0,0
+25,719566,160,SC Freiburg,FORA,26249,Janik Haberer,https://media.api-sports.io/football/players/26249.png,90.0,M,6.5,False,0,1.0,,0,0,0,0,16,12,0,4,7,1,0,1,1,2,0,0,0,0,0,0,0
+26,719566,160,SC Freiburg,FORA,2917,Maximilian Eggestein,https://media.api-sports.io/football/players/2917.png,90.0,M,6.6,False,0,,,0,0,0,0,32,23,1,1,9,5,0,1,2,1,0,0,0,0,0,0,0
+27,719566,160,SC Freiburg,FORA,26248,Vincenzo Grifo,https://media.api-sports.io/football/players/26248.png,65.0,M,6.7,False,0,,,0,0,0,0,19,16,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0
+28,719566,160,SC Freiburg,FORA,26236,Christian Günter,https://media.api-sports.io/football/players/26236.png,90.0,M,6.5,False,0,,,0,0,0,0,19,9,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
+29,719566,160,SC Freiburg,FORA,26255,Lucas Höler,https://media.api-sports.io/football/players/26255.png,79.0,F,6.7,False,1,,,0,0,0,0,22,17,0,0,15,7,1,1,2,3,0,0,0,0,0,0,0
+30,719566,160,SC Freiburg,FORA,46930,Ermedin Demirović,https://media.api-sports.io/football/players/46930.png,79.0,F,7.5,False,1,2.0,2.0,1,0,0,0,19,10,0,0,14,6,0,2,0,2,0,0,0,0,0,0,0
+31,719566,160,SC Freiburg,FORA,26087,Benjamin Uphoff,https://media.api-sports.io/football/players/26087.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719566,160,SC Freiburg,FORA,26242,Keven Schlotterbeck,https://media.api-sports.io/football/players/26242.png,1.0,D,,True,0,,,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+33,719566,160,SC Freiburg,FORA,191233,Kiliann Sildillia,https://media.api-sports.io/football/players/191233.png,25.0,D,6.5,True,0,,,0,0,0,0,5,2,0,1,2,1,0,0,1,0,0,0,0,0,0,0,0
+34,719566,160,SC Freiburg,FORA,290213,Hugo Siquet,https://media.api-sports.io/football/players/290213.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,719566,160,SC Freiburg,FORA,280024,Robert Wagner,https://media.api-sports.io/football/players/280024.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,719566,160,SC Freiburg,FORA,512,Woo-Yeong Jeong,https://media.api-sports.io/football/players/512.png,25.0,M,6.5,True,1,,,0,0,0,0,7,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+37,719566,160,SC Freiburg,FORA,26252,Roland Sallai,https://media.api-sports.io/football/players/26252.png,11.0,F,6.3,True,0,,,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,719566,160,SC Freiburg,FORA,26258,Nils Petersen,https://media.api-sports.io/football/players/26258.png,11.0,F,6.3,True,0,,,0,0,0,0,4,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0
+39,719566,160,SC Freiburg,FORA,178077,Kevin Schade,https://media.api-sports.io/football/players/178077.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,719567,161,VfL Wolfsburg,CASA,2918,Koen Casteels,https://media.api-sports.io/football/players/2918.png,90.0,G,7.9,False,0,,,0,0,0,4,35,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,719567,161,VfL Wolfsburg,CASA,946,Kevin Mbabu,https://media.api-sports.io/football/players/946.png,90.0,D,7,False,0,,,0,0,0,0,35,26,2,0,12,4,0,2,1,1,0,0,0,0,0,0,0
+2,719567,161,VfL Wolfsburg,CASA,1408,Sebastiaan Bornauw,https://media.api-sports.io/football/players/1408.png,90.0,D,7.5,False,0,,,0,0,0,0,51,38,0,5,7,3,0,0,0,2,0,0,0,0,0,0,0
+3,719567,161,VfL Wolfsburg,CASA,25397,John Brooks,https://media.api-sports.io/football/players/25397.png,90.0,D,7.2,False,0,,,0,0,0,0,55,46,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0
+4,719567,161,VfL Wolfsburg,CASA,25404,Jérôme Roussillon,https://media.api-sports.io/football/players/25404.png,90.0,D,7.2,False,0,,,0,0,0,0,25,21,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+5,719567,161,VfL Wolfsburg,CASA,25917,Ridle Baku,https://media.api-sports.io/football/players/25917.png,76.0,M,6.9,False,0,,,0,0,0,0,29,19,0,0,11,6,0,0,3,1,0,0,0,0,0,0,0
+6,719567,161,VfL Wolfsburg,CASA,25408,Maximilian Arnold,https://media.api-sports.io/football/players/25408.png,90.0,M,7.7,False,0,,,0,0,0,0,37,26,1,0,13,10,0,0,4,1,0,0,0,0,0,0,0
+7,719567,161,VfL Wolfsburg,CASA,1095,Xaver Schlager,https://media.api-sports.io/football/players/1095.png,65.0,M,6.9,False,0,1.0,,0,0,0,0,19,12,0,0,9,4,1,1,0,3,0,0,0,0,0,0,0
+8,719567,161,VfL Wolfsburg,CASA,25329,Max Kruse,https://media.api-sports.io/football/players/25329.png,86.0,M,6.6,False,0,,,0,0,0,0,27,18,0,1,4,3,0,1,1,0,0,0,0,0,0,0,0
+9,719567,161,VfL Wolfsburg,CASA,1302,Jonas Wind,https://media.api-sports.io/football/players/1302.png,90.0,F,6.3,False,0,1.0,,0,0,0,0,20,10,0,0,14,7,1,0,1,1,0,0,0,0,0,0,0
+10,719567,161,VfL Wolfsburg,CASA,148284,Bartosz Białek,https://media.api-sports.io/football/players/148284.png,64.0,F,6.9,False,0,4.0,2.0,0,0,0,0,13,5,0,0,9,4,0,1,2,0,0,0,0,0,0,0,0
+11,719567,161,VfL Wolfsburg,CASA,25396,Pavao Pervan,https://media.api-sports.io/football/players/25396.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719567,161,VfL Wolfsburg,CASA,127413,Aster Vranckx,https://media.api-sports.io/football/players/127413.png,25.0,M,6.6,True,0,,,0,0,0,0,4,3,0,0,6,4,0,0,1,2,0,0,0,0,0,0,0
+13,719567,161,VfL Wolfsburg,CASA,25400,Yannick Gerhardt,https://media.api-sports.io/football/players/25400.png,9.0,M,6.6,True,0,,,0,0,0,0,3,3,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0
+14,719567,161,VfL Wolfsburg,CASA,24,Maximilian Philipp,https://media.api-sports.io/football/players/24.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719567,161,VfL Wolfsburg,CASA,637,Felix Nmecha,https://media.api-sports.io/football/players/637.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719567,161,VfL Wolfsburg,CASA,2809,Renato Steffen,https://media.api-sports.io/football/players/2809.png,14.0,M,7,True,0,,,0,0,0,0,7,6,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0
+17,719567,161,VfL Wolfsburg,CASA,25458,Dodi Lukebakio,https://media.api-sports.io/football/players/25458.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,719567,161,VfL Wolfsburg,CASA,19461,Lukas Nmecha,https://media.api-sports.io/football/players/19461.png,26.0,F,6.6,True,0,1.0,1.0,0,0,0,0,3,0,0,0,7,3,1,1,1,1,0,0,0,0,0,0,0
+19,719567,161,VfL Wolfsburg,CASA,26260,Luca Waldschmidt,https://media.api-sports.io/football/players/26260.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,719567,182,Union Berlin,FORA,25284,Andreas Luthe,https://media.api-sports.io/football/players/25284.png,90.0,G,7,False,0,,,0,1,0,3,31,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,719567,182,Union Berlin,FORA,26297,Timo Baumgartl,https://media.api-sports.io/football/players/26297.png,90.0,D,6.7,False,0,,,0,0,0,0,39,30,0,0,6,3,0,0,0,1,0,0,0,0,0,0,0
+22,719567,182,Union Berlin,FORA,25403,Robin Knoche,https://media.api-sports.io/football/players/25403.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,47,40,0,0,6,1,0,1,1,0,0,0,0,0,0,0,0
+23,719567,182,Union Berlin,FORA,26237,Dominique Heintz,https://media.api-sports.io/football/players/26237.png,82.0,D,6.6,False,0,1.0,1.0,0,0,0,0,42,32,0,1,5,3,1,0,0,0,0,0,0,0,0,0,0
+24,719567,182,Union Berlin,FORA,24845,Julian Ryerson,https://media.api-sports.io/football/players/24845.png,90.0,M,6.9,False,0,1.0,,0,0,0,0,33,26,0,0,7,4,2,0,1,0,0,0,0,0,0,0,0
+25,719567,182,Union Berlin,FORA,25379,Genki Haraguchi,https://media.api-sports.io/football/players/25379.png,64.0,M,6.6,False,0,1.0,,0,0,0,0,12,10,0,2,10,5,0,0,2,2,0,0,0,0,0,0,0
+26,719567,182,Union Berlin,FORA,25300,Rani Khedira,https://media.api-sports.io/football/players/25300.png,82.0,M,6.9,False,0,1.0,,0,0,0,0,38,31,1,1,5,3,0,1,1,0,0,0,0,0,0,0,0
+27,719567,182,Union Berlin,FORA,24854,Grischa Prömel,https://media.api-sports.io/football/players/24854.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,39,31,0,1,15,9,1,1,3,1,0,0,0,0,0,0,0
+28,719567,182,Union Berlin,FORA,404,Bastian Oczipka,https://media.api-sports.io/football/players/404.png,90.0,M,7.5,False,0,,,0,0,0,0,51,43,0,2,12,6,2,1,1,2,0,0,0,0,0,0,0
+29,719567,182,Union Berlin,FORA,8598,Taiwo Awoniyi,https://media.api-sports.io/football/players/8598.png,71.0,F,6.2,False,1,2.0,1.0,0,0,0,0,18,12,0,0,9,1,0,0,0,4,0,0,0,0,0,0,0
+30,719567,182,Union Berlin,FORA,37938,Sheraldo Becker,https://media.api-sports.io/football/players/37938.png,71.0,F,7.2,False,2,,,0,0,0,0,26,20,0,0,5,3,0,0,2,0,0,0,0,0,0,0,0
+31,719567,182,Union Berlin,FORA,1798,Frederik Rønnow,https://media.api-sports.io/football/players/1798.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719567,182,Union Berlin,FORA,25147,Paul Jäckel,https://media.api-sports.io/football/players/25147.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719567,182,Union Berlin,FORA,24848,Christopher Trimmel,https://media.api-sports.io/football/players/24848.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719567,182,Union Berlin,FORA,25452,Niko Giesselmann,https://media.api-sports.io/football/players/25452.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,719567,182,Union Berlin,FORA,25323,Kevin Möhwald,https://media.api-sports.io/football/players/25323.png,26.0,M,6.7,True,0,1.0,,0,0,0,0,17,16,0,0,2,0,0,0,0,2,1,0,0,0,0,0,0
+36,719567,182,Union Berlin,FORA,25922,Levin Öztunali,https://media.api-sports.io/football/players/25922.png,8.0,M,6.6,True,0,,,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+37,719567,182,Union Berlin,FORA,25929,Anthony Ujah,https://media.api-sports.io/football/players/25929.png,8.0,F,7,True,0,2.0,1.0,0,0,0,0,4,1,0,0,5,2,0,0,1,2,0,0,0,0,0,0,0
+38,719567,182,Union Berlin,FORA,24826,Sven Michel,https://media.api-sports.io/football/players/24826.png,19.0,F,6.5,True,0,,,0,0,0,0,5,5,0,0,9,2,0,0,0,1,0,0,0,0,0,0,0
+39,719567,182,Union Berlin,FORA,25030,Andreas Voglsammer,https://media.api-sports.io/football/players/25030.png,19.0,F,7.2,True,0,3.0,1.0,0,0,0,0,6,3,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0
+0,719568,172,VfB Stuttgart,CASA,25905,Florian Müller,https://media.api-sports.io/football/players/25905.png,90.0,G,6.5,False,0,,,0,2,0,1,23,19,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+1,719568,172,VfB Stuttgart,CASA,1445,Konstantinos Mavropanos,https://media.api-sports.io/football/players/1445.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,61,45,0,0,13,8,0,2,1,1,0,0,0,0,0,0,0
+2,719568,172,VfB Stuttgart,CASA,25368,Waldemar Anton,https://media.api-sports.io/football/players/25368.png,90.0,D,6.7,False,0,,,0,0,0,0,97,92,1,0,7,1,0,1,0,2,1,0,0,0,0,0,0
+3,719568,172,VfB Stuttgart,CASA,32893,Hiroki Ito,https://media.api-sports.io/football/players/32893.png,90.0,D,7,False,0,,,0,0,0,0,97,86,1,0,2,1,0,0,1,1,0,0,0,0,0,0,0
+4,719568,172,VfB Stuttgart,CASA,26303,Borna Sosa,https://media.api-sports.io/football/players/26303.png,90.0,D,7.7,False,0,1.0,,0,0,1,0,56,43,1,0,8,5,3,0,1,1,0,0,0,0,0,0,0
+5,719568,172,VfB Stuttgart,CASA,8500,Wataru Endo,https://media.api-sports.io/football/players/8500.png,90.0,M,7.2,False,0,2.0,1.0,1,0,0,0,53,46,0,0,12,6,1,0,2,0,0,0,0,0,0,0,0
+6,719568,172,VfB Stuttgart,CASA,24963,Atakan Karazor,https://media.api-sports.io/football/players/24963.png,90.0,M,7.9,False,0,1.0,,0,0,0,0,61,55,0,0,16,12,2,1,2,2,0,0,0,0,0,0,0
+7,719568,172,VfB Stuttgart,CASA,24798,Chris Führich,https://media.api-sports.io/football/players/24798.png,89.0,M,7.9,False,0,2.0,2.0,1,0,0,0,41,36,0,0,11,7,3,1,0,0,0,0,0,0,0,0,0
+8,719568,172,VfB Stuttgart,CASA,265363,Tiago Tomás,https://media.api-sports.io/football/players/265363.png,89.0,F,6.3,False,2,2.0,2.0,0,0,0,0,17,11,0,0,14,9,5,0,2,0,0,0,0,0,0,0,0
+9,719568,172,VfB Stuttgart,CASA,7722,Saša Kalajdžić,https://media.api-sports.io/football/players/7722.png,90.0,F,7.3,False,1,4.0,1.0,1,0,0,0,23,16,0,0,12,6,1,0,0,0,0,0,0,0,0,0,0
+10,719568,172,VfB Stuttgart,CASA,81573,Omar Marmoush,https://media.api-sports.io/football/players/81573.png,89.0,F,6.5,False,1,2.0,1.0,0,0,0,0,17,14,0,0,12,3,2,0,0,0,0,0,0,0,0,0,0
+11,719568,172,VfB Stuttgart,CASA,25597,Fabian Bredlow,https://media.api-sports.io/football/players/25597.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719568,172,VfB Stuttgart,CASA,138818,Clinton Mola,https://media.api-sports.io/football/players/138818.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719568,172,VfB Stuttgart,CASA,24882,Orel Mangala,https://media.api-sports.io/football/players/24882.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,719568,172,VfB Stuttgart,CASA,25026,Roberto Massimo,https://media.api-sports.io/football/players/25026.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719568,172,VfB Stuttgart,CASA,26311,Erik Thommy,https://media.api-sports.io/football/players/26311.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719568,172,VfB Stuttgart,CASA,152418,Naouirou Ahamada,https://media.api-sports.io/football/players/152418.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,719568,172,VfB Stuttgart,CASA,113581,Tanguy Coulibaly,https://media.api-sports.io/football/players/113581.png,1.0,M,,True,0,,,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+18,719568,172,VfB Stuttgart,CASA,25183,Philipp Förster,https://media.api-sports.io/football/players/25183.png,1.0,M,,True,0,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,719568,172,VfB Stuttgart,CASA,179567,Lilian Egloff,https://media.api-sports.io/football/players/179567.png,1.0,M,,True,0,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,719568,163,Borussia Monchengladbach,FORA,2802,Yann Sommer,https://media.api-sports.io/football/players/2802.png,90.0,G,6.3,False,0,,,0,3,0,4,51,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,719568,163,Borussia Monchengladbach,FORA,50852,Joseph Scally,https://media.api-sports.io/football/players/50852.png,90.0,D,6,False,0,,,0,0,0,0,19,11,1,2,15,6,1,4,1,2,1,0,0,0,0,0,0
+22,719568,163,Borussia Monchengladbach,FORA,2915,Matthias Ginter,https://media.api-sports.io/football/players/2915.png,90.0,D,6.5,False,0,,,0,0,0,0,58,49,0,0,6,4,0,1,0,0,0,0,0,0,0,0,0
+23,719568,163,Borussia Monchengladbach,FORA,2803,Nico Elvedi,https://media.api-sports.io/football/players/2803.png,90.0,D,6.9,False,0,,,0,0,0,0,63,56,1,1,10,7,0,0,0,0,0,0,0,0,0,0,0
+24,719568,163,Borussia Monchengladbach,FORA,2194,Ramy Bensebaini,https://media.api-sports.io/football/players/2194.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,39,30,1,2,11,5,0,1,0,1,1,0,0,0,0,0,0
+25,719568,163,Borussia Monchengladbach,FORA,25638,Florian Neuhaus,https://media.api-sports.io/football/players/25638.png,90.0,M,7.2,False,0,1.0,1.0,0,0,1,0,29,21,0,0,9,4,1,3,0,1,0,0,0,0,0,0,0
+26,719568,163,Borussia Monchengladbach,FORA,25637,Christoph Kramer,https://media.api-sports.io/football/players/25637.png,90.0,M,7.2,False,0,,,0,0,0,0,54,42,0,1,13,9,1,2,0,1,0,0,0,0,0,0,0
+27,719568,163,Borussia Monchengladbach,FORA,22147,Kouadio Koné,https://media.api-sports.io/football/players/22147.png,72.0,M,6.3,False,1,,,0,0,0,0,37,33,1,0,7,2,0,1,1,1,0,0,0,0,0,0,0
+28,719568,163,Borussia Monchengladbach,FORA,25635,Jonas Hofmann,https://media.api-sports.io/football/players/25635.png,90.0,F,7,False,0,,,0,0,0,0,23,16,0,1,8,5,1,2,1,1,0,0,0,0,0,0,0
+29,719568,163,Borussia Monchengladbach,FORA,21509,Marcus Thuram,https://media.api-sports.io/football/players/21509.png,90.0,F,7,False,0,1.0,1.0,1,0,0,0,18,12,0,0,12,4,0,1,3,2,0,0,0,0,0,0,0
+30,719568,163,Borussia Monchengladbach,FORA,25646,Alassane Pléa,https://media.api-sports.io/football/players/25646.png,84.0,F,7.5,False,0,2.0,1.0,1,0,1,0,20,14,0,0,11,1,0,2,1,0,0,0,0,0,0,0,0
+31,719568,163,Borussia Monchengladbach,FORA,25627,Tobias Sippel,https://media.api-sports.io/football/players/25627.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719568,163,Borussia Monchengladbach,FORA,203205,Tom Gaal,https://media.api-sports.io/football/players/203205.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719568,163,Borussia Monchengladbach,FORA,25641,Keanan Bennetts,https://media.api-sports.io/football/players/25641.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719568,163,Borussia Monchengladbach,FORA,24962,László Bénes,https://media.api-sports.io/football/players/24962.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,719568,163,Borussia Monchengladbach,FORA,163069,Luca Netz,https://media.api-sports.io/football/players/163069.png,10.0,D,7,True,0,,,0,0,0,0,5,4,0,0,3,3,2,0,0,0,0,0,0,0,0,0,0
+36,719568,163,Borussia Monchengladbach,FORA,25644,Patrick Herrmann,https://media.api-sports.io/football/players/25644.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,719568,163,Borussia Monchengladbach,FORA,153286,Conor Noß,https://media.api-sports.io/football/players/153286.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,719568,163,Borussia Monchengladbach,FORA,421,Breel Embolo,https://media.api-sports.io/football/players/421.png,18.0,F,6.2,True,0,,,0,0,0,0,5,2,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0
+0,719570,159,Hertha Berlin,CASA,162502,Marcel Laurenz Lotka,https://media.api-sports.io/football/players/162502.png,90.0,G,5.2,False,1,,,0,4,0,1,35,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,719570,159,Hertha Berlin,CASA,25343,Peter Pekarík,https://media.api-sports.io/football/players/25343.png,90.0,D,6.5,False,0,,,0,0,0,0,43,33,0,2,8,6,0,1,2,0,0,0,0,0,0,0,0
+2,719570,159,Hertha Berlin,CASA,1108,Dedryck Boyata,https://media.api-sports.io/football/players/1108.png,90.0,D,6.2,False,0,,,0,0,0,0,48,37,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,719570,159,Hertha Berlin,CASA,26301,Marc-Oliver Kempf,https://media.api-sports.io/football/players/26301.png,90.0,D,5.9,False,0,1.0,,0,0,0,0,58,49,1,2,8,2,0,4,1,0,0,0,0,0,0,0,0
+4,719570,159,Hertha Berlin,CASA,25342,Maximilian Mittelstädt,https://media.api-sports.io/football/players/25342.png,90.0,D,6.6,False,0,,,0,0,0,0,33,28,0,2,15,9,1,2,3,0,1,0,0,0,0,0,0
+5,719570,159,Hertha Berlin,CASA,418,Suat Serdar,https://media.api-sports.io/football/players/418.png,90.0,M,7.3,False,0,,,0,0,0,0,29,24,0,0,11,7,2,0,1,1,0,0,0,0,0,0,0
+6,719570,159,Hertha Berlin,CASA,664,Lucas Tousart,https://media.api-sports.io/football/players/664.png,90.0,M,6.3,False,0,2.0,1.0,0,0,0,0,30,17,1,1,14,6,2,1,1,2,0,0,0,0,0,0,0
+7,719570,159,Hertha Berlin,CASA,25348,Vladimír Darida,https://media.api-sports.io/football/players/25348.png,56.0,M,7,False,0,1.0,1.0,0,0,0,0,36,22,2,1,8,5,1,1,2,2,0,0,0,0,0,0,0
+8,719570,159,Hertha Berlin,CASA,34171,Dong-jun Lee,https://media.api-sports.io/football/players/34171.png,56.0,F,6,False,0,,,0,0,0,0,6,6,0,2,9,1,0,0,1,1,0,0,0,0,0,0,0
+9,719570,159,Hertha Berlin,CASA,121,Stevan Jovetić,https://media.api-sports.io/football/players/121.png,90.0,F,6.6,False,2,1.0,,0,0,0,0,37,26,0,0,13,8,1,2,2,0,0,0,0,0,0,0,0
+10,719570,159,Hertha Berlin,CASA,25307,Marco Richter,https://media.api-sports.io/football/players/25307.png,56.0,F,6.9,False,0,,,0,0,0,0,12,7,1,1,8,5,2,0,1,0,0,0,0,0,0,0,0
+11,719570,159,Hertha Berlin,CASA,15843,Oliver Christensen,https://media.api-sports.io/football/players/15843.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719570,159,Hertha Berlin,CASA,286711,Linus Gechter,https://media.api-sports.io/football/players/286711.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719570,159,Hertha Berlin,CASA,2916,Niklas Stark,https://media.api-sports.io/football/players/2916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,719570,159,Hertha Berlin,CASA,25344,Marvin Plattenhardt,https://media.api-sports.io/football/players/25344.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719570,159,Hertha Berlin,CASA,26305,Santiago Ascacibar,https://media.api-sports.io/football/players/26305.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719570,159,Hertha Berlin,CASA,25362,Davie Selke,https://media.api-sports.io/football/players/25362.png,34.0,F,7.3,True,0,2.0,1.0,1,0,0,0,11,7,0,0,8,5,0,0,1,1,0,0,0,0,0,0,0
+17,719570,159,Hertha Berlin,CASA,152,Kevin-Prince Boateng,https://media.api-sports.io/football/players/152.png,34.0,F,6.3,True,0,,,0,0,0,0,22,17,0,0,6,3,0,1,0,2,1,0,0,0,0,0,0
+18,719570,159,Hertha Berlin,CASA,22179,Myziane Maolida,https://media.api-sports.io/football/players/22179.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,719570,159,Hertha Berlin,CASA,724,Ishak Belfodil,https://media.api-sports.io/football/players/724.png,34.0,F,6.6,True,0,1.0,1.0,0,0,0,0,9,8,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+20,719570,169,Eintracht Frankfurt,FORA,1800,Kevin Trapp,https://media.api-sports.io/football/players/1800.png,90.0,G,6.6,False,0,,,0,1,0,3,36,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,719570,169,Eintracht Frankfurt,FORA,1809,Tuta,https://media.api-sports.io/football/players/1809.png,90.0,D,7.3,False,0,1.0,1.0,1,0,0,0,48,42,0,1,11,5,0,1,2,2,0,0,0,0,0,0,0
+22,719570,169,Eintracht Frankfurt,FORA,1805,Martin Hinteregger,https://media.api-sports.io/football/players/1805.png,90.0,D,7.3,False,0,,,0,0,0,0,66,53,0,0,12,8,0,0,0,1,0,0,0,0,0,0,0
+23,719570,169,Eintracht Frankfurt,FORA,1807,Evan Ndicka,https://media.api-sports.io/football/players/1807.png,90.0,D,7.2,False,0,,,0,0,1,0,66,58,1,0,12,5,0,1,1,1,0,0,0,0,0,0,0
+24,719570,169,Eintracht Frankfurt,FORA,161922,Ansgar Knauff,https://media.api-sports.io/football/players/161922.png,83.0,M,8.2,False,0,1.0,1.0,1,0,0,0,33,16,0,0,21,15,6,1,4,3,0,0,0,0,0,0,0
+25,719570,169,Eintracht Frankfurt,FORA,14395,Kristijan Jakić,https://media.api-sports.io/football/players/14395.png,90.0,M,5.9,False,1,,,0,0,0,0,32,23,0,0,15,3,0,4,0,2,0,0,0,0,0,0,0
+26,719570,169,Eintracht Frankfurt,FORA,957,Djibril Sow,https://media.api-sports.io/football/players/957.png,88.0,M,6.9,False,0,,,0,0,0,0,43,34,0,3,9,5,0,1,2,1,0,0,0,0,0,0,0
+27,719570,169,Eintracht Frankfurt,FORA,1821,Filip Kostić,https://media.api-sports.io/football/players/1821.png,90.0,M,6.7,False,0,,,0,0,1,0,47,37,0,0,6,2,1,0,0,1,0,0,0,0,0,0,0
+28,719570,169,Eintracht Frankfurt,FORA,15884,Jesper Lindstrøm,https://media.api-sports.io/football/players/15884.png,73.0,F,7.5,False,0,1.0,1.0,1,0,0,0,16,12,0,0,5,3,3,0,0,0,0,0,0,0,0,0,0
+29,719570,169,Eintracht Frankfurt,FORA,2601,Daichi Kamada,https://media.api-sports.io/football/players/2601.png,83.0,F,7.3,False,0,,,0,0,1,0,36,29,0,1,6,4,0,1,1,0,0,0,0,0,0,0,0
+30,719570,169,Eintracht Frankfurt,FORA,6011,Rafael Santos Borré,https://media.api-sports.io/football/players/6011.png,72.0,F,7.5,False,1,1.0,1.0,1,0,0,0,23,16,0,0,6,2,1,0,0,2,0,0,0,0,0,0,0
+31,719570,169,Eintracht Frankfurt,FORA,26291,Jens Grahl,https://media.api-sports.io/football/players/26291.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719570,169,Eintracht Frankfurt,FORA,1154,Stefan Ilsanker,https://media.api-sports.io/football/players/1154.png,2.0,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719570,169,Eintracht Frankfurt,FORA,1819,Makoto Hasebe,https://media.api-sports.io/football/players/1819.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719570,169,Eintracht Frankfurt,FORA,1811,Almamy Touré,https://media.api-sports.io/football/players/1811.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,719570,169,Eintracht Frankfurt,FORA,1803,Timothy Chandler,https://media.api-sports.io/football/players/1803.png,8.0,M,6.3,True,0,,,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,719570,169,Eintracht Frankfurt,FORA,38123,Ajdin Hrustić,https://media.api-sports.io/football/players/38123.png,8.0,M,6.3,True,0,,,0,0,0,0,5,5,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0
+37,719570,169,Eintracht Frankfurt,FORA,39073,Jens Petter Hauge,https://media.api-sports.io/football/players/39073.png,17.0,F,6.7,True,0,1.0,1.0,0,0,0,0,5,4,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0
+38,719570,169,Eintracht Frankfurt,FORA,36987,Sam Lammers,https://media.api-sports.io/football/players/36987.png,18.0,F,6.7,True,0,,,0,0,0,0,6,3,1,0,4,1,0,0,0,2,1,0,0,0,0,0,0
+39,719570,169,Eintracht Frankfurt,FORA,1830,Gonçalo Paciência,https://media.api-sports.io/football/players/1830.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,719571,188,Arminia Bielefeld,CASA,25004,Stefan Ortega,https://media.api-sports.io/football/players/25004.png,90.0,G,6.5,False,0,,,0,1,0,0,68,48,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+1,719571,188,Arminia Bielefeld,CASA,25007,Cedric Brunner,https://media.api-sports.io/football/players/25007.png,76.0,D,6.9,False,0,1.0,,0,0,0,0,23,13,0,4,10,7,1,1,1,1,1,0,0,0,0,0,0
+2,719571,188,Arminia Bielefeld,CASA,41799,Guilherme Ramos,https://media.api-sports.io/football/players/41799.png,90.0,D,7,False,0,,,0,0,0,0,48,37,1,4,10,3,0,0,0,2,0,0,0,0,0,0,0
+3,719571,188,Arminia Bielefeld,CASA,48065,Joakim Nilsson,https://media.api-sports.io/football/players/48065.png,90.0,D,6.3,False,0,,,0,0,0,0,44,32,0,0,12,7,0,1,0,0,0,0,0,0,0,0,0
+4,719571,188,Arminia Bielefeld,CASA,7197,Andrés Andrade,https://media.api-sports.io/football/players/7197.png,90.0,D,6.6,False,1,,,0,0,0,0,38,24,0,0,8,7,1,0,0,0,0,0,0,0,0,0,0
+5,719571,188,Arminia Bielefeld,CASA,25499,Fabian Kunze,https://media.api-sports.io/football/players/25499.png,90.0,M,6.7,False,0,1.0,,0,0,0,0,43,34,0,3,17,7,0,3,2,1,0,0,0,0,0,0,0
+6,719571,188,Arminia Bielefeld,CASA,24829,Sebastian Vasiliadis,https://media.api-sports.io/football/players/24829.png,90.0,M,6.5,False,0,,,0,0,0,0,27,16,0,2,9,4,0,1,1,1,1,0,0,0,0,0,0
+7,719571,188,Arminia Bielefeld,CASA,126642,Patrick Wimmer,https://media.api-sports.io/football/players/126642.png,67.0,M,6.9,False,0,1.0,,0,0,0,0,14,4,0,1,15,9,3,1,2,1,0,0,0,0,0,0,0
+8,719571,188,Arminia Bielefeld,CASA,26306,Gonzalo Castro,https://media.api-sports.io/football/players/26306.png,76.0,M,6.2,False,0,,,0,0,0,0,20,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,719571,188,Arminia Bielefeld,CASA,24968,Masaya Okugawa,https://media.api-sports.io/football/players/24968.png,67.0,M,6.5,False,0,,,0,0,0,0,9,6,0,0,8,4,0,0,2,0,0,0,0,0,0,0,0
+10,719571,188,Arminia Bielefeld,CASA,25025,Fabian Klos,https://media.api-sports.io/football/players/25025.png,76.0,F,6.9,False,0,1.0,1.0,0,0,0,0,20,9,0,0,18,8,2,0,0,3,1,0,0,0,0,0,0
+11,719571,188,Arminia Bielefeld,CASA,25309,Stefanos Kapino,https://media.api-sports.io/football/players/25309.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719571,188,Arminia Bielefeld,CASA,15848,Jacob Laursen,https://media.api-sports.io/football/players/15848.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719571,188,Arminia Bielefeld,CASA,50873,George Bello,https://media.api-sports.io/football/players/50873.png,14.0,D,6.9,True,0,,,0,0,0,0,7,5,0,0,3,2,2,0,0,1,0,0,0,0,0,0,0
+14,719571,188,Arminia Bielefeld,CASA,8579,Nathan De Medina,https://media.api-sports.io/football/players/8579.png,14.0,D,6.7,True,0,,,0,0,0,0,11,5,0,1,3,2,0,0,1,0,0,0,0,0,0,0,0
+15,719571,188,Arminia Bielefeld,CASA,25011,Amos Pieper,https://media.api-sports.io/football/players/25011.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719571,188,Arminia Bielefeld,CASA,725,Robin Hack,https://media.api-sports.io/football/players/725.png,23.0,F,6.3,True,0,,,0,0,0,0,8,6,0,0,8,2,0,0,0,1,0,0,0,0,0,0,0
+17,719571,188,Arminia Bielefeld,CASA,25016,Manuel Prietl,https://media.api-sports.io/football/players/25016.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,719571,188,Arminia Bielefeld,CASA,24228,Bryan Lasme,https://media.api-sports.io/football/players/24228.png,14.0,F,6.7,True,0,,,0,0,0,0,6,3,0,0,5,4,0,0,1,1,0,0,0,0,0,0,0
+19,719571,188,Arminia Bielefeld,CASA,25109,Florian Krüger,https://media.api-sports.io/football/players/25109.png,23.0,F,6.3,True,0,,,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20,719571,170,FC Augsburg,FORA,24837,Rafał Gikiewicz,https://media.api-sports.io/football/players/24837.png,90.0,G,7.2,False,0,,,0,0,0,1,32,18,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+21,719571,170,FC Augsburg,FORA,25290,Jeffrey Gouweleeuw,https://media.api-sports.io/football/players/25290.png,90.0,D,6.9,False,0,,,0,0,0,0,48,26,0,3,10,4,0,1,1,0,0,0,0,0,0,0,0
+22,719571,170,FC Augsburg,FORA,25293,Reece Oxford,https://media.api-sports.io/football/players/25293.png,90.0,D,7.7,False,0,,,0,0,0,0,49,36,1,6,14,9,0,0,2,1,0,0,0,0,0,0,0
+23,719571,170,FC Augsburg,FORA,25406,Felix Uduokhai,https://media.api-sports.io/football/players/25406.png,33.0,D,6.5,False,0,,,0,0,0,0,22,15,0,0,4,2,0,1,1,1,0,0,0,0,0,0,0
+24,719571,170,FC Augsburg,FORA,410,Daniel Caligiuri,https://media.api-sports.io/football/players/410.png,87.0,M,7,False,0,2.0,1.0,1,0,0,0,29,24,0,1,13,3,0,2,1,2,1,0,0,0,0,0,0
+25,719571,170,FC Augsburg,FORA,25355,Arne Maier,https://media.api-sports.io/football/players/25355.png,87.0,M,7,False,0,,,0,0,0,0,36,30,0,2,5,3,0,0,0,0,0,0,0,0,0,0,0
+26,719571,170,FC Augsburg,FORA,2577,Carlos Gruezo,https://media.api-sports.io/football/players/2577.png,90.0,M,6.5,False,0,1.0,,0,0,0,0,28,19,0,1,9,3,0,1,1,1,1,0,0,0,0,0,0
+27,719571,170,FC Augsburg,FORA,10375,Iago,https://media.api-sports.io/football/players/10375.png,90.0,M,7.2,False,1,,,0,0,1,0,28,18,0,1,10,3,0,2,0,2,0,0,0,0,0,0,0
+28,719571,170,FC Augsburg,FORA,25385,Noah Joel Sarenren Bazee,https://media.api-sports.io/football/players/25385.png,68.0,F,6.6,False,0,,,0,0,0,0,13,7,0,0,12,4,2,0,0,0,0,0,0,0,0,0,0
+29,719571,170,FC Augsburg,FORA,48471,Ruben Vargas,https://media.api-sports.io/football/players/48471.png,68.0,F,6.3,False,0,1.0,,0,0,0,0,20,13,0,0,12,6,4,1,1,0,0,0,0,0,0,0,0
+30,719571,170,FC Augsburg,FORA,25297,Michael Gregoritsch,https://media.api-sports.io/football/players/25297.png,90.0,F,7,False,1,2.0,,0,0,0,0,32,19,0,0,19,10,1,1,1,1,1,0,0,0,0,0,0
+31,719571,170,FC Augsburg,FORA,2192,Tomáš Koubek,https://media.api-sports.io/football/players/2192.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719571,170,FC Augsburg,FORA,15901,Mads Pedersen,https://media.api-sports.io/football/players/15901.png,22.0,D,6.9,True,0,,,0,0,0,0,8,6,0,0,6,4,0,0,2,1,1,0,0,0,0,0,0
+33,719571,170,FC Augsburg,FORA,16063,Frederik Franck Winther,https://media.api-sports.io/football/players/16063.png,57.0,D,7.2,True,0,,,0,0,0,0,25,14,0,3,8,6,0,0,0,0,0,0,0,0,0,0,0
+34,719571,170,FC Augsburg,FORA,25288,Raphael Framberger,https://media.api-sports.io/football/players/25288.png,9.0,D,6.6,True,0,,,0,0,0,0,3,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+35,719571,170,FC Augsburg,FORA,25298,André Hahn,https://media.api-sports.io/football/players/25298.png,22.0,M,6.9,True,0,,,0,0,0,0,8,6,0,0,4,4,0,0,1,0,0,0,0,0,0,0,0
+36,719571,170,FC Augsburg,FORA,25302,Jan Morávek,https://media.api-sports.io/football/players/25302.png,9.0,M,6.2,True,0,,,0,0,0,0,4,1,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0
+37,719571,170,FC Augsburg,FORA,73868,Ricardo Pepi,https://media.api-sports.io/football/players/73868.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,719571,170,FC Augsburg,FORA,26257,Florian Niederlechner,https://media.api-sports.io/football/players/26257.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,719571,170,FC Augsburg,FORA,48649,Andi Zeqiri,https://media.api-sports.io/football/players/48649.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,719572,192,FC Koln,CASA,15871,Marvin Schwäbe,https://media.api-sports.io/football/players/15871.png,90.0,G,6.9,False,0,,,0,1,0,2,51,49,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+1,719572,192,FC Koln,CASA,24794,Benno Schmitz,https://media.api-sports.io/football/players/24794.png,90.0,D,6.6,False,0,,,0,0,0,0,58,47,0,0,8,3,0,1,1,3,0,0,0,0,0,0,0
+2,719572,192,FC Koln,CASA,108474,Luca Kilian,https://media.api-sports.io/football/players/108474.png,90.0,D,6.9,False,0,,,0,0,0,0,80,72,1,1,6,4,0,1,0,0,0,0,0,0,0,0,0
+3,719572,192,FC Koln,CASA,38112,Julian Chabot,https://media.api-sports.io/football/players/38112.png,89.0,D,6.6,False,0,,,0,0,0,0,85,69,0,0,18,12,1,1,3,1,0,0,0,0,0,0,0
+4,719572,192,FC Koln,CASA,24791,Jannes Horn,https://media.api-sports.io/football/players/24791.png,80.0,D,6.7,False,0,1.0,1.0,0,0,0,0,29,23,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0
+5,719572,192,FC Koln,CASA,21587,Ellyes Skhiri,https://media.api-sports.io/football/players/21587.png,90.0,M,6.6,False,0,,,0,0,0,0,53,42,0,1,6,3,0,1,1,0,0,0,0,0,0,0,0
+6,719572,192,FC Koln,CASA,24807,Salih Özcan,https://media.api-sports.io/football/players/24807.png,90.0,M,6.9,False,0,,,0,0,0,0,80,71,0,1,11,5,0,1,2,1,0,0,0,0,0,0,0
+7,719572,192,FC Koln,CASA,1725,Dejan Ljubičić,https://media.api-sports.io/football/players/1725.png,72.0,M,6.5,False,0,,,0,0,0,0,17,12,1,2,8,1,1,0,0,1,1,0,0,0,0,0,0
+8,719572,192,FC Koln,CASA,426,Mark Uth,https://media.api-sports.io/football/players/426.png,89.0,M,7.2,False,0,1.0,,0,0,0,0,28,23,0,0,8,6,0,0,1,1,0,0,0,0,0,0,0
+9,719572,192,FC Koln,CASA,24803,Florian Kainz,https://media.api-sports.io/football/players/24803.png,73.0,M,6.5,False,0,,,0,0,0,0,24,21,0,1,10,3,0,1,2,2,0,0,0,0,0,0,0
+10,719572,192,FC Koln,CASA,24811,Anthony Modeste,https://media.api-sports.io/football/players/24811.png,90.0,F,6.9,False,3,4.0,2.0,0,0,0,0,9,5,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0
+11,719572,192,FC Koln,CASA,24785,Timo Horn,https://media.api-sports.io/football/players/24785.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719572,192,FC Koln,CASA,36916,Kingsley Ehizibue,https://media.api-sports.io/football/players/36916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719572,192,FC Koln,CASA,162535,Bright Arrey-Mbi,https://media.api-sports.io/football/players/162535.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,719572,192,FC Koln,CASA,181908,Jan Thielmann,https://media.api-sports.io/football/players/181908.png,18.0,M,7.2,True,0,,,0,0,0,0,6,4,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0
+15,719572,192,FC Koln,CASA,24809,Louis Schaub,https://media.api-sports.io/football/players/24809.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719572,192,FC Koln,CASA,25349,Ondrej Duda,https://media.api-sports.io/football/players/25349.png,1.0,M,,True,0,,,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+17,719572,192,FC Koln,CASA,24970,Kingsley Schindler,https://media.api-sports.io/football/players/24970.png,10.0,M,6.7,True,0,,,0,0,0,0,9,4,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+18,719572,192,FC Koln,CASA,2862,Sebastian Andersson,https://media.api-sports.io/football/players/2862.png,17.0,F,6.9,True,1,2.0,1.0,0,0,0,0,2,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+19,719572,192,FC Koln,CASA,203040,Tim Lemperle,https://media.api-sports.io/football/players/203040.png,1.0,M,,True,0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,719572,167,1899 Hoffenheim,FORA,702,Oliver Baumann,https://media.api-sports.io/football/players/702.png,90.0,G,8,False,0,,,0,0,0,4,58,46,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+21,719572,167,1899 Hoffenheim,FORA,711,Stefan Posch,https://media.api-sports.io/football/players/711.png,90.0,D,7.9,False,0,1.0,1.0,1,0,0,0,64,50,1,1,5,3,0,0,1,0,0,0,0,0,0,0,0
+22,719572,167,1899 Hoffenheim,FORA,719,Florian Grillitsch,https://media.api-sports.io/football/players/719.png,90.0,D,6.9,False,0,1.0,,0,0,0,0,40,34,0,1,5,1,0,0,0,1,1,0,0,0,0,0,0
+23,719572,167,1899 Hoffenheim,FORA,25366,Kevin Akpoguma,https://media.api-sports.io/football/players/25366.png,78.0,D,7.3,False,0,,,0,0,0,0,41,34,0,3,9,6,0,0,1,0,0,0,0,0,0,0,0
+24,719572,167,1899 Hoffenheim,FORA,709,Pavel Kadeřábek,https://media.api-sports.io/football/players/709.png,90.0,M,6.7,False,0,,,0,0,0,0,37,22,0,1,12,7,0,1,0,2,0,0,0,0,0,0,0
+25,719572,167,1899 Hoffenheim,FORA,715,Christoph Baumgartner,https://media.api-sports.io/football/players/715.png,90.0,M,7.2,False,0,1.0,,0,0,0,0,25,15,0,2,15,8,1,0,3,2,1,0,0,0,0,0,0
+26,719572,167,1899 Hoffenheim,FORA,1094,Diadié Samassékou,https://media.api-sports.io/football/players/1094.png,89.0,M,6.9,False,0,,,0,0,0,0,24,18,0,3,6,3,1,0,0,1,0,0,0,0,0,0,0
+27,719572,167,1899 Hoffenheim,FORA,137210,Angelo Stiller,https://media.api-sports.io/football/players/137210.png,90.0,M,6.3,False,0,,,0,0,0,0,42,38,0,1,5,1,1,0,0,1,0,0,0,0,0,0,0
+28,719572,167,1899 Hoffenheim,FORA,25158,David Raum,https://media.api-sports.io/football/players/25158.png,90.0,M,8.2,False,0,,,0,0,1,0,47,38,0,1,4,3,1,1,1,0,0,0,0,0,0,0,0
+29,719572,167,1899 Hoffenheim,FORA,25389,Ihlas Bebou,https://media.api-sports.io/football/players/25389.png,56.0,F,5.3,False,1,3.0,1.0,0,0,0,0,12,10,0,0,15,3,0,0,1,4,0,0,0,0,0,0,0
+30,719572,167,1899 Hoffenheim,FORA,726,Andrej Kramarić,https://media.api-sports.io/football/players/726.png,78.0,F,6.5,False,0,3.0,1.0,0,0,0,0,21,16,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
+31,719572,167,1899 Hoffenheim,FORA,163066,Luca Philipp,https://media.api-sports.io/football/players/163066.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719572,167,1899 Hoffenheim,FORA,266599,Justin Che,https://media.api-sports.io/football/players/266599.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719572,167,1899 Hoffenheim,FORA,713,Kevin Vogt,https://media.api-sports.io/football/players/713.png,12.0,D,6.7,True,0,,,0,0,0,0,11,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719572,167,1899 Hoffenheim,FORA,710,Kasim Adams,https://media.api-sports.io/football/players/710.png,1.0,D,,True,0,,,0,0,0,0,1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0
+35,719572,167,1899 Hoffenheim,FORA,325975,Tom Bischof,https://media.api-sports.io/football/players/325975.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,719572,167,1899 Hoffenheim,FORA,90590,Georginio Rutter,https://media.api-sports.io/football/players/90590.png,34.0,F,7.2,True,1,2.0,,0,0,0,0,6,4,0,0,10,6,3,0,0,1,0,0,0,0,0,0,0
+37,719572,167,1899 Hoffenheim,FORA,1097,Munas Dabbur,https://media.api-sports.io/football/players/1097.png,12.0,F,6.2,True,0,,,0,0,0,0,7,4,0,0,4,0,0,1,0,0,1,0,0,0,0,0,0
+38,719572,167,1899 Hoffenheim,FORA,22,Jacob Bruun Larsen,https://media.api-sports.io/football/players/22.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,719573,176,VfL BOCHUM,CASA,25058,Manuel Riemann,https://media.api-sports.io/football/players/25058.png,90.0,G,6.6,False,0,,,0,1,0,2,44,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,719573,176,VfL BOCHUM,CASA,1109,Cristian Gamboa,https://media.api-sports.io/football/players/1109.png,74.0,D,7,False,0,,,0,0,0,0,31,25,1,3,4,1,0,0,0,1,1,0,0,0,0,0,0
+2,719573,176,VfL BOCHUM,CASA,25061,Armel Bella-Kotchap,https://media.api-sports.io/football/players/25061.png,90.0,D,6.2,False,0,,,0,0,0,0,31,20,0,1,8,5,0,2,0,1,0,0,0,0,0,0,0
+3,719573,176,VfL BOCHUM,CASA,25066,Maxim Leitsch,https://media.api-sports.io/football/players/25066.png,90.0,D,8,False,0,1.0,1.0,1,0,0,0,36,30,1,0,9,8,0,0,0,1,0,0,0,0,0,0,0
+4,719573,176,VfL BOCHUM,CASA,25067,Danilo Soares,https://media.api-sports.io/football/players/25067.png,90.0,D,7.7,False,0,1.0,1.0,0,0,0,0,34,24,0,1,25,17,3,0,2,1,0,0,0,0,0,0,0
+5,719573,176,VfL BOCHUM,CASA,25614,Eduard Löwen,https://media.api-sports.io/football/players/25614.png,65.0,M,6.9,False,0,1.0,1.0,0,0,0,0,23,17,0,0,6,3,2,0,0,0,0,0,0,0,0,0,0
+6,719573,176,VfL BOCHUM,CASA,25074,Anthony Losilla,https://media.api-sports.io/football/players/25074.png,90.0,M,7.9,False,0,3.0,1.0,1,0,0,0,32,21,0,3,18,11,3,1,2,1,0,0,0,0,0,0,0
+7,719573,176,VfL BOCHUM,CASA,25413,Elvis Rexhbeçaj,https://media.api-sports.io/football/players/25413.png,89.0,M,7.2,False,0,1.0,,0,0,0,0,26,12,0,0,9,6,1,0,1,0,0,0,0,0,0,0,0
+8,719573,176,VfL BOCHUM,CASA,24815,Christopher Antwi-Adjei,https://media.api-sports.io/football/players/24815.png,74.0,F,7.3,False,0,3.0,1.0,0,0,0,0,18,11,0,0,16,10,2,3,3,0,0,0,0,0,0,0,0
+9,719573,176,VfL BOCHUM,CASA,24861,Sebastian Polter,https://media.api-sports.io/football/players/24861.png,90.0,F,6.9,False,0,,,0,0,0,0,23,11,1,0,18,8,0,0,2,5,0,0,0,0,0,0,0
+10,719573,176,VfL BOCHUM,CASA,25919,Gerrit Holtmann,https://media.api-sports.io/football/players/25919.png,65.0,F,6.2,False,0,1.0,1.0,0,0,0,0,11,7,0,0,15,4,1,0,1,0,0,0,0,0,0,0,0
+11,719573,176,VfL BOCHUM,CASA,25363,Michael Esser,https://media.api-sports.io/football/players/25363.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,719573,176,VfL BOCHUM,CASA,119158,Herbert Bockhorn,https://media.api-sports.io/football/players/119158.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,719573,176,VfL BOCHUM,CASA,25294,Konstantinos Stafylidis,https://media.api-sports.io/football/players/25294.png,16.0,D,6.6,True,0,,,0,0,0,0,2,2,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+14,719573,176,VfL BOCHUM,CASA,594,Vasilis Lampropoulos,https://media.api-sports.io/football/players/594.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,719573,176,VfL BOCHUM,CASA,61411,Erhan Mašović,https://media.api-sports.io/football/players/61411.png,1.0,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,719573,176,VfL BOCHUM,CASA,163022,Patrick Osterhage,https://media.api-sports.io/football/players/163022.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,719573,176,VfL BOCHUM,CASA,47000,Danny Blum,https://media.api-sports.io/football/players/47000.png,16.0,F,6.7,True,0,,,0,0,0,0,8,5,0,1,5,2,0,0,0,1,0,0,0,0,0,0,0
+18,719573,176,VfL BOCHUM,CASA,25375,Takuma Asano,https://media.api-sports.io/football/players/25375.png,25.0,F,6.6,True,0,1.0,1.0,0,0,0,0,9,5,0,0,6,4,0,0,2,1,0,0,0,0,0,0,0
+19,719573,176,VfL BOCHUM,CASA,25081,Miloš Pantović,https://media.api-sports.io/football/players/25081.png,25.0,F,7,True,0,,,0,0,0,0,6,5,0,1,5,2,0,0,1,3,1,0,0,0,0,0,0
+20,719573,178,SpVgg Greuther Furth,FORA,39034,Andreas Linde,https://media.api-sports.io/football/players/39034.png,90.0,G,7.3,False,0,,,0,2,0,5,33,20,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0
+21,719573,178,SpVgg Greuther Furth,FORA,113591,Marco Meyerhofer,https://media.api-sports.io/football/players/113591.png,90.0,D,7,False,0,,,0,0,0,0,32,15,1,2,12,9,0,0,1,1,0,0,0,0,0,0,0
+22,719573,178,SpVgg Greuther Furth,FORA,24905,Sebastian Griesbeck,https://media.api-sports.io/football/players/24905.png,90.0,D,7.2,False,0,,,0,0,0,0,38,30,1,3,20,12,0,1,3,3,1,0,0,0,0,0,0
+23,719573,178,SpVgg Greuther Furth,FORA,232,Nick Viergever,https://media.api-sports.io/football/players/232.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,45,33,0,1,9,3,0,0,0,0,0,0,0,0,0,0,0
+24,719573,178,SpVgg Greuther Furth,FORA,25401,Gian-Luca Itter,https://media.api-sports.io/football/players/25401.png,45.0,D,6.2,False,0,,,0,0,0,0,19,15,0,1,7,1,0,1,0,2,1,0,0,0,0,0,0
+25,719573,178,SpVgg Greuther Furth,FORA,25161,Paul Seguin,https://media.api-sports.io/football/players/25161.png,90.0,M,5.9,False,0,,,0,0,0,0,51,31,0,0,21,9,0,4,3,1,0,0,0,0,0,0,0
+26,719573,178,SpVgg Greuther Furth,FORA,25013,Max Christiansen,https://media.api-sports.io/football/players/25013.png,82.0,M,7.2,False,0,,,0,0,0,0,43,37,0,2,13,9,0,1,1,0,0,0,0,0,0,0,0
+27,719573,178,SpVgg Greuther Furth,FORA,25617,Timothy Tillman,https://media.api-sports.io/football/players/25617.png,82.0,M,7,False,0,,,0,0,0,0,38,27,0,0,12,6,4,0,1,2,0,0,0,0,0,0,0
+28,719573,178,SpVgg Greuther Furth,FORA,24936,Jeremy Dudziak,https://media.api-sports.io/football/players/24936.png,45.0,M,6.3,False,1,1.0,1.0,0,0,0,0,15,11,0,0,4,2,0,0,1,0,0,0,0,0,0,0,0
+29,719573,178,SpVgg Greuther Furth,FORA,128533,Jamie Leweling,https://media.api-sports.io/football/players/128533.png,67.0,F,6.7,False,1,2.0,1.0,0,0,0,0,12,8,0,1,6,1,0,0,1,0,0,0,0,0,0,0,0
+30,719573,178,SpVgg Greuther Furth,FORA,1827,Branimir Hrgota,https://media.api-sports.io/football/players/1827.png,90.0,F,6.3,False,0,1.0,,0,0,0,0,21,16,0,0,16,3,0,2,2,2,1,0,0,0,0,0,0
+31,719573,178,SpVgg Greuther Furth,FORA,25141,Sascha Burchert,https://media.api-sports.io/football/players/25141.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,719573,178,SpVgg Greuther Furth,FORA,25144,Maximilian Bauer,https://media.api-sports.io/football/players/25144.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,719573,178,SpVgg Greuther Furth,FORA,25285,Simon Asta,https://media.api-sports.io/football/players/25285.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,719573,178,SpVgg Greuther Furth,FORA,1813,Jetro Willems,https://media.api-sports.io/football/players/1813.png,45.0,D,6.2,True,0,,,0,0,0,0,31,22,0,0,4,1,0,1,0,1,1,0,0,0,0,0,0
+35,719573,178,SpVgg Greuther Furth,FORA,48563,Afimico Pululu,https://media.api-sports.io/football/players/48563.png,8.0,F,6.3,True,0,1.0,,0,0,0,0,5,5,0,0,9,3,1,0,1,1,0,0,0,0,0,0,0
+36,719573,178,SpVgg Greuther Furth,FORA,25165,Julian Green,https://media.api-sports.io/football/players/25165.png,8.0,M,6.3,True,0,,,0,0,0,0,4,4,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0
+37,719573,178,SpVgg Greuther Furth,FORA,129131,Tobias Raschl,https://media.api-sports.io/football/players/129131.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,719573,178,SpVgg Greuther Furth,FORA,194682,Dickson Abiama,https://media.api-sports.io/football/players/194682.png,23.0,F,6.5,True,0,,,0,0,0,0,2,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+39,719573,178,SpVgg Greuther Furth,FORA,25277,Håvard Nielsen,https://media.api-sports.io/football/players/25277.png,45.0,F,6.3,True,1,,,0,0,0,0,22,17,0,1,6,2,0,1,1,0,0,0,0,0,0,0,0

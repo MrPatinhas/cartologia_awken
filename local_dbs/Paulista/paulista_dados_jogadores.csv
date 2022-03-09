@@ -2528,398 +2528,668 @@
 2526,814396,126,Sao Paulo,FORA,10323,Luciano,https://media.api-sports.io/football/players/10323.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2527,814396,126,Sao Paulo,FORA,311520,Marquinhos,https://media.api-sports.io/football/players/311520.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2528,814396,126,Sao Paulo,FORA,1218,Emiliano Rigoni,https://media.api-sports.io/football/players/1218.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,814390,1201,Inter De Limeira,CASA,157459,Rafael Pin,https://media.api-sports.io/football/players/157459.png,90.0,G,6.3,False,0,,,0,2,0,2,22,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,814390,1201,Inter De Limeira,CASA,195481,Léo Duarte,https://media.api-sports.io/football/players/195481.png,90.0,D,5.9,False,0,,,0,0,0,0,36,28,0,0,12,2,0,0,1,1,0,0,0,0,0,0,0
-2,814390,1201,Inter De Limeira,CASA,9414,Rodolfo,https://media.api-sports.io/football/players/9414.png,90.0,D,6.3,False,0,,,0,0,0,0,86,77,0,0,7,4,0,0,0,0,0,0,0,0,0,0,0
-3,814390,1201,Inter De Limeira,CASA,10023,Xandão,https://media.api-sports.io/football/players/10023.png,90.0,D,6.9,False,0,1.0,1.0,0,0,0,0,88,76,0,1,8,5,0,1,2,1,0,0,0,0,0,0,0
-4,814390,1201,Inter De Limeira,CASA,9462,Rafael Carioca,https://media.api-sports.io/football/players/9462.png,90.0,D,6.9,False,1,1.0,1.0,0,0,0,0,45,39,0,0,12,7,2,1,1,1,0,0,0,0,0,0,0
-5,814390,1201,Inter De Limeira,CASA,10394,Matheus Galdezani,https://media.api-sports.io/football/players/10394.png,81.0,M,6.7,False,0,1.0,,0,0,0,0,36,33,0,1,7,3,1,0,2,0,0,0,0,0,0,0,0
-6,814390,1201,Inter De Limeira,CASA,54023,Jhony Douglas,https://media.api-sports.io/football/players/54023.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,68,60,1,1,9,7,3,0,2,0,0,0,0,0,0,0,0
-7,814390,1201,Inter De Limeira,CASA,80289,Lima,https://media.api-sports.io/football/players/80289.png,45.0,M,6.6,False,0,,,0,0,0,0,17,14,1,0,6,3,1,2,1,0,0,0,0,0,0,0,0
-8,814390,1201,Inter De Limeira,CASA,10411,Diego Tavares,https://media.api-sports.io/football/players/10411.png,45.0,F,6.7,False,0,2.0,1.0,0,0,0,0,8,5,0,0,8,4,0,0,2,0,0,0,0,0,0,0,0
-9,814390,1201,Inter De Limeira,CASA,67842,Ronaldo,https://media.api-sports.io/football/players/67842.png,90.0,F,6.6,False,0,4.0,3.0,1,0,0,0,13,9,0,0,11,5,0,1,2,1,0,0,0,0,1,0,0
-10,814390,1201,Inter De Limeira,CASA,9464,Osman,https://media.api-sports.io/football/players/9464.png,68.0,F,6.6,False,0,1.0,,0,0,0,0,16,12,0,0,7,4,0,0,2,1,0,0,0,0,0,0,0
-11,814390,1201,Inter De Limeira,CASA,9693,Guilherme,https://media.api-sports.io/football/players/9693.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814390,1201,Inter De Limeira,CASA,9869,Matheus Mancini,https://media.api-sports.io/football/players/9869.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814390,1201,Inter De Limeira,CASA,33465,Tito,https://media.api-sports.io/football/players/33465.png,9.0,D,6.2,True,0,,,0,0,0,0,4,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
-14,814390,1201,Inter De Limeira,CASA,10449,Celsinho,https://media.api-sports.io/football/players/10449.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814390,1201,Inter De Limeira,CASA,180864,Emanuel Moura,https://media.api-sports.io/football/players/180864.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814390,1201,Inter De Limeira,CASA,195117,Pedro do Rio,https://media.api-sports.io/football/players/195117.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814390,1201,Inter De Limeira,CASA,77683,Renato Cajá,https://media.api-sports.io/football/players/77683.png,22.0,M,6.9,True,0,1.0,,0,0,0,0,13,11,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0
-18,814390,1201,Inter De Limeira,CASA,119151,Geovane,https://media.api-sports.io/football/players/119151.png,45.0,F,6.9,True,0,1.0,,0,0,0,0,24,19,0,0,6,4,1,0,2,1,0,0,0,0,0,0,0
-19,814390,1201,Inter De Limeira,CASA,80328,Julio Rusch,https://media.api-sports.io/football/players/80328.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814390,1201,Inter De Limeira,CASA,54939,Thiago Alagoano,https://media.api-sports.io/football/players/54939.png,45.0,F,6.5,True,1,1.0,1.0,0,0,0,0,20,14,0,0,4,3,0,0,3,1,0,0,0,0,0,0,0
-21,814390,7826,Ferroviária,FORA,80732,Saulo,https://media.api-sports.io/football/players/80732.png,90.0,G,7.9,False,0,,,0,1,0,6,21,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,814390,7826,Ferroviária,FORA,53936,Vidal,https://media.api-sports.io/football/players/53936.png,79.0,D,7,False,0,,,0,0,0,0,25,22,0,2,9,4,0,1,1,3,0,0,0,0,0,0,0
-23,814390,7826,Ferroviária,FORA,207758,Bruno Leonardo,https://media.api-sports.io/football/players/207758.png,90.0,D,7.2,False,0,,,0,0,0,0,34,23,1,2,3,1,0,0,0,2,0,0,0,0,0,0,0
-24,814390,7826,Ferroviária,FORA,9203,Didi,https://media.api-sports.io/football/players/9203.png,90.0,D,6.3,False,0,,,0,0,0,0,47,32,1,0,5,3,1,0,0,1,0,0,0,0,0,0,0
-25,814390,7826,Ferroviária,FORA,10268,João Lucas,https://media.api-sports.io/football/players/10268.png,90.0,D,7.2,False,0,,,0,0,0,0,33,27,0,1,14,8,1,0,1,2,0,0,0,0,0,0,0
-26,814390,7826,Ferroviária,FORA,9998,Guilherme Nunes,https://media.api-sports.io/football/players/9998.png,51.0,M,6.2,False,0,,,0,0,0,0,12,9,0,0,5,1,1,2,0,2,0,0,0,0,0,0,0
-27,814390,7826,Ferroviária,FORA,9463,Uillian Correia,https://media.api-sports.io/football/players/9463.png,90.0,M,6.9,False,0,,,0,0,0,0,25,23,1,0,6,3,0,0,2,2,0,0,0,0,0,0,0
-28,814390,7826,Ferroviária,FORA,10531,Gegê,https://media.api-sports.io/football/players/10531.png,90.0,M,7.2,False,0,2.0,1.0,0,0,0,0,30,25,0,0,9,6,0,1,0,1,0,0,0,0,0,0,0
-29,814390,7826,Ferroviária,FORA,157531,Netto,https://media.api-sports.io/football/players/157531.png,71.0,F,7.3,False,0,2.0,1.0,1,0,0,0,17,13,0,1,5,3,0,0,1,0,0,0,0,0,0,0,0
-30,814390,7826,Ferroviária,FORA,107626,Bruno Mezenga,https://media.api-sports.io/football/players/107626.png,79.0,F,8,False,0,1.0,1.0,1,0,1,0,15,11,0,1,14,6,0,1,1,1,0,0,0,0,0,0,0
-31,814390,7826,Ferroviária,FORA,16575,Carlos Orejuela,https://media.api-sports.io/football/players/16575.png,51.0,F,6.9,False,0,,,0,0,0,0,8,6,0,4,12,7,0,0,0,1,0,0,0,0,0,0,0
-32,814390,7826,Ferroviária,FORA,284917,Léo Wall,https://media.api-sports.io/football/players/284917.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-33,814390,7826,Ferroviária,FORA,196096,Gustavo Medina,https://media.api-sports.io/football/players/196096.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,814390,7826,Ferroviária,FORA,80543,Breno Lopes,https://media.api-sports.io/football/players/80543.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814390,7826,Ferroviária,FORA,64123,Bernardo,https://media.api-sports.io/football/players/64123.png,11.0,D,6.7,True,0,,,0,0,0,0,2,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-36,814390,7826,Ferroviária,FORA,197386,Rafael,https://media.api-sports.io/football/players/197386.png,39.0,D,6.3,True,0,,,0,0,0,0,10,8,0,2,6,3,1,0,1,3,0,0,0,0,0,0,0
-37,814390,7826,Ferroviária,FORA,237701,Thomaz,https://media.api-sports.io/football/players/237701.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814390,7826,Ferroviária,FORA,9817,Murilo Rangel,https://media.api-sports.io/football/players/9817.png,19.0,M,6,True,0,,,0,0,0,0,10,9,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0
-39,814390,7826,Ferroviária,FORA,157460,Marquinhos,https://media.api-sports.io/football/players/157460.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814390,7826,Ferroviária,FORA,159829,Gleyson,https://media.api-sports.io/football/players/159829.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814390,7826,Ferroviária,FORA,160041,Tcharlles,https://media.api-sports.io/football/players/160041.png,11.0,F,5.9,True,0,1.0,1.0,0,0,0,0,3,3,1,1,3,0,0,1,0,2,0,0,0,1,0,0,0
-42,814390,7826,Ferroviária,FORA,80480,Hygor,https://media.api-sports.io/football/players/80480.png,39.0,F,6.7,True,0,1.0,,0,0,0,0,9,6,0,0,7,3,1,0,1,2,0,0,0,0,0,0,0
-43,814390,7826,Ferroviária,FORA,310849,Vitinho,https://media.api-sports.io/football/players/310849.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,814393,7834,Novorizontino,CASA,9733,Giovanni,https://media.api-sports.io/football/players/9733.png,90.0,G,6.5,False,0,,,0,3,0,3,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,814393,7834,Novorizontino,CASA,80523,Willean Lepu,https://media.api-sports.io/football/players/80523.png,90.0,D,6.3,False,0,,,0,0,0,0,45,29,0,1,12,9,3,0,1,0,0,0,0,0,0,0,0
-2,814393,7834,Novorizontino,CASA,9807,Bruno Aguiar,https://media.api-sports.io/football/players/9807.png,90.0,D,6.2,False,0,,,0,0,0,0,44,31,1,1,4,3,0,0,0,1,0,0,0,0,0,0,0
-3,814393,7834,Novorizontino,CASA,80646,Edson Silva,https://media.api-sports.io/football/players/80646.png,90.0,D,6.6,False,0,2.0,1.0,0,0,0,0,29,22,1,1,8,6,0,1,0,0,0,0,0,0,0,0,0
-4,814393,7834,Novorizontino,CASA,159905,Reverson,https://media.api-sports.io/football/players/159905.png,82.0,D,6.3,False,0,,,0,0,0,0,34,29,0,1,7,3,1,0,1,3,0,0,0,0,0,0,0
-5,814393,7834,Novorizontino,CASA,80741,Léo Baiano,https://media.api-sports.io/football/players/80741.png,90.0,M,6.6,False,0,,,0,0,0,0,47,40,1,2,7,4,0,0,4,1,0,0,0,0,0,0,0
-6,814393,7834,Novorizontino,CASA,197563,João Pedro Barba,https://media.api-sports.io/football/players/197563.png,65.0,M,6.6,False,0,,,0,0,0,0,41,34,0,0,6,4,0,0,1,0,0,0,0,0,0,0,0
-7,814393,7834,Novorizontino,CASA,159790,Léo Tocantins,https://media.api-sports.io/football/players/159790.png,82.0,M,6.7,False,0,3.0,2.0,0,0,0,0,39,31,0,0,12,4,2,1,1,1,0,0,0,0,0,0,0
-8,814393,7834,Novorizontino,CASA,9813,Marcinho,https://media.api-sports.io/football/players/9813.png,45.0,M,6.7,False,0,2.0,2.0,0,0,0,0,11,10,0,0,6,2,0,2,1,1,0,0,0,0,0,0,0
-9,814393,7834,Novorizontino,CASA,77754,Danielzinho,https://media.api-sports.io/football/players/77754.png,65.0,M,6.5,False,0,1.0,,0,0,0,0,21,18,0,0,7,2,0,1,1,1,0,0,0,0,0,0,0
-10,814393,7834,Novorizontino,CASA,10216,Bruno Silva,https://media.api-sports.io/football/players/10216.png,90.0,F,6.2,False,3,1.0,,0,0,0,0,12,8,0,1,9,3,1,2,1,1,0,0,0,0,0,0,0
-11,814393,7834,Novorizontino,CASA,9194,Rodrigo Viana,https://media.api-sports.io/football/players/9194.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814393,7834,Novorizontino,CASA,9202,Lucas Mendes,https://media.api-sports.io/football/players/9202.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814393,7834,Novorizontino,CASA,9451,Lucas Ramon,https://media.api-sports.io/football/players/9451.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814393,7834,Novorizontino,CASA,9571,Guilherme Lazaroni,https://media.api-sports.io/football/players/9571.png,8.0,D,6.3,True,0,,,0,0,0,0,13,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-15,814393,7834,Novorizontino,CASA,9561,Wálber,https://media.api-sports.io/football/players/9561.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814393,7834,Novorizontino,CASA,54095,Anderson,https://media.api-sports.io/football/players/54095.png,25.0,M,6.2,True,0,1.0,,0,0,0,0,25,23,1,0,5,0,0,0,0,1,1,0,0,0,0,0,0
-17,814393,7834,Novorizontino,CASA,9821,Douglas Baggio,https://media.api-sports.io/football/players/9821.png,25.0,F,6.6,True,0,,,0,0,0,0,18,14,0,0,4,3,3,0,0,0,0,0,0,0,0,0,0
-18,814393,7834,Novorizontino,CASA,77866,Cléo Silva,https://media.api-sports.io/football/players/77866.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814393,7834,Novorizontino,CASA,9652,Adilson Goiano,https://media.api-sports.io/football/players/9652.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814393,7834,Novorizontino,CASA,133198,Welinton,https://media.api-sports.io/football/players/133198.png,8.0,F,6.2,True,0,,,0,0,0,0,3,1,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
-21,814393,7834,Novorizontino,CASA,290868,Romulo,https://media.api-sports.io/football/players/290868.png,45.0,F,6.2,True,0,1.0,,0,0,0,0,20,17,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0
-22,814393,794,RB Bragantino,FORA,9862,Cleiton,https://media.api-sports.io/football/players/9862.png,90.0,G,8,False,0,,,0,0,0,4,42,27,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-23,814393,794,RB Bragantino,FORA,68113,José Hurtado Cheme,https://media.api-sports.io/football/players/68113.png,90.0,D,6.9,False,0,,,0,0,0,0,31,24,0,2,8,4,1,2,0,0,0,0,0,0,0,0,0
-24,814393,794,RB Bragantino,FORA,9458,Léo Ortiz,https://media.api-sports.io/football/players/9458.png,88.0,D,7.9,False,0,,,0,0,0,0,52,44,1,5,6,5,2,0,0,1,0,0,0,0,0,0,0
-25,814393,794,RB Bragantino,FORA,195100,Natan,https://media.api-sports.io/football/players/195100.png,90.0,D,7.9,False,0,,,0,0,0,0,56,44,2,2,3,2,0,0,0,0,0,0,0,0,0,0,0
-26,814393,794,RB Bragantino,FORA,9906,Luan Cândido,https://media.api-sports.io/football/players/9906.png,90.0,D,7.9,False,0,1.0,1.0,1,0,0,0,43,31,1,1,12,8,1,2,0,0,0,0,0,0,0,0,0
-27,814393,794,RB Bragantino,FORA,10040,Artur,https://media.api-sports.io/football/players/10040.png,90.0,M,7.3,False,0,1.0,,0,0,1,0,31,23,0,0,9,6,2,0,3,0,0,0,0,0,0,0,0
-28,814393,794,RB Bragantino,FORA,80539,Jadsom,https://media.api-sports.io/football/players/80539.png,90.0,M,7.3,False,0,,,0,0,0,0,47,33,2,0,11,8,0,0,2,3,1,0,0,0,0,0,0
-29,814393,794,RB Bragantino,FORA,197533,Bruno Praxedes,https://media.api-sports.io/football/players/197533.png,76.0,M,7.3,False,0,2.0,1.0,1,0,0,0,32,26,0,0,14,6,0,2,2,3,1,0,0,0,0,0,0
-30,814393,794,RB Bragantino,FORA,9895,Leandrinho,https://media.api-sports.io/football/players/9895.png,76.0,M,7.5,False,0,1.0,1.0,0,0,1,0,17,14,0,0,10,4,1,1,1,0,0,0,0,0,0,0,0
-31,814393,794,RB Bragantino,FORA,9472,Ytalo,https://media.api-sports.io/football/players/9472.png,65.0,F,6.9,False,0,2.0,1.0,0,0,0,0,13,7,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0
-32,814393,794,RB Bragantino,FORA,64331,Miguel,https://media.api-sports.io/football/players/64331.png,65.0,F,6.3,False,0,1.0,1.0,0,0,0,0,12,9,0,0,7,0,0,2,0,2,0,0,0,0,0,0,0
-33,814393,794,RB Bragantino,FORA,9449,Júlio César,https://media.api-sports.io/football/players/9449.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,814393,794,RB Bragantino,FORA,200282,Maycon Cleiton,https://media.api-sports.io/football/players/200282.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814393,794,RB Bragantino,FORA,9453,Aderlan,https://media.api-sports.io/football/players/9453.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814393,794,RB Bragantino,FORA,195976,Guilherme Lopes,https://media.api-sports.io/football/players/195976.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814393,794,RB Bragantino,FORA,16370,Leonardo Realpe,https://media.api-sports.io/football/players/16370.png,2.0,D,,True,0,,,0,0,0,0,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814393,794,RB Bragantino,FORA,10027,Eric Ramires,https://media.api-sports.io/football/players/10027.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,814393,794,RB Bragantino,FORA,9923,Hyoran,https://media.api-sports.io/football/players/9923.png,25.0,M,6.9,True,0,1.0,,0,0,0,0,5,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-40,814393,794,RB Bragantino,FORA,311821,Luciano,https://media.api-sports.io/football/players/311821.png,14.0,M,6.6,True,0,,,0,0,0,0,5,2,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0
-41,814393,794,RB Bragantino,FORA,9468,Bruno Tubarão,https://media.api-sports.io/football/players/9468.png,14.0,F,7,True,0,,,0,0,0,0,7,4,0,2,4,3,0,0,0,1,0,0,0,0,0,0,0
-42,814393,794,RB Bragantino,FORA,2458,Jan Hurtado,https://media.api-sports.io/football/players/2458.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,814393,794,RB Bragantino,FORA,9893,Alerrandro,https://media.api-sports.io/football/players/9893.png,25.0,F,6.7,True,0,,,0,0,0,0,3,3,0,0,5,3,0,0,1,0,0,0,0,0,0,0,0
-44,814393,794,RB Bragantino,FORA,106591,Gabriel Novaes,https://media.api-sports.io/football/players/106591.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,814394,138,Guarani Campinas,CASA,9304,Mauricio Kozlinski,https://media.api-sports.io/football/players/9304.png,90.0,G,7.5,False,0,,,0,0,0,3,17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,814394,138,Guarani Campinas,CASA,9344,Diogo Mateus,https://media.api-sports.io/football/players/9344.png,90.0,D,7.9,False,0,1.0,1.0,1,0,0,0,33,25,0,2,5,4,0,0,1,1,0,0,0,0,1,0,0
-2,814394,138,Guarani Campinas,CASA,10445,Ronaldo Alves,https://media.api-sports.io/football/players/10445.png,90.0,D,6.9,False,0,,,0,0,0,0,30,21,0,3,8,2,0,3,0,1,0,0,0,0,0,0,0
-3,814394,138,Guarani Campinas,CASA,9630,Derlan,https://media.api-sports.io/football/players/9630.png,90.0,D,6.9,False,0,,,0,0,0,0,28,18,0,1,6,3,0,0,2,1,0,0,0,0,0,0,0
-4,814394,138,Guarani Campinas,CASA,195091,Matheus Pereira,https://media.api-sports.io/football/players/195091.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,23,14,0,0,9,3,1,1,2,5,0,0,0,0,0,0,0
-5,814394,138,Guarani Campinas,CASA,9533,Rodrigo Andrade,https://media.api-sports.io/football/players/9533.png,66.0,M,6.9,False,0,,,0,0,0,0,20,16,1,2,9,4,0,0,2,2,0,0,0,0,0,0,0
-6,814394,138,Guarani Campinas,CASA,10554,Bruno Silva,https://media.api-sports.io/football/players/10554.png,90.0,M,6.5,False,0,,,0,0,0,0,27,22,1,0,10,2,0,0,0,3,0,0,0,0,0,0,0
-7,814394,138,Guarani Campinas,CASA,9499,Índio,https://media.api-sports.io/football/players/9499.png,81.0,M,6.7,False,0,1.0,,0,0,0,0,13,10,0,1,4,2,0,0,2,1,0,0,0,0,0,0,0
-8,814394,138,Guarani Campinas,CASA,10356,Giovanni Augusto,https://media.api-sports.io/football/players/10356.png,81.0,F,7.3,False,1,2.0,1.0,1,0,0,0,27,25,1,0,6,3,0,0,1,1,0,0,0,0,1,0,0
-9,814394,138,Guarani Campinas,CASA,60925,Lucão,https://media.api-sports.io/football/players/60925.png,89.0,F,7.3,False,0,3.0,1.0,1,0,0,0,17,8,0,0,15,10,0,0,3,3,0,0,0,0,0,0,0
-10,814394,138,Guarani Campinas,CASA,9724,Júlio César,https://media.api-sports.io/football/players/9724.png,89.0,F,7.5,False,0,,,0,0,1,0,17,12,0,1,4,2,0,0,0,1,0,0,0,0,0,0,0
-11,814394,138,Guarani Campinas,CASA,9335,Rafael Martins,https://media.api-sports.io/football/players/9335.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814394,138,Guarani Campinas,CASA,294906,Ludke,https://media.api-sports.io/football/players/294906.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814394,138,Guarani Campinas,CASA,216241,Eliel da Silva,https://media.api-sports.io/football/players/216241.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814394,138,Guarani Campinas,CASA,115525,João Victor,https://media.api-sports.io/football/players/115525.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814394,138,Guarani Campinas,CASA,10022,Ernando,https://media.api-sports.io/football/players/10022.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814394,138,Guarani Campinas,CASA,9749,Renan,https://media.api-sports.io/football/players/9749.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814394,138,Guarani Campinas,CASA,70886,Ronald,https://media.api-sports.io/football/players/70886.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
-18,814394,138,Guarani Campinas,CASA,10345,Madison,https://media.api-sports.io/football/players/10345.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814394,138,Guarani Campinas,CASA,119272,Eduardo Person,https://media.api-sports.io/football/players/119272.png,9.0,M,6.2,True,0,,,0,0,0,0,3,3,0,0,2,0,0,1,0,1,1,0,0,0,0,0,0
-20,814394,138,Guarani Campinas,CASA,35821,Yago César,https://media.api-sports.io/football/players/35821.png,24.0,F,6.9,True,0,,,0,0,0,0,3,3,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0
-21,814394,138,Guarani Campinas,CASA,80264,Vitinho,https://media.api-sports.io/football/players/80264.png,9.0,M,6.5,True,0,,,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-22,814394,138,Guarani Campinas,CASA,48235,Maxwell,https://media.api-sports.io/football/players/48235.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,814394,139,Ponte Preta,FORA,9694,Ygor Vinhas,https://media.api-sports.io/football/players/9694.png,90.0,G,5.6,False,0,,,0,3,0,0,19,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,814394,139,Ponte Preta,FORA,10338,Kevin,https://media.api-sports.io/football/players/10338.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,60,45,1,1,6,3,0,0,1,2,0,0,0,0,0,0,0
-25,814394,139,Ponte Preta,FORA,299083,Thiago Lopes,https://media.api-sports.io/football/players/299083.png,90.0,D,6.2,False,0,,,0,0,0,0,50,45,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-26,814394,139,Ponte Preta,FORA,10308,Léo Santos,https://media.api-sports.io/football/players/10308.png,90.0,D,6.3,False,0,1.0,1.0,0,0,0,0,70,56,0,1,7,2,0,0,1,2,0,0,0,0,0,0,0
-27,814394,139,Ponte Preta,FORA,9715,Jean Carlos,https://media.api-sports.io/football/players/9715.png,76.0,D,5.6,False,0,,,0,0,0,0,35,23,0,0,4,2,0,0,1,1,0,0,0,1,0,0,0
-28,814394,139,Ponte Preta,FORA,299089,Leo Naldi,https://media.api-sports.io/football/players/299089.png,90.0,M,6.3,False,0,1.0,,0,0,0,0,31,21,1,1,9,5,0,0,3,0,0,0,0,0,0,0,0
-29,814394,139,Ponte Preta,FORA,9396,Matheus Jesus,https://media.api-sports.io/football/players/9396.png,76.0,M,6.2,False,0,1.0,1.0,0,0,0,0,18,12,0,0,5,1,0,0,0,3,0,0,0,0,0,0,0
-30,814394,139,Ponte Preta,FORA,182070,André Luiz,https://media.api-sports.io/football/players/182070.png,45.0,M,6,False,0,,,0,0,0,0,24,16,0,0,5,4,0,0,1,1,1,0,0,1,0,0,0
-31,814394,139,Ponte Preta,FORA,80537,Fessin,https://media.api-sports.io/football/players/80537.png,90.0,F,6.9,False,0,2.0,,0,0,0,0,16,14,0,0,10,7,3,1,3,1,0,0,0,0,0,0,0
-32,814394,139,Ponte Preta,FORA,42163,Lucca,https://media.api-sports.io/football/players/42163.png,90.0,F,7.3,False,0,4.0,1.0,0,0,0,0,13,9,1,0,16,9,0,0,4,2,1,0,0,0,0,0,0
-33,814394,139,Ponte Preta,FORA,48926,Pedro Junior,https://media.api-sports.io/football/players/48926.png,68.0,F,6.7,False,0,,,0,0,0,0,16,12,0,0,3,2,1,0,1,0,0,0,0,0,0,0,0
-34,814394,139,Ponte Preta,FORA,10228,Caique França,https://media.api-sports.io/football/players/10228.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814394,139,Ponte Preta,FORA,10343,Fábio Sanches,https://media.api-sports.io/football/players/10343.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814394,139,Ponte Preta,FORA,9564,Norberto Neto,https://media.api-sports.io/football/players/9564.png,14.0,D,6.7,True,0,,,0,0,0,0,12,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814394,139,Ponte Preta,FORA,36008,Fabricio,https://media.api-sports.io/football/players/36008.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814394,139,Ponte Preta,FORA,207920,Marcos Júnior,https://media.api-sports.io/football/players/207920.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,814394,139,Ponte Preta,FORA,9433,João Pedro,https://media.api-sports.io/football/players/9433.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814394,139,Ponte Preta,FORA,294905,Pedrinho,https://media.api-sports.io/football/players/294905.png,22.0,F,6.9,True,0,,,0,0,0,0,5,4,0,0,6,5,1,0,4,1,1,0,0,0,0,0,0
-41,814394,139,Ponte Preta,FORA,9427,Matheus Anjos,https://media.api-sports.io/football/players/9427.png,14.0,M,7.2,True,0,,,0,0,0,0,8,8,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0
-42,814394,139,Ponte Preta,FORA,10575,Ribamar,https://media.api-sports.io/football/players/10575.png,45.0,F,6.7,True,0,1.0,,0,0,0,0,4,3,0,0,5,3,0,0,1,2,0,0,0,0,0,0,0
-0,814397,7865,São Bernardo,CASA,80582,Júnior Oliveira,https://media.api-sports.io/football/players/80582.png,90.0,G,7.3,False,0,,,0,0,0,2,34,21,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
-1,814397,7865,São Bernardo,CASA,10191,Joilson,https://media.api-sports.io/football/players/10191.png,90.0,D,7.7,False,0,1.0,,0,0,0,0,55,38,0,1,10,7,0,0,0,1,0,0,0,0,0,0,0
-2,814397,7865,São Bernardo,CASA,9456,Ligger,https://media.api-sports.io/football/players/9456.png,90.0,D,7,False,0,,,0,0,0,0,30,26,1,0,4,3,0,0,2,0,0,0,0,0,0,0,0
-3,814397,7865,São Bernardo,CASA,305020,Ítalo,https://media.api-sports.io/football/players/305020.png,90.0,D,7.3,False,0,,,0,0,0,0,48,41,0,0,8,6,1,0,1,2,1,0,0,0,0,0,0
-4,814397,7865,São Bernardo,CASA,80186,Cristovam,https://media.api-sports.io/football/players/80186.png,90.0,M,6.7,False,0,,,0,0,0,0,36,21,0,2,7,5,0,0,2,2,0,0,0,0,0,0,0
-5,814397,7865,São Bernardo,CASA,9466,Vitinho,https://media.api-sports.io/football/players/9466.png,45.0,M,6.3,False,0,,,0,0,0,0,40,38,0,0,13,5,0,2,3,1,0,0,0,0,0,0,0
-6,814397,7865,São Bernardo,CASA,9390,Rodrigo Souza,https://media.api-sports.io/football/players/9390.png,90.0,M,7.2,False,0,,,0,0,0,0,34,19,0,4,14,10,1,1,1,2,1,0,0,0,0,0,0
-7,814397,7865,São Bernardo,CASA,10519,Igor Fernandes,https://media.api-sports.io/football/players/10519.png,90.0,M,6.9,False,0,,,0,0,0,0,27,20,0,4,8,3,0,0,1,2,0,0,0,0,0,0,0
-8,814397,7865,São Bernardo,CASA,64359,Matheus Davó,https://media.api-sports.io/football/players/64359.png,90.0,F,6.9,False,1,1.0,1.0,1,0,0,0,15,13,0,0,11,3,0,0,3,1,0,0,0,0,0,0,0
-9,814397,7865,São Bernardo,CASA,157848,João Carlos Ferreira,https://media.api-sports.io/football/players/157848.png,45.0,F,6.7,False,0,1.0,,0,0,0,0,4,2,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0
-10,814397,7865,São Bernardo,CASA,33644,Silvinho,https://media.api-sports.io/football/players/33644.png,76.0,F,7.2,False,0,,,0,0,1,0,32,25,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
-11,814397,7865,São Bernardo,CASA,78006,Oliveira,https://media.api-sports.io/football/players/78006.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814397,7865,São Bernardo,CASA,195428,Gabriel de Souza Inocencio,https://media.api-sports.io/football/players/195428.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814397,7865,São Bernardo,CASA,9809,Pará,https://media.api-sports.io/football/players/9809.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814397,7865,São Bernardo,CASA,313084,Ruan,https://media.api-sports.io/football/players/313084.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814397,7865,São Bernardo,CASA,80385,Zézinho,https://media.api-sports.io/football/players/80385.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814397,7865,São Bernardo,CASA,237737,Mário Cesinha,https://media.api-sports.io/football/players/237737.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814397,7865,São Bernardo,CASA,9539,Romisson,https://media.api-sports.io/football/players/9539.png,45.0,M,6.9,True,0,,,0,0,0,0,26,23,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0
-18,814397,7865,São Bernardo,CASA,9535,Léo Gomes,https://media.api-sports.io/football/players/9535.png,14.0,M,6.9,True,0,,,0,0,0,0,5,5,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
-19,814397,7865,São Bernardo,CASA,53546,Ravanelli,https://media.api-sports.io/football/players/53546.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814397,7865,São Bernardo,CASA,64046,Rafinha,https://media.api-sports.io/football/players/64046.png,45.0,F,6.9,True,0,1.0,,0,0,0,0,19,14,0,0,5,3,0,1,1,0,0,0,0,0,0,0,0
-21,814397,7865,São Bernardo,CASA,114455,Gustavo Ramos,https://media.api-sports.io/football/players/114455.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,814397,7779,Ituano,FORA,135134,Pegorari,https://media.api-sports.io/football/players/135134.png,90.0,G,6.3,False,0,,,0,1,0,0,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,814397,7779,Ituano,FORA,114540,Guilherme Augusto Pacheco,https://media.api-sports.io/football/players/114540.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,47,33,0,0,6,4,1,0,0,1,0,0,0,0,0,0,0
-24,814397,7779,Ituano,FORA,9631,Léo Santos,https://media.api-sports.io/football/players/9631.png,90.0,D,6.5,False,0,,,0,0,0,0,28,22,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-25,814397,7779,Ituano,FORA,9563,Cleberson,https://media.api-sports.io/football/players/9563.png,90.0,D,6.6,False,0,,,0,0,0,0,47,43,0,0,6,3,0,0,1,1,0,0,0,0,0,0,0
-26,814397,7779,Ituano,FORA,55283,Mário Sergio,https://media.api-sports.io/football/players/55283.png,84.0,D,6.6,False,0,,,0,0,0,0,36,26,0,2,10,6,0,0,1,0,0,0,0,0,0,0,0
-27,814397,7779,Ituano,FORA,9580,Kaio Mendes,https://media.api-sports.io/football/players/9580.png,76.0,M,6.9,False,2,1.0,,0,0,0,0,18,15,0,1,8,3,0,0,2,2,0,0,0,0,0,0,0
-28,814397,7779,Ituano,FORA,54709,Jorge Roa Jiménez,https://media.api-sports.io/football/players/54709.png,76.0,M,7.2,False,0,1.0,,0,0,0,0,44,30,0,1,9,6,0,0,0,2,0,0,0,0,0,0,0
-29,814397,7779,Ituano,FORA,9788,Lucas,https://media.api-sports.io/football/players/9788.png,90.0,M,6.3,False,0,,,0,0,0,0,45,34,0,1,7,2,0,0,1,1,0,0,0,0,0,0,0
-30,814397,7779,Ituano,FORA,9896,Rafael Elias,https://media.api-sports.io/football/players/9896.png,90.0,F,6.3,False,0,,,0,0,0,0,16,12,0,0,13,4,0,0,0,3,0,0,0,0,0,0,0
-31,814397,7779,Ituano,FORA,10223,Aylon,https://media.api-sports.io/football/players/10223.png,63.0,F,6.9,False,0,1.0,,0,0,0,0,15,12,1,0,16,6,1,2,3,4,0,0,0,0,0,0,0
-32,814397,7779,Ituano,FORA,10286,Calyson,https://media.api-sports.io/football/players/10286.png,63.0,F,6.5,False,1,1.0,,0,0,0,0,17,14,1,1,6,3,1,0,1,1,0,0,0,0,0,0,0
-33,814397,7779,Ituano,FORA,237883,Filipe,https://media.api-sports.io/football/players/237883.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,814397,7779,Ituano,FORA,10193,Roberto,https://media.api-sports.io/football/players/10193.png,14.0,D,6.6,True,0,,,0,0,0,0,4,3,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
-35,814397,7779,Ituano,FORA,10194,Rafael Pereira,https://media.api-sports.io/football/players/10194.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814397,7779,Ituano,FORA,195482,Bernardo Schappo,https://media.api-sports.io/football/players/195482.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814397,7779,Ituano,FORA,194940,Nathan,https://media.api-sports.io/football/players/194940.png,14.0,M,6.6,True,0,,,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814397,7779,Ituano,FORA,9717,Igor Henrique,https://media.api-sports.io/football/players/9717.png,27.0,M,6.7,True,0,,,0,0,0,0,21,18,0,0,3,1,0,0,1,2,0,0,0,0,0,0,0
-39,814397,7779,Ituano,FORA,195385,Iago,https://media.api-sports.io/football/players/195385.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814397,7779,Ituano,FORA,9858,Neto Berola,https://media.api-sports.io/football/players/9858.png,27.0,F,6.3,True,0,1.0,,0,0,0,0,14,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-41,814397,7779,Ituano,FORA,199324,Gabriel Barros,https://media.api-sports.io/football/players/199324.png,14.0,F,7.2,True,0,2.0,2.0,0,0,0,0,9,7,0,0,5,4,1,0,2,0,0,0,0,0,0,0,0
-0,814398,1201,Inter De Limeira,CASA,10509,Lucas Frigeri,https://media.api-sports.io/football/players/10509.png,95.0,G,7,False,0,,,0,0,0,1,27,23,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
-1,814398,1201,Inter De Limeira,CASA,10449,Celsinho,https://media.api-sports.io/football/players/10449.png,86.0,D,6.6,False,0,,,0,0,0,0,30,26,1,1,12,3,0,2,0,3,1,0,0,0,0,0,0
-2,814398,1201,Inter De Limeira,CASA,9414,Rodolfo,https://media.api-sports.io/football/players/9414.png,95.0,D,6.9,False,0,1.0,1.0,0,0,0,0,24,17,0,0,6,4,0,0,0,1,0,0,0,0,0,0,0
-3,814398,1201,Inter De Limeira,CASA,9869,Matheus Mancini,https://media.api-sports.io/football/players/9869.png,79.0,D,6.9,False,0,,,0,0,0,0,40,30,1,0,4,3,0,0,0,1,0,0,0,0,0,0,0
-4,814398,1201,Inter De Limeira,CASA,33465,Tito,https://media.api-sports.io/football/players/33465.png,86.0,D,6.5,False,0,,,0,0,0,0,19,16,0,2,7,0,0,2,0,3,0,0,0,0,0,0,0
-5,814398,1201,Inter De Limeira,CASA,10394,Matheus Galdezani,https://media.api-sports.io/football/players/10394.png,79.0,M,6.5,False,0,,,0,0,0,0,29,24,0,0,12,4,0,2,2,3,0,0,0,0,0,0,0
-6,814398,1201,Inter De Limeira,CASA,54023,Jhony Douglas,https://media.api-sports.io/football/players/54023.png,95.0,M,6.6,False,0,,,0,0,0,0,38,28,0,2,14,6,3,2,1,2,0,0,0,0,0,0,0
-7,814398,1201,Inter De Limeira,CASA,80289,Lima,https://media.api-sports.io/football/players/80289.png,95.0,M,7,False,0,2.0,1.0,0,0,0,0,41,31,0,1,3,1,0,0,1,1,0,0,0,0,0,0,0
-8,814398,1201,Inter De Limeira,CASA,195481,Léo Duarte,https://media.api-sports.io/football/players/195481.png,95.0,F,6.6,False,0,1.0,,0,0,0,0,23,18,0,1,21,8,2,1,0,2,0,0,0,0,0,0,0
-9,814398,1201,Inter De Limeira,CASA,67842,Ronaldo,https://media.api-sports.io/football/players/67842.png,95.0,F,6.3,False,0,1.0,,0,0,0,0,15,14,0,0,14,2,0,1,2,4,0,0,0,0,0,0,0
-10,814398,1201,Inter De Limeira,CASA,9464,Osman,https://media.api-sports.io/football/players/9464.png,62.0,F,6.9,False,0,1.0,,0,0,0,0,16,7,0,0,7,6,0,0,2,0,0,0,0,0,0,0,0
-11,814398,1201,Inter De Limeira,CASA,9693,Guilherme,https://media.api-sports.io/football/players/9693.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814398,1201,Inter De Limeira,CASA,9462,Rafael Carioca,https://media.api-sports.io/football/players/9462.png,9.0,D,6.9,True,0,,,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0
-13,814398,1201,Inter De Limeira,CASA,9703,Renan Fonseca,https://media.api-sports.io/football/players/9703.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814398,1201,Inter De Limeira,CASA,10023,Xandão,https://media.api-sports.io/football/players/10023.png,16.0,D,6.7,True,0,,,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0
-15,814398,1201,Inter De Limeira,CASA,119151,Geovane,https://media.api-sports.io/football/players/119151.png,33.0,F,6.3,True,0,,,0,0,0,0,7,5,0,0,4,1,1,0,0,1,1,0,0,0,0,0,0
-16,814398,1201,Inter De Limeira,CASA,10411,Diego Tavares,https://media.api-sports.io/football/players/10411.png,16.0,F,6.3,True,0,,,0,0,0,0,3,3,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0
-17,814398,1201,Inter De Limeira,CASA,80328,Julio Rusch,https://media.api-sports.io/football/players/80328.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,814398,1201,Inter De Limeira,CASA,9698,Léo,https://media.api-sports.io/football/players/9698.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814398,1201,Inter De Limeira,CASA,195117,Pedro do Rio,https://media.api-sports.io/football/players/195117.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814398,1201,Inter De Limeira,CASA,77683,Renato Cajá,https://media.api-sports.io/football/players/77683.png,9.0,M,6.7,True,0,,,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,814398,1201,Inter De Limeira,CASA,54939,Thiago Alagoano,https://media.api-sports.io/football/players/54939.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,814398,1201,Inter De Limeira,CASA,159760,Gui Mendes,https://media.api-sports.io/football/players/159760.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,814398,121,Palmeiras,FORA,10372,Marcelo Lomba,https://media.api-sports.io/football/players/10372.png,95.0,G,7.2,False,0,,,0,0,0,2,29,22,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
-24,814398,121,Palmeiras,FORA,9917,Mayke,https://media.api-sports.io/football/players/9917.png,95.0,D,7.3,False,0,,,0,0,0,0,71,63,0,2,6,3,1,0,0,1,0,0,0,0,0,0,0
-25,814398,121,Palmeiras,FORA,11365,Benjamin Kuscevic,https://media.api-sports.io/football/players/11365.png,95.0,D,6.9,False,0,,,0,0,0,0,72,66,0,2,3,0,0,0,0,1,0,0,0,0,0,0,0
-26,814398,121,Palmeiras,FORA,237072,Renan,https://media.api-sports.io/football/players/237072.png,95.0,D,7.3,False,0,1.0,,0,0,0,0,77,64,2,1,8,6,0,0,0,1,0,0,0,0,0,0,0
-27,814398,121,Palmeiras,FORA,9985,Jorge,https://media.api-sports.io/football/players/9985.png,95.0,D,6.9,False,0,,,0,0,0,0,26,22,0,2,11,6,2,1,0,0,0,0,0,0,0,0,0
-28,814398,121,Palmeiras,FORA,68057,Rafael Navarro,https://media.api-sports.io/football/players/68057.png,95.0,M,6.2,False,0,,,0,0,0,0,14,6,0,2,19,7,0,2,2,3,0,0,0,0,0,0,0
-29,814398,121,Palmeiras,FORA,195109,Patrick de Paula,https://media.api-sports.io/football/players/195109.png,86.0,M,7.2,False,0,2.0,,0,0,0,0,36,30,0,0,8,6,0,0,5,2,0,0,0,0,0,0,0
-30,814398,121,Palmeiras,FORA,9932,Zé Rafael,https://media.api-sports.io/football/players/9932.png,62.0,M,6.3,False,0,,,0,0,0,0,23,20,0,0,8,5,0,0,3,0,0,0,0,0,0,0,0
-31,814398,121,Palmeiras,FORA,53966,Breno Lopes,https://media.api-sports.io/football/players/53966.png,70.0,F,6.6,False,0,,,0,0,0,0,19,16,0,0,6,5,0,0,4,0,0,0,0,0,0,0,0
-32,814398,121,Palmeiras,FORA,9934,Deyverson,https://media.api-sports.io/football/players/9934.png,70.0,F,7,False,0,1.0,1.0,0,0,0,0,17,12,0,1,7,5,0,0,1,0,0,0,0,0,0,0,0
-33,814398,121,Palmeiras,FORA,70314,Wesley,https://media.api-sports.io/football/players/70314.png,62.0,F,6.9,False,0,1.0,,0,0,0,0,8,7,0,0,11,8,2,1,4,0,0,0,0,0,0,0,0
-34,814398,121,Palmeiras,FORA,9764,Vinicius Silvestre,https://media.api-sports.io/football/players/9764.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814398,121,Palmeiras,FORA,9916,Marcos Rocha,https://media.api-sports.io/football/players/9916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814398,121,Palmeiras,FORA,279800,Vanderlan,https://media.api-sports.io/football/players/279800.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814398,121,Palmeiras,FORA,286962,Lucas Freitas,https://media.api-sports.io/football/players/286962.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814398,121,Palmeiras,FORA,51033,Eduard Atuesta,https://media.api-sports.io/football/players/51033.png,33.0,M,7,True,0,1.0,,0,0,0,0,15,11,0,0,8,6,3,2,0,0,0,0,0,0,0,0,0
-39,814398,121,Palmeiras,FORA,180235,Gabriel Veron,https://media.api-sports.io/football/players/180235.png,33.0,F,6.9,True,0,,,0,0,0,0,10,6,0,0,9,7,2,0,1,0,0,0,0,0,0,0,0
-40,814398,121,Palmeiras,FORA,157148,Pedro Bicalho,https://media.api-sports.io/football/players/157148.png,9.0,M,6.7,True,0,,,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814398,121,Palmeiras,FORA,10143,Rony,https://media.api-sports.io/football/players/10143.png,25.0,F,6.3,True,0,,,0,0,0,0,4,3,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0
-42,814398,121,Palmeiras,FORA,278336,Giovani Henrique,https://media.api-sports.io/football/players/278336.png,25.0,F,6.9,True,0,,,0,0,0,0,4,4,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0
-0,814400,10018,Água Santa,CASA,9227,Victor Souza,https://media.api-sports.io/football/players/9227.png,90.0,G,6.2,False,0,,,0,2,0,2,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,814400,10018,Água Santa,CASA,10516,Alex Silva,https://media.api-sports.io/football/players/10516.png,77.0,D,7.3,False,0,1.0,1.0,1,0,0,0,17,14,0,1,6,4,0,0,2,2,1,0,0,1,0,0,0
-2,814400,10018,Água Santa,CASA,9270,Marcondes,https://media.api-sports.io/football/players/9270.png,90.0,D,6.7,False,0,,,0,0,0,0,24,16,1,2,5,4,0,1,0,0,0,0,0,0,0,0,0
-3,814400,10018,Água Santa,CASA,54044,Helder Maciel,https://media.api-sports.io/football/players/54044.png,90.0,D,6.3,False,0,,,0,0,0,0,25,22,0,4,7,3,0,0,3,3,1,1,0,0,0,0,0
-4,814400,10018,Água Santa,CASA,196095,Rhuan,https://media.api-sports.io/football/players/196095.png,90.0,D,6.9,False,0,,,0,0,0,0,26,21,0,2,10,7,0,0,5,1,0,0,0,0,0,0,0
-5,814400,10018,Água Santa,CASA,159653,Caique,https://media.api-sports.io/football/players/159653.png,85.0,M,6.9,False,0,,,0,0,0,0,22,21,0,1,7,4,1,0,1,2,0,0,0,0,0,0,0
-6,814400,10018,Água Santa,CASA,195977,Cristiano,https://media.api-sports.io/football/players/195977.png,9.0,M,6.6,False,0,,,0,0,0,0,2,1,0,1,2,2,0,0,1,0,0,0,0,0,0,0,0
-7,814400,10018,Água Santa,CASA,77843,Rodrigo Sam,https://media.api-sports.io/football/players/77843.png,90.0,M,7,False,0,,,0,0,0,0,12,11,2,2,7,5,1,0,2,1,0,0,0,0,0,0,0
-8,814400,10018,Água Santa,CASA,160670,Fernandinho,https://media.api-sports.io/football/players/160670.png,67.0,F,6,False,0,1.0,,0,0,1,0,14,8,0,1,7,2,0,0,1,2,2,1,0,0,0,0,0
-9,814400,10018,Água Santa,CASA,9762,Alvaro,https://media.api-sports.io/football/players/9762.png,77.0,F,6.3,False,0,,,0,0,0,0,9,6,0,0,6,3,0,0,2,0,0,0,0,0,0,0,0
-10,814400,10018,Água Santa,CASA,64364,Dadá Belmonte,https://media.api-sports.io/football/players/64364.png,90.0,F,6.5,False,0,1.0,1.0,0,0,0,0,12,11,0,0,13,4,0,1,3,1,0,0,0,0,0,0,0
-11,814400,10018,Água Santa,CASA,80615,Matheus Inácio,https://media.api-sports.io/football/players/80615.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814400,10018,Água Santa,CASA,9831,Leandro Silva,https://media.api-sports.io/football/players/9831.png,13.0,D,6.2,True,0,,,0,0,0,0,3,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-13,814400,10018,Água Santa,CASA,9378,Alyson,https://media.api-sports.io/football/players/9378.png,13.0,D,6.2,True,0,,,0,0,0,0,1,0,0,0,4,2,1,0,0,1,0,0,0,0,0,0,0
-14,814400,10018,Água Santa,CASA,181890,Jeferson Santos,https://media.api-sports.io/football/players/181890.png,12.0,D,6.2,True,0,,,0,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-15,814400,10018,Água Santa,CASA,9718,Matheus Oliveira,https://media.api-sports.io/football/players/9718.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814400,10018,Água Santa,CASA,159800,Gabriel Terra,https://media.api-sports.io/football/players/159800.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814400,10018,Água Santa,CASA,77668,Lelê,https://media.api-sports.io/football/players/77668.png,81.0,M,6.9,True,0,,,0,0,0,0,22,19,0,1,5,3,2,0,0,1,0,0,0,0,0,0,0
-18,814400,10018,Água Santa,CASA,9258,Caio Dantas,https://media.api-sports.io/football/players/9258.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814400,10018,Água Santa,CASA,352866,Vinicius Reis,https://media.api-sports.io/football/players/352866.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814400,10018,Água Santa,CASA,354663,David,https://media.api-sports.io/football/players/354663.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,814400,10018,Água Santa,CASA,352867,João Vitor,https://media.api-sports.io/football/players/352867.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,814400,126,Sao Paulo,FORA,30763,Jandrei,https://media.api-sports.io/football/players/30763.png,90.0,G,6.3,False,0,,,0,1,0,1,31,25,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
-23,814400,126,Sao Paulo,FORA,352994,João Moreira Souza,https://media.api-sports.io/football/players/352994.png,90.0,D,6.3,False,0,,,0,0,0,0,35,30,0,1,10,5,1,1,1,3,0,0,0,0,0,0,0
-24,814400,126,Sao Paulo,FORA,2571,Robert Arboleda,https://media.api-sports.io/football/players/2571.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,63,59,1,1,6,4,0,0,0,2,0,0,0,0,0,0,0
-25,814400,126,Sao Paulo,FORA,195,Miranda,https://media.api-sports.io/football/players/195.png,90.0,D,6.6,False,0,,,0,0,0,0,77,72,0,0,5,2,0,1,1,0,1,0,0,0,0,0,0
-26,814400,126,Sao Paulo,FORA,9946,Reinaldo,https://media.api-sports.io/football/players/9946.png,90.0,D,7.6,False,0,1.0,1.0,1,0,0,0,37,36,0,1,4,1,0,0,0,1,0,0,0,0,1,0,0
-27,814400,126,Sao Paulo,FORA,1218,Emiliano Rigoni,https://media.api-sports.io/football/players/1218.png,60.0,M,6.5,False,0,1.0,,0,0,0,0,17,12,0,0,4,2,0,1,1,1,0,0,0,0,0,0,0
-28,814400,126,Sao Paulo,FORA,313732,Pablo Maia,https://media.api-sports.io/football/players/313732.png,71.0,M,6.9,False,0,,,0,0,0,0,51,46,0,1,8,5,0,0,3,2,1,0,0,0,0,0,0
-29,814400,126,Sao Paulo,FORA,9954,Rodrigo Nestor,https://media.api-sports.io/football/players/9954.png,90.0,M,6.7,False,0,,,0,0,0,0,54,47,0,0,7,3,0,1,0,3,0,0,0,0,0,0,0
-30,814400,126,Sao Paulo,FORA,9967,Igor Gomes,https://media.api-sports.io/football/players/9967.png,60.0,M,6.7,False,0,1.0,,0,0,0,0,31,28,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
-31,814400,126,Sao Paulo,FORA,180916,Juan,https://media.api-sports.io/football/players/180916.png,60.0,F,7.5,False,0,2.0,2.0,0,0,0,0,12,10,0,0,12,6,1,0,3,4,0,0,1,0,0,0,0
-32,814400,126,Sao Paulo,FORA,12795,Éder,https://media.api-sports.io/football/players/12795.png,60.0,F,6.7,False,0,1.0,,0,0,0,0,19,15,1,0,4,1,0,0,1,1,0,0,0,0,0,0,0
-33,814400,126,Sao Paulo,FORA,9944,Tiago Volpi,https://media.api-sports.io/football/players/9944.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-34,814400,126,Sao Paulo,FORA,500,Rafinha,https://media.api-sports.io/football/players/500.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814400,126,Sao Paulo,FORA,311518,Nathan,https://media.api-sports.io/football/players/311518.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814400,126,Sao Paulo,FORA,9951,Léo,https://media.api-sports.io/football/players/9951.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814400,126,Sao Paulo,FORA,180919,Welington,https://media.api-sports.io/football/players/180919.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814400,126,Sao Paulo,FORA,80552,Gabriel Sara,https://media.api-sports.io/football/players/80552.png,30.0,M,6.6,True,0,,,0,0,0,0,10,8,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
-39,814400,126,Sao Paulo,FORA,13397,Andres Colorado,https://media.api-sports.io/football/players/13397.png,19.0,M,6.6,True,0,,,0,0,0,0,24,24,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0
-40,814400,126,Sao Paulo,FORA,307835,Lucas Beraldo,https://media.api-sports.io/football/players/307835.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814400,126,Sao Paulo,FORA,51580,Gabriel Neves,https://media.api-sports.io/football/players/51580.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,814400,126,Sao Paulo,FORA,311520,Marquinhos,https://media.api-sports.io/football/players/311520.png,30.0,F,6.5,True,0,,,0,0,0,0,17,15,0,0,5,1,0,1,1,3,1,0,0,0,0,0,0
-43,814400,126,Sao Paulo,FORA,47368,Jonathan Calleri,https://media.api-sports.io/football/players/47368.png,30.0,F,7.2,True,1,1.0,1.0,1,0,0,0,4,2,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0
-44,814400,126,Sao Paulo,FORA,10323,Luciano,https://media.api-sports.io/football/players/10323.png,30.0,F,6.3,True,0,,,0,0,0,0,18,17,0,0,4,1,0,0,1,1,1,0,0,0,0,0,0
-0,814403,7848,Mirassol,CASA,9193,Darley,https://media.api-sports.io/football/players/9193.png,68.0,G,6.7,False,0,,,0,1,0,2,15,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-1,814403,7848,Mirassol,CASA,157286,Rodrigo Ferreira,https://media.api-sports.io/football/players/157286.png,68.0,D,7.2,False,0,1.0,1.0,0,0,0,0,23,17,0,3,5,3,1,0,0,1,0,0,0,0,0,0,0
-2,814403,7848,Mirassol,CASA,9737,Thalisson Kelven,https://media.api-sports.io/football/players/9737.png,68.0,D,6.6,False,0,1.0,,0,0,0,0,32,25,1,0,9,6,0,0,0,2,0,0,0,0,0,0,0
-3,814403,7848,Mirassol,CASA,80380,Lucão,https://media.api-sports.io/football/players/80380.png,68.0,D,6.5,False,0,,,0,0,0,0,33,29,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-4,814403,7848,Mirassol,CASA,9201,Pará,https://media.api-sports.io/football/players/9201.png,68.0,D,7.3,False,0,,,0,0,1,0,24,14,0,2,6,3,2,1,0,1,0,0,0,0,0,0,0
-5,814403,7848,Mirassol,CASA,160176,Luís Oyama,https://media.api-sports.io/football/players/160176.png,68.0,M,6.7,False,0,1.0,1.0,0,0,0,0,36,22,0,2,13,4,0,3,1,4,0,0,0,0,0,0,0
-6,814403,7848,Mirassol,CASA,10390,Camilo,https://media.api-sports.io/football/players/10390.png,68.0,M,6.3,False,0,,,0,0,0,0,12,9,0,1,9,4,1,0,3,1,0,0,0,0,0,0,0
-7,814403,7848,Mirassol,CASA,9613,Neto Moura,https://media.api-sports.io/football/players/9613.png,68.0,M,6.6,False,0,,,0,0,0,0,37,29,0,1,7,4,2,0,0,2,1,0,0,0,0,0,0
-8,814403,7848,Mirassol,CASA,106464,Fabrício Daniel,https://media.api-sports.io/football/players/106464.png,68.0,F,7,False,0,2.0,,0,0,0,0,13,8,0,0,10,4,1,1,2,1,0,0,0,0,0,0,0
-9,814403,7848,Mirassol,CASA,140564,Zeca,https://media.api-sports.io/football/players/140564.png,68.0,F,7.2,False,0,2.0,1.0,1,0,0,0,14,13,0,0,7,2,1,1,1,1,0,0,0,0,0,0,0
-10,814403,7848,Mirassol,CASA,153458,Negueba,https://media.api-sports.io/football/players/153458.png,45.0,F,6.2,False,0,,,0,0,0,0,4,3,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
-11,814403,7848,Mirassol,CASA,9763,Edson Mardden,https://media.api-sports.io/football/players/9763.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814403,7848,Mirassol,CASA,54075,Ivan,https://media.api-sports.io/football/players/54075.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814403,7848,Mirassol,CASA,9230,Ednei,https://media.api-sports.io/football/players/9230.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814403,7848,Mirassol,CASA,9457,Rayan,https://media.api-sports.io/football/players/9457.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814403,7848,Mirassol,CASA,267863,Frank,https://media.api-sports.io/football/players/267863.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814403,7848,Mirassol,CASA,114454,Daniel,https://media.api-sports.io/football/players/114454.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814403,7848,Mirassol,CASA,266383,Reinaldo Kauan,https://media.api-sports.io/football/players/266383.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,814403,7848,Mirassol,CASA,80643,Luiz Fernando,https://media.api-sports.io/football/players/80643.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814403,7848,Mirassol,CASA,266391,Eduardo Fernandes,https://media.api-sports.io/football/players/266391.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814403,7848,Mirassol,CASA,9848,Rafael Oller,https://media.api-sports.io/football/players/9848.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,814403,7848,Mirassol,CASA,143365,Fabinho,https://media.api-sports.io/football/players/143365.png,23.0,F,6.7,True,0,,,0,0,0,0,5,4,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0
-22,814403,7848,Mirassol,CASA,9616,Rafael Silva,https://media.api-sports.io/football/players/9616.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,814403,139,Ponte Preta,FORA,9694,Ygor Vinhas,https://media.api-sports.io/football/players/9694.png,68.0,G,6.9,False,0,,,0,1,0,2,19,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,814403,139,Ponte Preta,FORA,10338,Kevin,https://media.api-sports.io/football/players/10338.png,68.0,D,6.9,False,0,,,0,0,0,0,45,36,0,4,5,3,0,1,0,1,0,0,0,0,0,0,0
-25,814403,139,Ponte Preta,FORA,299083,Thiago Lopes,https://media.api-sports.io/football/players/299083.png,68.0,D,6.9,False,0,,,0,0,0,0,30,26,1,2,6,3,0,0,2,3,1,0,0,0,0,0,0
-26,814403,139,Ponte Preta,FORA,36008,Fabricio,https://media.api-sports.io/football/players/36008.png,68.0,D,7,False,0,,,0,0,0,0,42,34,0,4,6,4,0,0,0,2,0,0,0,0,0,0,0
-27,814403,139,Ponte Preta,FORA,9715,Jean Carlos,https://media.api-sports.io/football/players/9715.png,63.0,D,6.9,False,0,,,0,0,0,0,28,17,0,2,6,4,0,1,1,0,0,0,0,0,0,0,0
-28,814403,139,Ponte Preta,FORA,80537,Fessin,https://media.api-sports.io/football/players/80537.png,63.0,M,7.2,False,0,1.0,,0,0,0,0,25,22,1,1,11,7,2,3,1,0,0,0,0,0,0,0,0
-29,814403,139,Ponte Preta,FORA,299089,Leo Naldi,https://media.api-sports.io/football/players/299089.png,68.0,M,6.3,False,0,,,0,0,0,0,27,23,0,1,3,1,1,1,0,0,0,0,0,0,0,0,0
-30,814403,139,Ponte Preta,FORA,10308,Léo Santos,https://media.api-sports.io/football/players/10308.png,68.0,M,6.9,False,0,,,0,0,0,0,31,29,0,1,8,6,2,0,2,2,1,0,0,0,0,0,0
-31,814403,139,Ponte Preta,FORA,42163,Lucca,https://media.api-sports.io/football/players/42163.png,68.0,M,6.9,False,0,4.0,2.0,1,0,0,0,14,7,0,0,9,6,0,1,3,0,1,0,0,0,0,0,0
-32,814403,139,Ponte Preta,FORA,9427,Matheus Anjos,https://media.api-sports.io/football/players/9427.png,68.0,F,6.6,False,0,,,0,0,0,0,26,18,0,0,11,4,1,1,3,1,0,0,0,0,0,0,0
-33,814403,139,Ponte Preta,FORA,10575,Ribamar,https://media.api-sports.io/football/players/10575.png,68.0,F,6.9,False,0,1.0,1.0,0,0,0,0,13,8,0,0,10,5,0,0,2,0,0,0,0,0,0,0,0
-34,814403,139,Ponte Preta,FORA,10228,Caique França,https://media.api-sports.io/football/players/10228.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814403,139,Ponte Preta,FORA,327635,Douglas Mendes,https://media.api-sports.io/football/players/327635.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814403,139,Ponte Preta,FORA,156191,Igor Formiga,https://media.api-sports.io/football/players/156191.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814403,139,Ponte Preta,FORA,9564,Norberto Neto,https://media.api-sports.io/football/players/9564.png,5.0,D,,True,0,,,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814403,139,Ponte Preta,FORA,9433,João Pedro,https://media.api-sports.io/football/players/9433.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,814403,139,Ponte Preta,FORA,182070,André Luiz,https://media.api-sports.io/football/players/182070.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814403,139,Ponte Preta,FORA,41431,Niltinho,https://media.api-sports.io/football/players/41431.png,5.0,F,,True,0,,,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814403,139,Ponte Preta,FORA,207920,Marcos Júnior,https://media.api-sports.io/football/players/207920.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,814403,139,Ponte Preta,FORA,294905,Pedrinho,https://media.api-sports.io/football/players/294905.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,814403,139,Ponte Preta,FORA,125649,Josiel,https://media.api-sports.io/football/players/125649.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-0,814404,131,Corinthians,CASA,10229,Cássio,https://media.api-sports.io/football/players/10229.png,95.0,G,7.2,False,0,,,0,0,0,4,30,23,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0
-1,814404,131,Corinthians,CASA,2411,Fagner,https://media.api-sports.io/football/players/2411.png,95.0,D,7.3,False,0,,,0,0,0,0,44,39,0,0,8,6,2,0,1,1,0,0,0,0,0,0,0
-2,814404,131,Corinthians,CASA,12744,Gil,https://media.api-sports.io/football/players/12744.png,95.0,D,7.3,False,0,1.0,1.0,0,0,0,0,48,47,1,2,3,1,0,0,1,2,0,0,0,0,0,0,0
-3,814404,131,Corinthians,CASA,10225,João Victor,https://media.api-sports.io/football/players/10225.png,95.0,D,7.3,False,0,,,0,0,0,0,65,58,2,3,5,3,1,0,0,1,0,0,0,0,0,0,0
-4,814404,131,Corinthians,CASA,10234,Lucas Piton,https://media.api-sports.io/football/players/10234.png,95.0,D,6.9,False,0,,,0,0,0,0,60,50,0,2,6,3,1,0,0,1,0,0,0,0,0,0,0
-5,814404,131,Corinthians,CASA,44317,Giuliano,https://media.api-sports.io/football/players/44317.png,79.0,M,6.9,False,0,3.0,1.0,0,0,0,0,30,28,0,0,7,3,2,2,1,0,0,0,0,0,0,0,0
-6,814404,131,Corinthians,CASA,321432,Du Queiroz,https://media.api-sports.io/football/players/321432.png,95.0,M,6.5,False,0,1.0,,0,0,0,0,42,37,0,0,9,2,0,2,0,1,0,0,0,0,0,0,0
-7,814404,131,Corinthians,CASA,12666,Renato Augusto,https://media.api-sports.io/football/players/12666.png,85.0,M,7.2,False,0,2.0,1.0,0,0,0,0,49,39,0,1,12,8,2,0,2,0,0,0,0,0,0,0,0
-8,814404,131,Corinthians,CASA,12719,Paulinho,https://media.api-sports.io/football/players/12719.png,88.0,M,6.6,False,0,1.0,,0,0,0,0,32,25,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0
-9,814404,131,Corinthians,CASA,12764,Róger Guedes,https://media.api-sports.io/football/players/12764.png,95.0,F,6.9,False,0,2.0,1.0,0,0,0,0,21,17,0,0,5,2,0,0,0,1,0,0,0,0,0,0,0
-10,814404,131,Corinthians,CASA,2294,Willian,https://media.api-sports.io/football/players/2294.png,84.0,F,7.7,False,0,1.0,1.0,0,0,0,0,34,30,0,1,8,4,1,0,3,1,0,0,0,0,0,0,0
-11,814404,131,Corinthians,CASA,9692,Ivan,https://media.api-sports.io/football/players/9692.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814404,131,Corinthians,CASA,9876,Fábio Santos,https://media.api-sports.io/football/players/9876.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814404,131,Corinthians,CASA,14390,Raul Gustavo,https://media.api-sports.io/football/players/14390.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814404,131,Corinthians,CASA,374,João Pedro,https://media.api-sports.io/football/players/374.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814404,131,Corinthians,CASA,269442,Gabriel Pereira,https://media.api-sports.io/football/players/269442.png,7.0,M,,True,0,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-16,814404,131,Corinthians,CASA,10502,Luan,https://media.api-sports.io/football/players/10502.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814404,131,Corinthians,CASA,13580,Victor Cantillo,https://media.api-sports.io/football/players/13580.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,814404,131,Corinthians,CASA,278549,Gustavo Mantuan,https://media.api-sports.io/football/players/278549.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814404,131,Corinthians,CASA,9620,Gustavo Silva,https://media.api-sports.io/football/players/9620.png,16.0,F,7,True,0,2.0,1.0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
-20,814404,131,Corinthians,CASA,10416,Bruno Melo,https://media.api-sports.io/football/players/10416.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,814404,131,Corinthians,CASA,267770,Roni,https://media.api-sports.io/football/players/267770.png,10.0,M,6.9,True,0,,,0,0,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
-22,814404,131,Corinthians,CASA,32906,Jô,https://media.api-sports.io/football/players/32906.png,11.0,F,6.3,True,0,,,0,0,0,0,4,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-23,814404,794,RB Bragantino,FORA,9862,Cleiton,https://media.api-sports.io/football/players/9862.png,95.0,G,7.5,False,0,,,0,1,0,5,34,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,814404,794,RB Bragantino,FORA,9453,Aderlan,https://media.api-sports.io/football/players/9453.png,83.0,D,6.9,False,0,1.0,,0,0,0,0,23,22,0,0,9,5,0,2,1,2,0,0,0,0,0,0,0
-25,814404,794,RB Bragantino,FORA,9458,Léo Ortiz,https://media.api-sports.io/football/players/9458.png,95.0,D,7.5,False,0,,,0,0,0,0,37,34,3,1,3,2,0,0,0,0,0,0,0,0,0,0,0
-26,814404,794,RB Bragantino,FORA,195100,Natan,https://media.api-sports.io/football/players/195100.png,95.0,D,6.9,False,0,,,0,0,0,0,57,50,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-27,814404,794,RB Bragantino,FORA,9906,Luan Cândido,https://media.api-sports.io/football/players/9906.png,95.0,D,7,False,0,2.0,1.0,0,0,0,0,35,29,0,2,10,5,0,2,0,1,0,0,0,0,0,0,0
-28,814404,794,RB Bragantino,FORA,10040,Artur,https://media.api-sports.io/football/players/10040.png,95.0,M,7.2,False,0,2.0,1.0,0,0,0,0,27,22,0,1,10,5,0,1,2,2,0,0,0,0,0,0,0
-29,814404,794,RB Bragantino,FORA,10027,Eric Ramires,https://media.api-sports.io/football/players/10027.png,95.0,M,6.9,False,0,2.0,,0,0,0,0,31,28,0,1,5,2,0,1,0,0,0,0,0,0,0,0,0
-30,814404,794,RB Bragantino,FORA,80539,Jadsom,https://media.api-sports.io/football/players/80539.png,95.0,M,6,False,0,,,0,0,0,0,37,29,0,3,7,0,0,1,0,3,0,0,0,0,0,0,0
-31,814404,794,RB Bragantino,FORA,9895,Leandrinho,https://media.api-sports.io/football/players/9895.png,75.0,M,6.9,False,0,,,0,0,0,0,20,16,0,0,8,4,1,0,1,0,0,0,0,0,0,0,0
-32,814404,794,RB Bragantino,FORA,9472,Ytalo,https://media.api-sports.io/football/players/9472.png,76.0,F,6.7,False,0,1.0,1.0,0,0,0,0,9,8,0,0,4,1,0,1,0,0,0,0,0,0,0,0,0
-33,814404,794,RB Bragantino,FORA,9923,Hyoran,https://media.api-sports.io/football/players/9923.png,83.0,F,7.5,False,0,2.0,,0,0,0,0,17,15,0,1,11,8,2,1,3,1,0,0,0,0,0,0,0
-34,814404,794,RB Bragantino,FORA,9449,Júlio César,https://media.api-sports.io/football/players/9449.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814404,794,RB Bragantino,FORA,200282,Maycon Cleiton,https://media.api-sports.io/football/players/200282.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814404,794,RB Bragantino,FORA,16370,Leonardo Realpe,https://media.api-sports.io/football/players/16370.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814404,794,RB Bragantino,FORA,196101,Weverson,https://media.api-sports.io/football/players/196101.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814404,794,RB Bragantino,FORA,68113,José Hurtado Cheme,https://media.api-sports.io/football/players/68113.png,12.0,D,7,True,0,,,0,0,0,0,8,6,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0
-39,814404,794,RB Bragantino,FORA,195976,Guilherme Lopes,https://media.api-sports.io/football/players/195976.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814404,794,RB Bragantino,FORA,135135,Welliton,https://media.api-sports.io/football/players/135135.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814404,794,RB Bragantino,FORA,311821,Luciano,https://media.api-sports.io/football/players/311821.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,814404,794,RB Bragantino,FORA,64331,Miguel,https://media.api-sports.io/football/players/64331.png,12.0,M,6.6,True,0,1.0,,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-43,814404,794,RB Bragantino,FORA,9468,Bruno Tubarão,https://media.api-sports.io/football/players/9468.png,20.0,F,6.3,True,0,1.0,,0,0,0,0,4,2,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
-44,814404,794,RB Bragantino,FORA,197814,Bruno Gonçalves,https://media.api-sports.io/football/players/197814.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-45,814404,794,RB Bragantino,FORA,9893,Alerrandro,https://media.api-sports.io/football/players/9893.png,19.0,F,6.3,True,0,2.0,1.0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
-0,814405,128,Santos,CASA,9979,João Paulo,https://media.api-sports.io/football/players/9979.png,69.0,G,6.9,False,0,,,0,1,0,3,27,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,814405,128,Santos,CASA,278496,Vinicius Balieiro,https://media.api-sports.io/football/players/278496.png,69.0,D,6.9,False,0,1.0,,0,0,1,0,18,14,0,1,5,2,0,1,1,1,0,0,0,1,0,0,0
-2,814405,128,Santos,CASA,305803,Kaiky,https://media.api-sports.io/football/players/305803.png,69.0,D,6.7,False,0,,,0,0,0,0,60,51,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-3,814405,128,Santos,CASA,9416,Eduardo Bauermann,https://media.api-sports.io/football/players/9416.png,69.0,D,7.2,False,0,,,0,0,0,0,56,53,0,2,6,5,0,0,0,0,0,0,0,0,0,0,0
-4,814405,128,Santos,CASA,330238,Lucas Pires,https://media.api-sports.io/football/players/330238.png,69.0,D,6.7,False,0,1.0,1.0,0,0,0,0,35,25,0,1,6,3,1,2,2,1,0,0,0,0,0,0,0
-5,814405,128,Santos,CASA,10131,Guilherme Camacho,https://media.api-sports.io/football/players/10131.png,69.0,M,7,False,0,,,0,0,0,0,59,55,1,2,6,3,0,1,0,1,0,0,0,0,0,0,0
-6,814405,128,Santos,CASA,10001,Sandry,https://media.api-sports.io/football/players/10001.png,69.0,M,7.6,False,0,,,0,0,0,0,62,52,0,1,7,7,0,0,1,0,0,0,0,0,0,0,0
-7,814405,128,Santos,CASA,288055,Ângelo,https://media.api-sports.io/football/players/288055.png,69.0,M,6.6,False,0,1.0,,0,0,0,0,23,15,0,0,11,6,5,0,0,0,0,0,0,0,0,0,0
-8,814405,128,Santos,CASA,9937,Ricardo Goulart,https://media.api-sports.io/football/players/9937.png,69.0,M,7.7,False,0,3.0,2.0,1,0,0,0,25,23,0,0,5,3,0,0,1,0,0,0,0,0,0,0,0
-9,814405,128,Santos,CASA,44492,Marcos Guilherme,https://media.api-sports.io/football/players/44492.png,58.0,M,6.3,False,0,3.0,2.0,0,0,0,0,19,18,0,0,6,2,1,1,0,0,0,0,0,0,0,0,0
-10,814405,128,Santos,CASA,267771,Marcos Leonardo,https://media.api-sports.io/football/players/267771.png,69.0,F,7,False,0,,,0,0,0,0,10,6,0,0,7,5,3,0,2,0,0,0,0,0,0,0,0
-11,814405,128,Santos,CASA,321454,Diogenes,https://media.api-sports.io/football/players/321454.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,814405,128,Santos,CASA,47538,Emiliano Velázquez,https://media.api-sports.io/football/players/47538.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-13,814405,128,Santos,CASA,9986,Luiz Felipe,https://media.api-sports.io/football/players/9986.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,814405,128,Santos,CASA,157815,Bruno Oliveira,https://media.api-sports.io/football/players/157815.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-15,814405,128,Santos,CASA,54061,Lucas Braga,https://media.api-sports.io/football/players/54061.png,11.0,F,6.7,True,0,,,0,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
-16,814405,128,Santos,CASA,278495,Gabriel Pirani,https://media.api-sports.io/football/players/278495.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-17,814405,128,Santos,CASA,279811,Lucas Barbosa,https://media.api-sports.io/football/players/279811.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18,814405,128,Santos,CASA,9352,Luiz Henrique,https://media.api-sports.io/football/players/9352.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-19,814405,128,Santos,CASA,9999,Tailson,https://media.api-sports.io/football/players/9999.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-20,814405,128,Santos,CASA,10002,Jobson,https://media.api-sports.io/football/players/10002.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-21,814405,128,Santos,CASA,321663,Rwan,https://media.api-sports.io/football/players/321663.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-22,814405,128,Santos,CASA,119779,Allanzinho,https://media.api-sports.io/football/players/119779.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-23,814405,7834,Novorizontino,FORA,9733,Giovanni,https://media.api-sports.io/football/players/9733.png,69.0,G,6.9,False,0,,,0,1,0,4,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-24,814405,7834,Novorizontino,FORA,80523,Willean Lepu,https://media.api-sports.io/football/players/80523.png,69.0,D,7.3,False,0,,,0,0,0,0,29,22,0,3,12,7,2,1,1,1,0,0,0,0,0,0,0
-25,814405,7834,Novorizontino,FORA,9561,Wálber,https://media.api-sports.io/football/players/9561.png,69.0,D,6.2,False,0,,,0,0,0,0,17,12,2,0,5,1,0,2,0,1,0,0,0,0,0,0,0
-26,814405,7834,Novorizontino,FORA,9807,Bruno Aguiar,https://media.api-sports.io/football/players/9807.png,69.0,D,6.9,False,0,,,0,0,0,0,13,8,1,1,3,2,0,1,0,0,0,0,0,0,0,0,0
-27,814405,7834,Novorizontino,FORA,159905,Reverson,https://media.api-sports.io/football/players/159905.png,69.0,D,7,False,0,,,0,0,0,0,20,15,1,1,4,3,0,0,0,0,0,0,0,0,0,0,0
-28,814405,7834,Novorizontino,FORA,80741,Léo Baiano,https://media.api-sports.io/football/players/80741.png,69.0,M,6.9,False,0,,,0,0,0,0,28,24,0,0,8,3,0,1,1,2,0,0,1,0,0,0,0
-29,814405,7834,Novorizontino,FORA,197563,João Pedro Barba,https://media.api-sports.io/football/players/197563.png,69.0,M,6.9,False,0,,,0,0,0,0,34,29,0,4,4,1,0,1,0,1,0,0,0,0,0,0,0
-30,814405,7834,Novorizontino,FORA,159790,Léo Tocantins,https://media.api-sports.io/football/players/159790.png,69.0,M,7.2,False,0,2.0,1.0,0,0,0,0,36,33,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-31,814405,7834,Novorizontino,FORA,290868,Romulo,https://media.api-sports.io/football/players/290868.png,69.0,M,6.3,False,0,2.0,1.0,0,0,0,0,21,14,0,0,9,3,1,0,0,1,0,0,0,0,0,0,0
-32,814405,7834,Novorizontino,FORA,9821,Douglas Baggio,https://media.api-sports.io/football/players/9821.png,69.0,M,6.9,False,1,2.0,2.0,1,0,0,0,24,21,0,1,12,4,2,4,1,1,0,0,0,0,1,0,0
-33,814405,7834,Novorizontino,FORA,10216,Bruno Silva,https://media.api-sports.io/football/players/10216.png,45.0,F,6.5,False,1,1.0,,0,0,0,0,4,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
-34,814405,7834,Novorizontino,FORA,9194,Rodrigo Viana,https://media.api-sports.io/football/players/9194.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-35,814405,7834,Novorizontino,FORA,9202,Lucas Mendes,https://media.api-sports.io/football/players/9202.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-36,814405,7834,Novorizontino,FORA,9571,Guilherme Lazaroni,https://media.api-sports.io/football/players/9571.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-37,814405,7834,Novorizontino,FORA,80646,Edson Silva,https://media.api-sports.io/football/players/80646.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-38,814405,7834,Novorizontino,FORA,9652,Adilson Goiano,https://media.api-sports.io/football/players/9652.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-39,814405,7834,Novorizontino,FORA,9813,Marcinho,https://media.api-sports.io/football/players/9813.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-40,814405,7834,Novorizontino,FORA,77866,Cléo Silva,https://media.api-sports.io/football/players/77866.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-41,814405,7834,Novorizontino,FORA,77754,Danielzinho,https://media.api-sports.io/football/players/77754.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-42,814405,7834,Novorizontino,FORA,157158,Chrigor,https://media.api-sports.io/football/players/157158.png,24.0,F,6.3,True,0,2.0,,0,0,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2529,814390,1201,Inter De Limeira,CASA,157459,Rafael Pin,https://media.api-sports.io/football/players/157459.png,90.0,G,6.3,False,0,,,0,2,0,2,22,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2530,814390,1201,Inter De Limeira,CASA,195481,Léo Duarte,https://media.api-sports.io/football/players/195481.png,90.0,D,5.9,False,0,,,0,0,0,0,36,28,0,0,12,2,0,0,1,1,0,0,0,0,0,0,0
+2531,814390,1201,Inter De Limeira,CASA,9414,Rodolfo,https://media.api-sports.io/football/players/9414.png,90.0,D,6.3,False,0,,,0,0,0,0,86,77,0,0,7,4,0,0,0,0,0,0,0,0,0,0,0
+2532,814390,1201,Inter De Limeira,CASA,10023,Xandão,https://media.api-sports.io/football/players/10023.png,90.0,D,6.9,False,0,1.0,1.0,0,0,0,0,88,76,0,1,8,5,0,1,2,1,0,0,0,0,0,0,0
+2533,814390,1201,Inter De Limeira,CASA,9462,Rafael Carioca,https://media.api-sports.io/football/players/9462.png,90.0,D,6.9,False,1,1.0,1.0,0,0,0,0,45,39,0,0,12,7,2,1,1,1,0,0,0,0,0,0,0
+2534,814390,1201,Inter De Limeira,CASA,10394,Matheus Galdezani,https://media.api-sports.io/football/players/10394.png,81.0,M,6.7,False,0,1.0,,0,0,0,0,36,33,0,1,7,3,1,0,2,0,0,0,0,0,0,0,0
+2535,814390,1201,Inter De Limeira,CASA,54023,Jhony Douglas,https://media.api-sports.io/football/players/54023.png,90.0,M,7.3,False,0,1.0,1.0,0,0,0,0,68,60,1,1,9,7,3,0,2,0,0,0,0,0,0,0,0
+2536,814390,1201,Inter De Limeira,CASA,80289,Lima,https://media.api-sports.io/football/players/80289.png,45.0,M,6.6,False,0,,,0,0,0,0,17,14,1,0,6,3,1,2,1,0,0,0,0,0,0,0,0
+2537,814390,1201,Inter De Limeira,CASA,10411,Diego Tavares,https://media.api-sports.io/football/players/10411.png,45.0,F,6.7,False,0,2.0,1.0,0,0,0,0,8,5,0,0,8,4,0,0,2,0,0,0,0,0,0,0,0
+2538,814390,1201,Inter De Limeira,CASA,67842,Ronaldo,https://media.api-sports.io/football/players/67842.png,90.0,F,6.6,False,0,4.0,3.0,1,0,0,0,13,9,0,0,11,5,0,1,2,1,0,0,0,0,1,0,0
+2539,814390,1201,Inter De Limeira,CASA,9464,Osman,https://media.api-sports.io/football/players/9464.png,68.0,F,6.6,False,0,1.0,,0,0,0,0,16,12,0,0,7,4,0,0,2,1,0,0,0,0,0,0,0
+2540,814390,1201,Inter De Limeira,CASA,9693,Guilherme,https://media.api-sports.io/football/players/9693.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2541,814390,1201,Inter De Limeira,CASA,9869,Matheus Mancini,https://media.api-sports.io/football/players/9869.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2542,814390,1201,Inter De Limeira,CASA,33465,Tito,https://media.api-sports.io/football/players/33465.png,9.0,D,6.2,True,0,,,0,0,0,0,4,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+2543,814390,1201,Inter De Limeira,CASA,10449,Celsinho,https://media.api-sports.io/football/players/10449.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2544,814390,1201,Inter De Limeira,CASA,180864,Emanuel Moura,https://media.api-sports.io/football/players/180864.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2545,814390,1201,Inter De Limeira,CASA,195117,Pedro do Rio,https://media.api-sports.io/football/players/195117.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2546,814390,1201,Inter De Limeira,CASA,77683,Renato Cajá,https://media.api-sports.io/football/players/77683.png,22.0,M,6.9,True,0,1.0,,0,0,0,0,13,11,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0
+2547,814390,1201,Inter De Limeira,CASA,119151,Geovane,https://media.api-sports.io/football/players/119151.png,45.0,F,6.9,True,0,1.0,,0,0,0,0,24,19,0,0,6,4,1,0,2,1,0,0,0,0,0,0,0
+2548,814390,1201,Inter De Limeira,CASA,80328,Julio Rusch,https://media.api-sports.io/football/players/80328.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2549,814390,1201,Inter De Limeira,CASA,54939,Thiago Alagoano,https://media.api-sports.io/football/players/54939.png,45.0,F,6.5,True,1,1.0,1.0,0,0,0,0,20,14,0,0,4,3,0,0,3,1,0,0,0,0,0,0,0
+2550,814390,7826,Ferroviária,FORA,80732,Saulo,https://media.api-sports.io/football/players/80732.png,90.0,G,7.9,False,0,,,0,1,0,6,21,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2551,814390,7826,Ferroviária,FORA,53936,Vidal,https://media.api-sports.io/football/players/53936.png,79.0,D,7.0,False,0,,,0,0,0,0,25,22,0,2,9,4,0,1,1,3,0,0,0,0,0,0,0
+2552,814390,7826,Ferroviária,FORA,207758,Bruno Leonardo,https://media.api-sports.io/football/players/207758.png,90.0,D,7.2,False,0,,,0,0,0,0,34,23,1,2,3,1,0,0,0,2,0,0,0,0,0,0,0
+2553,814390,7826,Ferroviária,FORA,9203,Didi,https://media.api-sports.io/football/players/9203.png,90.0,D,6.3,False,0,,,0,0,0,0,47,32,1,0,5,3,1,0,0,1,0,0,0,0,0,0,0
+2554,814390,7826,Ferroviária,FORA,10268,João Lucas,https://media.api-sports.io/football/players/10268.png,90.0,D,7.2,False,0,,,0,0,0,0,33,27,0,1,14,8,1,0,1,2,0,0,0,0,0,0,0
+2555,814390,7826,Ferroviária,FORA,9998,Guilherme Nunes,https://media.api-sports.io/football/players/9998.png,51.0,M,6.2,False,0,,,0,0,0,0,12,9,0,0,5,1,1,2,0,2,0,0,0,0,0,0,0
+2556,814390,7826,Ferroviária,FORA,9463,Uillian Correia,https://media.api-sports.io/football/players/9463.png,90.0,M,6.9,False,0,,,0,0,0,0,25,23,1,0,6,3,0,0,2,2,0,0,0,0,0,0,0
+2557,814390,7826,Ferroviária,FORA,10531,Gegê,https://media.api-sports.io/football/players/10531.png,90.0,M,7.2,False,0,2.0,1.0,0,0,0,0,30,25,0,0,9,6,0,1,0,1,0,0,0,0,0,0,0
+2558,814390,7826,Ferroviária,FORA,157531,Netto,https://media.api-sports.io/football/players/157531.png,71.0,F,7.3,False,0,2.0,1.0,1,0,0,0,17,13,0,1,5,3,0,0,1,0,0,0,0,0,0,0,0
+2559,814390,7826,Ferroviária,FORA,107626,Bruno Mezenga,https://media.api-sports.io/football/players/107626.png,79.0,F,8.0,False,0,1.0,1.0,1,0,1,0,15,11,0,1,14,6,0,1,1,1,0,0,0,0,0,0,0
+2560,814390,7826,Ferroviária,FORA,16575,Carlos Orejuela,https://media.api-sports.io/football/players/16575.png,51.0,F,6.9,False,0,,,0,0,0,0,8,6,0,4,12,7,0,0,0,1,0,0,0,0,0,0,0
+2561,814390,7826,Ferroviária,FORA,284917,Léo Wall,https://media.api-sports.io/football/players/284917.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2562,814390,7826,Ferroviária,FORA,196096,Gustavo Medina,https://media.api-sports.io/football/players/196096.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2563,814390,7826,Ferroviária,FORA,80543,Breno Lopes,https://media.api-sports.io/football/players/80543.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2564,814390,7826,Ferroviária,FORA,64123,Bernardo,https://media.api-sports.io/football/players/64123.png,11.0,D,6.7,True,0,,,0,0,0,0,2,2,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2565,814390,7826,Ferroviária,FORA,197386,Rafael,https://media.api-sports.io/football/players/197386.png,39.0,D,6.3,True,0,,,0,0,0,0,10,8,0,2,6,3,1,0,1,3,0,0,0,0,0,0,0
+2566,814390,7826,Ferroviária,FORA,237701,Thomaz,https://media.api-sports.io/football/players/237701.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2567,814390,7826,Ferroviária,FORA,9817,Murilo Rangel,https://media.api-sports.io/football/players/9817.png,19.0,M,6.0,True,0,,,0,0,0,0,10,9,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0
+2568,814390,7826,Ferroviária,FORA,157460,Marquinhos,https://media.api-sports.io/football/players/157460.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2569,814390,7826,Ferroviária,FORA,159829,Gleyson,https://media.api-sports.io/football/players/159829.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2570,814390,7826,Ferroviária,FORA,160041,Tcharlles,https://media.api-sports.io/football/players/160041.png,11.0,F,5.9,True,0,1.0,1.0,0,0,0,0,3,3,1,1,3,0,0,1,0,2,0,0,0,1,0,0,0
+2571,814390,7826,Ferroviária,FORA,80480,Hygor,https://media.api-sports.io/football/players/80480.png,39.0,F,6.7,True,0,1.0,,0,0,0,0,9,6,0,0,7,3,1,0,1,2,0,0,0,0,0,0,0
+2572,814390,7826,Ferroviária,FORA,310849,Vitinho,https://media.api-sports.io/football/players/310849.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2573,814393,7834,Novorizontino,CASA,9733,Giovanni,https://media.api-sports.io/football/players/9733.png,90.0,G,6.5,False,0,,,0,3,0,3,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2574,814393,7834,Novorizontino,CASA,80523,Willean Lepu,https://media.api-sports.io/football/players/80523.png,90.0,D,6.3,False,0,,,0,0,0,0,45,29,0,1,12,9,3,0,1,0,0,0,0,0,0,0,0
+2575,814393,7834,Novorizontino,CASA,9807,Bruno Aguiar,https://media.api-sports.io/football/players/9807.png,90.0,D,6.2,False,0,,,0,0,0,0,44,31,1,1,4,3,0,0,0,1,0,0,0,0,0,0,0
+2576,814393,7834,Novorizontino,CASA,80646,Edson Silva,https://media.api-sports.io/football/players/80646.png,90.0,D,6.6,False,0,2.0,1.0,0,0,0,0,29,22,1,1,8,6,0,1,0,0,0,0,0,0,0,0,0
+2577,814393,7834,Novorizontino,CASA,159905,Reverson,https://media.api-sports.io/football/players/159905.png,82.0,D,6.3,False,0,,,0,0,0,0,34,29,0,1,7,3,1,0,1,3,0,0,0,0,0,0,0
+2578,814393,7834,Novorizontino,CASA,80741,Léo Baiano,https://media.api-sports.io/football/players/80741.png,90.0,M,6.6,False,0,,,0,0,0,0,47,40,1,2,7,4,0,0,4,1,0,0,0,0,0,0,0
+2579,814393,7834,Novorizontino,CASA,197563,João Pedro Barba,https://media.api-sports.io/football/players/197563.png,65.0,M,6.6,False,0,,,0,0,0,0,41,34,0,0,6,4,0,0,1,0,0,0,0,0,0,0,0
+2580,814393,7834,Novorizontino,CASA,159790,Léo Tocantins,https://media.api-sports.io/football/players/159790.png,82.0,M,6.7,False,0,3.0,2.0,0,0,0,0,39,31,0,0,12,4,2,1,1,1,0,0,0,0,0,0,0
+2581,814393,7834,Novorizontino,CASA,9813,Marcinho,https://media.api-sports.io/football/players/9813.png,45.0,M,6.7,False,0,2.0,2.0,0,0,0,0,11,10,0,0,6,2,0,2,1,1,0,0,0,0,0,0,0
+2582,814393,7834,Novorizontino,CASA,77754,Danielzinho,https://media.api-sports.io/football/players/77754.png,65.0,M,6.5,False,0,1.0,,0,0,0,0,21,18,0,0,7,2,0,1,1,1,0,0,0,0,0,0,0
+2583,814393,7834,Novorizontino,CASA,10216,Bruno Silva,https://media.api-sports.io/football/players/10216.png,90.0,F,6.2,False,3,1.0,,0,0,0,0,12,8,0,1,9,3,1,2,1,1,0,0,0,0,0,0,0
+2584,814393,7834,Novorizontino,CASA,9194,Rodrigo Viana,https://media.api-sports.io/football/players/9194.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2585,814393,7834,Novorizontino,CASA,9202,Lucas Mendes,https://media.api-sports.io/football/players/9202.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2586,814393,7834,Novorizontino,CASA,9451,Lucas Ramon,https://media.api-sports.io/football/players/9451.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2587,814393,7834,Novorizontino,CASA,9571,Guilherme Lazaroni,https://media.api-sports.io/football/players/9571.png,8.0,D,6.3,True,0,,,0,0,0,0,13,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+2588,814393,7834,Novorizontino,CASA,9561,Wálber,https://media.api-sports.io/football/players/9561.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2589,814393,7834,Novorizontino,CASA,54095,Anderson,https://media.api-sports.io/football/players/54095.png,25.0,M,6.2,True,0,1.0,,0,0,0,0,25,23,1,0,5,0,0,0,0,1,1,0,0,0,0,0,0
+2590,814393,7834,Novorizontino,CASA,9821,Douglas Baggio,https://media.api-sports.io/football/players/9821.png,25.0,F,6.6,True,0,,,0,0,0,0,18,14,0,0,4,3,3,0,0,0,0,0,0,0,0,0,0
+2591,814393,7834,Novorizontino,CASA,77866,Cléo Silva,https://media.api-sports.io/football/players/77866.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2592,814393,7834,Novorizontino,CASA,9652,Adilson Goiano,https://media.api-sports.io/football/players/9652.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2593,814393,7834,Novorizontino,CASA,133198,Welinton,https://media.api-sports.io/football/players/133198.png,8.0,F,6.2,True,0,,,0,0,0,0,3,1,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
+2594,814393,7834,Novorizontino,CASA,290868,Romulo,https://media.api-sports.io/football/players/290868.png,45.0,F,6.2,True,0,1.0,,0,0,0,0,20,17,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0
+2595,814393,794,RB Bragantino,FORA,9862,Cleiton,https://media.api-sports.io/football/players/9862.png,90.0,G,8.0,False,0,,,0,0,0,4,42,27,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2596,814393,794,RB Bragantino,FORA,68113,José Hurtado Cheme,https://media.api-sports.io/football/players/68113.png,90.0,D,6.9,False,0,,,0,0,0,0,31,24,0,2,8,4,1,2,0,0,0,0,0,0,0,0,0
+2597,814393,794,RB Bragantino,FORA,9458,Léo Ortiz,https://media.api-sports.io/football/players/9458.png,88.0,D,7.9,False,0,,,0,0,0,0,52,44,1,5,6,5,2,0,0,1,0,0,0,0,0,0,0
+2598,814393,794,RB Bragantino,FORA,195100,Natan,https://media.api-sports.io/football/players/195100.png,90.0,D,7.9,False,0,,,0,0,0,0,56,44,2,2,3,2,0,0,0,0,0,0,0,0,0,0,0
+2599,814393,794,RB Bragantino,FORA,9906,Luan Cândido,https://media.api-sports.io/football/players/9906.png,90.0,D,7.9,False,0,1.0,1.0,1,0,0,0,43,31,1,1,12,8,1,2,0,0,0,0,0,0,0,0,0
+2600,814393,794,RB Bragantino,FORA,10040,Artur,https://media.api-sports.io/football/players/10040.png,90.0,M,7.3,False,0,1.0,,0,0,1,0,31,23,0,0,9,6,2,0,3,0,0,0,0,0,0,0,0
+2601,814393,794,RB Bragantino,FORA,80539,Jadsom,https://media.api-sports.io/football/players/80539.png,90.0,M,7.3,False,0,,,0,0,0,0,47,33,2,0,11,8,0,0,2,3,1,0,0,0,0,0,0
+2602,814393,794,RB Bragantino,FORA,197533,Bruno Praxedes,https://media.api-sports.io/football/players/197533.png,76.0,M,7.3,False,0,2.0,1.0,1,0,0,0,32,26,0,0,14,6,0,2,2,3,1,0,0,0,0,0,0
+2603,814393,794,RB Bragantino,FORA,9895,Leandrinho,https://media.api-sports.io/football/players/9895.png,76.0,M,7.5,False,0,1.0,1.0,0,0,1,0,17,14,0,0,10,4,1,1,1,0,0,0,0,0,0,0,0
+2604,814393,794,RB Bragantino,FORA,9472,Ytalo,https://media.api-sports.io/football/players/9472.png,65.0,F,6.9,False,0,2.0,1.0,0,0,0,0,13,7,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0
+2605,814393,794,RB Bragantino,FORA,64331,Miguel,https://media.api-sports.io/football/players/64331.png,65.0,F,6.3,False,0,1.0,1.0,0,0,0,0,12,9,0,0,7,0,0,2,0,2,0,0,0,0,0,0,0
+2606,814393,794,RB Bragantino,FORA,9449,Júlio César,https://media.api-sports.io/football/players/9449.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2607,814393,794,RB Bragantino,FORA,200282,Maycon Cleiton,https://media.api-sports.io/football/players/200282.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2608,814393,794,RB Bragantino,FORA,9453,Aderlan,https://media.api-sports.io/football/players/9453.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2609,814393,794,RB Bragantino,FORA,195976,Guilherme Lopes,https://media.api-sports.io/football/players/195976.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2610,814393,794,RB Bragantino,FORA,16370,Leonardo Realpe,https://media.api-sports.io/football/players/16370.png,2.0,D,,True,0,,,0,0,0,0,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2611,814393,794,RB Bragantino,FORA,10027,Eric Ramires,https://media.api-sports.io/football/players/10027.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2612,814393,794,RB Bragantino,FORA,9923,Hyoran,https://media.api-sports.io/football/players/9923.png,25.0,M,6.9,True,0,1.0,,0,0,0,0,5,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+2613,814393,794,RB Bragantino,FORA,311821,Luciano,https://media.api-sports.io/football/players/311821.png,14.0,M,6.6,True,0,,,0,0,0,0,5,2,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0
+2614,814393,794,RB Bragantino,FORA,9468,Bruno Tubarão,https://media.api-sports.io/football/players/9468.png,14.0,F,7.0,True,0,,,0,0,0,0,7,4,0,2,4,3,0,0,0,1,0,0,0,0,0,0,0
+2615,814393,794,RB Bragantino,FORA,2458,Jan Hurtado,https://media.api-sports.io/football/players/2458.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2616,814393,794,RB Bragantino,FORA,9893,Alerrandro,https://media.api-sports.io/football/players/9893.png,25.0,F,6.7,True,0,,,0,0,0,0,3,3,0,0,5,3,0,0,1,0,0,0,0,0,0,0,0
+2617,814393,794,RB Bragantino,FORA,106591,Gabriel Novaes,https://media.api-sports.io/football/players/106591.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2618,814394,138,Guarani Campinas,CASA,9304,Mauricio Kozlinski,https://media.api-sports.io/football/players/9304.png,90.0,G,7.5,False,0,,,0,0,0,3,17,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2619,814394,138,Guarani Campinas,CASA,9344,Diogo Mateus,https://media.api-sports.io/football/players/9344.png,90.0,D,7.9,False,0,1.0,1.0,1,0,0,0,33,25,0,2,5,4,0,0,1,1,0,0,0,0,1,0,0
+2620,814394,138,Guarani Campinas,CASA,10445,Ronaldo Alves,https://media.api-sports.io/football/players/10445.png,90.0,D,6.9,False,0,,,0,0,0,0,30,21,0,3,8,2,0,3,0,1,0,0,0,0,0,0,0
+2621,814394,138,Guarani Campinas,CASA,9630,Derlan,https://media.api-sports.io/football/players/9630.png,90.0,D,6.9,False,0,,,0,0,0,0,28,18,0,1,6,3,0,0,2,1,0,0,0,0,0,0,0
+2622,814394,138,Guarani Campinas,CASA,195091,Matheus Pereira,https://media.api-sports.io/football/players/195091.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,23,14,0,0,9,3,1,1,2,5,0,0,0,0,0,0,0
+2623,814394,138,Guarani Campinas,CASA,9533,Rodrigo Andrade,https://media.api-sports.io/football/players/9533.png,66.0,M,6.9,False,0,,,0,0,0,0,20,16,1,2,9,4,0,0,2,2,0,0,0,0,0,0,0
+2624,814394,138,Guarani Campinas,CASA,10554,Bruno Silva,https://media.api-sports.io/football/players/10554.png,90.0,M,6.5,False,0,,,0,0,0,0,27,22,1,0,10,2,0,0,0,3,0,0,0,0,0,0,0
+2625,814394,138,Guarani Campinas,CASA,9499,Índio,https://media.api-sports.io/football/players/9499.png,81.0,M,6.7,False,0,1.0,,0,0,0,0,13,10,0,1,4,2,0,0,2,1,0,0,0,0,0,0,0
+2626,814394,138,Guarani Campinas,CASA,10356,Giovanni Augusto,https://media.api-sports.io/football/players/10356.png,81.0,F,7.3,False,1,2.0,1.0,1,0,0,0,27,25,1,0,6,3,0,0,1,1,0,0,0,0,1,0,0
+2627,814394,138,Guarani Campinas,CASA,60925,Lucão,https://media.api-sports.io/football/players/60925.png,89.0,F,7.3,False,0,3.0,1.0,1,0,0,0,17,8,0,0,15,10,0,0,3,3,0,0,0,0,0,0,0
+2628,814394,138,Guarani Campinas,CASA,9724,Júlio César,https://media.api-sports.io/football/players/9724.png,89.0,F,7.5,False,0,,,0,0,1,0,17,12,0,1,4,2,0,0,0,1,0,0,0,0,0,0,0
+2629,814394,138,Guarani Campinas,CASA,9335,Rafael Martins,https://media.api-sports.io/football/players/9335.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2630,814394,138,Guarani Campinas,CASA,294906,Ludke,https://media.api-sports.io/football/players/294906.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2631,814394,138,Guarani Campinas,CASA,216241,Eliel da Silva,https://media.api-sports.io/football/players/216241.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2632,814394,138,Guarani Campinas,CASA,115525,João Victor,https://media.api-sports.io/football/players/115525.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2633,814394,138,Guarani Campinas,CASA,10022,Ernando,https://media.api-sports.io/football/players/10022.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2634,814394,138,Guarani Campinas,CASA,9749,Renan,https://media.api-sports.io/football/players/9749.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2635,814394,138,Guarani Campinas,CASA,70886,Ronald,https://media.api-sports.io/football/players/70886.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+2636,814394,138,Guarani Campinas,CASA,10345,Madison,https://media.api-sports.io/football/players/10345.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2637,814394,138,Guarani Campinas,CASA,119272,Eduardo Person,https://media.api-sports.io/football/players/119272.png,9.0,M,6.2,True,0,,,0,0,0,0,3,3,0,0,2,0,0,1,0,1,1,0,0,0,0,0,0
+2638,814394,138,Guarani Campinas,CASA,35821,Yago César,https://media.api-sports.io/football/players/35821.png,24.0,F,6.9,True,0,,,0,0,0,0,3,3,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0
+2639,814394,138,Guarani Campinas,CASA,80264,Vitinho,https://media.api-sports.io/football/players/80264.png,9.0,M,6.5,True,0,,,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+2640,814394,138,Guarani Campinas,CASA,48235,Maxwell,https://media.api-sports.io/football/players/48235.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2641,814394,139,Ponte Preta,FORA,9694,Ygor Vinhas,https://media.api-sports.io/football/players/9694.png,90.0,G,5.6,False,0,,,0,3,0,0,19,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2642,814394,139,Ponte Preta,FORA,10338,Kevin,https://media.api-sports.io/football/players/10338.png,90.0,D,6.3,False,0,1.0,,0,0,0,0,60,45,1,1,6,3,0,0,1,2,0,0,0,0,0,0,0
+2643,814394,139,Ponte Preta,FORA,299083,Thiago Lopes,https://media.api-sports.io/football/players/299083.png,90.0,D,6.2,False,0,,,0,0,0,0,50,45,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+2644,814394,139,Ponte Preta,FORA,10308,Léo Santos,https://media.api-sports.io/football/players/10308.png,90.0,D,6.3,False,0,1.0,1.0,0,0,0,0,70,56,0,1,7,2,0,0,1,2,0,0,0,0,0,0,0
+2645,814394,139,Ponte Preta,FORA,9715,Jean Carlos,https://media.api-sports.io/football/players/9715.png,76.0,D,5.6,False,0,,,0,0,0,0,35,23,0,0,4,2,0,0,1,1,0,0,0,1,0,0,0
+2646,814394,139,Ponte Preta,FORA,299089,Leo Naldi,https://media.api-sports.io/football/players/299089.png,90.0,M,6.3,False,0,1.0,,0,0,0,0,31,21,1,1,9,5,0,0,3,0,0,0,0,0,0,0,0
+2647,814394,139,Ponte Preta,FORA,9396,Matheus Jesus,https://media.api-sports.io/football/players/9396.png,76.0,M,6.2,False,0,1.0,1.0,0,0,0,0,18,12,0,0,5,1,0,0,0,3,0,0,0,0,0,0,0
+2648,814394,139,Ponte Preta,FORA,182070,André Luiz,https://media.api-sports.io/football/players/182070.png,45.0,M,6.0,False,0,,,0,0,0,0,24,16,0,0,5,4,0,0,1,1,1,0,0,1,0,0,0
+2649,814394,139,Ponte Preta,FORA,80537,Fessin,https://media.api-sports.io/football/players/80537.png,90.0,F,6.9,False,0,2.0,,0,0,0,0,16,14,0,0,10,7,3,1,3,1,0,0,0,0,0,0,0
+2650,814394,139,Ponte Preta,FORA,42163,Lucca,https://media.api-sports.io/football/players/42163.png,90.0,F,7.3,False,0,4.0,1.0,0,0,0,0,13,9,1,0,16,9,0,0,4,2,1,0,0,0,0,0,0
+2651,814394,139,Ponte Preta,FORA,48926,Pedro Junior,https://media.api-sports.io/football/players/48926.png,68.0,F,6.7,False,0,,,0,0,0,0,16,12,0,0,3,2,1,0,1,0,0,0,0,0,0,0,0
+2652,814394,139,Ponte Preta,FORA,10228,Caique França,https://media.api-sports.io/football/players/10228.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2653,814394,139,Ponte Preta,FORA,10343,Fábio Sanches,https://media.api-sports.io/football/players/10343.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2654,814394,139,Ponte Preta,FORA,9564,Norberto Neto,https://media.api-sports.io/football/players/9564.png,14.0,D,6.7,True,0,,,0,0,0,0,12,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2655,814394,139,Ponte Preta,FORA,36008,Fabricio,https://media.api-sports.io/football/players/36008.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2656,814394,139,Ponte Preta,FORA,207920,Marcos Júnior,https://media.api-sports.io/football/players/207920.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2657,814394,139,Ponte Preta,FORA,9433,João Pedro,https://media.api-sports.io/football/players/9433.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2658,814394,139,Ponte Preta,FORA,294905,Pedrinho,https://media.api-sports.io/football/players/294905.png,22.0,F,6.9,True,0,,,0,0,0,0,5,4,0,0,6,5,1,0,4,1,1,0,0,0,0,0,0
+2659,814394,139,Ponte Preta,FORA,9427,Matheus Anjos,https://media.api-sports.io/football/players/9427.png,14.0,M,7.2,True,0,,,0,0,0,0,8,8,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0
+2660,814394,139,Ponte Preta,FORA,10575,Ribamar,https://media.api-sports.io/football/players/10575.png,45.0,F,6.7,True,0,1.0,,0,0,0,0,4,3,0,0,5,3,0,0,1,2,0,0,0,0,0,0,0
+2661,814397,7865,São Bernardo,CASA,80582,Júnior Oliveira,https://media.api-sports.io/football/players/80582.png,90.0,G,7.3,False,0,,,0,0,0,2,34,21,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
+2662,814397,7865,São Bernardo,CASA,10191,Joilson,https://media.api-sports.io/football/players/10191.png,90.0,D,7.7,False,0,1.0,,0,0,0,0,55,38,0,1,10,7,0,0,0,1,0,0,0,0,0,0,0
+2663,814397,7865,São Bernardo,CASA,9456,Ligger,https://media.api-sports.io/football/players/9456.png,90.0,D,7.0,False,0,,,0,0,0,0,30,26,1,0,4,3,0,0,2,0,0,0,0,0,0,0,0
+2664,814397,7865,São Bernardo,CASA,305020,Ítalo,https://media.api-sports.io/football/players/305020.png,90.0,D,7.3,False,0,,,0,0,0,0,48,41,0,0,8,6,1,0,1,2,1,0,0,0,0,0,0
+2665,814397,7865,São Bernardo,CASA,80186,Cristovam,https://media.api-sports.io/football/players/80186.png,90.0,M,6.7,False,0,,,0,0,0,0,36,21,0,2,7,5,0,0,2,2,0,0,0,0,0,0,0
+2666,814397,7865,São Bernardo,CASA,9466,Vitinho,https://media.api-sports.io/football/players/9466.png,45.0,M,6.3,False,0,,,0,0,0,0,40,38,0,0,13,5,0,2,3,1,0,0,0,0,0,0,0
+2667,814397,7865,São Bernardo,CASA,9390,Rodrigo Souza,https://media.api-sports.io/football/players/9390.png,90.0,M,7.2,False,0,,,0,0,0,0,34,19,0,4,14,10,1,1,1,2,1,0,0,0,0,0,0
+2668,814397,7865,São Bernardo,CASA,10519,Igor Fernandes,https://media.api-sports.io/football/players/10519.png,90.0,M,6.9,False,0,,,0,0,0,0,27,20,0,4,8,3,0,0,1,2,0,0,0,0,0,0,0
+2669,814397,7865,São Bernardo,CASA,64359,Matheus Davó,https://media.api-sports.io/football/players/64359.png,90.0,F,6.9,False,1,1.0,1.0,1,0,0,0,15,13,0,0,11,3,0,0,3,1,0,0,0,0,0,0,0
+2670,814397,7865,São Bernardo,CASA,157848,João Carlos Ferreira,https://media.api-sports.io/football/players/157848.png,45.0,F,6.7,False,0,1.0,,0,0,0,0,4,2,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0
+2671,814397,7865,São Bernardo,CASA,33644,Silvinho,https://media.api-sports.io/football/players/33644.png,76.0,F,7.2,False,0,,,0,0,1,0,32,25,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+2672,814397,7865,São Bernardo,CASA,78006,Oliveira,https://media.api-sports.io/football/players/78006.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2673,814397,7865,São Bernardo,CASA,195428,Gabriel de Souza Inocencio,https://media.api-sports.io/football/players/195428.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2674,814397,7865,São Bernardo,CASA,9809,Pará,https://media.api-sports.io/football/players/9809.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2675,814397,7865,São Bernardo,CASA,313084,Ruan,https://media.api-sports.io/football/players/313084.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2676,814397,7865,São Bernardo,CASA,80385,Zézinho,https://media.api-sports.io/football/players/80385.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2677,814397,7865,São Bernardo,CASA,237737,Mário Cesinha,https://media.api-sports.io/football/players/237737.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2678,814397,7865,São Bernardo,CASA,9539,Romisson,https://media.api-sports.io/football/players/9539.png,45.0,M,6.9,True,0,,,0,0,0,0,26,23,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+2679,814397,7865,São Bernardo,CASA,9535,Léo Gomes,https://media.api-sports.io/football/players/9535.png,14.0,M,6.9,True,0,,,0,0,0,0,5,5,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
+2680,814397,7865,São Bernardo,CASA,53546,Ravanelli,https://media.api-sports.io/football/players/53546.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2681,814397,7865,São Bernardo,CASA,64046,Rafinha,https://media.api-sports.io/football/players/64046.png,45.0,F,6.9,True,0,1.0,,0,0,0,0,19,14,0,0,5,3,0,1,1,0,0,0,0,0,0,0,0
+2682,814397,7865,São Bernardo,CASA,114455,Gustavo Ramos,https://media.api-sports.io/football/players/114455.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2683,814397,7779,Ituano,FORA,135134,Pegorari,https://media.api-sports.io/football/players/135134.png,90.0,G,6.3,False,0,,,0,1,0,0,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2684,814397,7779,Ituano,FORA,114540,Guilherme Augusto Pacheco,https://media.api-sports.io/football/players/114540.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,47,33,0,0,6,4,1,0,0,1,0,0,0,0,0,0,0
+2685,814397,7779,Ituano,FORA,9631,Léo Santos,https://media.api-sports.io/football/players/9631.png,90.0,D,6.5,False,0,,,0,0,0,0,28,22,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2686,814397,7779,Ituano,FORA,9563,Cleberson,https://media.api-sports.io/football/players/9563.png,90.0,D,6.6,False,0,,,0,0,0,0,47,43,0,0,6,3,0,0,1,1,0,0,0,0,0,0,0
+2687,814397,7779,Ituano,FORA,55283,Mário Sergio,https://media.api-sports.io/football/players/55283.png,84.0,D,6.6,False,0,,,0,0,0,0,36,26,0,2,10,6,0,0,1,0,0,0,0,0,0,0,0
+2688,814397,7779,Ituano,FORA,9580,Kaio Mendes,https://media.api-sports.io/football/players/9580.png,76.0,M,6.9,False,2,1.0,,0,0,0,0,18,15,0,1,8,3,0,0,2,2,0,0,0,0,0,0,0
+2689,814397,7779,Ituano,FORA,54709,Jorge Roa Jiménez,https://media.api-sports.io/football/players/54709.png,76.0,M,7.2,False,0,1.0,,0,0,0,0,44,30,0,1,9,6,0,0,0,2,0,0,0,0,0,0,0
+2690,814397,7779,Ituano,FORA,9788,Lucas,https://media.api-sports.io/football/players/9788.png,90.0,M,6.3,False,0,,,0,0,0,0,45,34,0,1,7,2,0,0,1,1,0,0,0,0,0,0,0
+2691,814397,7779,Ituano,FORA,9896,Rafael Elias,https://media.api-sports.io/football/players/9896.png,90.0,F,6.3,False,0,,,0,0,0,0,16,12,0,0,13,4,0,0,0,3,0,0,0,0,0,0,0
+2692,814397,7779,Ituano,FORA,10223,Aylon,https://media.api-sports.io/football/players/10223.png,63.0,F,6.9,False,0,1.0,,0,0,0,0,15,12,1,0,16,6,1,2,3,4,0,0,0,0,0,0,0
+2693,814397,7779,Ituano,FORA,10286,Calyson,https://media.api-sports.io/football/players/10286.png,63.0,F,6.5,False,1,1.0,,0,0,0,0,17,14,1,1,6,3,1,0,1,1,0,0,0,0,0,0,0
+2694,814397,7779,Ituano,FORA,237883,Filipe,https://media.api-sports.io/football/players/237883.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2695,814397,7779,Ituano,FORA,10193,Roberto,https://media.api-sports.io/football/players/10193.png,14.0,D,6.6,True,0,,,0,0,0,0,4,3,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+2696,814397,7779,Ituano,FORA,10194,Rafael Pereira,https://media.api-sports.io/football/players/10194.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2697,814397,7779,Ituano,FORA,195482,Bernardo Schappo,https://media.api-sports.io/football/players/195482.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2698,814397,7779,Ituano,FORA,194940,Nathan,https://media.api-sports.io/football/players/194940.png,14.0,M,6.6,True,0,,,0,0,0,0,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2699,814397,7779,Ituano,FORA,9717,Igor Henrique,https://media.api-sports.io/football/players/9717.png,27.0,M,6.7,True,0,,,0,0,0,0,21,18,0,0,3,1,0,0,1,2,0,0,0,0,0,0,0
+2700,814397,7779,Ituano,FORA,195385,Iago,https://media.api-sports.io/football/players/195385.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2701,814397,7779,Ituano,FORA,9858,Neto Berola,https://media.api-sports.io/football/players/9858.png,27.0,F,6.3,True,0,1.0,,0,0,0,0,14,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+2702,814397,7779,Ituano,FORA,199324,Gabriel Barros,https://media.api-sports.io/football/players/199324.png,14.0,F,7.2,True,0,2.0,2.0,0,0,0,0,9,7,0,0,5,4,1,0,2,0,0,0,0,0,0,0,0
+2703,814398,1201,Inter De Limeira,CASA,10509,Lucas Frigeri,https://media.api-sports.io/football/players/10509.png,95.0,G,7.0,False,0,,,0,0,0,1,27,23,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+2704,814398,1201,Inter De Limeira,CASA,10449,Celsinho,https://media.api-sports.io/football/players/10449.png,86.0,D,6.6,False,0,,,0,0,0,0,30,26,1,1,12,3,0,2,0,3,1,0,0,0,0,0,0
+2705,814398,1201,Inter De Limeira,CASA,9414,Rodolfo,https://media.api-sports.io/football/players/9414.png,95.0,D,6.9,False,0,1.0,1.0,0,0,0,0,24,17,0,0,6,4,0,0,0,1,0,0,0,0,0,0,0
+2706,814398,1201,Inter De Limeira,CASA,9869,Matheus Mancini,https://media.api-sports.io/football/players/9869.png,79.0,D,6.9,False,0,,,0,0,0,0,40,30,1,0,4,3,0,0,0,1,0,0,0,0,0,0,0
+2707,814398,1201,Inter De Limeira,CASA,33465,Tito,https://media.api-sports.io/football/players/33465.png,86.0,D,6.5,False,0,,,0,0,0,0,19,16,0,2,7,0,0,2,0,3,0,0,0,0,0,0,0
+2708,814398,1201,Inter De Limeira,CASA,10394,Matheus Galdezani,https://media.api-sports.io/football/players/10394.png,79.0,M,6.5,False,0,,,0,0,0,0,29,24,0,0,12,4,0,2,2,3,0,0,0,0,0,0,0
+2709,814398,1201,Inter De Limeira,CASA,54023,Jhony Douglas,https://media.api-sports.io/football/players/54023.png,95.0,M,6.6,False,0,,,0,0,0,0,38,28,0,2,14,6,3,2,1,2,0,0,0,0,0,0,0
+2710,814398,1201,Inter De Limeira,CASA,80289,Lima,https://media.api-sports.io/football/players/80289.png,95.0,M,7.0,False,0,2.0,1.0,0,0,0,0,41,31,0,1,3,1,0,0,1,1,0,0,0,0,0,0,0
+2711,814398,1201,Inter De Limeira,CASA,195481,Léo Duarte,https://media.api-sports.io/football/players/195481.png,95.0,F,6.6,False,0,1.0,,0,0,0,0,23,18,0,1,21,8,2,1,0,2,0,0,0,0,0,0,0
+2712,814398,1201,Inter De Limeira,CASA,67842,Ronaldo,https://media.api-sports.io/football/players/67842.png,95.0,F,6.3,False,0,1.0,,0,0,0,0,15,14,0,0,14,2,0,1,2,4,0,0,0,0,0,0,0
+2713,814398,1201,Inter De Limeira,CASA,9464,Osman,https://media.api-sports.io/football/players/9464.png,62.0,F,6.9,False,0,1.0,,0,0,0,0,16,7,0,0,7,6,0,0,2,0,0,0,0,0,0,0,0
+2714,814398,1201,Inter De Limeira,CASA,9693,Guilherme,https://media.api-sports.io/football/players/9693.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2715,814398,1201,Inter De Limeira,CASA,9462,Rafael Carioca,https://media.api-sports.io/football/players/9462.png,9.0,D,6.9,True,0,,,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0
+2716,814398,1201,Inter De Limeira,CASA,9703,Renan Fonseca,https://media.api-sports.io/football/players/9703.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2717,814398,1201,Inter De Limeira,CASA,10023,Xandão,https://media.api-sports.io/football/players/10023.png,16.0,D,6.7,True,0,,,0,0,0,0,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+2718,814398,1201,Inter De Limeira,CASA,119151,Geovane,https://media.api-sports.io/football/players/119151.png,33.0,F,6.3,True,0,,,0,0,0,0,7,5,0,0,4,1,1,0,0,1,1,0,0,0,0,0,0
+2719,814398,1201,Inter De Limeira,CASA,10411,Diego Tavares,https://media.api-sports.io/football/players/10411.png,16.0,F,6.3,True,0,,,0,0,0,0,3,3,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0
+2720,814398,1201,Inter De Limeira,CASA,80328,Julio Rusch,https://media.api-sports.io/football/players/80328.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2721,814398,1201,Inter De Limeira,CASA,9698,Léo,https://media.api-sports.io/football/players/9698.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2722,814398,1201,Inter De Limeira,CASA,195117,Pedro do Rio,https://media.api-sports.io/football/players/195117.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2723,814398,1201,Inter De Limeira,CASA,77683,Renato Cajá,https://media.api-sports.io/football/players/77683.png,9.0,M,6.7,True,0,,,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2724,814398,1201,Inter De Limeira,CASA,54939,Thiago Alagoano,https://media.api-sports.io/football/players/54939.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2725,814398,1201,Inter De Limeira,CASA,159760,Gui Mendes,https://media.api-sports.io/football/players/159760.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2726,814398,121,Palmeiras,FORA,10372,Marcelo Lomba,https://media.api-sports.io/football/players/10372.png,95.0,G,7.2,False,0,,,0,0,0,2,29,22,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+2727,814398,121,Palmeiras,FORA,9917,Mayke,https://media.api-sports.io/football/players/9917.png,95.0,D,7.3,False,0,,,0,0,0,0,71,63,0,2,6,3,1,0,0,1,0,0,0,0,0,0,0
+2728,814398,121,Palmeiras,FORA,11365,Benjamin Kuscevic,https://media.api-sports.io/football/players/11365.png,95.0,D,6.9,False,0,,,0,0,0,0,72,66,0,2,3,0,0,0,0,1,0,0,0,0,0,0,0
+2729,814398,121,Palmeiras,FORA,237072,Renan,https://media.api-sports.io/football/players/237072.png,95.0,D,7.3,False,0,1.0,,0,0,0,0,77,64,2,1,8,6,0,0,0,1,0,0,0,0,0,0,0
+2730,814398,121,Palmeiras,FORA,9985,Jorge,https://media.api-sports.io/football/players/9985.png,95.0,D,6.9,False,0,,,0,0,0,0,26,22,0,2,11,6,2,1,0,0,0,0,0,0,0,0,0
+2731,814398,121,Palmeiras,FORA,68057,Rafael Navarro,https://media.api-sports.io/football/players/68057.png,95.0,M,6.2,False,0,,,0,0,0,0,14,6,0,2,19,7,0,2,2,3,0,0,0,0,0,0,0
+2732,814398,121,Palmeiras,FORA,195109,Patrick de Paula,https://media.api-sports.io/football/players/195109.png,86.0,M,7.2,False,0,2.0,,0,0,0,0,36,30,0,0,8,6,0,0,5,2,0,0,0,0,0,0,0
+2733,814398,121,Palmeiras,FORA,9932,Zé Rafael,https://media.api-sports.io/football/players/9932.png,62.0,M,6.3,False,0,,,0,0,0,0,23,20,0,0,8,5,0,0,3,0,0,0,0,0,0,0,0
+2734,814398,121,Palmeiras,FORA,53966,Breno Lopes,https://media.api-sports.io/football/players/53966.png,70.0,F,6.6,False,0,,,0,0,0,0,19,16,0,0,6,5,0,0,4,0,0,0,0,0,0,0,0
+2735,814398,121,Palmeiras,FORA,9934,Deyverson,https://media.api-sports.io/football/players/9934.png,70.0,F,7.0,False,0,1.0,1.0,0,0,0,0,17,12,0,1,7,5,0,0,1,0,0,0,0,0,0,0,0
+2736,814398,121,Palmeiras,FORA,70314,Wesley,https://media.api-sports.io/football/players/70314.png,62.0,F,6.9,False,0,1.0,,0,0,0,0,8,7,0,0,11,8,2,1,4,0,0,0,0,0,0,0,0
+2737,814398,121,Palmeiras,FORA,9764,Vinicius Silvestre,https://media.api-sports.io/football/players/9764.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2738,814398,121,Palmeiras,FORA,9916,Marcos Rocha,https://media.api-sports.io/football/players/9916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2739,814398,121,Palmeiras,FORA,279800,Vanderlan,https://media.api-sports.io/football/players/279800.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2740,814398,121,Palmeiras,FORA,286962,Lucas Freitas,https://media.api-sports.io/football/players/286962.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2741,814398,121,Palmeiras,FORA,51033,Eduard Atuesta,https://media.api-sports.io/football/players/51033.png,33.0,M,7.0,True,0,1.0,,0,0,0,0,15,11,0,0,8,6,3,2,0,0,0,0,0,0,0,0,0
+2742,814398,121,Palmeiras,FORA,180235,Gabriel Veron,https://media.api-sports.io/football/players/180235.png,33.0,F,6.9,True,0,,,0,0,0,0,10,6,0,0,9,7,2,0,1,0,0,0,0,0,0,0,0
+2743,814398,121,Palmeiras,FORA,157148,Pedro Bicalho,https://media.api-sports.io/football/players/157148.png,9.0,M,6.7,True,0,,,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2744,814398,121,Palmeiras,FORA,10143,Rony,https://media.api-sports.io/football/players/10143.png,25.0,F,6.3,True,0,,,0,0,0,0,4,3,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0
+2745,814398,121,Palmeiras,FORA,278336,Giovani Henrique,https://media.api-sports.io/football/players/278336.png,25.0,F,6.9,True,0,,,0,0,0,0,4,4,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0
+2746,814400,10018,Água Santa,CASA,9227,Victor Souza,https://media.api-sports.io/football/players/9227.png,90.0,G,6.2,False,0,,,0,2,0,2,16,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2747,814400,10018,Água Santa,CASA,10516,Alex Silva,https://media.api-sports.io/football/players/10516.png,77.0,D,7.3,False,0,1.0,1.0,1,0,0,0,17,14,0,1,6,4,0,0,2,2,1,0,0,1,0,0,0
+2748,814400,10018,Água Santa,CASA,9270,Marcondes,https://media.api-sports.io/football/players/9270.png,90.0,D,6.7,False,0,,,0,0,0,0,24,16,1,2,5,4,0,1,0,0,0,0,0,0,0,0,0
+2749,814400,10018,Água Santa,CASA,54044,Helder Maciel,https://media.api-sports.io/football/players/54044.png,90.0,D,6.3,False,0,,,0,0,0,0,25,22,0,4,7,3,0,0,3,3,1,1,0,0,0,0,0
+2750,814400,10018,Água Santa,CASA,196095,Rhuan,https://media.api-sports.io/football/players/196095.png,90.0,D,6.9,False,0,,,0,0,0,0,26,21,0,2,10,7,0,0,5,1,0,0,0,0,0,0,0
+2751,814400,10018,Água Santa,CASA,159653,Caique,https://media.api-sports.io/football/players/159653.png,85.0,M,6.9,False,0,,,0,0,0,0,22,21,0,1,7,4,1,0,1,2,0,0,0,0,0,0,0
+2752,814400,10018,Água Santa,CASA,195977,Cristiano,https://media.api-sports.io/football/players/195977.png,9.0,M,6.6,False,0,,,0,0,0,0,2,1,0,1,2,2,0,0,1,0,0,0,0,0,0,0,0
+2753,814400,10018,Água Santa,CASA,77843,Rodrigo Sam,https://media.api-sports.io/football/players/77843.png,90.0,M,7.0,False,0,,,0,0,0,0,12,11,2,2,7,5,1,0,2,1,0,0,0,0,0,0,0
+2754,814400,10018,Água Santa,CASA,160670,Fernandinho,https://media.api-sports.io/football/players/160670.png,67.0,F,6.0,False,0,1.0,,0,0,1,0,14,8,0,1,7,2,0,0,1,2,2,1,0,0,0,0,0
+2755,814400,10018,Água Santa,CASA,9762,Alvaro,https://media.api-sports.io/football/players/9762.png,77.0,F,6.3,False,0,,,0,0,0,0,9,6,0,0,6,3,0,0,2,0,0,0,0,0,0,0,0
+2756,814400,10018,Água Santa,CASA,64364,Dadá Belmonte,https://media.api-sports.io/football/players/64364.png,90.0,F,6.5,False,0,1.0,1.0,0,0,0,0,12,11,0,0,13,4,0,1,3,1,0,0,0,0,0,0,0
+2757,814400,10018,Água Santa,CASA,80615,Matheus Inácio,https://media.api-sports.io/football/players/80615.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2758,814400,10018,Água Santa,CASA,9831,Leandro Silva,https://media.api-sports.io/football/players/9831.png,13.0,D,6.2,True,0,,,0,0,0,0,3,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+2759,814400,10018,Água Santa,CASA,9378,Alyson,https://media.api-sports.io/football/players/9378.png,13.0,D,6.2,True,0,,,0,0,0,0,1,0,0,0,4,2,1,0,0,1,0,0,0,0,0,0,0
+2760,814400,10018,Água Santa,CASA,181890,Jeferson Santos,https://media.api-sports.io/football/players/181890.png,12.0,D,6.2,True,0,,,0,0,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2761,814400,10018,Água Santa,CASA,9718,Matheus Oliveira,https://media.api-sports.io/football/players/9718.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2762,814400,10018,Água Santa,CASA,159800,Gabriel Terra,https://media.api-sports.io/football/players/159800.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2763,814400,10018,Água Santa,CASA,77668,Lelê,https://media.api-sports.io/football/players/77668.png,81.0,M,6.9,True,0,,,0,0,0,0,22,19,0,1,5,3,2,0,0,1,0,0,0,0,0,0,0
+2764,814400,10018,Água Santa,CASA,9258,Caio Dantas,https://media.api-sports.io/football/players/9258.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2765,814400,10018,Água Santa,CASA,352866,Vinicius Reis,https://media.api-sports.io/football/players/352866.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2766,814400,10018,Água Santa,CASA,354663,David,https://media.api-sports.io/football/players/354663.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2767,814400,10018,Água Santa,CASA,352867,João Vitor,https://media.api-sports.io/football/players/352867.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2768,814400,126,Sao Paulo,FORA,30763,Jandrei,https://media.api-sports.io/football/players/30763.png,90.0,G,6.3,False,0,,,0,1,0,1,31,25,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
+2769,814400,126,Sao Paulo,FORA,352994,João Moreira Souza,https://media.api-sports.io/football/players/352994.png,90.0,D,6.3,False,0,,,0,0,0,0,35,30,0,1,10,5,1,1,1,3,0,0,0,0,0,0,0
+2770,814400,126,Sao Paulo,FORA,2571,Robert Arboleda,https://media.api-sports.io/football/players/2571.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,63,59,1,1,6,4,0,0,0,2,0,0,0,0,0,0,0
+2771,814400,126,Sao Paulo,FORA,195,Miranda,https://media.api-sports.io/football/players/195.png,90.0,D,6.6,False,0,,,0,0,0,0,77,72,0,0,5,2,0,1,1,0,1,0,0,0,0,0,0
+2772,814400,126,Sao Paulo,FORA,9946,Reinaldo,https://media.api-sports.io/football/players/9946.png,90.0,D,7.6,False,0,1.0,1.0,1,0,0,0,37,36,0,1,4,1,0,0,0,1,0,0,0,0,1,0,0
+2773,814400,126,Sao Paulo,FORA,1218,Emiliano Rigoni,https://media.api-sports.io/football/players/1218.png,60.0,M,6.5,False,0,1.0,,0,0,0,0,17,12,0,0,4,2,0,1,1,1,0,0,0,0,0,0,0
+2774,814400,126,Sao Paulo,FORA,313732,Pablo Maia,https://media.api-sports.io/football/players/313732.png,71.0,M,6.9,False,0,,,0,0,0,0,51,46,0,1,8,5,0,0,3,2,1,0,0,0,0,0,0
+2775,814400,126,Sao Paulo,FORA,9954,Rodrigo Nestor,https://media.api-sports.io/football/players/9954.png,90.0,M,6.7,False,0,,,0,0,0,0,54,47,0,0,7,3,0,1,0,3,0,0,0,0,0,0,0
+2776,814400,126,Sao Paulo,FORA,9967,Igor Gomes,https://media.api-sports.io/football/players/9967.png,60.0,M,6.7,False,0,1.0,,0,0,0,0,31,28,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+2777,814400,126,Sao Paulo,FORA,180916,Juan,https://media.api-sports.io/football/players/180916.png,60.0,F,7.5,False,0,2.0,2.0,0,0,0,0,12,10,0,0,12,6,1,0,3,4,0,0,1,0,0,0,0
+2778,814400,126,Sao Paulo,FORA,12795,Éder,https://media.api-sports.io/football/players/12795.png,60.0,F,6.7,False,0,1.0,,0,0,0,0,19,15,1,0,4,1,0,0,1,1,0,0,0,0,0,0,0
+2779,814400,126,Sao Paulo,FORA,9944,Tiago Volpi,https://media.api-sports.io/football/players/9944.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2780,814400,126,Sao Paulo,FORA,500,Rafinha,https://media.api-sports.io/football/players/500.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2781,814400,126,Sao Paulo,FORA,311518,Nathan,https://media.api-sports.io/football/players/311518.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2782,814400,126,Sao Paulo,FORA,9951,Léo,https://media.api-sports.io/football/players/9951.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2783,814400,126,Sao Paulo,FORA,180919,Welington,https://media.api-sports.io/football/players/180919.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2784,814400,126,Sao Paulo,FORA,80552,Gabriel Sara,https://media.api-sports.io/football/players/80552.png,30.0,M,6.6,True,0,,,0,0,0,0,10,8,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+2785,814400,126,Sao Paulo,FORA,13397,Andres Colorado,https://media.api-sports.io/football/players/13397.png,19.0,M,6.6,True,0,,,0,0,0,0,24,24,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0
+2786,814400,126,Sao Paulo,FORA,307835,Lucas Beraldo,https://media.api-sports.io/football/players/307835.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2787,814400,126,Sao Paulo,FORA,51580,Gabriel Neves,https://media.api-sports.io/football/players/51580.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2788,814400,126,Sao Paulo,FORA,311520,Marquinhos,https://media.api-sports.io/football/players/311520.png,30.0,F,6.5,True,0,,,0,0,0,0,17,15,0,0,5,1,0,1,1,3,1,0,0,0,0,0,0
+2789,814400,126,Sao Paulo,FORA,47368,Jonathan Calleri,https://media.api-sports.io/football/players/47368.png,30.0,F,7.2,True,1,1.0,1.0,1,0,0,0,4,2,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0
+2790,814400,126,Sao Paulo,FORA,10323,Luciano,https://media.api-sports.io/football/players/10323.png,30.0,F,6.3,True,0,,,0,0,0,0,18,17,0,0,4,1,0,0,1,1,1,0,0,0,0,0,0
+2791,814403,7848,Mirassol,CASA,9193,Darley,https://media.api-sports.io/football/players/9193.png,68.0,G,6.7,False,0,,,0,1,0,2,15,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2792,814403,7848,Mirassol,CASA,157286,Rodrigo Ferreira,https://media.api-sports.io/football/players/157286.png,68.0,D,7.2,False,0,1.0,1.0,0,0,0,0,23,17,0,3,5,3,1,0,0,1,0,0,0,0,0,0,0
+2793,814403,7848,Mirassol,CASA,9737,Thalisson Kelven,https://media.api-sports.io/football/players/9737.png,68.0,D,6.6,False,0,1.0,,0,0,0,0,32,25,1,0,9,6,0,0,0,2,0,0,0,0,0,0,0
+2794,814403,7848,Mirassol,CASA,80380,Lucão,https://media.api-sports.io/football/players/80380.png,68.0,D,6.5,False,0,,,0,0,0,0,33,29,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+2795,814403,7848,Mirassol,CASA,9201,Pará,https://media.api-sports.io/football/players/9201.png,68.0,D,7.3,False,0,,,0,0,1,0,24,14,0,2,6,3,2,1,0,1,0,0,0,0,0,0,0
+2796,814403,7848,Mirassol,CASA,160176,Luís Oyama,https://media.api-sports.io/football/players/160176.png,68.0,M,6.7,False,0,1.0,1.0,0,0,0,0,36,22,0,2,13,4,0,3,1,4,0,0,0,0,0,0,0
+2797,814403,7848,Mirassol,CASA,10390,Camilo,https://media.api-sports.io/football/players/10390.png,68.0,M,6.3,False,0,,,0,0,0,0,12,9,0,1,9,4,1,0,3,1,0,0,0,0,0,0,0
+2798,814403,7848,Mirassol,CASA,9613,Neto Moura,https://media.api-sports.io/football/players/9613.png,68.0,M,6.6,False,0,,,0,0,0,0,37,29,0,1,7,4,2,0,0,2,1,0,0,0,0,0,0
+2799,814403,7848,Mirassol,CASA,106464,Fabrício Daniel,https://media.api-sports.io/football/players/106464.png,68.0,F,7.0,False,0,2.0,,0,0,0,0,13,8,0,0,10,4,1,1,2,1,0,0,0,0,0,0,0
+2800,814403,7848,Mirassol,CASA,140564,Zeca,https://media.api-sports.io/football/players/140564.png,68.0,F,7.2,False,0,2.0,1.0,1,0,0,0,14,13,0,0,7,2,1,1,1,1,0,0,0,0,0,0,0
+2801,814403,7848,Mirassol,CASA,153458,Negueba,https://media.api-sports.io/football/players/153458.png,45.0,F,6.2,False,0,,,0,0,0,0,4,3,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+2802,814403,7848,Mirassol,CASA,9763,Edson Mardden,https://media.api-sports.io/football/players/9763.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2803,814403,7848,Mirassol,CASA,54075,Ivan,https://media.api-sports.io/football/players/54075.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2804,814403,7848,Mirassol,CASA,9230,Ednei,https://media.api-sports.io/football/players/9230.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2805,814403,7848,Mirassol,CASA,9457,Rayan,https://media.api-sports.io/football/players/9457.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2806,814403,7848,Mirassol,CASA,267863,Frank,https://media.api-sports.io/football/players/267863.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2807,814403,7848,Mirassol,CASA,114454,Daniel,https://media.api-sports.io/football/players/114454.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2808,814403,7848,Mirassol,CASA,266383,Reinaldo Kauan,https://media.api-sports.io/football/players/266383.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2809,814403,7848,Mirassol,CASA,80643,Luiz Fernando,https://media.api-sports.io/football/players/80643.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2810,814403,7848,Mirassol,CASA,266391,Eduardo Fernandes,https://media.api-sports.io/football/players/266391.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2811,814403,7848,Mirassol,CASA,9848,Rafael Oller,https://media.api-sports.io/football/players/9848.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2812,814403,7848,Mirassol,CASA,143365,Fabinho,https://media.api-sports.io/football/players/143365.png,23.0,F,6.7,True,0,,,0,0,0,0,5,4,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0
+2813,814403,7848,Mirassol,CASA,9616,Rafael Silva,https://media.api-sports.io/football/players/9616.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2814,814403,139,Ponte Preta,FORA,9694,Ygor Vinhas,https://media.api-sports.io/football/players/9694.png,68.0,G,6.9,False,0,,,0,1,0,2,19,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2815,814403,139,Ponte Preta,FORA,10338,Kevin,https://media.api-sports.io/football/players/10338.png,68.0,D,6.9,False,0,,,0,0,0,0,45,36,0,4,5,3,0,1,0,1,0,0,0,0,0,0,0
+2816,814403,139,Ponte Preta,FORA,299083,Thiago Lopes,https://media.api-sports.io/football/players/299083.png,68.0,D,6.9,False,0,,,0,0,0,0,30,26,1,2,6,3,0,0,2,3,1,0,0,0,0,0,0
+2817,814403,139,Ponte Preta,FORA,36008,Fabricio,https://media.api-sports.io/football/players/36008.png,68.0,D,7.0,False,0,,,0,0,0,0,42,34,0,4,6,4,0,0,0,2,0,0,0,0,0,0,0
+2818,814403,139,Ponte Preta,FORA,9715,Jean Carlos,https://media.api-sports.io/football/players/9715.png,63.0,D,6.9,False,0,,,0,0,0,0,28,17,0,2,6,4,0,1,1,0,0,0,0,0,0,0,0
+2819,814403,139,Ponte Preta,FORA,80537,Fessin,https://media.api-sports.io/football/players/80537.png,63.0,M,7.2,False,0,1.0,,0,0,0,0,25,22,1,1,11,7,2,3,1,0,0,0,0,0,0,0,0
+2820,814403,139,Ponte Preta,FORA,299089,Leo Naldi,https://media.api-sports.io/football/players/299089.png,68.0,M,6.3,False,0,,,0,0,0,0,27,23,0,1,3,1,1,1,0,0,0,0,0,0,0,0,0
+2821,814403,139,Ponte Preta,FORA,10308,Léo Santos,https://media.api-sports.io/football/players/10308.png,68.0,M,6.9,False,0,,,0,0,0,0,31,29,0,1,8,6,2,0,2,2,1,0,0,0,0,0,0
+2822,814403,139,Ponte Preta,FORA,42163,Lucca,https://media.api-sports.io/football/players/42163.png,68.0,M,6.9,False,0,4.0,2.0,1,0,0,0,14,7,0,0,9,6,0,1,3,0,1,0,0,0,0,0,0
+2823,814403,139,Ponte Preta,FORA,9427,Matheus Anjos,https://media.api-sports.io/football/players/9427.png,68.0,F,6.6,False,0,,,0,0,0,0,26,18,0,0,11,4,1,1,3,1,0,0,0,0,0,0,0
+2824,814403,139,Ponte Preta,FORA,10575,Ribamar,https://media.api-sports.io/football/players/10575.png,68.0,F,6.9,False,0,1.0,1.0,0,0,0,0,13,8,0,0,10,5,0,0,2,0,0,0,0,0,0,0,0
+2825,814403,139,Ponte Preta,FORA,10228,Caique França,https://media.api-sports.io/football/players/10228.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2826,814403,139,Ponte Preta,FORA,327635,Douglas Mendes,https://media.api-sports.io/football/players/327635.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2827,814403,139,Ponte Preta,FORA,156191,Igor Formiga,https://media.api-sports.io/football/players/156191.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2828,814403,139,Ponte Preta,FORA,9564,Norberto Neto,https://media.api-sports.io/football/players/9564.png,5.0,D,,True,0,,,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2829,814403,139,Ponte Preta,FORA,9433,João Pedro,https://media.api-sports.io/football/players/9433.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2830,814403,139,Ponte Preta,FORA,182070,André Luiz,https://media.api-sports.io/football/players/182070.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2831,814403,139,Ponte Preta,FORA,41431,Niltinho,https://media.api-sports.io/football/players/41431.png,5.0,F,,True,0,,,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2832,814403,139,Ponte Preta,FORA,207920,Marcos Júnior,https://media.api-sports.io/football/players/207920.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2833,814403,139,Ponte Preta,FORA,294905,Pedrinho,https://media.api-sports.io/football/players/294905.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2834,814403,139,Ponte Preta,FORA,125649,Josiel,https://media.api-sports.io/football/players/125649.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2835,814404,131,Corinthians,CASA,10229,Cássio,https://media.api-sports.io/football/players/10229.png,95.0,G,7.2,False,0,,,0,0,0,4,30,23,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0
+2836,814404,131,Corinthians,CASA,2411,Fagner,https://media.api-sports.io/football/players/2411.png,95.0,D,7.3,False,0,,,0,0,0,0,44,39,0,0,8,6,2,0,1,1,0,0,0,0,0,0,0
+2837,814404,131,Corinthians,CASA,12744,Gil,https://media.api-sports.io/football/players/12744.png,95.0,D,7.3,False,0,1.0,1.0,0,0,0,0,48,47,1,2,3,1,0,0,1,2,0,0,0,0,0,0,0
+2838,814404,131,Corinthians,CASA,10225,João Victor,https://media.api-sports.io/football/players/10225.png,95.0,D,7.3,False,0,,,0,0,0,0,65,58,2,3,5,3,1,0,0,1,0,0,0,0,0,0,0
+2839,814404,131,Corinthians,CASA,10234,Lucas Piton,https://media.api-sports.io/football/players/10234.png,95.0,D,6.9,False,0,,,0,0,0,0,60,50,0,2,6,3,1,0,0,1,0,0,0,0,0,0,0
+2840,814404,131,Corinthians,CASA,44317,Giuliano,https://media.api-sports.io/football/players/44317.png,79.0,M,6.9,False,0,3.0,1.0,0,0,0,0,30,28,0,0,7,3,2,2,1,0,0,0,0,0,0,0,0
+2841,814404,131,Corinthians,CASA,321432,Du Queiroz,https://media.api-sports.io/football/players/321432.png,95.0,M,6.5,False,0,1.0,,0,0,0,0,42,37,0,0,9,2,0,2,0,1,0,0,0,0,0,0,0
+2842,814404,131,Corinthians,CASA,12666,Renato Augusto,https://media.api-sports.io/football/players/12666.png,85.0,M,7.2,False,0,2.0,1.0,0,0,0,0,49,39,0,1,12,8,2,0,2,0,0,0,0,0,0,0,0
+2843,814404,131,Corinthians,CASA,12719,Paulinho,https://media.api-sports.io/football/players/12719.png,88.0,M,6.6,False,0,1.0,,0,0,0,0,32,25,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0
+2844,814404,131,Corinthians,CASA,12764,Róger Guedes,https://media.api-sports.io/football/players/12764.png,95.0,F,6.9,False,0,2.0,1.0,0,0,0,0,21,17,0,0,5,2,0,0,0,1,0,0,0,0,0,0,0
+2845,814404,131,Corinthians,CASA,2294,Willian,https://media.api-sports.io/football/players/2294.png,84.0,F,7.7,False,0,1.0,1.0,0,0,0,0,34,30,0,1,8,4,1,0,3,1,0,0,0,0,0,0,0
+2846,814404,131,Corinthians,CASA,9692,Ivan,https://media.api-sports.io/football/players/9692.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2847,814404,131,Corinthians,CASA,9876,Fábio Santos,https://media.api-sports.io/football/players/9876.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2848,814404,131,Corinthians,CASA,14390,Raul Gustavo,https://media.api-sports.io/football/players/14390.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2849,814404,131,Corinthians,CASA,374,João Pedro,https://media.api-sports.io/football/players/374.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2850,814404,131,Corinthians,CASA,269442,Gabriel Pereira,https://media.api-sports.io/football/players/269442.png,7.0,M,,True,0,,,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2851,814404,131,Corinthians,CASA,10502,Luan,https://media.api-sports.io/football/players/10502.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2852,814404,131,Corinthians,CASA,13580,Victor Cantillo,https://media.api-sports.io/football/players/13580.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2853,814404,131,Corinthians,CASA,278549,Gustavo Mantuan,https://media.api-sports.io/football/players/278549.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2854,814404,131,Corinthians,CASA,9620,Gustavo Silva,https://media.api-sports.io/football/players/9620.png,16.0,F,7.0,True,0,2.0,1.0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2855,814404,131,Corinthians,CASA,10416,Bruno Melo,https://media.api-sports.io/football/players/10416.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2856,814404,131,Corinthians,CASA,267770,Roni,https://media.api-sports.io/football/players/267770.png,10.0,M,6.9,True,0,,,0,0,0,0,1,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+2857,814404,131,Corinthians,CASA,32906,Jô,https://media.api-sports.io/football/players/32906.png,11.0,F,6.3,True,0,,,0,0,0,0,4,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+2858,814404,794,RB Bragantino,FORA,9862,Cleiton,https://media.api-sports.io/football/players/9862.png,95.0,G,7.5,False,0,,,0,1,0,5,34,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2859,814404,794,RB Bragantino,FORA,9453,Aderlan,https://media.api-sports.io/football/players/9453.png,83.0,D,6.9,False,0,1.0,,0,0,0,0,23,22,0,0,9,5,0,2,1,2,0,0,0,0,0,0,0
+2860,814404,794,RB Bragantino,FORA,9458,Léo Ortiz,https://media.api-sports.io/football/players/9458.png,95.0,D,7.5,False,0,,,0,0,0,0,37,34,3,1,3,2,0,0,0,0,0,0,0,0,0,0,0
+2861,814404,794,RB Bragantino,FORA,195100,Natan,https://media.api-sports.io/football/players/195100.png,95.0,D,6.9,False,0,,,0,0,0,0,57,50,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+2862,814404,794,RB Bragantino,FORA,9906,Luan Cândido,https://media.api-sports.io/football/players/9906.png,95.0,D,7.0,False,0,2.0,1.0,0,0,0,0,35,29,0,2,10,5,0,2,0,1,0,0,0,0,0,0,0
+2863,814404,794,RB Bragantino,FORA,10040,Artur,https://media.api-sports.io/football/players/10040.png,95.0,M,7.2,False,0,2.0,1.0,0,0,0,0,27,22,0,1,10,5,0,1,2,2,0,0,0,0,0,0,0
+2864,814404,794,RB Bragantino,FORA,10027,Eric Ramires,https://media.api-sports.io/football/players/10027.png,95.0,M,6.9,False,0,2.0,,0,0,0,0,31,28,0,1,5,2,0,1,0,0,0,0,0,0,0,0,0
+2865,814404,794,RB Bragantino,FORA,80539,Jadsom,https://media.api-sports.io/football/players/80539.png,95.0,M,6.0,False,0,,,0,0,0,0,37,29,0,3,7,0,0,1,0,3,0,0,0,0,0,0,0
+2866,814404,794,RB Bragantino,FORA,9895,Leandrinho,https://media.api-sports.io/football/players/9895.png,75.0,M,6.9,False,0,,,0,0,0,0,20,16,0,0,8,4,1,0,1,0,0,0,0,0,0,0,0
+2867,814404,794,RB Bragantino,FORA,9472,Ytalo,https://media.api-sports.io/football/players/9472.png,76.0,F,6.7,False,0,1.0,1.0,0,0,0,0,9,8,0,0,4,1,0,1,0,0,0,0,0,0,0,0,0
+2868,814404,794,RB Bragantino,FORA,9923,Hyoran,https://media.api-sports.io/football/players/9923.png,83.0,F,7.5,False,0,2.0,,0,0,0,0,17,15,0,1,11,8,2,1,3,1,0,0,0,0,0,0,0
+2869,814404,794,RB Bragantino,FORA,9449,Júlio César,https://media.api-sports.io/football/players/9449.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2870,814404,794,RB Bragantino,FORA,200282,Maycon Cleiton,https://media.api-sports.io/football/players/200282.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2871,814404,794,RB Bragantino,FORA,16370,Leonardo Realpe,https://media.api-sports.io/football/players/16370.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2872,814404,794,RB Bragantino,FORA,196101,Weverson,https://media.api-sports.io/football/players/196101.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2873,814404,794,RB Bragantino,FORA,68113,José Hurtado Cheme,https://media.api-sports.io/football/players/68113.png,12.0,D,7.0,True,0,,,0,0,0,0,8,6,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0
+2874,814404,794,RB Bragantino,FORA,195976,Guilherme Lopes,https://media.api-sports.io/football/players/195976.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2875,814404,794,RB Bragantino,FORA,135135,Welliton,https://media.api-sports.io/football/players/135135.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2876,814404,794,RB Bragantino,FORA,311821,Luciano,https://media.api-sports.io/football/players/311821.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2877,814404,794,RB Bragantino,FORA,64331,Miguel,https://media.api-sports.io/football/players/64331.png,12.0,M,6.6,True,0,1.0,,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2878,814404,794,RB Bragantino,FORA,9468,Bruno Tubarão,https://media.api-sports.io/football/players/9468.png,20.0,F,6.3,True,0,1.0,,0,0,0,0,4,2,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
+2879,814404,794,RB Bragantino,FORA,197814,Bruno Gonçalves,https://media.api-sports.io/football/players/197814.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2880,814404,794,RB Bragantino,FORA,9893,Alerrandro,https://media.api-sports.io/football/players/9893.png,19.0,F,6.3,True,0,2.0,1.0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2881,814405,128,Santos,CASA,9979,João Paulo,https://media.api-sports.io/football/players/9979.png,69.0,G,6.9,False,0,,,0,1,0,3,27,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2882,814405,128,Santos,CASA,278496,Vinicius Balieiro,https://media.api-sports.io/football/players/278496.png,69.0,D,6.9,False,0,1.0,,0,0,1,0,18,14,0,1,5,2,0,1,1,1,0,0,0,1,0,0,0
+2883,814405,128,Santos,CASA,305803,Kaiky,https://media.api-sports.io/football/players/305803.png,69.0,D,6.7,False,0,,,0,0,0,0,60,51,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+2884,814405,128,Santos,CASA,9416,Eduardo Bauermann,https://media.api-sports.io/football/players/9416.png,69.0,D,7.2,False,0,,,0,0,0,0,56,53,0,2,6,5,0,0,0,0,0,0,0,0,0,0,0
+2885,814405,128,Santos,CASA,330238,Lucas Pires,https://media.api-sports.io/football/players/330238.png,69.0,D,6.7,False,0,1.0,1.0,0,0,0,0,35,25,0,1,6,3,1,2,2,1,0,0,0,0,0,0,0
+2886,814405,128,Santos,CASA,10131,Guilherme Camacho,https://media.api-sports.io/football/players/10131.png,69.0,M,7.0,False,0,,,0,0,0,0,59,55,1,2,6,3,0,1,0,1,0,0,0,0,0,0,0
+2887,814405,128,Santos,CASA,10001,Sandry,https://media.api-sports.io/football/players/10001.png,69.0,M,7.6,False,0,,,0,0,0,0,62,52,0,1,7,7,0,0,1,0,0,0,0,0,0,0,0
+2888,814405,128,Santos,CASA,288055,Ângelo,https://media.api-sports.io/football/players/288055.png,69.0,M,6.6,False,0,1.0,,0,0,0,0,23,15,0,0,11,6,5,0,0,0,0,0,0,0,0,0,0
+2889,814405,128,Santos,CASA,9937,Ricardo Goulart,https://media.api-sports.io/football/players/9937.png,69.0,M,7.7,False,0,3.0,2.0,1,0,0,0,25,23,0,0,5,3,0,0,1,0,0,0,0,0,0,0,0
+2890,814405,128,Santos,CASA,44492,Marcos Guilherme,https://media.api-sports.io/football/players/44492.png,58.0,M,6.3,False,0,3.0,2.0,0,0,0,0,19,18,0,0,6,2,1,1,0,0,0,0,0,0,0,0,0
+2891,814405,128,Santos,CASA,267771,Marcos Leonardo,https://media.api-sports.io/football/players/267771.png,69.0,F,7.0,False,0,,,0,0,0,0,10,6,0,0,7,5,3,0,2,0,0,0,0,0,0,0,0
+2892,814405,128,Santos,CASA,321454,Diogenes,https://media.api-sports.io/football/players/321454.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2893,814405,128,Santos,CASA,47538,Emiliano Velázquez,https://media.api-sports.io/football/players/47538.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2894,814405,128,Santos,CASA,9986,Luiz Felipe,https://media.api-sports.io/football/players/9986.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2895,814405,128,Santos,CASA,157815,Bruno Oliveira,https://media.api-sports.io/football/players/157815.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2896,814405,128,Santos,CASA,54061,Lucas Braga,https://media.api-sports.io/football/players/54061.png,11.0,F,6.7,True,0,,,0,0,0,0,2,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+2897,814405,128,Santos,CASA,278495,Gabriel Pirani,https://media.api-sports.io/football/players/278495.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2898,814405,128,Santos,CASA,279811,Lucas Barbosa,https://media.api-sports.io/football/players/279811.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2899,814405,128,Santos,CASA,9352,Luiz Henrique,https://media.api-sports.io/football/players/9352.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2900,814405,128,Santos,CASA,9999,Tailson,https://media.api-sports.io/football/players/9999.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2901,814405,128,Santos,CASA,10002,Jobson,https://media.api-sports.io/football/players/10002.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2902,814405,128,Santos,CASA,321663,Rwan,https://media.api-sports.io/football/players/321663.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2903,814405,128,Santos,CASA,119779,Allanzinho,https://media.api-sports.io/football/players/119779.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2904,814405,7834,Novorizontino,FORA,9733,Giovanni,https://media.api-sports.io/football/players/9733.png,69.0,G,6.9,False,0,,,0,1,0,4,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2905,814405,7834,Novorizontino,FORA,80523,Willean Lepu,https://media.api-sports.io/football/players/80523.png,69.0,D,7.3,False,0,,,0,0,0,0,29,22,0,3,12,7,2,1,1,1,0,0,0,0,0,0,0
+2906,814405,7834,Novorizontino,FORA,9561,Wálber,https://media.api-sports.io/football/players/9561.png,69.0,D,6.2,False,0,,,0,0,0,0,17,12,2,0,5,1,0,2,0,1,0,0,0,0,0,0,0
+2907,814405,7834,Novorizontino,FORA,9807,Bruno Aguiar,https://media.api-sports.io/football/players/9807.png,69.0,D,6.9,False,0,,,0,0,0,0,13,8,1,1,3,2,0,1,0,0,0,0,0,0,0,0,0
+2908,814405,7834,Novorizontino,FORA,159905,Reverson,https://media.api-sports.io/football/players/159905.png,69.0,D,7.0,False,0,,,0,0,0,0,20,15,1,1,4,3,0,0,0,0,0,0,0,0,0,0,0
+2909,814405,7834,Novorizontino,FORA,80741,Léo Baiano,https://media.api-sports.io/football/players/80741.png,69.0,M,6.9,False,0,,,0,0,0,0,28,24,0,0,8,3,0,1,1,2,0,0,1,0,0,0,0
+2910,814405,7834,Novorizontino,FORA,197563,João Pedro Barba,https://media.api-sports.io/football/players/197563.png,69.0,M,6.9,False,0,,,0,0,0,0,34,29,0,4,4,1,0,1,0,1,0,0,0,0,0,0,0
+2911,814405,7834,Novorizontino,FORA,159790,Léo Tocantins,https://media.api-sports.io/football/players/159790.png,69.0,M,7.2,False,0,2.0,1.0,0,0,0,0,36,33,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+2912,814405,7834,Novorizontino,FORA,290868,Romulo,https://media.api-sports.io/football/players/290868.png,69.0,M,6.3,False,0,2.0,1.0,0,0,0,0,21,14,0,0,9,3,1,0,0,1,0,0,0,0,0,0,0
+2913,814405,7834,Novorizontino,FORA,9821,Douglas Baggio,https://media.api-sports.io/football/players/9821.png,69.0,M,6.9,False,1,2.0,2.0,1,0,0,0,24,21,0,1,12,4,2,4,1,1,0,0,0,0,1,0,0
+2914,814405,7834,Novorizontino,FORA,10216,Bruno Silva,https://media.api-sports.io/football/players/10216.png,45.0,F,6.5,False,1,1.0,,0,0,0,0,4,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+2915,814405,7834,Novorizontino,FORA,9194,Rodrigo Viana,https://media.api-sports.io/football/players/9194.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2916,814405,7834,Novorizontino,FORA,9202,Lucas Mendes,https://media.api-sports.io/football/players/9202.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2917,814405,7834,Novorizontino,FORA,9571,Guilherme Lazaroni,https://media.api-sports.io/football/players/9571.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2918,814405,7834,Novorizontino,FORA,80646,Edson Silva,https://media.api-sports.io/football/players/80646.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2919,814405,7834,Novorizontino,FORA,9652,Adilson Goiano,https://media.api-sports.io/football/players/9652.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2920,814405,7834,Novorizontino,FORA,9813,Marcinho,https://media.api-sports.io/football/players/9813.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2921,814405,7834,Novorizontino,FORA,77866,Cléo Silva,https://media.api-sports.io/football/players/77866.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2922,814405,7834,Novorizontino,FORA,77754,Danielzinho,https://media.api-sports.io/football/players/77754.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2923,814405,7834,Novorizontino,FORA,157158,Chrigor,https://media.api-sports.io/football/players/157158.png,24.0,F,6.3,True,0,2.0,,0,0,0,0,5,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+0,814401,138,Guarani Campinas,CASA,9304,Mauricio Kozlinski,https://media.api-sports.io/football/players/9304.png,90.0,G,6.2,False,0,,,0,3,0,3,18,14,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0
+1,814401,138,Guarani Campinas,CASA,9344,Diogo Mateus,https://media.api-sports.io/football/players/9344.png,90.0,D,6.2,False,0,,,0,0,0,0,24,19,0,0,8,2,1,0,0,2,0,0,0,0,0,0,0
+2,814401,138,Guarani Campinas,CASA,10445,Ronaldo Alves,https://media.api-sports.io/football/players/10445.png,90.0,D,6.5,False,0,1.0,,0,0,0,0,31,20,1,0,11,6,0,0,0,1,0,0,0,0,0,0,0
+3,814401,138,Guarani Campinas,CASA,9630,Derlan,https://media.api-sports.io/football/players/9630.png,90.0,D,6.6,False,0,,,0,0,0,0,23,14,0,6,4,4,1,0,0,0,0,0,0,0,0,0,0
+4,814401,138,Guarani Campinas,CASA,195091,Matheus Pereira,https://media.api-sports.io/football/players/195091.png,90.0,D,6,False,0,,,0,0,0,0,27,17,1,1,4,2,1,0,1,1,1,0,0,0,0,0,0
+5,814401,138,Guarani Campinas,CASA,9533,Rodrigo Andrade,https://media.api-sports.io/football/players/9533.png,66.0,M,6.2,False,0,1.0,1.0,0,0,0,0,9,7,0,0,5,0,0,0,0,3,0,0,0,0,0,0,0
+6,814401,138,Guarani Campinas,CASA,10554,Bruno Silva,https://media.api-sports.io/football/players/10554.png,81.0,M,6.2,False,0,,,0,0,0,0,20,16,1,0,6,1,0,0,0,4,1,0,0,0,0,0,0
+7,814401,138,Guarani Campinas,CASA,10356,Giovanni Augusto,https://media.api-sports.io/football/players/10356.png,81.0,M,7.2,False,0,1.0,1.0,1,0,0,0,25,19,0,1,6,3,0,0,1,1,0,0,0,0,1,0,0
+8,814401,138,Guarani Campinas,CASA,35821,Yago César,https://media.api-sports.io/football/players/35821.png,66.0,F,6.6,False,0,,,0,0,0,0,17,14,0,0,2,2,1,0,1,0,0,0,0,0,0,0,0
+9,814401,138,Guarani Campinas,CASA,9724,Júlio César,https://media.api-sports.io/football/players/9724.png,72.0,F,6.7,False,0,,,0,0,0,0,17,10,0,1,6,2,1,1,0,1,0,0,0,0,0,0,0
+10,814401,138,Guarani Campinas,CASA,60925,Lucão,https://media.api-sports.io/football/players/60925.png,90.0,F,7.2,False,0,2.0,1.0,1,0,0,0,14,10,0,0,14,5,0,1,1,5,0,0,0,0,0,0,0
+11,814401,138,Guarani Campinas,CASA,10110,Gabriel Mesquita,https://media.api-sports.io/football/players/10110.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814401,138,Guarani Campinas,CASA,216241,Eliel da Silva,https://media.api-sports.io/football/players/216241.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814401,138,Guarani Campinas,CASA,10022,Ernando,https://media.api-sports.io/football/players/10022.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,814401,138,Guarani Campinas,CASA,294906,Ludke,https://media.api-sports.io/football/players/294906.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814401,138,Guarani Campinas,CASA,115525,João Victor,https://media.api-sports.io/football/players/115525.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814401,138,Guarani Campinas,CASA,9749,Renan,https://media.api-sports.io/football/players/9749.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,814401,138,Guarani Campinas,CASA,10345,Madison,https://media.api-sports.io/football/players/10345.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,814401,138,Guarani Campinas,CASA,70886,Ronald,https://media.api-sports.io/football/players/70886.png,18.0,F,6.3,True,0,,,0,0,0,0,6,6,0,0,5,2,0,0,1,1,0,0,0,0,0,0,0
+19,814401,138,Guarani Campinas,CASA,119272,Eduardo Person,https://media.api-sports.io/football/players/119272.png,24.0,M,6.2,True,0,,,0,0,0,0,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,814401,138,Guarani Campinas,CASA,80264,Vitinho,https://media.api-sports.io/football/players/80264.png,9.0,M,6.6,True,0,,,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,814401,138,Guarani Campinas,CASA,9499,Índio,https://media.api-sports.io/football/players/9499.png,24.0,M,6.3,True,0,,,0,0,0,0,3,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+22,814401,138,Guarani Campinas,CASA,48235,Maxwell,https://media.api-sports.io/football/players/48235.png,9.0,F,6.3,True,0,,,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814401,10003,Santo André,FORA,9731,Jefferson Paulino,https://media.api-sports.io/football/players/9731.png,90.0,G,6.2,False,0,,,0,2,0,1,21,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,814401,10003,Santo André,FORA,80304,Thiago Ennes,https://media.api-sports.io/football/players/80304.png,90.0,D,6.7,False,1,,,0,0,0,0,42,33,0,1,9,6,1,2,2,0,0,0,0,0,0,0,0
+25,814401,10003,Santo André,FORA,10562,Luiz Gustavo,https://media.api-sports.io/football/players/10562.png,90.0,D,8.3,False,0,2.0,1.0,1,0,0,0,82,76,2,4,4,4,0,0,1,0,0,0,0,0,0,0,0
+26,814401,10003,Santo André,FORA,15278,Carlão,https://media.api-sports.io/football/players/15278.png,90.0,D,6.6,False,0,1.0,,0,0,0,0,75,69,0,0,4,2,0,0,1,1,0,0,0,0,0,0,0
+27,814401,10003,Santo André,FORA,8498,Thallyson,https://media.api-sports.io/football/players/8498.png,45.0,D,6.7,False,0,2.0,1.0,0,0,0,0,18,15,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0
+28,814401,10003,Santo André,FORA,9537,Dudu Vieira,https://media.api-sports.io/football/players/9537.png,90.0,M,6.6,False,0,1.0,,0,0,0,0,21,16,0,1,6,2,0,0,1,2,0,0,0,0,0,0,0
+29,814401,10003,Santo André,FORA,63984,Thiaguinho,https://media.api-sports.io/football/players/63984.png,90.0,M,6.9,False,0,,,0,0,0,0,40,35,0,2,5,3,0,0,1,0,0,0,0,0,0,0,0
+30,814401,10003,Santo André,FORA,9839,Sabino,https://media.api-sports.io/football/players/9839.png,71.0,M,6.3,False,0,,,0,0,0,0,50,41,0,0,11,7,0,0,4,4,1,0,0,1,0,0,0
+31,814401,10003,Santo André,FORA,9996,Lucas Lourenço,https://media.api-sports.io/football/players/9996.png,84.0,M,6.9,False,0,1.0,1.0,0,0,0,0,29,23,0,0,13,8,1,1,5,0,0,0,0,0,0,0,0
+32,814401,10003,Santo André,FORA,9262,Todinho,https://media.api-sports.io/football/players/9262.png,89.0,F,7.6,False,1,4.0,1.0,1,0,0,0,16,11,0,1,5,2,0,1,1,0,0,0,0,0,0,0,0
+33,814401,10003,Santo André,FORA,9365,Lucas Tocantins,https://media.api-sports.io/football/players/9365.png,90.0,F,6.9,False,1,1.0,1.0,0,0,0,0,8,5,0,0,7,5,0,0,2,0,0,0,0,0,0,0,0
+34,814401,10003,Santo André,FORA,194966,Fabricio,https://media.api-sports.io/football/players/194966.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814401,10003,Santo André,FORA,55179,Lucas Costa,https://media.api-sports.io/football/players/55179.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814401,10003,Santo André,FORA,80301,Kevin Kesley,https://media.api-sports.io/football/players/80301.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,814401,10003,Santo André,FORA,10360,Giovanny,https://media.api-sports.io/football/players/10360.png,2.0,F,5.3,True,0,,,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+38,814401,10003,Santo André,FORA,9394,Bruno Xavier,https://media.api-sports.io/football/players/9394.png,45.0,M,8.2,True,0,,,0,0,2,0,11,8,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+39,814401,10003,Santo André,FORA,198321,Lucas Cardoso,https://media.api-sports.io/football/players/198321.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,814401,10003,Santo André,FORA,9812,Carlos Jatobá,https://media.api-sports.io/football/players/9812.png,7.0,M,7.3,True,0,1.0,1.0,1,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0
+41,814401,10003,Santo André,FORA,314068,Denis Germano,https://media.api-sports.io/football/players/314068.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814401,10003,Santo André,FORA,194944,Rocha,https://media.api-sports.io/football/players/194944.png,19.0,F,6.7,True,0,,,0,0,0,0,4,3,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0
+43,814401,10003,Santo André,FORA,216335,Emerson Lima,https://media.api-sports.io/football/players/216335.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,814401,10003,Santo André,FORA,333286,Gabriel Cabral,https://media.api-sports.io/football/players/333286.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,814402,7779,Ituano,CASA,135134,Pegorari,https://media.api-sports.io/football/players/135134.png,90.0,G,6.7,False,0,,,0,1,0,3,27,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,814402,7779,Ituano,CASA,114540,Guilherme Augusto Pacheco,https://media.api-sports.io/football/players/114540.png,90.0,D,6.6,False,0,,,0,0,1,0,28,12,0,1,4,2,0,0,0,2,0,0,0,0,0,0,0
+2,814402,7779,Ituano,CASA,9631,Léo Santos,https://media.api-sports.io/football/players/9631.png,90.0,D,6.9,False,1,,,0,0,0,0,14,9,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+3,814402,7779,Ituano,CASA,9563,Cleberson,https://media.api-sports.io/football/players/9563.png,90.0,D,6.7,False,1,,,0,0,0,0,18,13,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0
+4,814402,7779,Ituano,CASA,10193,Roberto,https://media.api-sports.io/football/players/10193.png,90.0,D,6.9,False,0,,,0,0,0,0,15,12,0,2,7,5,0,0,2,3,0,0,0,0,0,0,0
+5,814402,7779,Ituano,CASA,9717,Igor Henrique,https://media.api-sports.io/football/players/9717.png,74.0,M,8.3,False,0,4.0,1.0,1,0,1,0,15,12,0,6,23,11,0,2,4,6,0,0,0,0,0,0,0
+6,814402,7779,Ituano,CASA,10194,Rafael Pereira,https://media.api-sports.io/football/players/10194.png,67.0,M,6.6,False,0,,,0,0,0,0,10,10,0,2,6,2,0,1,0,3,0,0,0,0,0,0,0
+7,814402,7779,Ituano,CASA,9788,Lucas,https://media.api-sports.io/football/players/9788.png,90.0,M,6.9,False,0,,,0,0,0,0,17,12,0,0,7,4,0,1,2,1,0,0,0,0,0,0,0
+8,814402,7779,Ituano,CASA,9580,Kaio Mendes,https://media.api-sports.io/football/players/9580.png,84.0,F,6.9,False,0,,,0,0,0,0,17,12,0,2,10,5,0,0,0,2,0,0,0,0,0,0,0
+9,814402,7779,Ituano,CASA,9896,Rafael Elias,https://media.api-sports.io/football/players/9896.png,74.0,F,6.5,False,1,1.0,1.0,0,0,0,0,4,4,0,0,14,4,0,1,3,6,0,0,0,0,0,0,0
+10,814402,7779,Ituano,CASA,9858,Neto Berola,https://media.api-sports.io/football/players/9858.png,67.0,F,7.2,False,0,2.0,1.0,1,0,0,0,13,8,0,2,9,4,1,0,2,0,0,0,0,0,0,0,0
+11,814402,7779,Ituano,CASA,9377,Glauco Tadeu,https://media.api-sports.io/football/players/9377.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814402,7779,Ituano,CASA,13238,Elacio Cordoba,https://media.api-sports.io/football/players/13238.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814402,7779,Ituano,CASA,55283,Mário Sergio,https://media.api-sports.io/football/players/55283.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,814402,7779,Ituano,CASA,10461,Lucas Dias Costa,https://media.api-sports.io/football/players/10461.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814402,7779,Ituano,CASA,10223,Aylon,https://media.api-sports.io/football/players/10223.png,16.0,F,6.3,True,0,,,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814402,7779,Ituano,CASA,54709,Jorge Roa Jiménez,https://media.api-sports.io/football/players/54709.png,23.0,M,6.7,True,0,,,0,0,0,0,6,5,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+17,814402,7779,Ituano,CASA,10286,Calyson,https://media.api-sports.io/football/players/10286.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,814402,7779,Ituano,CASA,194940,Nathan,https://media.api-sports.io/football/players/194940.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,814402,7779,Ituano,CASA,157814,João Victor,https://media.api-sports.io/football/players/157814.png,23.0,F,6.7,True,0,,,0,0,0,0,5,2,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0
+20,814402,7779,Ituano,CASA,199324,Gabriel Barros,https://media.api-sports.io/football/players/199324.png,11.0,F,6.7,True,0,,,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+21,814402,7779,Ituano,CASA,195385,Iago,https://media.api-sports.io/football/players/195385.png,16.0,F,7.9,True,0,3.0,1.0,1,0,0,0,1,1,0,0,5,4,0,0,4,1,0,0,1,0,1,0,0
+22,814402,7826,Ferroviária,FORA,80732,Saulo,https://media.api-sports.io/football/players/80732.png,90.0,G,6,False,0,,,0,3,0,1,16,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814402,7826,Ferroviária,FORA,53936,Vidal,https://media.api-sports.io/football/players/53936.png,66.0,D,6.3,False,0,,,0,0,0,0,33,30,0,1,10,3,0,0,1,5,0,0,0,0,0,0,0
+24,814402,7826,Ferroviária,FORA,54232,Arthur Henrique,https://media.api-sports.io/football/players/54232.png,90.0,D,6.2,False,0,1.0,1.0,1,0,0,0,79,63,0,1,8,3,0,0,1,3,1,0,0,1,0,0,0
+25,814402,7826,Ferroviária,FORA,9203,Didi,https://media.api-sports.io/football/players/9203.png,90.0,D,6,False,0,,,0,0,0,0,72,62,0,2,11,6,0,0,3,2,1,0,0,0,0,0,0
+26,814402,7826,Ferroviária,FORA,10268,João Lucas,https://media.api-sports.io/football/players/10268.png,90.0,D,6.2,False,0,,,0,0,0,0,58,55,0,1,4,1,0,0,1,0,0,0,0,0,0,0,0
+27,814402,7826,Ferroviária,FORA,237701,Thomaz,https://media.api-sports.io/football/players/237701.png,66.0,M,6.9,False,0,2.0,,0,0,0,0,48,41,0,1,8,3,1,1,0,3,0,0,0,0,0,0,0
+28,814402,7826,Ferroviária,FORA,9463,Uillian Correia,https://media.api-sports.io/football/players/9463.png,45.0,M,6.5,False,0,,,0,0,0,0,25,21,0,0,4,2,0,0,1,1,0,0,0,0,0,0,0
+29,814402,7826,Ferroviária,FORA,10531,Gegê,https://media.api-sports.io/football/players/10531.png,90.0,M,7.2,False,0,2.0,1.0,0,0,0,0,62,54,0,1,14,9,2,0,4,2,1,0,0,0,0,0,0
+30,814402,7826,Ferroviária,FORA,16575,Carlos Orejuela,https://media.api-sports.io/football/players/16575.png,45.0,F,6.6,False,0,,,0,0,0,0,21,17,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0
+31,814402,7826,Ferroviária,FORA,107626,Bruno Mezenga,https://media.api-sports.io/football/players/107626.png,90.0,F,6.9,False,0,3.0,,0,0,0,0,21,17,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0
+32,814402,7826,Ferroviária,FORA,157531,Netto,https://media.api-sports.io/football/players/157531.png,45.0,F,6.6,False,0,1.0,,0,0,0,0,16,16,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0
+33,814402,7826,Ferroviária,FORA,41902,Gabriel Gasparotto,https://media.api-sports.io/football/players/41902.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,814402,7826,Ferroviária,FORA,207758,Bruno Leonardo,https://media.api-sports.io/football/players/207758.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814402,7826,Ferroviária,FORA,80543,Breno Lopes,https://media.api-sports.io/football/players/80543.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814402,7826,Ferroviária,FORA,64123,Bernardo,https://media.api-sports.io/football/players/64123.png,24.0,D,6.3,True,0,1.0,,0,0,0,0,12,11,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+37,814402,7826,Ferroviária,FORA,197386,Rafael,https://media.api-sports.io/football/players/197386.png,45.0,D,6.5,True,0,,,0,0,0,0,16,14,0,0,5,2,1,0,1,1,0,0,0,0,0,0,0
+38,814402,7826,Ferroviária,FORA,157460,Marquinhos,https://media.api-sports.io/football/players/157460.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,814402,7826,Ferroviária,FORA,9998,Guilherme Nunes,https://media.api-sports.io/football/players/9998.png,45.0,M,6.6,True,0,,,0,0,0,0,37,33,0,0,10,6,0,0,3,1,0,0,0,0,0,0,0
+40,814402,7826,Ferroviária,FORA,9817,Murilo Rangel,https://media.api-sports.io/football/players/9817.png,24.0,M,6.6,True,0,1.0,1.0,0,0,0,0,8,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+41,814402,7826,Ferroviária,FORA,160041,Tcharlles,https://media.api-sports.io/football/players/160041.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814402,7826,Ferroviária,FORA,310849,Vitinho,https://media.api-sports.io/football/players/310849.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,814402,7826,Ferroviária,FORA,159829,Gleyson,https://media.api-sports.io/football/players/159829.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,814402,7826,Ferroviária,FORA,80480,Hygor,https://media.api-sports.io/football/players/80480.png,45.0,F,6.9,True,0,2.0,1.0,0,0,0,0,13,10,0,1,7,4,0,0,4,0,0,0,0,0,0,0,0
+0,814408,7834,Novorizontino,CASA,9733,Giovanni,https://media.api-sports.io/football/players/9733.png,70.0,G,7.3,False,0,,,0,1,0,5,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,814408,7834,Novorizontino,CASA,80523,Willean Lepu,https://media.api-sports.io/football/players/80523.png,53.0,D,5.6,False,0,1.0,,0,0,0,0,38,26,0,1,5,2,1,0,0,1,0,1,0,0,0,0,0
+2,814408,7834,Novorizontino,CASA,9561,Wálber,https://media.api-sports.io/football/players/9561.png,70.0,D,7.3,False,0,1.0,,0,0,0,0,44,31,2,1,10,6,1,0,0,2,0,0,0,0,0,0,0
+3,814408,7834,Novorizontino,CASA,9807,Bruno Aguiar,https://media.api-sports.io/football/players/9807.png,70.0,D,6.9,False,0,1.0,1.0,0,0,0,0,27,22,0,1,6,3,0,0,2,1,0,0,0,0,0,0,0
+4,814408,7834,Novorizontino,CASA,159905,Reverson,https://media.api-sports.io/football/players/159905.png,70.0,D,6.5,False,0,,,0,0,0,0,16,13,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0
+5,814408,7834,Novorizontino,CASA,197563,João Pedro Barba,https://media.api-sports.io/football/players/197563.png,69.0,M,6.9,False,0,1.0,1.0,0,0,0,0,34,28,0,0,5,3,1,0,1,1,0,0,0,0,0,0,0
+6,814408,7834,Novorizontino,CASA,77754,Danielzinho,https://media.api-sports.io/football/players/77754.png,70.0,M,7,False,0,1.0,1.0,0,0,0,0,31,24,0,0,11,7,0,0,5,1,0,0,0,0,0,0,0
+7,814408,7834,Novorizontino,CASA,80741,Léo Baiano,https://media.api-sports.io/football/players/80741.png,70.0,M,7.2,False,0,,,0,0,0,0,45,37,0,3,14,8,1,0,4,0,0,0,0,0,0,0,0
+8,814408,7834,Novorizontino,CASA,159790,Léo Tocantins,https://media.api-sports.io/football/players/159790.png,45.0,F,7,False,0,,,0,0,0,0,15,12,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0
+9,814408,7834,Novorizontino,CASA,9619,Michel Douglas,https://media.api-sports.io/football/players/9619.png,69.0,F,6.2,False,1,,,0,0,0,0,7,5,1,0,13,1,0,0,1,3,1,0,0,0,0,0,0
+10,814408,7834,Novorizontino,CASA,9821,Douglas Baggio,https://media.api-sports.io/football/players/9821.png,70.0,F,6.3,False,0,,,0,0,0,0,23,17,1,0,8,0,0,0,0,2,0,0,0,0,0,0,0
+11,814408,7834,Novorizontino,CASA,9194,Rodrigo Viana,https://media.api-sports.io/football/players/9194.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814408,7834,Novorizontino,CASA,9202,Lucas Mendes,https://media.api-sports.io/football/players/9202.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814408,7834,Novorizontino,CASA,9571,Guilherme Lazaroni,https://media.api-sports.io/football/players/9571.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,814408,7834,Novorizontino,CASA,9451,Lucas Ramon,https://media.api-sports.io/football/players/9451.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814408,7834,Novorizontino,CASA,80646,Edson Silva,https://media.api-sports.io/football/players/80646.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814408,7834,Novorizontino,CASA,9652,Adilson Goiano,https://media.api-sports.io/football/players/9652.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,814408,7834,Novorizontino,CASA,54095,Anderson,https://media.api-sports.io/football/players/54095.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,814408,7834,Novorizontino,CASA,9813,Marcinho,https://media.api-sports.io/football/players/9813.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,814408,7834,Novorizontino,CASA,77866,Cléo Silva,https://media.api-sports.io/football/players/77866.png,25.0,F,6.7,True,0,,,0,0,0,0,8,6,0,1,3,1,1,1,0,0,0,0,0,0,0,0,0
+20,814408,7834,Novorizontino,CASA,157158,Chrigor,https://media.api-sports.io/football/players/157158.png,1.0,F,,True,0,,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,814408,7834,Novorizontino,CASA,133198,Welinton,https://media.api-sports.io/football/players/133198.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,814408,7834,Novorizontino,CASA,290868,Romulo,https://media.api-sports.io/football/players/290868.png,1.0,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814408,1201,Inter De Limeira,FORA,10509,Lucas Frigeri,https://media.api-sports.io/football/players/10509.png,70.0,G,7.2,False,0,,,0,0,0,3,23,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,814408,1201,Inter De Limeira,FORA,10449,Celsinho,https://media.api-sports.io/football/players/10449.png,70.0,D,7.2,False,0,,,0,0,0,0,20,16,0,0,6,5,0,0,0,1,0,0,0,0,0,0,0
+25,814408,1201,Inter De Limeira,FORA,9414,Rodolfo,https://media.api-sports.io/football/players/9414.png,70.0,D,7,False,0,,,0,0,0,0,24,18,1,1,7,4,0,0,0,2,1,0,0,0,0,0,0
+26,814408,1201,Inter De Limeira,FORA,9869,Matheus Mancini,https://media.api-sports.io/football/players/9869.png,70.0,D,6.9,False,0,1.0,,0,0,0,0,25,15,0,0,3,2,0,0,0,1,0,0,0,0,0,0,0
+27,814408,1201,Inter De Limeira,FORA,33465,Tito,https://media.api-sports.io/football/players/33465.png,70.0,D,7.5,False,0,,,0,0,0,0,26,19,0,3,14,10,1,1,1,1,1,0,0,0,0,0,0
+28,814408,1201,Inter De Limeira,FORA,10394,Matheus Galdezani,https://media.api-sports.io/football/players/10394.png,70.0,M,6.9,False,0,1.0,1.0,0,0,0,0,17,13,0,0,5,3,0,1,1,0,0,0,0,0,0,0,0
+29,814408,1201,Inter De Limeira,FORA,54023,Jhony Douglas,https://media.api-sports.io/football/players/54023.png,70.0,M,6.7,False,0,1.0,,0,0,0,0,29,19,0,1,9,5,0,0,3,3,0,0,0,0,0,0,0
+30,814408,1201,Inter De Limeira,FORA,80289,Lima,https://media.api-sports.io/football/players/80289.png,70.0,M,7.6,False,0,2.0,1.0,0,0,1,0,27,21,0,1,8,4,0,2,2,2,0,0,0,0,0,0,0
+31,814408,1201,Inter De Limeira,FORA,195481,Léo Duarte,https://media.api-sports.io/football/players/195481.png,70.0,F,7.2,False,0,2.0,1.0,0,0,0,0,20,13,0,0,9,5,0,2,1,0,0,0,0,0,0,0,0
+32,814408,1201,Inter De Limeira,FORA,67842,Ronaldo,https://media.api-sports.io/football/players/67842.png,70.0,F,7.9,False,0,3.0,2.0,1,0,0,0,24,13,0,0,15,8,0,1,3,2,0,0,0,0,0,0,0
+33,814408,1201,Inter De Limeira,FORA,10411,Diego Tavares,https://media.api-sports.io/football/players/10411.png,70.0,F,6.6,False,0,1.0,1.0,0,0,0,0,14,8,0,0,7,3,0,0,1,1,0,0,0,0,0,0,0
+34,814408,1201,Inter De Limeira,FORA,9693,Guilherme,https://media.api-sports.io/football/players/9693.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814408,1201,Inter De Limeira,FORA,9462,Rafael Carioca,https://media.api-sports.io/football/players/9462.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814408,1201,Inter De Limeira,FORA,9703,Renan Fonseca,https://media.api-sports.io/football/players/9703.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,814408,1201,Inter De Limeira,FORA,10023,Xandão,https://media.api-sports.io/football/players/10023.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,814408,1201,Inter De Limeira,FORA,180864,Emanuel Moura,https://media.api-sports.io/football/players/180864.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,814408,1201,Inter De Limeira,FORA,80328,Julio Rusch,https://media.api-sports.io/football/players/80328.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,814408,1201,Inter De Limeira,FORA,9698,Léo,https://media.api-sports.io/football/players/9698.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,814408,1201,Inter De Limeira,FORA,119151,Geovane,https://media.api-sports.io/football/players/119151.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814408,1201,Inter De Limeira,FORA,77683,Renato Cajá,https://media.api-sports.io/football/players/77683.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,814408,1201,Inter De Limeira,FORA,54939,Thiago Alagoano,https://media.api-sports.io/football/players/54939.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,814409,121,Palmeiras,CASA,2410,Weverton,https://media.api-sports.io/football/players/2410.png,90.0,G,7.6,False,0,,,0,0,0,2,17,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,814409,121,Palmeiras,CASA,9917,Mayke,https://media.api-sports.io/football/players/9917.png,90.0,D,7.3,False,0,,,0,0,0,0,39,30,0,0,9,4,2,0,1,3,0,0,1,0,0,0,0
+2,814409,121,Palmeiras,CASA,11365,Benjamin Kuscevic,https://media.api-sports.io/football/players/11365.png,90.0,D,7.5,False,0,,,0,0,0,0,47,45,1,1,8,5,0,0,0,1,0,0,0,0,0,0,0
+3,814409,121,Palmeiras,CASA,2502,Gustavo Gómez,https://media.api-sports.io/football/players/2502.png,90.0,D,7.6,False,0,,,0,0,0,0,50,45,0,5,9,6,1,0,1,1,0,0,0,0,0,0,0
+4,814409,121,Palmeiras,CASA,9985,Jorge,https://media.api-sports.io/football/players/9985.png,77.0,D,7.3,False,0,,,0,0,0,0,37,30,0,0,7,5,3,1,0,1,1,0,0,0,0,0,0
+5,814409,121,Palmeiras,CASA,51033,Eduard Atuesta,https://media.api-sports.io/football/players/51033.png,77.0,M,6.9,False,0,1.0,,0,0,0,0,32,24,1,0,6,2,1,0,0,1,0,0,0,0,0,0,0
+6,814409,121,Palmeiras,CASA,1364,Jailson,https://media.api-sports.io/football/players/1364.png,90.0,M,7.2,False,0,2.0,1.0,0,0,1,0,34,33,3,2,11,5,0,2,1,2,0,0,0,0,0,0,0
+7,814409,121,Palmeiras,CASA,278336,Giovani Henrique,https://media.api-sports.io/football/players/278336.png,65.0,M,7,False,0,1.0,,0,0,0,0,15,12,0,0,7,3,1,0,1,2,0,0,0,0,0,0,0
+8,814409,121,Palmeiras,CASA,180235,Gabriel Veron,https://media.api-sports.io/football/players/180235.png,65.0,M,6.2,False,0,2.0,,0,0,0,0,18,9,0,1,9,4,2,1,0,0,0,0,0,0,0,0,0
+9,814409,121,Palmeiras,CASA,9926,Gustavo Scarpa,https://media.api-sports.io/football/players/9926.png,60.0,M,7.5,False,0,2.0,1.0,1,0,0,0,28,20,0,0,5,3,2,1,1,0,1,0,0,0,1,0,0
+10,814409,121,Palmeiras,CASA,68057,Rafael Navarro,https://media.api-sports.io/football/players/68057.png,90.0,F,7.2,False,0,1.0,1.0,0,0,0,0,13,10,0,0,12,4,0,0,1,4,0,0,0,0,0,0,0
+11,814409,121,Palmeiras,CASA,10372,Marcelo Lomba,https://media.api-sports.io/football/players/10372.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814409,121,Palmeiras,CASA,51466,Joaquín Piquerez,https://media.api-sports.io/football/players/51466.png,13.0,D,6.3,True,0,,,0,0,0,0,8,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814409,121,Palmeiras,CASA,237072,Renan,https://media.api-sports.io/football/players/237072.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,814409,121,Palmeiras,CASA,10083,Murilo Cerqueira,https://media.api-sports.io/football/players/10083.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814409,121,Palmeiras,CASA,9916,Marcos Rocha,https://media.api-sports.io/football/players/9916.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814409,121,Palmeiras,CASA,275170,Danilo,https://media.api-sports.io/football/players/275170.png,13.0,M,6.6,True,0,,,0,0,0,0,6,6,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0
+17,814409,121,Palmeiras,CASA,9920,Raphael Veiga,https://media.api-sports.io/football/players/9920.png,25.0,M,6.6,True,0,,,0,0,0,0,17,14,0,0,5,3,1,1,2,0,0,0,0,0,0,0,0
+18,814409,121,Palmeiras,CASA,70314,Wesley,https://media.api-sports.io/football/players/70314.png,30.0,F,7.3,True,1,1.0,1.0,1,0,0,0,4,3,0,0,5,2,0,0,1,1,0,0,0,0,0,0,0
+19,814409,121,Palmeiras,CASA,9939,Dudu,https://media.api-sports.io/football/players/9939.png,25.0,F,7.2,True,0,1.0,1.0,0,0,0,0,13,10,0,0,3,3,3,0,0,0,0,0,0,0,0,0,0
+20,814409,121,Palmeiras,CASA,157148,Pedro Bicalho,https://media.api-sports.io/football/players/157148.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,814409,121,Palmeiras,CASA,9934,Deyverson,https://media.api-sports.io/football/players/9934.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,814409,121,Palmeiras,CASA,53966,Breno Lopes,https://media.api-sports.io/football/players/53966.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814409,138,Guarani Campinas,FORA,9304,Mauricio Kozlinski,https://media.api-sports.io/football/players/9304.png,90.0,G,6.9,False,0,,,0,2,0,4,19,11,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+24,814409,138,Guarani Campinas,FORA,294906,Ludke,https://media.api-sports.io/football/players/294906.png,90.0,D,6.3,False,0,1.0,1.0,0,0,0,0,22,16,1,2,9,4,1,2,1,2,0,0,0,0,0,0,0
+25,814409,138,Guarani Campinas,FORA,10445,Ronaldo Alves,https://media.api-sports.io/football/players/10445.png,90.0,D,7.3,False,0,,,0,0,0,0,42,35,4,0,6,4,1,0,0,0,0,0,0,0,0,0,0
+26,814409,138,Guarani Campinas,FORA,9630,Derlan,https://media.api-sports.io/football/players/9630.png,90.0,D,6.6,False,0,,,0,0,0,0,41,33,2,1,2,1,0,0,0,1,0,0,0,0,0,0,0
+27,814409,138,Guarani Campinas,FORA,216241,Eliel da Silva,https://media.api-sports.io/football/players/216241.png,49.0,D,6.7,False,0,,,0,0,0,0,8,6,1,0,8,5,0,2,2,0,0,0,0,0,0,0,0
+28,814409,138,Guarani Campinas,FORA,10554,Bruno Silva,https://media.api-sports.io/football/players/10554.png,90.0,M,6.9,False,0,,,0,0,0,0,22,21,2,0,7,4,0,1,1,1,0,0,0,0,0,0,0
+29,814409,138,Guarani Campinas,FORA,10356,Giovanni Augusto,https://media.api-sports.io/football/players/10356.png,85.0,M,6.6,False,0,,,0,0,0,0,23,18,0,0,8,5,1,2,2,0,0,0,0,0,0,0,0
+30,814409,138,Guarani Campinas,FORA,9499,Índio,https://media.api-sports.io/football/players/9499.png,90.0,M,6.3,False,0,,,0,0,0,0,36,31,0,0,6,0,0,2,0,2,0,0,0,0,0,0,0
+31,814409,138,Guarani Campinas,FORA,9724,Júlio César,https://media.api-sports.io/football/players/9724.png,70.0,F,6.2,False,0,1.0,,0,0,0,0,13,7,0,0,7,1,0,2,1,0,0,0,0,0,0,0,0
+32,814409,138,Guarani Campinas,FORA,60925,Lucão,https://media.api-sports.io/football/players/60925.png,90.0,F,6.9,False,1,,,0,0,0,0,28,21,0,0,18,8,1,2,1,0,0,0,0,0,0,0,0
+33,814409,138,Guarani Campinas,FORA,48235,Maxwell,https://media.api-sports.io/football/players/48235.png,69.0,F,6.2,False,0,,,0,0,0,0,9,6,0,1,12,5,0,2,3,2,1,0,0,1,0,0,0
+34,814409,138,Guarani Campinas,FORA,10110,Gabriel Mesquita,https://media.api-sports.io/football/players/10110.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814409,138,Guarani Campinas,FORA,10022,Ernando,https://media.api-sports.io/football/players/10022.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814409,138,Guarani Campinas,FORA,115525,João Victor,https://media.api-sports.io/football/players/115525.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,814409,138,Guarani Campinas,FORA,9749,Renan,https://media.api-sports.io/football/players/9749.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,814409,138,Guarani Campinas,FORA,119272,Eduardo Person,https://media.api-sports.io/football/players/119272.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,814409,138,Guarani Campinas,FORA,80264,Vitinho,https://media.api-sports.io/football/players/80264.png,20.0,M,6.7,True,0,1.0,,0,0,0,0,11,5,0,0,6,4,2,1,1,0,0,0,0,0,0,0,0
+40,814409,138,Guarani Campinas,FORA,9533,Rodrigo Andrade,https://media.api-sports.io/football/players/9533.png,32.0,M,6.2,True,0,,,0,0,0,0,9,7,0,0,2,2,0,0,2,0,0,1,0,0,0,0,0
+41,814409,138,Guarani Campinas,FORA,10345,Madison,https://media.api-sports.io/football/players/10345.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814409,138,Guarani Campinas,FORA,70886,Ronald,https://media.api-sports.io/football/players/70886.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,814409,138,Guarani Campinas,FORA,1528,Nicolas Careca,https://media.api-sports.io/football/players/1528.png,21.0,F,6.9,True,0,1.0,1.0,0,0,0,0,5,4,0,0,3,2,0,0,1,1,0,0,0,0,0,0,0
+44,814409,138,Guarani Campinas,FORA,51296,Lucas Venuto,https://media.api-sports.io/football/players/51296.png,11.0,F,6.3,True,0,,,0,0,0,0,3,1,0,1,3,2,0,0,2,0,0,0,0,0,0,0,0
+0,814412,7865,São Bernardo,CASA,80582,Júnior Oliveira,https://media.api-sports.io/football/players/80582.png,50.0,G,6.3,False,0,,,0,1,0,3,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,814412,7865,São Bernardo,CASA,10191,Joilson,https://media.api-sports.io/football/players/10191.png,50.0,D,6.2,False,0,,,0,0,0,0,9,5,0,0,2,1,0,1,1,0,0,0,0,0,0,0,0
+2,814412,7865,São Bernardo,CASA,78055,Matheus Salustiano,https://media.api-sports.io/football/players/78055.png,50.0,D,6.5,False,0,,,0,0,0,0,13,9,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0
+3,814412,7865,São Bernardo,CASA,9456,Ligger,https://media.api-sports.io/football/players/9456.png,50.0,D,6.3,False,0,2.0,1.0,0,0,0,0,20,11,0,2,8,2,0,0,0,3,0,0,0,0,0,0,0
+4,814412,7865,São Bernardo,CASA,80186,Cristovam,https://media.api-sports.io/football/players/80186.png,50.0,M,6.9,False,0,1.0,1.0,0,0,0,0,12,7,0,0,7,6,0,0,2,0,0,0,0,0,0,0,0
+5,814412,7865,São Bernardo,CASA,9390,Rodrigo Souza,https://media.api-sports.io/football/players/9390.png,50.0,M,7,False,0,1.0,1.0,0,0,0,0,17,11,1,6,3,1,0,1,1,1,0,0,0,0,0,0,0
+6,814412,7865,São Bernardo,CASA,9466,Vitinho,https://media.api-sports.io/football/players/9466.png,50.0,M,7.2,False,0,,,0,0,0,0,31,23,0,0,13,7,3,0,1,2,0,0,0,0,0,0,0
+7,814412,7865,São Bernardo,CASA,10519,Igor Fernandes,https://media.api-sports.io/football/players/10519.png,50.0,M,6.6,False,0,,,0,0,0,0,12,11,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+8,814412,7865,São Bernardo,CASA,9297,Paulinho Moccelin,https://media.api-sports.io/football/players/9297.png,50.0,F,6.9,False,0,3.0,,0,0,0,0,12,9,0,0,11,4,1,1,2,2,0,0,0,0,0,0,0
+9,814412,7865,São Bernardo,CASA,64359,Matheus Davó,https://media.api-sports.io/football/players/64359.png,50.0,F,6.9,False,1,2.0,,0,0,0,0,16,13,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0
+10,814412,7865,São Bernardo,CASA,33644,Silvinho,https://media.api-sports.io/football/players/33644.png,50.0,F,7.3,False,0,4.0,1.0,0,0,0,0,21,13,0,0,11,6,1,1,0,0,0,0,0,0,0,0,0
+11,814412,7865,São Bernardo,CASA,9447,Alex Alves,https://media.api-sports.io/football/players/9447.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814412,7865,São Bernardo,CASA,313084,Ruan,https://media.api-sports.io/football/players/313084.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814412,7865,São Bernardo,CASA,106513,Lucas Ferron,https://media.api-sports.io/football/players/106513.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,814412,7865,São Bernardo,CASA,305020,Ítalo,https://media.api-sports.io/football/players/305020.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814412,7865,São Bernardo,CASA,9535,Léo Gomes,https://media.api-sports.io/football/players/9535.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814412,7865,São Bernardo,CASA,9539,Romisson,https://media.api-sports.io/football/players/9539.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,814412,7865,São Bernardo,CASA,237737,Mário Cesinha,https://media.api-sports.io/football/players/237737.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,814412,7865,São Bernardo,CASA,53546,Ravanelli,https://media.api-sports.io/football/players/53546.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,814412,7865,São Bernardo,CASA,80385,Zézinho,https://media.api-sports.io/football/players/80385.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,814412,7865,São Bernardo,CASA,64046,Rafinha,https://media.api-sports.io/football/players/64046.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,814412,7865,São Bernardo,CASA,157848,João Carlos Ferreira,https://media.api-sports.io/football/players/157848.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,814412,7865,São Bernardo,CASA,114455,Gustavo Ramos,https://media.api-sports.io/football/players/114455.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814412,7848,Mirassol,FORA,9193,Darley,https://media.api-sports.io/football/players/9193.png,50.0,G,7.3,False,0,,,0,0,0,3,13,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,814412,7848,Mirassol,FORA,157286,Rodrigo Ferreira,https://media.api-sports.io/football/players/157286.png,50.0,D,6.7,False,0,,,0,0,0,0,19,15,0,2,2,1,0,1,0,0,0,0,0,0,0,0,0
+25,814412,7848,Mirassol,FORA,9737,Thalisson Kelven,https://media.api-sports.io/football/players/9737.png,50.0,D,6.7,False,0,,,0,0,0,0,23,11,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0
+26,814412,7848,Mirassol,FORA,80380,Lucão,https://media.api-sports.io/football/players/80380.png,50.0,D,7,False,0,,,0,0,0,0,21,16,0,3,4,3,0,0,0,0,0,0,0,0,0,0,0
+27,814412,7848,Mirassol,FORA,9201,Pará,https://media.api-sports.io/football/players/9201.png,50.0,D,6.2,False,0,1.0,,0,0,0,0,17,7,0,0,9,3,1,1,0,2,0,0,0,0,0,0,0
+28,814412,7848,Mirassol,FORA,160176,Luís Oyama,https://media.api-sports.io/football/players/160176.png,50.0,M,6.9,False,0,1.0,1.0,0,0,0,0,15,11,0,2,8,4,0,2,1,0,0,0,0,0,0,0,0
+29,814412,7848,Mirassol,FORA,10390,Camilo,https://media.api-sports.io/football/players/10390.png,50.0,M,7.3,False,0,,,0,0,1,0,10,7,0,0,5,5,1,0,2,0,0,0,0,0,0,0,0
+30,814412,7848,Mirassol,FORA,266391,Eduardo Fernandes,https://media.api-sports.io/football/players/266391.png,45.0,M,6.9,False,0,1.0,1.0,0,0,0,0,20,13,0,0,8,4,0,0,1,2,0,0,0,0,0,0,0
+31,814412,7848,Mirassol,FORA,106464,Fabrício Daniel,https://media.api-sports.io/football/players/106464.png,50.0,F,7.7,False,0,1.0,1.0,1,0,0,0,8,6,0,0,5,3,1,1,2,0,0,0,0,0,0,0,0
+32,814412,7848,Mirassol,FORA,140564,Zeca,https://media.api-sports.io/football/players/140564.png,50.0,F,6.3,False,0,,,0,0,0,0,14,10,1,0,12,3,0,1,1,4,0,0,0,0,0,0,0
+33,814412,7848,Mirassol,FORA,143365,Fabinho,https://media.api-sports.io/football/players/143365.png,50.0,F,6.3,False,1,1.0,,0,0,0,0,15,14,0,0,4,1,1,0,0,1,0,0,0,0,0,0,0
+34,814412,7848,Mirassol,FORA,9763,Edson Mardden,https://media.api-sports.io/football/players/9763.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814412,7848,Mirassol,FORA,9457,Rayan,https://media.api-sports.io/football/players/9457.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814412,7848,Mirassol,FORA,54075,Ivan,https://media.api-sports.io/football/players/54075.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,814412,7848,Mirassol,FORA,191871,Octavio Metzker,https://media.api-sports.io/football/players/191871.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,814412,7848,Mirassol,FORA,9230,Ednei,https://media.api-sports.io/football/players/9230.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,814412,7848,Mirassol,FORA,267863,Frank,https://media.api-sports.io/football/players/267863.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,814412,7848,Mirassol,FORA,114454,Daniel,https://media.api-sports.io/football/players/114454.png,5.0,M,,True,0,1.0,1.0,0,0,0,0,3,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+41,814412,7848,Mirassol,FORA,196097,Claudinho,https://media.api-sports.io/football/players/196097.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814412,7848,Mirassol,FORA,9848,Rafael Oller,https://media.api-sports.io/football/players/9848.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,814412,7848,Mirassol,FORA,80643,Luiz Fernando,https://media.api-sports.io/football/players/80643.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,814412,7848,Mirassol,FORA,9616,Rafael Silva,https://media.api-sports.io/football/players/9616.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,814413,126,Sao Paulo,CASA,9944,Tiago Volpi,https://media.api-sports.io/football/players/9944.png,90.0,G,7.5,False,0,,,0,0,0,2,31,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,814413,126,Sao Paulo,CASA,500,Rafinha,https://media.api-sports.io/football/players/500.png,90.0,D,7,False,0,,,0,0,0,0,30,27,0,2,5,2,0,3,0,0,0,0,0,0,0,0,0
+2,814413,126,Sao Paulo,CASA,2571,Robert Arboleda,https://media.api-sports.io/football/players/2571.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,30,25,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0
+3,814413,126,Sao Paulo,CASA,9951,Léo,https://media.api-sports.io/football/players/9951.png,90.0,D,7.2,False,0,,,0,0,0,0,29,25,1,2,6,3,0,0,1,2,0,0,0,0,0,0,0
+4,814413,126,Sao Paulo,CASA,180919,Welington,https://media.api-sports.io/football/players/180919.png,71.0,D,7.5,False,0,1.0,1.0,0,0,0,0,17,11,0,1,6,4,0,0,0,1,0,0,0,0,0,0,0
+5,814413,126,Sao Paulo,CASA,9967,Igor Gomes,https://media.api-sports.io/football/players/9967.png,90.0,M,6.6,False,0,,,0,0,0,0,25,20,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0
+6,814413,126,Sao Paulo,CASA,9954,Rodrigo Nestor,https://media.api-sports.io/football/players/9954.png,77.0,M,7.3,False,0,2.0,2.0,0,0,1,0,38,29,0,2,7,1,1,1,0,3,1,0,0,0,0,0,0
+7,814413,126,Sao Paulo,CASA,313732,Pablo Maia,https://media.api-sports.io/football/players/313732.png,77.0,M,7.2,False,0,,,0,0,0,0,32,27,1,2,3,2,0,0,0,0,0,0,0,0,0,0,0
+8,814413,126,Sao Paulo,CASA,80552,Gabriel Sara,https://media.api-sports.io/football/players/80552.png,90.0,M,7,False,0,1.0,,0,0,0,0,21,14,1,0,6,4,1,1,0,0,0,0,0,0,0,0,0
+9,814413,126,Sao Paulo,CASA,12795,Éder,https://media.api-sports.io/football/players/12795.png,54.0,F,6.7,False,1,,,0,0,0,0,8,8,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0
+10,814413,126,Sao Paulo,CASA,47368,Jonathan Calleri,https://media.api-sports.io/football/players/47368.png,76.0,F,7.6,False,0,3.0,3.0,1,0,0,0,16,13,0,0,13,6,1,0,1,5,0,0,0,0,0,0,0
+11,814413,126,Sao Paulo,CASA,180917,Thiago Couto,https://media.api-sports.io/football/players/180917.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,814413,126,Sao Paulo,CASA,9946,Reinaldo,https://media.api-sports.io/football/players/9946.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,814413,126,Sao Paulo,CASA,143363,Diego Costa,https://media.api-sports.io/football/players/143363.png,19.0,D,6.5,True,0,,,0,0,0,0,8,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,814413,126,Sao Paulo,CASA,352994,João Moreira,https://media.api-sports.io/football/players/352994.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,814413,126,Sao Paulo,CASA,195,Miranda,https://media.api-sports.io/football/players/195.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,814413,126,Sao Paulo,CASA,51580,Gabriel Neves,https://media.api-sports.io/football/players/51580.png,13.0,M,6.7,True,0,,,0,0,0,0,5,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+17,814413,126,Sao Paulo,CASA,180925,Talles Costa,https://media.api-sports.io/football/players/180925.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,814413,126,Sao Paulo,CASA,13397,Andres Colorado,https://media.api-sports.io/football/players/13397.png,13.0,M,6.6,True,0,1.0,1.0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,814413,126,Sao Paulo,CASA,1218,Emiliano Rigoni,https://media.api-sports.io/football/players/1218.png,14.0,F,6.3,True,1,,,0,0,0,0,3,3,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+20,814413,126,Sao Paulo,CASA,311520,Marquinhos,https://media.api-sports.io/football/players/311520.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,814413,126,Sao Paulo,CASA,180916,Juan,https://media.api-sports.io/football/players/180916.png,36.0,F,6.7,True,1,,,0,0,0,0,6,6,0,0,6,1,0,0,1,2,0,0,0,0,0,0,0
+22,814413,126,Sao Paulo,CASA,10323,Luciano,https://media.api-sports.io/football/players/10323.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,814413,131,Corinthians,FORA,10229,Cássio,https://media.api-sports.io/football/players/10229.png,90.0,G,7.7,False,0,,,0,1,0,6,24,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,814413,131,Corinthians,FORA,2411,Fagner,https://media.api-sports.io/football/players/2411.png,80.0,D,7,False,0,,,0,0,0,0,86,75,0,0,5,2,0,1,2,0,0,0,0,0,0,0,0
+25,814413,131,Corinthians,FORA,10225,João Victor,https://media.api-sports.io/football/players/10225.png,90.0,D,7.3,False,0,,,0,0,0,0,60,51,1,2,9,7,0,0,3,1,0,0,0,0,0,0,0
+26,814413,131,Corinthians,FORA,12744,Gil,https://media.api-sports.io/football/players/12744.png,90.0,D,7.2,False,0,1.0,,0,0,0,0,95,90,0,1,7,6,0,0,1,0,0,0,0,0,0,0,0
+27,814413,131,Corinthians,FORA,10234,Lucas Piton,https://media.api-sports.io/football/players/10234.png,62.0,D,6.5,False,0,1.0,1.0,0,0,0,0,46,43,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+28,814413,131,Corinthians,FORA,321432,Du Queiroz,https://media.api-sports.io/football/players/321432.png,62.0,M,6.6,False,0,2.0,,0,0,0,0,44,40,0,1,4,2,0,0,0,0,0,0,0,0,0,0,0
+29,814413,131,Corinthians,FORA,12666,Renato Augusto,https://media.api-sports.io/football/players/12666.png,90.0,M,6.5,False,0,,,0,0,0,0,80,71,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+30,814413,131,Corinthians,FORA,44317,Giuliano,https://media.api-sports.io/football/players/44317.png,62.0,M,6.7,False,2,,,0,0,0,0,34,30,0,0,4,2,0,0,1,0,0,0,0,0,0,0,0
+31,814413,131,Corinthians,FORA,12719,Paulinho,https://media.api-sports.io/football/players/12719.png,90.0,M,7,False,0,2.0,,0,0,0,0,50,45,1,0,7,4,1,0,1,1,0,0,0,0,0,0,0
+32,814413,131,Corinthians,FORA,2294,Willian,https://media.api-sports.io/football/players/2294.png,90.0,M,7.5,False,0,,,0,0,0,0,49,38,0,0,10,5,4,1,1,1,0,0,0,0,0,0,0
+33,814413,131,Corinthians,FORA,12764,Róger Guedes,https://media.api-sports.io/football/players/12764.png,90.0,F,6.7,False,1,,,0,0,0,0,37,33,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0
+34,814413,131,Corinthians,FORA,9692,Ivan,https://media.api-sports.io/football/players/9692.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,814413,131,Corinthians,FORA,195499,Matheus Donelli,https://media.api-sports.io/football/players/195499.png,,G,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,814413,131,Corinthians,FORA,374,João Pedro,https://media.api-sports.io/football/players/374.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,814413,131,Corinthians,FORA,14390,Raul Gustavo,https://media.api-sports.io/football/players/14390.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,814413,131,Corinthians,FORA,10115,Robson Bambu,https://media.api-sports.io/football/players/10115.png,,D,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,814413,131,Corinthians,FORA,10502,Luan,https://media.api-sports.io/football/players/10502.png,,F,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,814413,131,Corinthians,FORA,13580,Victor Cantillo,https://media.api-sports.io/football/players/13580.png,28.0,M,7,True,0,,,0,0,0,0,19,17,0,0,5,5,0,0,3,0,0,0,0,0,0,0,0
+41,814413,131,Corinthians,FORA,278549,Gustavo Mantuan,https://media.api-sports.io/football/players/278549.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,814413,131,Corinthians,FORA,10416,Bruno Melo,https://media.api-sports.io/football/players/10416.png,28.0,D,6.6,True,0,,,0,0,0,0,30,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,814413,131,Corinthians,FORA,9620,Gustavo Silva,https://media.api-sports.io/football/players/9620.png,10.0,F,6.5,True,0,,,0,0,0,0,10,8,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0
+44,814413,131,Corinthians,FORA,306261,Adson,https://media.api-sports.io/football/players/306261.png,,M,,True,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,814413,131,Corinthians,FORA,32906,Jô,https://media.api-sports.io/football/players/32906.png,28.0,F,6.9,True,0,2.0,1.0,0,0,0,0,9,8,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0

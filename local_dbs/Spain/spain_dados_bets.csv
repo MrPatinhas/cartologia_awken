@@ -1,141 +1,141 @@
 ,fix_id,stat,local,team_id,team_name,logo,value
-0,720999,form,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,31.0
-1,720999,form,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,69.0
-2,720999,att,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,42.0
-3,720999,att,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,58.0
-4,720999,def,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,29.0
-5,720999,def,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,71.0
-6,720999,poisson_distribution,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,24.0
-7,720999,poisson_distribution,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,76.0
-8,720999,h2h,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,15.0
-9,720999,h2h,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,85.0
-10,720999,goals,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,36.0
-11,720999,goals,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,64.0
-12,720999,total,home,542,Alaves,https://media.api-sports.io/football/teams/542.png,29.5
-13,720999,total,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,70.5
-0,721000,form,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,56.0
-1,721000,form,away,539,Levante,https://media.api-sports.io/football/teams/539.png,44.0
-2,721000,att,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,56.0
-3,721000,att,away,539,Levante,https://media.api-sports.io/football/teams/539.png,44.0
-4,721000,def,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,50.0
-5,721000,def,away,539,Levante,https://media.api-sports.io/football/teams/539.png,50.0
-6,721000,poisson_distribution,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,73.0
-7,721000,poisson_distribution,away,539,Levante,https://media.api-sports.io/football/teams/539.png,27.0
-8,721000,h2h,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,75.0
-9,721000,h2h,away,539,Levante,https://media.api-sports.io/football/teams/539.png,25.0
-10,721000,goals,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,67.0
-11,721000,goals,away,539,Levante,https://media.api-sports.io/football/teams/539.png,33.0
-12,721000,total,home,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,62.8
-13,721000,total,away,539,Levante,https://media.api-sports.io/football/teams/539.png,37.2
-0,721001,form,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,50.0
-1,721001,form,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,50.0
-2,721001,att,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,50.0
-3,721001,att,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,50.0
-4,721001,def,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,50.0
-5,721001,def,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,50.0
-6,721001,poisson_distribution,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,53.0
-7,721001,poisson_distribution,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,47.0
-8,721001,h2h,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,7.0
-9,721001,h2h,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,93.0
-10,721001,goals,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,18.0
-11,721001,goals,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,82.0
-12,721001,total,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,38.0
-13,721001,total,away,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,62.0
-0,721002,form,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,50.0
-1,721002,form,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,50.0
-2,721002,att,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,45.0
-3,721002,att,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,55.0
-4,721002,def,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,64.0
-5,721002,def,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,36.0
-6,721002,poisson_distribution,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,67.0
-7,721002,poisson_distribution,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,33.0
-8,721002,h2h,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,25.0
-9,721002,h2h,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,75.0
-10,721002,goals,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,31.0
-11,721002,goals,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,69.0
-12,721002,total,home,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,47.0
-13,721002,total,away,798,Mallorca,https://media.api-sports.io/football/teams/798.png,53.0
-0,721003,form,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,100.0
-1,721003,form,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,0.0
-2,721003,att,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,80.0
-3,721003,att,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,20.0
-4,721003,def,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,75.0
-5,721003,def,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,25.0
-6,721003,poisson_distribution,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,49.0
-7,721003,poisson_distribution,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,51.0
-8,721003,h2h,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,36.0
-9,721003,h2h,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,64.0
-10,721003,goals,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,40.0
-11,721003,goals,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,60.0
-12,721003,total,home,724,Cadiz,https://media.api-sports.io/football/teams/724.png,56.0
-13,721003,total,away,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,44.0
-0,721004,form,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,25.0
-1,721004,form,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,75.0
-2,721004,att,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,40.0
-3,721004,att,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,60.0
-4,721004,def,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,33.0
-5,721004,def,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,67.0
-6,721004,poisson_distribution,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,68.0
-7,721004,poisson_distribution,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,32.0
-8,721004,h2h,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,25.0
-9,721004,h2h,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,75.0
-10,721004,goals,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,30.0
-11,721004,goals,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,70.0
-12,721004,total,home,540,Espanyol,https://media.api-sports.io/football/teams/540.png,36.8
-13,721004,total,away,546,Getafe,https://media.api-sports.io/football/teams/546.png,63.2
-0,721005,form,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,35.0
-1,721005,form,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,65.0
-2,721005,att,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,26.0
-3,721005,att,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,74.0
-4,721005,def,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,33.0
-5,721005,def,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,67.0
-6,721005,poisson_distribution,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,25.0
-7,721005,poisson_distribution,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,75.0
-8,721005,h2h,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,60.0
-9,721005,h2h,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,40.0
-10,721005,goals,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,47.0
-11,721005,goals,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,53.0
-12,721005,total,home,727,Osasuna,https://media.api-sports.io/football/teams/727.png,37.7
-13,721005,total,away,533,Villarreal,https://media.api-sports.io/football/teams/533.png,62.3
-0,721006,form,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,58.0
-1,721006,form,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,42.0
-2,721006,att,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,70.0
-3,721006,att,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,30.0
-4,721006,def,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,67.0
-5,721006,def,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,33.0
-6,721006,poisson_distribution,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,77.0
-7,721006,poisson_distribution,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,23.0
-8,721006,h2h,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,62.0
-9,721006,h2h,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,38.0
-10,721006,goals,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,57.0
-11,721006,goals,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,43.0
-12,721006,total,home,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,65.2
-13,721006,total,away,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,34.8
-0,721007,form,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,80.0
-1,721007,form,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,20.0
-2,721007,att,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,83.0
-3,721007,att,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,17.0
-4,721007,def,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,50.0
-5,721007,def,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,50.0
-6,721007,poisson_distribution,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,61.0
-7,721007,poisson_distribution,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,39.0
-8,721007,h2h,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,38.0
-9,721007,h2h,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,62.0
-10,721007,goals,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,47.0
-11,721007,goals,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,53.0
-12,721007,total,home,532,Valencia,https://media.api-sports.io/football/teams/532.png,59.8
-13,721007,total,away,715,Granada CF,https://media.api-sports.io/football/teams/715.png,40.2
-0,721008,form,home,797,Elche,https://media.api-sports.io/football/teams/797.png,35.0
-1,721008,form,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,65.0
-2,721008,att,home,797,Elche,https://media.api-sports.io/football/teams/797.png,32.0
-3,721008,att,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,68.0
-4,721008,def,home,797,Elche,https://media.api-sports.io/football/teams/797.png,36.0
-5,721008,def,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,64.0
-6,721008,poisson_distribution,home,797,Elche,https://media.api-sports.io/football/teams/797.png,42.0
-7,721008,poisson_distribution,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,58.0
-8,721008,h2h,home,797,Elche,https://media.api-sports.io/football/teams/797.png,0.0
-9,721008,h2h,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,100.0
-10,721008,goals,home,797,Elche,https://media.api-sports.io/football/teams/797.png,11.0
-11,721008,goals,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,89.0
-12,721008,total,home,797,Elche,https://media.api-sports.io/football/teams/797.png,31.2
-13,721008,total,away,529,Barcelona,https://media.api-sports.io/football/teams/529.png,68.8
+0,721009,form,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,67.0
+1,721009,form,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,33.0
+2,721009,att,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,75.0
+3,721009,att,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,25.0
+4,721009,def,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,38.0
+5,721009,def,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,63.0
+6,721009,poisson_distribution,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,71.0
+7,721009,poisson_distribution,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,29.0
+8,721009,h2h,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,91.0
+9,721009,h2h,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,9.0
+10,721009,goals,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,76.0
+11,721009,goals,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,24.0
+12,721009,total,home,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,69.7
+13,721009,total,away,724,Cadiz,https://media.api-sports.io/football/teams/724.png,30.5
+0,721010,form,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,65.0
+1,721010,form,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,35.0
+2,721010,att,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,80.0
+3,721010,att,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,20.0
+4,721010,def,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,40.0
+5,721010,def,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,60.0
+6,721010,poisson_distribution,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,55.0
+7,721010,poisson_distribution,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,45.0
+8,721010,h2h,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,62.0
+9,721010,h2h,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,38.0
+10,721010,goals,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,65.0
+11,721010,goals,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,35.0
+12,721010,total,home,529,Barcelona,https://media.api-sports.io/football/teams/529.png,61.2
+13,721010,total,away,727,Osasuna,https://media.api-sports.io/football/teams/727.png,38.8
+0,721011,form,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,40.0
+1,721011,form,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,60.0
+2,721011,att,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,42.0
+3,721011,att,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,58.0
+4,721011,def,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,47.0
+5,721011,def,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,53.0
+6,721011,poisson_distribution,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,56.0
+7,721011,poisson_distribution,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,44.0
+8,721011,h2h,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,15.0
+9,721011,h2h,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,85.0
+10,721011,goals,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,25.0
+11,721011,goals,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,75.0
+12,721011,total,home,543,Real Betis,https://media.api-sports.io/football/teams/543.png,37.5
+13,721011,total,away,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,62.5
+0,721012,form,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,19.0
+1,721012,form,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,81.0
+2,721012,att,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,44.0
+3,721012,att,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,56.0
+4,721012,def,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,8.0
+5,721012,def,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,92.0
+6,721012,poisson_distribution,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,26.0
+7,721012,poisson_distribution,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,74.0
+8,721012,h2h,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,20.0
+9,721012,h2h,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,80.0
+10,721012,goals,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,18.0
+11,721012,goals,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,82.0
+12,721012,total,home,798,Mallorca,https://media.api-sports.io/football/teams/798.png,22.5
+13,721012,total,away,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,77.5
+0,721013,form,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,42.0
+1,721013,form,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,58.0
+2,721013,att,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,60.0
+3,721013,att,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,40.0
+4,721013,def,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,44.0
+5,721013,def,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,56.0
+6,721013,poisson_distribution,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,59.0
+7,721013,poisson_distribution,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,41.0
+8,721013,h2h,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,62.0
+9,721013,h2h,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,38.0
+10,721013,goals,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,65.0
+11,721013,goals,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,35.0
+12,721013,total,home,546,Getafe,https://media.api-sports.io/football/teams/546.png,55.3
+13,721013,total,away,532,Valencia,https://media.api-sports.io/football/teams/532.png,44.7
+0,721014,form,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,14.0
+1,721014,form,away,797,Elche,https://media.api-sports.io/football/teams/797.png,86.0
+2,721014,att,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,25.0
+3,721014,att,away,797,Elche,https://media.api-sports.io/football/teams/797.png,75.0
+4,721014,def,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,47.0
+5,721014,def,away,797,Elche,https://media.api-sports.io/football/teams/797.png,53.0
+6,721014,poisson_distribution,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,53.0
+7,721014,poisson_distribution,away,797,Elche,https://media.api-sports.io/football/teams/797.png,47.0
+8,721014,h2h,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,71.0
+9,721014,h2h,away,797,Elche,https://media.api-sports.io/football/teams/797.png,29.0
+10,721014,goals,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,60.0
+11,721014,goals,away,797,Elche,https://media.api-sports.io/football/teams/797.png,40.0
+12,721014,total,home,715,Granada CF,https://media.api-sports.io/football/teams/715.png,45.0
+13,721014,total,away,797,Elche,https://media.api-sports.io/football/teams/797.png,55.0
+0,721015,form,home,539,Levante,https://media.api-sports.io/football/teams/539.png,58.0
+1,721015,form,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,42.0
+2,721015,att,home,539,Levante,https://media.api-sports.io/football/teams/539.png,53.0
+3,721015,att,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,47.0
+4,721015,def,home,539,Levante,https://media.api-sports.io/football/teams/539.png,56.0
+5,721015,def,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,44.0
+6,721015,poisson_distribution,home,539,Levante,https://media.api-sports.io/football/teams/539.png,53.0
+7,721015,poisson_distribution,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,47.0
+8,721015,h2h,home,539,Levante,https://media.api-sports.io/football/teams/539.png,29.0
+9,721015,h2h,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,71.0
+10,721015,goals,home,539,Levante,https://media.api-sports.io/football/teams/539.png,47.0
+11,721015,goals,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,53.0
+12,721015,total,home,539,Levante,https://media.api-sports.io/football/teams/539.png,49.3
+13,721015,total,away,540,Espanyol,https://media.api-sports.io/football/teams/540.png,50.7
+0,721016,form,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,64.0
+1,721016,form,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,36.0
+2,721016,att,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,55.0
+3,721016,att,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,45.0
+4,721016,def,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,53.0
+5,721016,def,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,47.0
+6,721016,poisson_distribution,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,76.0
+7,721016,poisson_distribution,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,24.0
+8,721016,h2h,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,85.0
+9,721016,h2h,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,15.0
+10,721016,goals,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,79.0
+11,721016,goals,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,21.0
+12,721016,total,home,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,68.7
+13,721016,total,away,542,Alaves,https://media.api-sports.io/football/teams/542.png,31.3
+0,721017,form,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,0.0
+1,721017,form,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,100.0
+2,721017,att,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,17.0
+3,721017,att,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,83.0
+4,721017,def,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,17.0
+5,721017,def,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,83.0
+6,721017,poisson_distribution,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,51.0
+7,721017,poisson_distribution,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,49.0
+8,721017,h2h,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,7.0
+9,721017,h2h,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,93.0
+10,721017,goals,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,23.0
+11,721017,goals,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,77.0
+12,721017,total,home,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,23.0
+13,721017,total,away,536,Sevilla,https://media.api-sports.io/football/teams/536.png,77.0
+0,721018,form,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,56.0
+1,721018,form,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,44.0
+2,721018,att,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,61.0
+3,721018,att,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,39.0
+4,721018,def,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,67.0
+5,721018,def,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,33.0
+6,721018,poisson_distribution,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,62.0
+7,721018,poisson_distribution,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,38.0
+8,721018,h2h,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,50.0
+9,721018,h2h,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,50.0
+10,721018,goals,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,53.0
+11,721018,goals,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,47.0
+12,721018,total,home,533,Villarreal,https://media.api-sports.io/football/teams/533.png,58.2
+13,721018,total,away,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,41.8

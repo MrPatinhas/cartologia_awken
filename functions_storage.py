@@ -7,6 +7,7 @@ from bokeh.layouts import gridplot, row, column, layout
 from bokeh.io import output_file, show
 from bokeh.models import ColumnDataSource, FixedTicker, PrintfTickFormatter
 from bokeh.plotting import figure
+from scipy.spatial import ConvexHull
 from bokeh.sampledata.perceptions import probly
 from datetime import timedelta
 from bokeh.models import Range1d,ImageURL
@@ -63,6 +64,11 @@ import io
 import random
 from difflib import SequenceMatcher
 from pathlib import Path
+import numpy as np
+from math import pi
+from bokeh.models.glyphs import Circle, Patches, Wedge
+from bokeh.plotting import figure
+from bokeh.models import Range1d
 
 
 def get_opponent(t,h,a):
@@ -110,6 +116,559 @@ def get_most_similar(nome, df_scout):
     df_aux = df_aux.sort_values(by='ratio_').tail(1)
 
     return df_aux.atleta_id.tolist()[0]
+
+def get_list_top_shooters(dataframe_lances_finalizacao_global__):
+    top_shooters = dataframe_lances_finalizacao_global__.groupby(['player','player_id','team_name_base']).agg(
+        qtd_ = ('xG', 'count'),
+        med_ = ('xG', 'mean'),
+        sum_ = ('xG', 'sum'),
+    ).reset_index(
+    ).sort_values(by=['team_name_base','qtd_'], ascending=False)
+
+    end_df = pd.DataFrame(columns = top_shooters.columns)
+    for t_ in top_shooters.team_name_base.unique():
+        dd_ = top_shooters[top_shooters['team_name_base']==t_].head(4)
+        end_df = end_df.append(dd_)
+
+    return end_df
+
+def get_player_shot_xray(df_data, dataframe_lances_finalizacao_global__, depara_apis, id_to_plot, iqr_multiple = 0.5):
+
+    df_player_ = dataframe_lances_finalizacao_global__[dataframe_lances_finalizacao_global__['player_id']==id_to_plot]
+    id_base = depara_apis[depara_apis['understat_id']==id_to_plot]['player_id'].tolist()[0]
+
+    team_name = df_player_.sort_values(by='data', ascending=False).team_name_base.tolist()[0]
+    df_shots_player = df_player_[['X_adj','Y_adj','result']]
+    df_shots_player['color'] = ['#2ECC71' if x=='Goal' else '#515A5A' for x in df_shots_player['result'].tolist()]
+    color_list = df_shots_player['color'].tolist()
+
+    df_shots_player['size'] = [10 if x=='Goal' else 5 for x in df_shots_player['result'].tolist()]
+    size_list = df_shots_player['size'].tolist()
+
+    df_shots_player['alpha'] = [0.8 if x=='Goal' else 0.5 for x in df_shots_player['result'].tolist()]
+    alpha_list = df_shots_player['alpha'].tolist()
+
+
+    points_shots = np.array(df_player_[['X_adj','Y_adj']])
+
+    dataframe_pos_x = pd.DataFrame(data = points_shots[:,0], columns=['data'])
+    dataframe_pos_x = dataframe_pos_x.reset_index()
+
+    percentile25 = dataframe_pos_x['data'].quantile(0.25)
+    percentile75 = dataframe_pos_x['data'].quantile(0.75)
+
+    iqr = percentile75 - percentile25
+
+    upper_limit = percentile75 + iqr_multiple * iqr
+    lower_limit = percentile25 - iqr_multiple * iqr
+
+    dataframe_pos_s_outliers_x = dataframe_pos_x[(dataframe_pos_x['data'] <= upper_limit) & (dataframe_pos_x['data'] >= lower_limit)]
+
+    dataframe_pos_s_outliers_x.columns = ['index','x']
+
+    dataframe_pos_y = pd.DataFrame(data = points_shots[:,1], columns=['data'])
+    dataframe_pos_y = dataframe_pos_y.reset_index()
+
+    percentile25 = dataframe_pos_y['data'].quantile(0.25)
+    percentile75 = dataframe_pos_y['data'].quantile(0.75)
+
+    upper_limit = percentile75 + iqr_multiple * iqr
+    lower_limit = percentile25 - iqr_multiple * iqr
+
+    dataframe_pos_s_outliers_y = dataframe_pos_y[(dataframe_pos_y['data'] <= upper_limit) &
+                                                 (dataframe_pos_y['data'] >= lower_limit)]
+
+    dataframe_pos_s_outliers_y.columns = ['index','y']
+
+    points_s_outliers = pd.merge(dataframe_pos_s_outliers_x, dataframe_pos_s_outliers_y, how='inner', on='index')
+
+    points_s_outliers = np.array(points_s_outliers[['x','y']])
+
+    from scipy.spatial import ConvexHull
+    hull = ConvexHull(points_s_outliers)
+
+    local_mediano_chute = np.array(df_player_[['X_adj','Y_adj']].median())
+
+    total = len(df_shots_player)
+    rep_region_1 = len(df_shots_player[(df_shots_player['Y_adj']<=18)])
+    rep_region_2 = len(df_shots_player[(df_shots_player['Y_adj']<=30)]) - rep_region_1
+    rep_region_3 = len(df_shots_player[(df_shots_player['Y_adj']<=50)]) - rep_region_1 - rep_region_2
+    rep_region_4 = len(df_shots_player[(df_shots_player['Y_adj']<=62)]) - rep_region_1 - rep_region_2 - rep_region_3
+    rep_region_5 = len(df_shots_player[(df_shots_player['Y_adj']>=62)])
+
+    label = [rep_region_1/total, rep_region_2/total, rep_region_3/total, rep_region_4/total, rep_region_5/total]
+    label = ['{0:.1f}%'.format(x*100) for x in label]
+
+    x_place = 92
+    y = [9, 24, 40, 56, 71]
+    x = [x_place, x_place, x_place, x_place, x_place]
+
+
+    df_ = pd.DataFrame(columns=['x_','y_','label_'])
+
+    df_['x_'] = x
+    df_['y_'] = y
+    df_['label_'] = label
+
+    pitch = draw_pitch(width = 500, height = 600,
+                    measure = 'SB',
+                    fill_color = '#FDEDEC', fill_alpha = 0.5,
+                    line_color = '#641E16', line_alpha = 0.5,
+                    hspan = [-52.5, 52.5], vspan = [-34, 34],
+                    arcs = True)
+
+    pitch.circle(points_shots[:,0], points_shots[:,1], size=size_list, color=color_list, alpha=alpha_list)
+
+    pitch.circle(local_mediano_chute[0], local_mediano_chute[1], size=15, color="#212F3C", alpha=0.8)
+
+    pitch.line([60,120], [18,18], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    pitch.line([60,120], [30,30], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    pitch.line([60,120], [62,62], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    pitch.line([60,120], [50,50], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    pitch.line(points_s_outliers[hull.vertices,0], points_s_outliers[hull.vertices,1], line_width=2)
+
+    pitch.line([points_s_outliers[hull.vertices[0],0],
+                points_s_outliers[hull.vertices[-1],0]], [points_s_outliers[hull.vertices[0],1],
+                                                          points_s_outliers[hull.vertices[-1],1]
+                                                         ], line_width=2)
+
+    source = ColumnDataSource(df_)
+
+    pitch.text(x='x_', y='y_',
+           source=source, text='label_',
+           x_offset=-100, y_offset=10,
+           text_color='#641E16', text_font_size='15pt', text_font_style = 'bold')
+
+
+    source_ = ColumnDataSource(dict(
+            url = [df_data[(df_data['home_team_nome']==team_name)]['home_team_logo'].tolist()[0]],
+            x_  = [110],
+            y_  = [72]
+        ))
+
+    image3 = ImageURL(url='url', x='x_', y='y_', w=13, h = 13, anchor="center")
+    pitch.add_glyph(source_, image3)
+
+
+    source_ = ColumnDataSource(dict(
+            url = [df_data[(df_data['player_id']==id_base)]['player_photo'].tolist()[0]],
+            x_  = [68.5],
+            y_  = [72]
+        ))
+
+    image3 = ImageURL(url='url', x='x_', y='y_', w=13, h = 13, anchor="center")
+    pitch.add_glyph(source_, image3)
+
+    source_ = ColumnDataSource(dict(
+                label_ = [df_player_.player.tolist()[0]],
+                x_  = [69],
+                y_  = [65]
+            ))
+
+    pitch.text(x='x_', y='y_',
+       source=source_, text='label_',
+       x_offset=-48, y_offset=15,
+       text_color='#641E16', text_font_size='11pt', text_font_style = 'bold')
+
+    return pitch
+
+def get_understat_dataframe(country_of_league):
+
+    path_origin = os.path.dirname(__file__)
+
+    path_base = "{1}/local_dbs/understat/{0}_base_finalizacoes_understat.csv".format(country_of_league, path_origin)
+    path_depara = "{1}/local_dbs/understat/{0}_depara_understat.csv".format(country_of_league, path_origin)
+    #if Path(path).is_file():
+    dataframe_lances_finalizacao_global__ = pd.read_csv(path_base).drop('Unnamed: 0',axis=1)
+    depara_understat = pd.read_csv(path_depara).drop('Unnamed: 0',axis=1)
+
+    return dataframe_lances_finalizacao_global__, depara_understat
+
+def get_team_corner_plot(df_data, dataframe_lances_finalizacao_global__, depara_apis, team_see, iqr_multiple = 0.45):
+
+    df_player_ = dataframe_lances_finalizacao_global__[(dataframe_lances_finalizacao_global__['team_name_base']==team_see) &
+                                                      (dataframe_lances_finalizacao_global__['situation']=='FromCorner') &
+                                                       (dataframe_lances_finalizacao_global__['shotType']=='Head')
+                                                      ]
+
+
+    df_shots_player = df_player_[['X_adj','Y_adj','result']]
+    df_shots_player['color'] = ['red' if x=='Goal' else 'navy' for x in df_shots_player['result'].tolist()]
+    color_list = df_shots_player['color'].tolist()
+
+    df_shots_player['size'] = [20 if x=='Goal' else 15 for x in df_shots_player['result'].tolist()]
+    size_list = df_shots_player['size'].tolist()
+
+    df_shots_player['alpha'] = [1 if x=='Goal' else 0.4 for x in df_shots_player['result'].tolist()]
+    alpha_list = df_shots_player['alpha'].tolist()
+
+
+    points_shots = np.array(df_player_[['X_adj','Y_adj']])
+
+    dataframe_pos_x = pd.DataFrame(data = points_shots[:,0], columns=['data'])
+    dataframe_pos_x = dataframe_pos_x.reset_index()
+
+    percentile25 = dataframe_pos_x['data'].quantile(0.25)
+    percentile75 = dataframe_pos_x['data'].quantile(0.75)
+
+    iqr = percentile75 - percentile25
+
+    upper_limit = percentile75 + iqr_multiple * iqr
+    lower_limit = percentile25 - iqr_multiple * iqr
+
+    dataframe_pos_s_outliers_x = dataframe_pos_x[(dataframe_pos_x['data'] <= upper_limit) & (dataframe_pos_x['data'] >= lower_limit)]
+
+    dataframe_pos_s_outliers_x.columns = ['index','x']
+
+    dataframe_pos_y = pd.DataFrame(data = points_shots[:,1], columns=['data'])
+    dataframe_pos_y = dataframe_pos_y.reset_index()
+
+    percentile25 = dataframe_pos_y['data'].quantile(0.25)
+    percentile75 = dataframe_pos_y['data'].quantile(0.75)
+
+    upper_limit = percentile75 + iqr_multiple * iqr
+    lower_limit = percentile25 - iqr_multiple * iqr
+
+    dataframe_pos_s_outliers_y = dataframe_pos_y[(dataframe_pos_y['data'] <= upper_limit) &
+                                                 (dataframe_pos_y['data'] >= lower_limit)]
+
+    dataframe_pos_s_outliers_y.columns = ['index','y']
+
+    points_s_outliers = pd.merge(dataframe_pos_s_outliers_x, dataframe_pos_s_outliers_y, how='inner', on='index')
+
+    points_s_outliers = np.array(points_s_outliers[['x','y']])
+
+
+    hull = ConvexHull(points_s_outliers)
+
+    local_mediano_chute = np.array(df_player_[['X_adj','Y_adj']].median())
+
+    total = len(df_shots_player)
+    rep_region_1 = len(df_shots_player[(df_shots_player['Y_adj']<=18)])
+    rep_region_2 = len(df_shots_player[(df_shots_player['Y_adj']<=30)]) - rep_region_1
+    rep_region_3 = len(df_shots_player[(df_shots_player['Y_adj']<=50)]) - rep_region_1 - rep_region_2
+    rep_region_4 = len(df_shots_player[(df_shots_player['Y_adj']<=62)]) - rep_region_1 - rep_region_2 - rep_region_3
+    rep_region_5 = len(df_shots_player[(df_shots_player['Y_adj']>=62)])
+
+    label = [rep_region_1/total, rep_region_2/total, rep_region_3/total, rep_region_4/total, rep_region_5/total]
+    label = ['{0:.1f}%'.format(x*100) for x in label]
+
+    x_place = 88
+    y = [9, 24, 40, 56, 71]
+    x = [x_place, x_place, x_place, x_place, x_place]
+
+
+    df_ = pd.DataFrame(columns=['x_','y_','label_'])
+
+    df_['x_'] = x
+    df_['y_'] = y
+    df_['label_'] = label
+
+    gols_escanteio = df_player_[df_player_['result']=='Goal'].groupby(['player_id'])['player'].count(
+    ).reset_index(
+    ).sort_values(by='player', ascending = False)
+
+    gols_escanteio.columns = ['player','gols']
+
+    finalizacao_escanteio = df_player_.groupby(['player_id'])['player'].count(
+    ).reset_index(
+    ).sort_values(by='player', ascending = False)
+    finalizacao_escanteio.columns = ['player','F']
+    top_dataframe = pd.merge(finalizacao_escanteio, gols_escanteio, how='left', on='player').fillna(0)
+
+    total_ = len(df_player_)
+    top_dataframe['label'] = ['({0:.1f}%)'.format(x/total_*100, int(x)) for x,y in zip(top_dataframe['F'].tolist(), top_dataframe['gols'].tolist())]
+    top_dataframe_ = pd.merge(top_dataframe, depara_apis, how='left', left_on='player', right_on='understat_id')
+    top_dataframe_['player_id'] = top_dataframe_['player_id'].astype(int)
+    top_dataframe_ = pd.merge(top_dataframe_, df_data[['player_id','player_photo']].drop_duplicates(), how='left')
+
+
+    top_dataframe_ = top_dataframe_[~pd.isnull(top_dataframe_['player_photo'])].head(3)
+
+    pitch = draw_pitch_zoomed(width = 450, height = 600,
+                    measure = 'SB',
+                    fill_color = '#B3DE69', fill_alpha = 0.5,
+                    line_color = 'grey', line_alpha = 0.5,
+                    hspan = [-52.5, 52.5], vspan = [-34, 34],
+                    arcs = True)
+
+    pitch.circle(points_shots[:,0], points_shots[:,1], size=size_list, color=color_list, alpha=alpha_list)
+
+    pitch.circle(local_mediano_chute[0], local_mediano_chute[1], size=15, color="purple", alpha=0.5)
+
+    #pitch.line([60,120], [18,18], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    #pitch.line([60,120], [30,30], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    #pitch.line([60,120], [62,62], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    #pitch.line([60,120], [50,50], line_width=2, color="gray", alpha=0.5, line_dash='dashed')
+
+    #pitch.line(points_s_outliers[hull.vertices,0], points_s_outliers[hull.vertices,1], line_width=2)
+
+    #pitch.line([points_s_outliers[hull.vertices[0],0],
+    #            points_s_outliers[hull.vertices[-1],0]], [points_s_outliers[hull.vertices[0],1],
+    #                                                      points_s_outliers[hull.vertices[-1],1]
+    #                                                     ], line_width=2)
+
+    source = ColumnDataSource(df_)
+
+    pitch.text(x='x_', y='y_',
+           source=source, text='label_',
+           x_offset=-100, y_offset=5,
+           text_color='darkgreen', text_font_size='12pt', text_font_style = 'bold')
+
+
+    source_ = ColumnDataSource(dict(
+            url = [df_data[(df_data['home_team_nome']==team_see)]['home_team_logo'].tolist()[0]],
+            x_  = [95],
+            y_  = [71]
+        ))
+
+    image3 = ImageURL(url='url', x='x_', y='y_', w=8, h = 13, anchor="center")
+    pitch.add_glyph(source_, image3)
+
+    k = 0
+    for top_ in top_dataframe_['player_id'].tolist():
+
+        source_ = ColumnDataSource(dict(
+                url = [top_dataframe_[(top_dataframe_['player_id']==top_)]['player_photo'].tolist()[0]],
+                x_  = [94.5 + k*10],
+                y_  = [8]
+            ))
+
+        image3 = ImageURL(url='url', x='x_', y='y_', w=7, h = 13, anchor="center")
+        pitch.add_glyph(source_, image3)
+
+        source_ = ColumnDataSource(dict(
+                label_ = [top_dataframe_[(top_dataframe_['player_id']==top_)]['player_name'].tolist()[0]],
+                x_  = [92 + k*10],
+                y_  = [20]
+            ))
+
+        pitch.text(x='x_', y='y_',
+           source=source_, text='label_',
+           x_offset=-7, y_offset=10,
+           text_color='darkgreen', text_font_size='9pt', text_font_style = 'bold')
+
+        n_gols = int(top_dataframe_[top_dataframe_['player_id']==top_].gols.tolist()[0])
+
+        for g in range(0,n_gols):
+
+            source_ = ColumnDataSource(dict(
+                url = ["https://i.ibb.co/9HKy8sm/ball.png"],
+                x_  = [92+ g*2 + k*10],
+                y_  = [17]
+            ))
+
+            image3 = ImageURL(url='url', x='x_', y='y_', w=2, h = 3, anchor="center")
+            pitch.add_glyph(source_, image3)
+
+
+
+        source_ = ColumnDataSource(dict(
+                label_ = [top_dataframe_[(top_dataframe_['player_id']==top_)]['label'].tolist()[0]],
+                x_  = [92+ n_gols*2 + k*10],
+                y_  = [17]
+            ))
+
+        pitch.text(x='x_', y='y_',
+           source=source_, text='label_',
+           x_offset=-7, y_offset=10,
+           text_color='darkgreen', text_font_size='11pt', text_font_style = 'bold')
+
+
+        k = k+1
+
+    return pitch
+
+def draw_pitch_zoomed(width = 700, height = 500,
+                measure = 'metres',
+                fill_color = '#B3DE69', fill_alpha = 0.5,
+                line_color = 'grey', line_alpha = 1,
+                hspan = [-52.5, 52.5], vspan = [-34, 34],
+                arcs = True):
+    '''
+    -----
+    Draws and returns a pitch on a Bokeh figure object with width 105m and height 68m
+    p = drawpitch()
+    -----
+    If you are using StatsBomb Data with a 120x80yard pitch, use:
+    measure = 'SB'
+    -----
+    If you are using Opta Data, use:
+    measure = 'Opta'
+    -----
+    If you are using any other pitch size, set measure to yards or metres
+    for correct pitch markings and
+    hspan = [left, right] // eg. for SBData this is: hspan = [0, 120]
+    vspan = [bottom, top] //
+    to adjust the plot to your needs.
+    -----
+    set arcs = False to not draw the penaltybox arcs
+    '''
+
+    # measures:
+    # goalcenter to post, fiveyard-box-length, fiveyard-width,
+    # box-width, penalty-spot x-distance, circle-radius
+
+
+    if measure == 'yards':
+        measures = [4, 6, 10, 18, 42, 12, 10]
+    elif (measure == 'SBData')|(measure == 'StatsBomb')|(measure == 'statsbomb')|(measure == 'SB'):
+        measures = [4, 6, 10, 18, 44, 12, 10]
+        hspan = [0, 120]
+        vspan = [0, 80]
+    elif measure == 'Opta':
+        measures = [4.8, 5.8, 13.2, 17, 57.8, 11.5, 8.71]
+        hspan = [0, 100]
+        vspan = [0, 100]
+    else: #if measure = metres or whatever else
+        measures = [3.66, 5.5, 9.16, 16.5, 40.32, 11, 9.15]
+
+    hmid = (hspan[1]+hspan[0])/2
+    vmid = (vspan[1]+vspan[0])/2
+
+    p = figure(width = width,
+        height = height,
+        x_range = Range1d(hspan[1]*3/4, hspan[1]),
+        y_range = Range1d(vspan[0], vspan[1]),
+        tools = [])
+
+    boxes = p.quad(top = [vspan[1], vmid+measures[2], vmid+measures[4]/2, vmid+measures[4]/2, vmid+measures[2]],
+           bottom = [vspan[0], vmid-measures[2], vmid-measures[4]/2, vmid-measures[4]/2, vmid-measures[2]],
+           left = [hspan[0], hspan[1]-measures[1], hspan[1]-measures[3], hspan[0]+measures[3], hspan[0]+measures[1]],
+           right = [hspan[1], hspan[1], hspan[1], hspan[0], hspan[0]],
+           color = fill_color,
+           alpha = [fill_alpha,0,0,0,0], line_width = 2,
+           line_alpha = line_alpha,
+           line_color = line_color)
+    boxes.selection_glyph = boxes.glyph
+    boxes.nonselection_glyph = boxes.glyph
+
+    #middle circle
+    p.circle(x=[hmid], y=[vmid], radius = measures[6],
+            color = line_color,
+            line_width = 2,
+            fill_alpha = 0,
+            fill_color = 'grey',
+            line_color= line_color)
+
+    if arcs == True:
+        p.arc(x=[hspan[0]+measures[5], hspan[1]-measures[5]], y=[vmid, vmid],
+            radius = measures[6],
+            start_angle = [(2*pi-np.arccos((measures[3]-measures[5])/measures[6])), pi - np.arccos((measures[3]-measures[5])/measures[6])],
+            end_angle = [np.arccos((measures[3]-measures[5])/measures[6]), pi + np.arccos((measures[3]-measures[5])/measures[6])],
+            color = line_color,
+            line_width = 2, line_alpha = line_alpha)
+
+    p.circle([hmid, hspan[1]-measures[5], hspan[0]+measures[5]], [vmid, vmid, vmid], size=5, color=line_color, alpha=1)
+    #midfield line
+    p.line([hmid, hmid], [vspan[0], vspan[1]], line_width = 2, color = line_color)
+    #goal lines
+    p.line((hspan[1],hspan[1]),(vmid+measures[0],vmid-measures[0]), line_width = 6, color = 'white')
+    p.line((hspan[0],hspan[0]),(vmid+measures[0],vmid-measures[0]), line_width = 6, color = 'white')
+    p.grid.visible = False
+    p.xaxis.visible = False
+    p.yaxis.visible = False
+
+    return p
+
+def draw_pitch(width = 700, height = 500,
+                measure = 'metres',
+                fill_color = '#B3DE69', fill_alpha = 0.5,
+                line_color = 'grey', line_alpha = 1,
+                hspan = [-52.5, 52.5], vspan = [-34, 34],
+                arcs = True):
+    '''
+    -----
+    Draws and returns a pitch on a Bokeh figure object with width 105m and height 68m
+    p = drawpitch()
+    -----
+    If you are using StatsBomb Data with a 120x80yard pitch, use:
+    measure = 'SB'
+    -----
+    If you are using Opta Data, use:
+    measure = 'Opta'
+    -----
+    If you are using any other pitch size, set measure to yards or metres
+    for correct pitch markings and
+    hspan = [left, right] // eg. for SBData this is: hspan = [0, 120]
+    vspan = [bottom, top] //
+    to adjust the plot to your needs.
+    -----
+    set arcs = False to not draw the penaltybox arcs
+    '''
+
+    # measures:
+    # goalcenter to post, fiveyard-box-length, fiveyard-width,
+    # box-width, penalty-spot x-distance, circle-radius
+
+
+    if measure == 'yards':
+        measures = [4, 6, 10, 18, 42, 12, 10]
+    elif (measure == 'SBData')|(measure == 'StatsBomb')|(measure == 'statsbomb')|(measure == 'SB'):
+        measures = [4, 6, 10, 18, 44, 12, 10]
+        hspan = [0, 120]
+        vspan = [0, 80]
+    elif measure == 'Opta':
+        measures = [4.8, 5.8, 13.2, 17, 57.8, 11.5, 8.71]
+        hspan = [0, 100]
+        vspan = [0, 100]
+    else: #if measure = metres or whatever else
+        measures = [3.66, 5.5, 9.16, 16.5, 40.32, 11, 9.15]
+
+    hmid = (hspan[1]+hspan[0])/2
+    vmid = (vspan[1]+vspan[0])/2
+
+    p = figure(width = width,
+        height = height,
+        x_range = Range1d(hspan[1]/2, hspan[1]),
+        y_range = Range1d(vspan[0], vspan[1]),
+        tools = [])
+
+    boxes = p.quad(top = [vspan[1], vmid+measures[2], vmid+measures[4]/2, vmid+measures[4]/2, vmid+measures[2]],
+           bottom = [vspan[0], vmid-measures[2], vmid-measures[4]/2, vmid-measures[4]/2, vmid-measures[2]],
+           left = [hspan[0], hspan[1]-measures[1], hspan[1]-measures[3], hspan[0]+measures[3], hspan[0]+measures[1]],
+           right = [hspan[1], hspan[1], hspan[1], hspan[0], hspan[0]],
+           color = fill_color,
+           alpha = [fill_alpha,0,0,0,0], line_width = 2,
+           line_alpha = line_alpha,
+           line_color = line_color)
+    boxes.selection_glyph = boxes.glyph
+    boxes.nonselection_glyph = boxes.glyph
+
+    #middle circle
+    p.circle(x=[hmid], y=[vmid], radius = measures[6],
+            color = line_color,
+            line_width = 2,
+            fill_alpha = 0,
+            fill_color = 'grey',
+            line_color= line_color)
+
+    if arcs == True:
+        p.arc(x=[hspan[0]+measures[5], hspan[1]-measures[5]], y=[vmid, vmid],
+            radius = measures[6],
+            start_angle = [(2*pi-np.arccos((measures[3]-measures[5])/measures[6])), pi - np.arccos((measures[3]-measures[5])/measures[6])],
+            end_angle = [np.arccos((measures[3]-measures[5])/measures[6]), pi + np.arccos((measures[3]-measures[5])/measures[6])],
+            color = line_color,
+            line_width = 2, line_alpha = line_alpha)
+
+    p.circle([hmid, hspan[1]-measures[5], hspan[0]+measures[5]], [vmid, vmid, vmid], size=5, color=line_color, alpha=1)
+    #midfield line
+    p.line([hmid, hmid], [vspan[0], vspan[1]], line_width = 2, color = line_color)
+    #goal lines
+    p.line((hspan[1],hspan[1]),(vmid+measures[0],vmid-measures[0]), line_width = 6, color = 'white')
+    p.line((hspan[0],hspan[0]),(vmid+measures[0],vmid-measures[0]), line_width = 6, color = 'white')
+    p.grid.visible = False
+    p.xaxis.visible = False
+    p.yaxis.visible = False
+
+    return p
 
 def generate_df_data_dataframe(rodada_atual_, country_of_league, year):
 

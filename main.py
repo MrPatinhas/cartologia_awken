@@ -79,23 +79,23 @@ stream.set_page_config(
 
 main_parameters_dict = dict({
      'Premier League (ENG)':{
-         "rodada_atual": 28,
+         "rodada_atual": 29,
          "country_name": "England"
      },
      'Serie A (ITA)':{
-         "rodada_atual": 28,
+         "rodada_atual": 29,
          "country_name": "Italy"
      },
      'Bundesliga (GER)':{
-         "rodada_atual": 25,
+         "rodada_atual": 26,
          "country_name": "Germany"
      },
      'La Liga (SPA)':{
-         "rodada_atual": 27,
+         "rodada_atual": 28,
          "country_name": "Spain"
      },
      'Paulistao (BRA)':{
-         "rodada_atual": 10,
+         "rodada_atual": 11,
          "country_name": "Paulista"
      },
 
@@ -115,14 +115,30 @@ def load_data(rodada_atual_, country_of_league, year):
     dataframe_player = get_datatframe_player_quantile(df_data)
     team_table = df_data[['home_team_id','home_team_nome']].drop_duplicates(keep='first')
 
+    if(country_of_league=='England' or country_of_league=='Italy'):
+        stream.session_state['flag_understat'] = True
+    else:
+        stream.session_state['flag_understat'] = False
+
+    if(stream.session_state['flag_understat']):
+        dataframe_lances_finalizacao_global__, depara_understat = get_understat_dataframe(country_of_league)
+        end_df = get_list_top_shooters(dataframe_lances_finalizacao_global__)
+    else:
+        dataframe_lances_finalizacao_global__ = None
+        depara_understat = None
+        end_df = None
+
     team_name_list = df_data.team_name.unique().tolist()
     team_name_list = [""] + team_name_list
 
-    return df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list
+    return df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list, dataframe_lances_finalizacao_global__, depara_understat, end_df
 
 stream.markdown("### 🎲 Cartologia | Soccer Analysis | Fantasy Games")
 
-if 'key' not in stream.session_state:
+if 'flag_understat' not in stream.session_state:
+    stream.session_state['flag_understat'] = False
+
+if 'league_decision' not in stream.session_state:
     stream.session_state['league_decision'] = 'UNDEFINED'
 
 league_selection = stream.selectbox(
@@ -134,7 +150,7 @@ if(league_selection!=""):
     rodada_atual_ = main_parameters_dict[league_selection]['rodada_atual']
     country_of_league = main_parameters_dict[league_selection]['country_name']
     year = '2021'
-    df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list = load_data(rodada_atual_, country_of_league, year)
+    df_data, df_liga, dataframe_pontuacao_relativa, dataframe_player, team_table, team_name_list, dataframe_lances_finalizacao_global__, depara_understat, end_df = load_data(rodada_atual_, country_of_league, year)
 
     stream.session_state['league_decision'] = 'DEFINED'
 
@@ -163,6 +179,8 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
 
         container_time.markdown("### 👀 Análise de Time | {}".format(team_selector))
 
+        cb1, cb2, cb3 = container_time.columns([1,0.75,1])
+
         if(position_selector!=""):
 
             pt = get_team_res(team_selector,
@@ -184,7 +202,49 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
                            sc2 = 'prev_cartola',
                            min_num_jogos=5)
 
-        container_time.bokeh_chart(p5)
+        cb1.bokeh_chart(p5)
+
+        if(stream.session_state['flag_understat']):
+
+            p6 = get_team_corner_plot(df_data, dataframe_lances_finalizacao_global__, depara_understat, team_selector, iqr_multiple = 0.45)
+            p6.plot_width = 600
+            p6.plot_height = 800
+            cb3.bokeh_chart(p6)
+
+            players_df_shots = end_df[end_df['team_name_base']==team_selector].head(3)
+
+            plots = []
+            row_ = []
+            row_count = 0
+
+            for p_id__ in players_df_shots.player_id.unique():
+
+                if len(depara_understat[depara_understat['understat_id']==p_id__]['player_id'].tolist()) > 0:
+                    #df_def_aux = df_def__[df_def__['team_name']==team_name__]
+                    plt_ = get_player_shot_xray(df_data, dataframe_lances_finalizacao_global__, depara_understat, p_id__, iqr_multiple = 0.5)
+                    #plt_.min_border_bottom = 50
+                    #plt_.plot_width = 800
+                    #plt_.plot_height = 600
+
+                    row_.append(plt_)
+                    row_count = row_count + 1
+                    if(row_count==3):
+                        row_count = 0
+                        plots.append(row_)
+                        row_ = []
+
+            if(len(row_)>0):
+                plots.append(row_)
+                row_ = []
+
+            grid = gridplot(plots)
+
+            container_time.bokeh_chart(grid)
+
+
+
+
+
 
     if(flag_plot_campeonato_conteiner):
 

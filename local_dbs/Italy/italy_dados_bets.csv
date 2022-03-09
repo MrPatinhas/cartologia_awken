@@ -1,141 +1,141 @@
 ,fix_id,stat,local,team_id,team_name,logo,value
-0,731854,form,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,71.0
-1,731854,form,away,503,Torino,https://media.api-sports.io/football/teams/503.png,29.0
-2,731854,att,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,50.0
-3,731854,att,away,503,Torino,https://media.api-sports.io/football/teams/503.png,50.0
-4,731854,def,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,53.0
-5,731854,def,away,503,Torino,https://media.api-sports.io/football/teams/503.png,47.0
-6,731854,poisson_distribution,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,64.0
-7,731854,poisson_distribution,away,503,Torino,https://media.api-sports.io/football/teams/503.png,36.0
-8,731854,h2h,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,25.0
-9,731854,h2h,away,503,Torino,https://media.api-sports.io/football/teams/503.png,75.0
-10,731854,goals,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,40.0
-11,731854,goals,away,503,Torino,https://media.api-sports.io/football/teams/503.png,60.0
-12,731854,total,home,500,Bologna,https://media.api-sports.io/football/teams/500.png,50.5
-13,731854,total,away,503,Torino,https://media.api-sports.io/football/teams/503.png,49.5
-0,731855,form,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,53.0
-1,731855,form,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,47.0
-2,731855,att,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,47.0
-3,731855,att,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,53.0
-4,731855,def,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,38.0
-5,731855,def,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,63.0
-6,731855,poisson_distribution,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,41.0
-7,731855,poisson_distribution,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,59.0
-8,731855,h2h,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,7.0
-9,731855,h2h,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,93.0
-10,731855,goals,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,31.0
-11,731855,goals,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,69.0
-12,731855,total,home,490,Cagliari,https://media.api-sports.io/football/teams/490.png,36.2
-13,731855,total,away,487,Lazio,https://media.api-sports.io/football/teams/487.png,64.0
-0,731856,form,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,41.0
-1,731856,form,away,504,Verona,https://media.api-sports.io/football/teams/504.png,59.0
-2,731856,att,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,31.0
-3,731856,att,away,504,Verona,https://media.api-sports.io/football/teams/504.png,69.0
-4,731856,def,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,46.0
-5,731856,def,away,504,Verona,https://media.api-sports.io/football/teams/504.png,54.0
-6,731856,poisson_distribution,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,67.0
-7,731856,poisson_distribution,away,504,Verona,https://media.api-sports.io/football/teams/504.png,33.0
-8,731856,h2h,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,50.0
-9,731856,h2h,away,504,Verona,https://media.api-sports.io/football/teams/504.png,50.0
-10,731856,goals,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,50.0
-11,731856,goals,away,504,Verona,https://media.api-sports.io/football/teams/504.png,50.0
-12,731856,total,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,47.5
-13,731856,total,away,504,Verona,https://media.api-sports.io/football/teams/504.png,52.5
-0,731857,form,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,71.0
-1,731857,form,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,29.0
-2,731857,att,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,29.0
-3,731857,att,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,71.0
-4,731857,def,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,83.0
-5,731857,def,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,17.0
-6,731857,poisson_distribution,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,27.0
-7,731857,poisson_distribution,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,73.0
-8,731857,h2h,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,85.0
-9,731857,h2h,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,15.0
-10,731857,goals,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,69.0
-11,731857,goals,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,31.0
-12,731857,total,home,495,Genoa,https://media.api-sports.io/football/teams/495.png,60.7
-13,731857,total,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,39.3
-0,731858,form,home,505,Inter,https://media.api-sports.io/football/teams/505.png,56.0
-1,731858,form,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,44.0
-2,731858,att,home,505,Inter,https://media.api-sports.io/football/teams/505.png,36.0
-3,731858,att,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,64.0
-4,731858,def,home,505,Inter,https://media.api-sports.io/football/teams/505.png,63.0
-5,731858,def,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,38.0
-6,731858,poisson_distribution,home,505,Inter,https://media.api-sports.io/football/teams/505.png,87.0
-7,731858,poisson_distribution,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,13.0
-8,731858,h2h,home,505,Inter,https://media.api-sports.io/football/teams/505.png,100.0
-9,731858,h2h,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,0.0
-10,731858,goals,home,505,Inter,https://media.api-sports.io/football/teams/505.png,100.0
-11,731858,goals,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,0.0
-12,731858,total,home,505,Inter,https://media.api-sports.io/football/teams/505.png,60.5
-13,731858,total,away,514,Salernitana,https://media.api-sports.io/football/teams/514.png,39.8
-0,731859,form,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,69.0
-1,731859,form,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,31.0
-2,731859,att,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,58.0
-3,731859,att,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,42.0
-4,731859,def,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,64.0
-5,731859,def,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,36.0
-6,731859,poisson_distribution,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,78.0
-7,731859,poisson_distribution,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,22.0
-8,731859,h2h,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,100.0
-9,731859,h2h,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,0.0
-10,731859,goals,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,77.0
-11,731859,goals,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,23.0
-12,731859,total,home,496,Juventus,https://media.api-sports.io/football/teams/496.png,69.2
-13,731859,total,away,515,Spezia,https://media.api-sports.io/football/teams/515.png,30.8
-0,731860,form,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,55.0
-1,731860,form,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,45.0
-2,731860,att,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,63.0
-3,731860,att,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,38.0
-4,731860,def,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,50.0
-5,731860,def,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,50.0
-6,731860,poisson_distribution,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,56.0
-7,731860,poisson_distribution,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,44.0
-8,731860,h2h,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,62.0
-9,731860,h2h,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,38.0
-10,731860,goals,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,50.0
-11,731860,goals,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,50.0
-12,731860,total,home,492,Napoli,https://media.api-sports.io/football/teams/492.png,56.0
-13,731860,total,away,489,AC Milan,https://media.api-sports.io/football/teams/489.png,44.2
-0,731861,form,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,64.0
-1,731861,form,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,36.0
-2,731861,att,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,60.0
-3,731861,att,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,40.0
-4,731861,def,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,40.0
-5,731861,def,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,60.0
-6,731861,poisson_distribution,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,36.0
-7,731861,poisson_distribution,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,64.0
-8,731861,h2h,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,29.0
-9,731861,h2h,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,71.0
-10,731861,goals,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,41.0
-11,731861,goals,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,59.0
-12,731861,total,home,497,AS Roma,https://media.api-sports.io/football/teams/497.png,45.0
-13,731861,total,away,499,Atalanta,https://media.api-sports.io/football/teams/499.png,55.0
-0,731862,form,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,50.0
-1,731862,form,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,50.0
-2,731862,att,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,40.0
-3,731862,att,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,60.0
-4,731862,def,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,50.0
-5,731862,def,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,50.0
-6,731862,poisson_distribution,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,59.0
-7,731862,poisson_distribution,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,41.0
-8,731862,h2h,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,7.0
-9,731862,h2h,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,93.0
-10,731862,goals,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,35.0
-11,731862,goals,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,65.0
-12,731862,total,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,40.2
-13,731862,total,away,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,59.8
-0,731863,form,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,33.0
-1,731863,form,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,67.0
-2,731863,att,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,42.0
-3,731863,att,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,58.0
-4,731863,def,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,47.0
-5,731863,def,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,53.0
-6,731863,poisson_distribution,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,32.0
-7,731863,poisson_distribution,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,68.0
-8,731863,h2h,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,0.0
-9,731863,h2h,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,100.0
-10,731863,goals,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,25.0
-11,731863,goals,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,75.0
-12,731863,total,home,517,Venezia,https://media.api-sports.io/football/teams/517.png,35.8
-13,731863,total,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,64.2
+0,731864,form,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,44.0
+1,731864,form,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,56.0
+2,731864,att,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,75.0
+3,731864,att,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,25.0
+4,731864,def,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,29.0
+5,731864,def,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,71.0
+6,731864,poisson_distribution,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,72.0
+7,731864,poisson_distribution,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,28.0
+8,731864,h2h,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,75.0
+9,731864,h2h,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,25.0
+10,731864,goals,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,57.0
+11,731864,goals,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,43.0
+12,731864,total,home,499,Atalanta,https://media.api-sports.io/football/teams/499.png,58.7
+13,731864,total,away,495,Genoa,https://media.api-sports.io/football/teams/495.png,41.3
+0,731865,form,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,54.0
+1,731865,form,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,46.0
+2,731865,att,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,63.0
+3,731865,att,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,38.0
+4,731865,def,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,42.0
+5,731865,def,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,58.0
+6,731865,poisson_distribution,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,76.0
+7,731865,poisson_distribution,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,24.0
+8,731865,h2h,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,75.0
+9,731865,h2h,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,25.0
+10,731865,goals,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,65.0
+11,731865,goals,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,35.0
+12,731865,total,home,502,Fiorentina,https://media.api-sports.io/football/teams/502.png,62.5
+13,731865,total,away,500,Bologna,https://media.api-sports.io/football/teams/500.png,37.7
+0,731866,form,home,504,Verona,https://media.api-sports.io/football/teams/504.png,50.0
+1,731866,form,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,50.0
+2,731866,att,home,504,Verona,https://media.api-sports.io/football/teams/504.png,63.0
+3,731866,att,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,38.0
+4,731866,def,home,504,Verona,https://media.api-sports.io/football/teams/504.png,40.0
+5,731866,def,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,60.0
+6,731866,poisson_distribution,home,504,Verona,https://media.api-sports.io/football/teams/504.png,36.0
+7,731866,poisson_distribution,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,64.0
+8,731866,h2h,home,504,Verona,https://media.api-sports.io/football/teams/504.png,38.0
+9,731866,h2h,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,62.0
+10,731866,goals,home,504,Verona,https://media.api-sports.io/football/teams/504.png,42.0
+11,731866,goals,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,58.0
+12,731866,total,home,504,Verona,https://media.api-sports.io/football/teams/504.png,44.8
+13,731866,total,away,492,Napoli,https://media.api-sports.io/football/teams/492.png,55.3
+0,731867,form,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,71.0
+1,731867,form,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,29.0
+2,731867,att,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,69.0
+3,731867,att,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,31.0
+4,731867,def,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,79.0
+5,731867,def,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,21.0
+6,731867,poisson_distribution,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,79.0
+7,731867,poisson_distribution,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,21.0
+8,731867,h2h,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,100.0
+9,731867,h2h,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,0.0
+10,731867,goals,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,75.0
+11,731867,goals,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,25.0
+12,731867,total,home,487,Lazio,https://media.api-sports.io/football/teams/487.png,74.6
+13,731867,total,away,517,Venezia,https://media.api-sports.io/football/teams/517.png,25.4
+0,731868,form,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,79.0
+1,731868,form,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,21.0
+2,731868,att,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,70.0
+3,731868,att,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,30.0
+4,731868,def,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,60.0
+5,731868,def,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,40.0
+6,731868,poisson_distribution,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,59.0
+7,731868,poisson_distribution,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,41.0
+8,731868,h2h,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,71.0
+9,731868,h2h,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,29.0
+10,731868,goals,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,68.0
+11,731868,goals,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,32.0
+12,731868,total,home,489,AC Milan,https://media.api-sports.io/football/teams/489.png,67.8
+13,731868,total,away,511,Empoli,https://media.api-sports.io/football/teams/511.png,32.2
+0,731869,form,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,29.0
+1,731869,form,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,71.0
+2,731869,att,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,38.0
+3,731869,att,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,63.0
+4,731869,def,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,42.0
+5,731869,def,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,58.0
+6,731869,poisson_distribution,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,20.0
+7,731869,poisson_distribution,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,80.0
+8,731869,h2h,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,0.0
+9,731869,h2h,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,100.0
+10,731869,goals,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,0.0
+11,731869,goals,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,100.0
+12,731869,total,home,514,Salernitana,https://media.api-sports.io/football/teams/514.png,32.3
+13,731869,total,away,488,Sassuolo,https://media.api-sports.io/football/teams/488.png,68.0
+0,731870,form,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,35.0
+1,731870,form,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,65.0
+2,731870,att,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,47.0
+3,731870,att,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,53.0
+4,731870,def,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,36.0
+5,731870,def,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,64.0
+6,731870,poisson_distribution,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,34.0
+7,731870,poisson_distribution,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,66.0
+8,731870,h2h,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,0.0
+9,731870,h2h,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,100.0
+10,731870,goals,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,18.0
+11,731870,goals,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,82.0
+12,731870,total,home,498,Sampdoria,https://media.api-sports.io/football/teams/498.png,34.0
+13,731870,total,away,496,Juventus,https://media.api-sports.io/football/teams/496.png,66.0
+0,731871,form,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,11.0
+1,731871,form,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,89.0
+2,731871,att,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,40.0
+3,731871,att,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,60.0
+4,731871,def,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,47.0
+5,731871,def,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,53.0
+6,731871,poisson_distribution,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,60.0
+7,731871,poisson_distribution,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,40.0
+8,731871,h2h,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,71.0
+9,731871,h2h,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,29.0
+10,731871,goals,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,55.0
+11,731871,goals,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,45.0
+12,731871,total,home,515,Spezia,https://media.api-sports.io/football/teams/515.png,47.3
+13,731871,total,away,490,Cagliari,https://media.api-sports.io/football/teams/490.png,52.7
+0,731872,form,home,503,Torino,https://media.api-sports.io/football/teams/503.png,29.0
+1,731872,form,away,505,Inter,https://media.api-sports.io/football/teams/505.png,71.0
+2,731872,att,home,503,Torino,https://media.api-sports.io/football/teams/503.png,30.0
+3,731872,att,away,505,Inter,https://media.api-sports.io/football/teams/505.png,70.0
+4,731872,def,home,503,Torino,https://media.api-sports.io/football/teams/503.png,42.0
+5,731872,def,away,505,Inter,https://media.api-sports.io/football/teams/505.png,58.0
+6,731872,poisson_distribution,home,503,Torino,https://media.api-sports.io/football/teams/503.png,38.0
+7,731872,poisson_distribution,away,505,Inter,https://media.api-sports.io/football/teams/505.png,62.0
+8,731872,h2h,home,503,Torino,https://media.api-sports.io/football/teams/503.png,0.0
+9,731872,h2h,away,505,Inter,https://media.api-sports.io/football/teams/505.png,100.0
+10,731872,goals,home,503,Torino,https://media.api-sports.io/football/teams/503.png,24.0
+11,731872,goals,away,505,Inter,https://media.api-sports.io/football/teams/505.png,76.0
+12,731872,total,home,503,Torino,https://media.api-sports.io/football/teams/503.png,32.6
+13,731872,total,away,505,Inter,https://media.api-sports.io/football/teams/505.png,67.4
+0,731873,form,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,47.0
+1,731873,form,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,53.0
+2,731873,att,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,50.0
+3,731873,att,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,50.0
+4,731873,def,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,36.0
+5,731873,def,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,64.0
+6,731873,poisson_distribution,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,42.0
+7,731873,poisson_distribution,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,58.0
+8,731873,h2h,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,20.0
+9,731873,h2h,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,80.0
+10,731873,goals,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,18.0
+11,731873,goals,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,82.0
+12,731873,total,home,494,Udinese,https://media.api-sports.io/football/teams/494.png,35.5
+13,731873,total,away,497,AS Roma,https://media.api-sports.io/football/teams/497.png,64.5

@@ -1,141 +1,141 @@
 ,fix_id,stat,local,team_id,team_name,logo,value
-0,710826,form,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,39.0
-1,710826,form,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,61.0
-2,710826,att,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0
-3,710826,att,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,60.0
-4,710826,def,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,44.0
-5,710826,def,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,56.0
-6,710826,poisson_distribution,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,59.0
-7,710826,poisson_distribution,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,41.0
-8,710826,h2h,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,20.0
-9,710826,h2h,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,80.0
-10,710826,goals,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,33.0
-11,710826,goals,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,67.0
-12,710826,total,home,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,39.2
-13,710826,total,away,41,Southampton,https://media.api-sports.io/football/teams/41.png,60.8
-0,710827,form,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,50.0
-1,710827,form,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,50.0
-2,710827,att,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,50.0
-3,710827,att,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,50.0
-4,710827,def,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,57.0
-5,710827,def,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,43.0
-6,710827,poisson_distribution,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,24.0
-7,710827,poisson_distribution,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,76.0
-8,710827,h2h,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,7.0
-9,710827,h2h,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,93.0
-10,710827,goals,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,19.0
-11,710827,goals,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,81.0
-12,710827,total,home,44,Burnley,https://media.api-sports.io/football/teams/44.png,34.5
-13,710827,total,away,49,Chelsea,https://media.api-sports.io/football/teams/49.png,65.5
-0,710828,form,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,67.0
-1,710828,form,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,33.0
-2,710828,att,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,55.0
-3,710828,att,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,45.0
-4,710828,def,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,67.0
-5,710828,def,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,33.0
-6,710828,poisson_distribution,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,72.0
-7,710828,poisson_distribution,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,28.0
-8,710828,h2h,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,71.0
-9,710828,h2h,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,29.0
-10,710828,goals,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,63.0
-11,710828,goals,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,38.0
-12,710828,total,home,46,Leicester,https://media.api-sports.io/football/teams/46.png,65.8
-13,710828,total,away,63,Leeds,https://media.api-sports.io/football/teams/63.png,34.3
-0,710829,form,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,65.0
-1,710829,form,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,35.0
-2,710829,att,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,75.0
-3,710829,att,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,25.0
-4,710829,def,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,67.0
-5,710829,def,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,33.0
-6,710829,poisson_distribution,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,76.0
-7,710829,poisson_distribution,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,24.0
-8,710829,h2h,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,80.0
-9,710829,h2h,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,20.0
-10,710829,goals,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,63.0
-11,710829,goals,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,37.0
-12,710829,total,home,40,Liverpool,https://media.api-sports.io/football/teams/40.png,71.0
-13,710829,total,away,48,West Ham,https://media.api-sports.io/football/teams/48.png,29.0
-0,710830,form,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,53.0
-1,710830,form,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,47.0
-2,710830,att,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,56.0
-3,710830,att,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,44.0
-4,710830,def,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,50.0
-5,710830,def,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,50.0
-6,710830,poisson_distribution,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,73.0
-7,710830,poisson_distribution,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,27.0
-8,710830,h2h,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,50.0
-9,710830,h2h,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,50.0
-10,710830,goals,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,50.0
-11,710830,goals,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,50.0
-12,710830,total,home,50,Manchester City,https://media.api-sports.io/football/teams/50.png,55.3
-13,710830,total,away,33,Manchester United,https://media.api-sports.io/football/teams/33.png,44.7
-0,710831,form,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,76.0
-1,710831,form,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,24.0
-2,710831,att,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,73.0
-3,710831,att,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,27.0
-4,710831,def,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,80.0
-5,710831,def,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,20.0
-6,710831,poisson_distribution,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,38.0
-7,710831,poisson_distribution,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,62.0
-8,710831,h2h,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,25.0
-9,710831,h2h,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,75.0
-10,710831,goals,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,13.0
-11,710831,goals,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,88.0
-12,710831,total,home,34,Newcastle,https://media.api-sports.io/football/teams/34.png,50.8
-13,710831,total,away,51,Brighton,https://media.api-sports.io/football/teams/51.png,49.3
-0,710832,form,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,80.0
-1,710832,form,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,20.0
-2,710832,att,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,71.0
-3,710832,att,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,29.0
-4,710832,def,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,44.0
-5,710832,def,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,56.0
-6,710832,poisson_distribution,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,35.0
-7,710832,poisson_distribution,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,65.0
-8,710832,h2h,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,85.0
-9,710832,h2h,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,15.0
-10,710832,goals,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,67.0
-11,710832,goals,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,33.0
-12,710832,total,home,71,Norwich,https://media.api-sports.io/football/teams/71.png,63.7
-13,710832,total,away,55,Brentford,https://media.api-sports.io/football/teams/55.png,36.3
-0,710833,form,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,67.0
-1,710833,form,away,45,Everton,https://media.api-sports.io/football/teams/45.png,33.0
-2,710833,att,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,69.0
-3,710833,att,away,45,Everton,https://media.api-sports.io/football/teams/45.png,31.0
-4,710833,def,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,47.0
-5,710833,def,away,45,Everton,https://media.api-sports.io/football/teams/45.png,53.0
-6,710833,poisson_distribution,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,70.0
-7,710833,poisson_distribution,away,45,Everton,https://media.api-sports.io/football/teams/45.png,30.0
-8,710833,h2h,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,38.0
-9,710833,h2h,away,45,Everton,https://media.api-sports.io/football/teams/45.png,62.0
-10,710833,goals,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,47.0
-11,710833,goals,away,45,Everton,https://media.api-sports.io/football/teams/45.png,53.0
-12,710833,total,home,47,Tottenham,https://media.api-sports.io/football/teams/47.png,56.3
-13,710833,total,away,45,Everton,https://media.api-sports.io/football/teams/45.png,43.7
-0,710834,form,home,38,Watford,https://media.api-sports.io/football/teams/38.png,29.0
-1,710834,form,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,71.0
-2,710834,att,home,38,Watford,https://media.api-sports.io/football/teams/38.png,25.0
-3,710834,att,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,75.0
-4,710834,def,home,38,Watford,https://media.api-sports.io/football/teams/38.png,36.0
-5,710834,def,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,64.0
-6,710834,poisson_distribution,home,38,Watford,https://media.api-sports.io/football/teams/38.png,26.0
-7,710834,poisson_distribution,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,74.0
-8,710834,h2h,home,38,Watford,https://media.api-sports.io/football/teams/38.png,7.0
-9,710834,h2h,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,93.0
-10,710834,goals,home,38,Watford,https://media.api-sports.io/football/teams/38.png,31.0
-11,710834,goals,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,69.0
-12,710834,total,home,38,Watford,https://media.api-sports.io/football/teams/38.png,25.7
-13,710834,total,away,42,Arsenal,https://media.api-sports.io/football/teams/42.png,74.3
-0,710835,form,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,50.0
-1,710835,form,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,50.0
-2,710835,att,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,45.0
-3,710835,att,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,55.0
-4,710835,def,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,44.0
-5,710835,def,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,56.0
-6,710835,poisson_distribution,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,55.0
-7,710835,poisson_distribution,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,45.0
-8,710835,h2h,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,60.0
-9,710835,h2h,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0
-10,710835,goals,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,63.0
-11,710835,goals,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,38.0
-12,710835,total,home,39,Wolves,https://media.api-sports.io/football/teams/39.png,52.8
-13,710835,total,away,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,47.3
+0,710836,form,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,65.0
+1,710836,form,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,35.0
+2,710836,att,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,57.0
+3,710836,att,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,43.0
+4,710836,def,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,60.0
+5,710836,def,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,40.0
+6,710836,poisson_distribution,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,72.0
+7,710836,poisson_distribution,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,28.0
+8,710836,h2h,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,71.0
+9,710836,h2h,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,29.0
+10,710836,goals,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,73.0
+11,710836,goals,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,27.0
+12,710836,total,home,42,Arsenal,https://media.api-sports.io/football/teams/42.png,66.3
+13,710836,total,away,46,Leicester,https://media.api-sports.io/football/teams/46.png,33.7
+0,710837,form,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,36.0
+1,710837,form,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,64.0
+2,710837,att,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,44.0
+3,710837,att,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,56.0
+4,710837,def,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,50.0
+5,710837,def,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,50.0
+6,710837,poisson_distribution,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,51.0
+7,710837,poisson_distribution,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,49.0
+8,710837,h2h,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,0.0
+9,710837,h2h,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,100.0
+10,710837,goals,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,22.0
+11,710837,goals,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,78.0
+12,710837,total,home,55,Brentford,https://media.api-sports.io/football/teams/55.png,40.6
+13,710837,total,away,44,Burnley,https://media.api-sports.io/football/teams/44.png,59.4
+0,710838,form,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,17.0
+1,710838,form,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,83.0
+2,710838,att,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,19.0
+3,710838,att,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,81.0
+4,710838,def,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,10.0
+5,710838,def,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,90.0
+6,710838,poisson_distribution,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,17.0
+7,710838,poisson_distribution,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,83.0
+8,710838,h2h,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,38.0
+9,710838,h2h,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,62.0
+10,710838,goals,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,43.0
+11,710838,goals,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,57.0
+12,710838,total,home,51,Brighton,https://media.api-sports.io/football/teams/51.png,24.0
+13,710838,total,away,40,Liverpool,https://media.api-sports.io/football/teams/40.png,76.0
+0,710839,form,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,43.0
+1,710839,form,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,57.0
+2,710839,att,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,47.0
+3,710839,att,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,53.0
+4,710839,def,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,60.0
+5,710839,def,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,40.0
+6,710839,poisson_distribution,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,83.0
+7,710839,poisson_distribution,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,17.0
+8,710839,h2h,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,80.0
+9,710839,h2h,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,20.0
+10,710839,goals,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,89.0
+11,710839,goals,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,11.0
+12,710839,total,home,49,Chelsea,https://media.api-sports.io/football/teams/49.png,67.0
+13,710839,total,away,34,Newcastle,https://media.api-sports.io/football/teams/34.png,33.0
+0,710840,form,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,40.0
+1,710840,form,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,60.0
+2,710840,att,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,35.0
+3,710840,att,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,65.0
+4,710840,def,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,57.0
+5,710840,def,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,43.0
+6,710840,poisson_distribution,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,24.0
+7,710840,poisson_distribution,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,76.0
+8,710840,h2h,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,29.0
+9,710840,h2h,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,71.0
+10,710840,goals,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,29.0
+11,710840,goals,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,71.0
+12,710840,total,home,52,Crystal Palace,https://media.api-sports.io/football/teams/52.png,35.7
+13,710840,total,away,50,Manchester City,https://media.api-sports.io/football/teams/50.png,64.3
+0,710841,form,home,45,Everton,https://media.api-sports.io/football/teams/45.png,33.0
+1,710841,form,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,67.0
+2,710841,att,home,45,Everton,https://media.api-sports.io/football/teams/45.png,44.0
+3,710841,att,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,56.0
+4,710841,def,home,45,Everton,https://media.api-sports.io/football/teams/45.png,35.0
+5,710841,def,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,65.0
+6,710841,poisson_distribution,home,45,Everton,https://media.api-sports.io/football/teams/45.png,40.0
+7,710841,poisson_distribution,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,60.0
+8,710841,h2h,home,45,Everton,https://media.api-sports.io/football/teams/45.png,60.0
+9,710841,h2h,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,40.0
+10,710841,goals,home,45,Everton,https://media.api-sports.io/football/teams/45.png,47.0
+11,710841,goals,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,53.0
+12,710841,total,home,45,Everton,https://media.api-sports.io/football/teams/45.png,43.2
+13,710841,total,away,39,Wolves,https://media.api-sports.io/football/teams/39.png,56.8
+0,710842,form,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,0.0
+1,710842,form,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,100.0
+2,710842,att,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,40.0
+3,710842,att,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,60.0
+4,710842,def,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,42.0
+5,710842,def,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,58.0
+6,710842,poisson_distribution,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,69.0
+7,710842,poisson_distribution,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,31.0
+8,710842,h2h,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,60.0
+9,710842,h2h,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,40.0
+10,710842,goals,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,57.0
+11,710842,goals,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,43.0
+12,710842,total,home,63,Leeds,https://media.api-sports.io/football/teams/63.png,53.6
+13,710842,total,away,71,Norwich,https://media.api-sports.io/football/teams/71.png,46.4
+0,710843,form,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,47.0
+1,710843,form,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,53.0
+2,710843,att,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,40.0
+3,710843,att,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,60.0
+4,710843,def,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,42.0
+5,710843,def,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,58.0
+6,710843,poisson_distribution,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,53.0
+7,710843,poisson_distribution,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,47.0
+8,710843,h2h,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,71.0
+9,710843,h2h,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,29.0
+10,710843,goals,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,53.0
+11,710843,goals,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,47.0
+12,710843,total,home,33,Manchester United,https://media.api-sports.io/football/teams/33.png,51.0
+13,710843,total,away,47,Tottenham,https://media.api-sports.io/football/teams/47.png,49.0
+0,710844,form,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,71.0
+1,710844,form,away,38,Watford,https://media.api-sports.io/football/teams/38.png,29.0
+2,710844,att,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,67.0
+3,710844,att,away,38,Watford,https://media.api-sports.io/football/teams/38.png,33.0
+4,710844,def,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,56.0
+5,710844,def,away,38,Watford,https://media.api-sports.io/football/teams/38.png,44.0
+6,710844,poisson_distribution,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,66.0
+7,710844,poisson_distribution,away,38,Watford,https://media.api-sports.io/football/teams/38.png,34.0
+8,710844,h2h,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,85.0
+9,710844,h2h,away,38,Watford,https://media.api-sports.io/football/teams/38.png,15.0
+10,710844,goals,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,67.0
+11,710844,goals,away,38,Watford,https://media.api-sports.io/football/teams/38.png,33.0
+12,710844,total,home,41,Southampton,https://media.api-sports.io/football/teams/41.png,68.7
+13,710844,total,away,38,Watford,https://media.api-sports.io/football/teams/38.png,31.3
+0,710845,form,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,53.0
+1,710845,form,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,47.0
+2,710845,att,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,36.0
+3,710845,att,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,64.0
+4,710845,def,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,56.0
+5,710845,def,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,44.0
+6,710845,poisson_distribution,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,60.0
+7,710845,poisson_distribution,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,40.0
+8,710845,h2h,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,85.0
+9,710845,h2h,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,15.0
+10,710845,goals,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,71.0
+11,710845,goals,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,29.0
+12,710845,total,home,48,West Ham,https://media.api-sports.io/football/teams/48.png,60.2
+13,710845,total,away,66,Aston Villa,https://media.api-sports.io/football/teams/66.png,39.8

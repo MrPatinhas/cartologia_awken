@@ -1,113 +1,113 @@
 ,fix_id,stat,local,team_id,team_name,logo,value
-0,814406,form,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,42.0
-1,814406,form,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,58.0
-2,814406,att,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,36.0
-3,814406,att,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,64.0
-4,814406,def,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,50.0
-5,814406,def,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,50.0
-6,814406,poisson_distribution,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,56.0
-7,814406,poisson_distribution,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,44.0
-8,814406,h2h,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,33.0
-9,814406,h2h,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,67.0
-10,814406,goals,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,27.0
-11,814406,goals,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,73.0
-12,814406,total,home,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,40.7
-13,814406,total,away,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,59.3
-0,814407,form,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,44.0
-1,814407,form,away,128,Santos,https://media.api-sports.io/football/teams/128.png,56.0
-2,814407,att,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,46.0
-3,814407,att,away,128,Santos,https://media.api-sports.io/football/teams/128.png,54.0
-4,814407,def,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,50.0
-5,814407,def,away,128,Santos,https://media.api-sports.io/football/teams/128.png,50.0
-6,814407,poisson_distribution,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,31.0
-7,814407,poisson_distribution,away,128,Santos,https://media.api-sports.io/football/teams/128.png,69.0
-8,814407,h2h,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,50.0
-9,814407,h2h,away,128,Santos,https://media.api-sports.io/football/teams/128.png,50.0
-10,814407,goals,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,50.0
-11,814407,goals,away,128,Santos,https://media.api-sports.io/football/teams/128.png,50.0
-12,814407,total,home,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,45.2
-13,814407,total,away,128,Santos,https://media.api-sports.io/football/teams/128.png,54.8
-0,814408,form,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,40.0
-1,814408,form,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,60.0
-2,814408,att,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,43.0
-3,814408,att,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,57.0
-4,814408,def,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,50.0
-5,814408,def,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,50.0
-6,814408,poisson_distribution,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,18.0
-7,814408,poisson_distribution,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,82.0
-8,814408,h2h,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,50.0
-9,814408,h2h,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,50.0
-10,814408,goals,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,50.0
-11,814408,goals,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,50.0
-12,814408,total,home,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,41.8
-13,814408,total,away,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,58.2
-0,814409,form,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,65.0
-1,814409,form,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,35.0
-2,814409,att,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,42.0
-3,814409,att,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,58.0
-4,814409,def,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,90.0
-5,814409,def,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,10.0
-6,814409,poisson_distribution,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,100.0
-7,814409,poisson_distribution,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,0.0
-8,814409,h2h,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,91.0
-9,814409,h2h,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,9.0
-10,814409,goals,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,80.0
-11,814409,goals,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,20.0
-12,814409,total,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,73.6
-13,814409,total,away,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,26.4
-0,814410,form,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,50.0
-1,814410,form,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,50.0
-2,814410,att,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,40.0
-3,814410,att,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,60.0
-4,814410,def,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,50.0
-5,814410,def,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,50.0
-6,814410,poisson_distribution,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,60.0
-7,814410,poisson_distribution,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,40.0
-8,814410,h2h,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,0.0
-9,814410,h2h,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,0.0
-10,814410,goals,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,0.0
-11,814410,goals,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,0.0
-12,814410,total,home,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,50.0
-13,814410,total,away,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,50.0
-0,814411,form,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,47.0
-1,814411,form,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,53.0
-2,814411,att,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,64.0
-3,814411,att,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,36.0
-4,814411,def,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,50.0
-5,814411,def,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,50.0
-6,814411,poisson_distribution,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,61.0
-7,814411,poisson_distribution,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,39.0
-8,814411,h2h,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,75.0
-9,814411,h2h,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,25.0
-10,814411,goals,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,64.0
-11,814411,goals,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,36.0
-12,814411,total,home,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,60.2
-13,814411,total,away,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,39.8
-0,814412,form,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,47.0
-1,814412,form,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,53.0
-2,814412,att,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,25.0
-3,814412,att,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,75.0
-4,814412,def,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,62.0
-5,814412,def,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,38.0
-6,814412,poisson_distribution,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,79.0
-7,814412,poisson_distribution,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,21.0
-8,814412,h2h,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,0.0
-9,814412,h2h,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,0.0
-10,814412,goals,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,0.0
-11,814412,goals,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,0.0
-12,814412,total,home,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,53.3
-13,814412,total,away,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,46.8
-0,814413,form,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,50.0
-1,814413,form,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,50.0
-2,814413,att,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,44.0
-3,814413,att,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,56.0
-4,814413,def,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,67.0
-5,814413,def,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,33.0
-6,814413,poisson_distribution,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,100.0
-7,814413,poisson_distribution,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,0.0
-8,814413,h2h,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,62.0
-9,814413,h2h,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,38.0
-10,814413,goals,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,56.0
-11,814413,goals,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,44.0
-12,814413,total,home,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,55.8
-13,814413,total,away,131,Corinthians,https://media.api-sports.io/football/teams/131.png,44.2
+0,814414,form,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,46.0
+1,814414,form,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,54.0
+2,814414,att,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,63.0
+3,814414,att,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,38.0
+4,814414,def,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,50.0
+5,814414,def,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,50.0
+6,814414,poisson_distribution,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,77.0
+7,814414,poisson_distribution,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,23.0
+8,814414,h2h,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,0.0
+9,814414,h2h,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,0.0
+10,814414,goals,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,0.0
+11,814414,goals,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,0.0
+12,814414,total,home,1201,Inter De Limeira,https://media.api-sports.io/football/teams/1201.png,59.0
+13,814414,total,away,7865,São Bernardo,https://media.api-sports.io/football/teams/7865.png,41.3
+0,814415,form,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,78.0
+1,814415,form,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,22.0
+2,814415,att,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,43.0
+3,814415,att,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,57.0
+4,814415,def,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,64.0
+5,814415,def,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,36.0
+6,814415,poisson_distribution,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,66.0
+7,814415,poisson_distribution,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,34.0
+8,814415,h2h,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,36.0
+9,814415,h2h,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,64.0
+10,814415,goals,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,42.0
+11,814415,goals,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,58.0
+12,814415,total,home,2618,Botafogo SP,https://media.api-sports.io/football/teams/2618.png,54.8
+13,814415,total,away,7834,Novorizontino,https://media.api-sports.io/football/teams/7834.png,45.2
+0,814416,form,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,50.0
+1,814416,form,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,50.0
+2,814416,att,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,50.0
+3,814416,att,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,50.0
+4,814416,def,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,45.0
+5,814416,def,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,55.0
+6,814416,poisson_distribution,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,39.0
+7,814416,poisson_distribution,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,61.0
+8,814416,h2h,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,0.0
+9,814416,h2h,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,100.0
+10,814416,goals,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,0.0
+11,814416,goals,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,100.0
+12,814416,total,home,10018,Água Santa,https://media.api-sports.io/football/teams/10018.png,46.0
+13,814416,total,away,10003,Santo André,https://media.api-sports.io/football/teams/10003.png,54.0
+0,814417,form,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,60.0
+1,814417,form,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,40.0
+2,814417,att,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,54.0
+3,814417,att,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,46.0
+4,814417,def,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,53.0
+5,814417,def,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,47.0
+6,814417,poisson_distribution,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,50.0
+7,814417,poisson_distribution,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,50.0
+8,814417,h2h,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,100.0
+9,814417,h2h,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,0.0
+10,814417,goals,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,67.0
+11,814417,goals,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,33.0
+12,814417,total,home,138,Guarani Campinas,https://media.api-sports.io/football/teams/138.png,56.8
+13,814417,total,away,7826,Ferroviária,https://media.api-sports.io/football/teams/7826.png,43.2
+0,814418,form,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,44.0
+1,814418,form,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,56.0
+2,814418,att,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,50.0
+3,814418,att,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,50.0
+4,814418,def,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,33.0
+5,814418,def,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,67.0
+6,814418,poisson_distribution,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,68.0
+7,814418,poisson_distribution,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,32.0
+8,814418,h2h,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,0.0
+9,814418,h2h,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,100.0
+10,814418,goals,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,33.0
+11,814418,goals,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,67.0
+12,814418,total,home,7779,Ituano,https://media.api-sports.io/football/teams/7779.png,45.6
+13,814418,total,away,794,RB Bragantino,https://media.api-sports.io/football/teams/794.png,54.4
+0,814419,form,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,41.0
+1,814419,form,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,59.0
+2,814419,att,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,53.0
+3,814419,att,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,47.0
+4,814419,def,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,22.0
+5,814419,def,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,78.0
+6,814419,poisson_distribution,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,50.0
+7,814419,poisson_distribution,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,50.0
+8,814419,h2h,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,50.0
+9,814419,h2h,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,50.0
+10,814419,goals,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,36.0
+11,814419,goals,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,64.0
+12,814419,total,home,7848,Mirassol,https://media.api-sports.io/football/teams/7848.png,42.0
+13,814419,total,away,126,Sao Paulo,https://media.api-sports.io/football/teams/126.png,58.0
+0,814420,form,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,72.0
+1,814420,form,away,128,Santos,https://media.api-sports.io/football/teams/128.png,28.0
+2,814420,att,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,46.0
+3,814420,att,away,128,Santos,https://media.api-sports.io/football/teams/128.png,54.0
+4,814420,def,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,100.0
+5,814420,def,away,128,Santos,https://media.api-sports.io/football/teams/128.png,0.0
+6,814420,poisson_distribution,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,100.0
+7,814420,poisson_distribution,away,128,Santos,https://media.api-sports.io/football/teams/128.png,0.0
+8,814420,h2h,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,93.0
+9,814420,h2h,away,128,Santos,https://media.api-sports.io/football/teams/128.png,7.0
+10,814420,goals,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,65.0
+11,814420,goals,away,128,Santos,https://media.api-sports.io/football/teams/128.png,35.0
+12,814420,total,home,121,Palmeiras,https://media.api-sports.io/football/teams/121.png,69.0
+13,814420,total,away,128,Santos,https://media.api-sports.io/football/teams/128.png,31.0
+0,814421,form,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,91.0
+1,814421,form,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,9.0
+2,814421,att,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,78.0
+3,814421,att,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,22.0
+4,814421,def,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,73.0
+5,814421,def,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,27.0
+6,814421,poisson_distribution,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,85.0
+7,814421,poisson_distribution,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,15.0
+8,814421,h2h,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,40.0
+9,814421,h2h,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,60.0
+10,814421,goals,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,45.0
+11,814421,goals,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,55.0
+12,814421,total,home,131,Corinthians,https://media.api-sports.io/football/teams/131.png,68.7
+13,814421,total,away,139,Ponte Preta,https://media.api-sports.io/football/teams/139.png,31.3
