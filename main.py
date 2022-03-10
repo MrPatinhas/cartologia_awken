@@ -172,6 +172,20 @@ def load_data(rodada_atual_, country_of_league, year):
 
 stream.markdown("### 🎲 Cartologia | Soccer Analysis | Fantasy Games")
 
+with stream.expander("Glossário & Premissas"):
+     stream.write("""
+         Scouts = Eventos que ocorrem durantse uma partida de futebol \n
+         A = Assistência - (Passes que resultam imediatamente em gol) \n
+         G = Gols \n
+         FS = Faltas sofridas \n
+         FD = Finalizações Defendidados - (Chutem que vão no gol mas são defendidas) \n
+         DS = Desarmes - (Admitidos com Interceptações declaradas + 50% de dividias vencidas) \n
+         FF = Finalizações para Fora - (Chutes que não vão no gol) \n
+         F =  Finalizações - (Representa a soma de FF e FD) \n
+         xG = Expected Goals - Métrica probabilistica de conversão de finalizações em gols \n
+         xA = Expected Assist - Métrica probabilistica de conversão de passes em finalizações \n
+     """)
+
 if 'flag_understat' not in stream.session_state:
     stream.session_state['flag_understat'] = False
 
@@ -191,6 +205,10 @@ if(league_selection!=""):
     stream.session_state['league_decision'] = 'DEFINED'
 
 if(stream.session_state['league_decision'] == 'DEFINED'):
+
+    stream.markdown("### Liga | {0} | Rodada {1} ".format(league_selection, main_parameters_dict[league_selection]['rodada_atual']))
+    stream.write("")
+
     cb1, cb2 = stream.columns(2)
     flag_plot_time_conteiner = cb1.checkbox('Análise de Equipe')
     flag_plot_campeonato_conteiner = cb2.checkbox('Análise de Campeonato')
@@ -315,6 +333,7 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
         container_campeonato.bokeh_chart(p2)
 
         p3 = get_goleiro_plot(df_data, df_liga, alpha_y = 1.6, photo_height = main_parameters_dict[league_selection]['rodada_atual']*0.9, legend_desloc = 1.6, w_ = 0.9)
+        p3.plot_width = 1600
         container_campeonato.bokeh_chart(p3)
 
         p4_1 = get_sg_plot(df_data, df_liga,'CASA')
