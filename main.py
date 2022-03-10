@@ -59,11 +59,25 @@ from pathlib import Path
 from PIL import Image
 import urllib.request
 import io
+import os
 import random
 from difflib import SequenceMatcher
 from pathlib import Path
 import streamlit as stream
 from functions_storage import *
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
+
+
+def load_lottieurl(url: str):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+
+
+lottie_url_hello = "https://assets3.lottiefiles.com/private_files/lf30_rg5wrsf4.json"
+lottie_hello = load_lottieurl(lottie_url_hello)
 
 stream.set_page_config(
      page_title="Cartologia | Soccer Analysis",
@@ -76,6 +90,29 @@ stream.set_page_config(
          'About': "# This is a header. This is an *extremely* cool app!"
      }
  )
+
+c1, c2, c3, c4, c5, c6, c7, c8 = stream.columns([1, 1, 0.2, 3, 1, 0.5, 0.5, 0.5])
+
+with c1:
+    st_lottie(lottie_hello, key="hello", height=150,
+        width=150)
+
+c2.image('https://i.ibb.co/fvbCyHB/Imagem1.png', caption='Cartologia', width=150)
+
+url_telegram = 'https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png'
+url_insta = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png'
+url_yt = 'https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png'
+
+c3.image(url_telegram, width=40)
+c3.image(url_insta, width=40)
+c3.image(url_yt, width=40)
+
+c4.write("Telegram: https://t.me/cartologia")
+c4.write("")
+c4.write("Instagram: https://www.instagram.com/cartologiafc/")
+c4.write("")
+c4.write("Youtube: https://www.youtube.com/channel/UCgwkcq7yeW1mOXdNXhszmOg")
+
 
 main_parameters_dict = dict({
      'Premier League (ENG)':{
@@ -171,14 +208,14 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
         )
 
     container_time = stream.container()
-
     container_campeonato = stream.container()
 
     if(team_selector!="" and flag_plot_time_conteiner):
 
         container_time.markdown("### 👀 Análise de Time | {}".format(team_selector))
-
-        cb1, cb2, cb3 = container_time.columns([1,0.75,1])
+        cb4,xx = container_time.columns([1,0.1])
+        cb1, cb2, cb3 = container_time.columns([1,0.5,1])
+        cb5,xx = container_time.columns([1,0.1])
 
         if(position_selector!=""):
 
@@ -190,9 +227,26 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
                              dataframe_pontuacao_relativa,
                              dataframe_player)
 
-            container_time.bokeh_chart(pt)
+            cb4.markdown("##### Fantasy Evaluation | {}".format(team_selector))
+            cb4.write("""
+             Relatório com foco em avaliar as peças possívies para escalação no Fantasy Game de acordo com a posição selecionada \n
+             A primeira linha mostra da direita para esquerda: Evolução temporal relativa da pontuação na liga dos times em confronto, \n
+             O segundo gráfico traz as médias de pontuação dos jogadores da equipe na posição bem como as quantidades de jogos participados (total e últimos 5 jogos) \n
+             O terceiro gráfico que mostra a comparação com a média do campenato no ponto de vista do executado e cedido pelo adversário por scout. \n
+             Bolas vermelhas indicam um scout que a equipe executa abaixo da média do campeonato e o adversário cede também abaixo da média, \n
+             Bolas azuis indicam scout com execução acima mas cedido abaixo da médio, amarelo o contrário, e por fim o verde indica execução e cedido acima da média \n
+             As duas últimas linhas do relatório mostram respectivamente a distribuição de probabilidade da pontuação e o mapa de quartis por scout do jogador \n
+            """)
+
+            cb4.bokeh_chart(pt)
 
         tid__ = team_table[team_table['home_team_nome']==team_selector].home_team_id.tolist()[0]
+
+        cb1.markdown("##### Team Wheel | {}".format(team_selector))
+        cb1.write("""
+         O gráfico abaixo mostra qual a média de pontuação dos jogadores, no Fantasy Rei do Pitaco, bem como o desvio padrão dos mesmos.
+         Considera-se jogadores com no mínimo 5 jogos de participação
+        """)
 
         p5 = get_round_plot(df_data, tid__,
                            scout1='Pontuação Média',
@@ -203,7 +257,13 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
 
         cb1.bokeh_chart(p5)
 
-        if(stream.session_state['flag_understat']):
+        if((country_of_league=='England') or (country_of_league=='Italy')):
+
+            cb3.markdown("##### Corner Masters | {}".format(team_selector))
+            cb3.write("""
+             O gráfico abaixo mostra a posição das finalizações de cabeça obtidas em escanteio pelo time selecionado.
+             Os pontos vermelhos mostram as finalizações que resultaram em gols. Em destaque temos os TOP3 jogadores em volume de finalização de cabeça em escanteio
+            """)
 
             p6 = get_team_corner_plot(df_data, dataframe_lances_finalizacao_global__, depara_understat, team_selector, iqr_multiple = 0.45)
             p6.plot_width = 600
@@ -238,11 +298,13 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
 
             grid = gridplot(plots)
 
-            container_time.bokeh_chart(grid)
+            cb5.markdown("##### Shot XRay | {}".format(team_selector))
+            cb5.write("""
+             O gráfico abaixo mostra a posição das finalizações dos TOP3 Jogadores em xG/90 acumulados.
+             As bolas verdes indicam finalizações que resultaram em gols e o polígono convexo atribui um cerco com 80% da mediana de posição de finalização.  Destacamos a % dos chutes por faixas verticais do campo
 
-
-
-
+            """)
+            cb5.bokeh_chart(grid)
 
 
     if(flag_plot_campeonato_conteiner):
