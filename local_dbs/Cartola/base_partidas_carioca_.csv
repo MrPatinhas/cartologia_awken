@@ -1,0 +1,67 @@
+status,fix_id,home_team_id,home_team_name,home_team_logo,away_team_id,away_team_nome,away_team_logo,rod_num
+Final,192658,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,1
+Final,192659,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1
+Final,192660,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1
+Final,192661,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1
+Final,192662,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1
+Final,192663,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,1
+Final,192665,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,2
+Final,192666,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,2
+Final,192667,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,2
+Final,192668,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,2
+Final,192669,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,2
+Final,192670,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,2
+Final,192671,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,3
+Final,192672,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,3
+Final,192673,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,3
+Final,192674,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,3
+Final,192675,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,3
+Final,192676,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,3
+Final,192677,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,4
+Final,192678,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,4
+Final,192679,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,4
+Final,192680,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,4
+Final,192681,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,4
+Final,192682,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,4
+Final,192683,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,5
+Final,192684,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,5
+Final,192685,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,5
+Final,192686,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,5
+Final,192687,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,5
+Final,192688,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,5
+Final,192689,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,6
+Final,192690,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,6
+Final,192691,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,6
+Final,192692,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,6
+Final,192693,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,6
+Final,192694,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,6
+Final,192695,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,7
+Final,192696,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,7
+Final,192697,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,7
+Final,192698,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,7
+Final,192699,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,7
+Final,192700,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,7
+Final,192701,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,8
+Final,192702,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,8
+Final,192703,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,8
+Final,192704,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,8
+Final,192705,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,8
+Final,192706,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,8
+Final,192707,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,9
+Final,192708,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,9
+Final,192709,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,9
+Final,192710,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,9
+Final,192711,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,9
+Final,192712,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,9
+Final,192713,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,10
+Final,192714,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,10
+Final,192715,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,10
+Final,192716,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,10
+Final,192717,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,10
+Final,192718,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,10
+Final,192719,1390,Bangu,https://frontendapiapp.blob.core.windows.net/images/88x88/bangu.png,1005,Flamengo,https://frontendapiapp.blob.core.windows.net/images/88x88/flamengo.png,11
+Final,192720,1072,Portuguesa,https://frontendapiapp.blob.core.windows.net/images/88x88/portuguesa-rj.png,1065,Volta Redonda,https://frontendapiapp.blob.core.windows.net/images/88x88/volta-redonda.png,11
+Final,192721,1241,Boavista,https://frontendapiapp.blob.core.windows.net/images/88x88/boa-vista.png,1006,Fluminense,https://frontendapiapp.blob.core.windows.net/images/88x88/fluminense.png,11
+Final,192722,1015,Vasco,https://frontendapiapp.blob.core.windows.net/images/88x88/vasco.png,1334,Resende,https://frontendapiapp.blob.core.windows.net/images/88x88/resende.png,11
+Final,192723,1067,Nova Iguaçu,https://frontendapiapp.blob.core.windows.net/images/88x88/nova-iguacu.png,1068,Madureira,https://frontendapiapp.blob.core.windows.net/images/88x88/madureira.png,11
+Final,192724,2346,Audax,https://frontendapiapp.blob.core.windows.net/images/88x88/audax-rio.png,1003,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo.png,11

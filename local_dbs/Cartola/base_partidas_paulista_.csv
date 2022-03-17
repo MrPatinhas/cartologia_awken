@@ -1,0 +1,87 @@
+status,fix_id,home_team_id,home_team_name,home_team_logo,away_team_id,away_team_nome,away_team_logo,rod_num
+Final,192739,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,1
+Final,192740,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1
+Final,192741,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,1
+Final,192742,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1
+Final,192743,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1
+Final,192744,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1
+Final,192745,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1
+Final,192746,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,1
+Final,192747,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,2
+Final,192748,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,2
+Final,192749,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,2
+Final,192750,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,2
+Final,192751,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,2
+Final,192752,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,2
+Final,192753,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,2
+Final,192754,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,2
+Final,192755,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,3
+Final,192756,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,3
+Final,192757,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,3
+Final,192758,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,3
+Final,192759,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,3
+Final,192760,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,3
+Final,192761,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,3
+Final,192762,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,3
+Final,192763,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,4
+Final,192764,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,4
+Final,192765,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,4
+Final,192766,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,4
+Final,192767,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,4
+Final,192768,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,4
+Final,192769,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,4
+Final,192770,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,4
+Final,192771,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,5
+Final,192772,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,5
+Final,192773,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,5
+Final,192774,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,5
+Final,192775,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,5
+Final,192776,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,5
+Final,192777,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,5
+Final,192778,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,5
+Final,192779,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,6
+Final,192780,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,6
+Final,192781,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,6
+Final,192782,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,6
+Final,192784,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,6
+Final,192785,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,6
+Final,192786,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,6
+Final,192787,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,7
+Final,192788,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,7
+Final,192789,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,7
+Final,192790,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,7
+Final,192791,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,7
+Final,192792,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,7
+Final,192793,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,7
+Final,192794,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,7
+Final,192795,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,8
+Final,192796,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,8
+Final,192797,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,8
+Final,192798,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,8
+Final,192799,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,8
+Final,192800,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,8
+Final,192801,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,8
+Final,192802,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,8
+Final,192803,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,9
+Final,192804,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,9
+Final,192805,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,9
+Final,192806,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,9
+Final,192807,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,9
+Final,192808,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,9
+Final,192809,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,9
+Final,192810,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,9
+Final,192811,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,10
+Final,192812,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,10
+Final,192814,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,10
+Final,192815,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,10
+Final,192816,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,10
+Final,192817,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,10
+Final,192818,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,10
+Final,192819,1073,Inter de Limeira,https://frontendapiapp.blob.core.windows.net/images/88x88/inter-de-limeira.png,1725,São Bernardo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-bernardo.png,11
+Final,192820,1382,Botafogo,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-sp.png,2351,Novorizontino,https://frontendapiapp.blob.core.windows.net/images/88x88/novorizontino.png,11
+Final,192821,2806,Água Santa,https://frontendapiapp.blob.core.windows.net/images/88x88/agua-santa.png,1057,Santo André,https://frontendapiapp.blob.core.windows.net/images/88x88/santo-andre.png,11
+Final,192822,1069,Guarani,https://frontendapiapp.blob.core.windows.net/images/88x88/guarani.png,2043,Ferroviária,https://frontendapiapp.blob.core.windows.net/images/88x88/ferroviaria.png,11
+Final,192823,1062,Ituano,https://frontendapiapp.blob.core.windows.net/images/88x88/ituano.png,1055,Red Bull Bragantino,https://frontendapiapp.blob.core.windows.net/images/88x88/bragantino.png,11
+Final,192824,1327,Mirassol,https://frontendapiapp.blob.core.windows.net/images/88x88/mirassol.png,1007,São Paulo,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-paulo.png,11
+Final,192825,1012,Palmeiras,https://frontendapiapp.blob.core.windows.net/images/88x88/palmeiras.png,1011,Santos,https://frontendapiapp.blob.core.windows.net/images/88x88/santos.png,11
+Final,192826,1004,Corinthians,https://frontendapiapp.blob.core.windows.net/images/88x88/corinthians.png,1023,Ponte Preta,https://frontendapiapp.blob.core.windows.net/images/88x88/ponte-preta.png,11

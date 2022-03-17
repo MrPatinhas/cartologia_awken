@@ -1,0 +1,30 @@
+status,fix_id,home_team_id,home_team_name,home_team_logo,away_team_id,away_team_nome,away_team_logo,rod_num
+Final,192579,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1
+Final,192582,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1254,Caxias,https://frontendapiapp.blob.core.windows.net/images/88x88/caxias.png,1
+Final,192585,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,2763,União Frederiquense,https://frontendapiapp.blob.core.windows.net/images/88x88/uniao-frederiquense.png,2
+Final,192588,1271,Brasil de Pelotas,https://frontendapiapp.blob.core.windows.net/images/88x88/brasil-de-pelotas.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,2
+Final,192589,1248,São Luiz,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-luiz-rs.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,3
+Final,192591,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1244,Novo Hamburgo,https://frontendapiapp.blob.core.windows.net/images/88x88/novo-hamburgo.png,3
+Final,192592,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1243,São José-RS,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-jose-rs.png,3
+Final,192596,2763,União Frederiquense,https://frontendapiapp.blob.core.windows.net/images/88x88/uniao-frederiquense.png,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,4
+Final,192597,1389,Ypiranga,https://frontendapiapp.blob.core.windows.net/images/88x88/ypiranga-rs.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,4
+Final,192600,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1257,Guarany de Bagé,https://frontendapiapp.blob.core.windows.net/images/88x88/guarany-bage.png,4
+Final,192602,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1389,Ypiranga,https://frontendapiapp.blob.core.windows.net/images/88x88/ypiranga-rs.png,5
+Final,192603,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1244,Novo Hamburgo,https://frontendapiapp.blob.core.windows.net/images/88x88/novo-hamburgo.png,5
+Final,192606,2557,Aimoré,https://frontendapiapp.blob.core.windows.net/images/88x88/aimore.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,5
+Final,192609,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,6
+Final,192610,1254,Caxias,https://frontendapiapp.blob.core.windows.net/images/88x88/caxias.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,6
+Final,192613,2763,União Frederiquense,https://frontendapiapp.blob.core.windows.net/images/88x88/uniao-frederiquense.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,7
+Final,192614,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1271,Brasil de Pelotas,https://frontendapiapp.blob.core.windows.net/images/88x88/brasil-de-pelotas.png,7
+Final,192615,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1243,São José-RS,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-jose-rs.png,7
+Final,192621,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1248,São Luiz,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-luiz-rs.png,8
+Final,192622,1243,São José-RS,https://frontendapiapp.blob.core.windows.net/images/88x88/sao-jose-rs.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,8
+Final,192624,2557,Aimoré,https://frontendapiapp.blob.core.windows.net/images/88x88/aimore.png,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,8
+Final,192625,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,9
+Final,192628,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1254,Caxias,https://frontendapiapp.blob.core.windows.net/images/88x88/caxias.png,9
+Final,192632,1244,Novo Hamburgo,https://frontendapiapp.blob.core.windows.net/images/88x88/novo-hamburgo.png,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,10
+Final,192633,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,2557,Aimoré,https://frontendapiapp.blob.core.windows.net/images/88x88/aimore.png,10
+Final,192636,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,1257,Guarany de Bagé,https://frontendapiapp.blob.core.windows.net/images/88x88/guarany-bage.png,10
+Final,192637,1083,Grêmio,https://frontendapiapp.blob.core.windows.net/images/88x88/gremio.png,1389,Ypiranga,https://frontendapiapp.blob.core.windows.net/images/88x88/ypiranga-rs.png,11
+Final,192638,1257,Guarany de Bagé,https://frontendapiapp.blob.core.windows.net/images/88x88/guarany-bage.png,1018,Internacional,https://frontendapiapp.blob.core.windows.net/images/88x88/internacional.png,11
+Final,192641,1271,Brasil de Pelotas,https://frontendapiapp.blob.core.windows.net/images/88x88/brasil-de-pelotas.png,1019,Juventude,https://frontendapiapp.blob.core.windows.net/images/88x88/juventude.png,11

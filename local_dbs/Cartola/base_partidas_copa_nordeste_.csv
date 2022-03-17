@@ -1,0 +1,57 @@
+status,fix_id,home_team_id,home_team_name,home_team_logo,away_team_id,away_team_nome,away_team_logo,rod_num
+Final,193024,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,1
+Final,193025,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1
+Final,193026,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,1
+Final,193027,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,1
+Final,193028,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,1
+Final,193029,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,1
+Final,193030,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,1
+Final,193031,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,1
+Final,193056,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,2
+Final,193057,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,2
+Final,193058,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,2
+Final,193059,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,2
+Final,193060,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,2
+Final,193061,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,2
+Final,193062,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,2
+Final,193063,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,2
+Final,193064,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,3
+Final,193065,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,3
+Final,193066,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,3
+Final,193067,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,3
+Final,193068,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,3
+Final,193069,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,3
+Final,193070,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,3
+Final,193071,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,3
+Final,193072,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,4
+Final,193073,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,4
+Final,193074,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,4
+Final,193075,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,4
+Final,193076,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,4
+Final,193077,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,4
+Final,193078,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,4
+Final,193080,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,4
+Final,193079,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,5
+Final,193081,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,5
+Final,193083,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,5
+Final,193084,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,5
+Final,193085,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,5
+Final,193086,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,5
+Final,193087,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,5
+Final,193088,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,5
+Final,193089,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,6
+Final,193090,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,6
+Final,193091,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,6
+Final,193092,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,6
+Final,193093,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,6
+Final,193094,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,6
+Final,193095,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,6
+Final,193096,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,6
+Final,193097,1222,Náutico,https://frontendapiapp.blob.core.windows.net/images/88x88/nautico.png,1086,Sergipe,https://frontendapiapp.blob.core.windows.net/images/88x88/sergipe.png,7
+Final,193098,1307,CRB,https://frontendapiapp.blob.core.windows.net/images/88x88/crb.png,1540,Sampaio Corrêa,https://frontendapiapp.blob.core.windows.net/images/88x88/sampaio-correa.png,7
+Final,193099,1297,Ceará,https://frontendapiapp.blob.core.windows.net/images/88x88/ceara.png,1412,CSA,https://frontendapiapp.blob.core.windows.net/images/88x88/csa.png,7
+Final,193100,3174,Floresta,https://frontendapiapp.blob.core.windows.net/images/88x88/floresta.png,2142,Atlético de Alagoinhas,https://frontendapiapp.blob.core.windows.net/images/88x88/alagoinhas.png,7
+Final,193101,2972,Altos-PI,https://frontendapiapp.blob.core.windows.net/images/88x88/altos-fc.png,1024,Fortaleza,https://frontendapiapp.blob.core.windows.net/images/88x88/fortaleza.png,7
+Final,193102,1250,Bahia,https://frontendapiapp.blob.core.windows.net/images/88x88/bahia.png,1172,Sport,https://frontendapiapp.blob.core.windows.net/images/88x88/sport.png,7
+Final,193103,1074,Botafogo-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/botafogo-pb.png,1411,Campinense,https://frontendapiapp.blob.core.windows.net/images/88x88/campinense.png,7
+Final,193104,1532,Sousa-PB,https://frontendapiapp.blob.core.windows.net/images/88x88/sousa.png,2574,Globo,https://frontendapiapp.blob.core.windows.net/images/88x88/globo_fc.png,7

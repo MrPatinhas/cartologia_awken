@@ -1,127 +1,127 @@
 ,fix_id,stat,local,team_id,team_name,logo,value
-0,719574,form,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,71.0
-1,719574,form,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,29.0
-2,719574,att,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,88.0
-3,719574,att,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,12.0
-4,719574,def,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,47.0
-5,719574,def,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,53.0
-6,719574,poisson_distribution,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,72.0
-7,719574,poisson_distribution,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,28.0
-8,719574,h2h,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,100.0
-9,719574,h2h,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,0.0
-10,719574,goals,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,89.0
-11,719574,goals,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,11.0
-12,719574,total,home,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,73.4
-13,719574,total,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,26.6
-0,719575,form,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,43.0
-1,719575,form,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,57.0
-2,719575,att,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,47.0
-3,719575,att,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,53.0
-4,719575,def,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,46.0
-5,719575,def,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,54.0
-6,719575,poisson_distribution,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,65.0
-7,719575,poisson_distribution,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,35.0
-8,719575,h2h,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,75.0
-9,719575,h2h,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,25.0
-10,719575,goals,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,78.0
-11,719575,goals,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,22.0
-12,719575,total,home,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,59.0
-13,719575,total,away,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,41.0
-0,719576,form,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,59.0
-1,719576,form,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,41.0
-2,719576,att,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,79.0
-3,719576,att,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,21.0
-4,719576,def,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,38.0
-5,719576,def,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,62.0
-6,719576,poisson_distribution,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,65.0
-7,719576,poisson_distribution,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,35.0
-8,719576,h2h,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,71.0
-9,719576,h2h,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,29.0
-10,719576,goals,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,71.0
-11,719576,goals,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,29.0
-12,719576,total,home,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,63.8
-13,719576,total,away,192,FC Koln,https://media.api-sports.io/football/teams/192.png,36.2
-0,719577,form,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,43.0
-1,719577,form,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,57.0
-2,719577,att,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,25.0
-3,719577,att,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,75.0
-4,719577,def,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,60.0
-5,719577,def,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,40.0
-6,719577,poisson_distribution,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,69.0
-7,719577,poisson_distribution,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,31.0
-8,719577,h2h,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,64.0
-9,719577,h2h,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,36.0
-10,719577,goals,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,54.0
-11,719577,goals,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,46.0
-12,719577,total,home,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,52.5
-13,719577,total,away,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,47.5
-0,719578,form,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,83.0
-1,719578,form,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,17.0
-2,719578,att,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,67.0
-3,719578,att,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,33.0
-4,719578,def,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,53.0
-5,719578,def,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,47.0
-6,719578,poisson_distribution,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,72.0
-7,719578,poisson_distribution,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,28.0
-8,719578,h2h,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,50.0
-9,719578,h2h,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,50.0
-10,719578,goals,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,50.0
-11,719578,goals,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,50.0
-12,719578,total,home,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,62.5
-13,719578,total,away,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,37.5
-0,719579,form,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,44.0
-1,719579,form,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,56.0
-2,719579,att,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,41.0
-3,719579,att,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,59.0
-4,719579,def,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,56.0
-5,719579,def,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,44.0
-6,719579,poisson_distribution,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,67.0
-7,719579,poisson_distribution,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,33.0
-8,719579,h2h,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,62.0
-9,719579,h2h,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,38.0
-10,719579,goals,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,50.0
-11,719579,goals,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,50.0
-12,719579,total,home,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,53.3
-13,719579,total,away,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,46.7
-0,719580,form,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,55.0
-1,719580,form,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,45.0
-2,719580,att,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,39.0
-3,719580,att,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,61.0
-4,719580,def,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,67.0
-5,719580,def,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,33.0
-6,719580,poisson_distribution,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,38.0
-7,719580,poisson_distribution,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,62.0
-8,719580,h2h,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,20.0
-9,719580,h2h,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,80.0
-10,719580,goals,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,30.0
-11,719580,goals,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,70.0
-12,719580,total,home,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,41.5
-13,719580,total,away,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,58.5
-0,719581,form,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,50.0
-1,719581,form,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,50.0
-2,719581,att,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,47.0
-3,719581,att,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,53.0
-4,719581,def,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,57.0
-5,719581,def,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,43.0
-6,719581,poisson_distribution,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,57.0
-7,719581,poisson_distribution,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,43.0
-8,719581,h2h,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,80.0
-9,719581,h2h,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,20.0
-10,719581,goals,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,57.0
-11,719581,goals,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,43.0
-12,719581,total,home,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,58.0
-13,719581,total,away,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,42.0
-0,719582,form,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,29.0
-1,719582,form,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,71.0
-2,719582,att,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,32.0
-3,719582,att,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,68.0
-4,719582,def,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,33.0
-5,719582,def,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,67.0
-6,719582,poisson_distribution,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,30.0
-7,719582,poisson_distribution,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,70.0
-8,719582,h2h,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,7.0
-9,719582,h2h,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,93.0
-10,719582,goals,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,27.0
-11,719582,goals,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,73.0
-12,719582,total,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,26.3
-13,719582,total,away,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,73.7
+0,719583,form,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,67.0
+1,719583,form,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,33.0
+2,719583,att,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,69.0
+3,719583,att,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,31.0
+4,719583,def,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,50.0
+5,719583,def,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,50.0
+6,719583,poisson_distribution,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,76.0
+7,719583,poisson_distribution,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,24.0
+8,719583,h2h,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,85.0
+9,719583,h2h,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,15.0
+10,719583,goals,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,69.0
+11,719583,goals,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,31.0
+12,719583,total,home,157,Bayern Munich,https://media.api-sports.io/football/teams/157.png,69.3
+13,719583,total,away,182,Union Berlin,https://media.api-sports.io/football/teams/182.png,30.7
+0,719584,form,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,68.0
+1,719584,form,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,32.0
+2,719584,att,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,74.0
+3,719584,att,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,26.0
+4,719584,def,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,60.0
+5,719584,def,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,40.0
+6,719584,poisson_distribution,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,62.0
+7,719584,poisson_distribution,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,38.0
+8,719584,h2h,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,25.0
+9,719584,h2h,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,75.0
+10,719584,goals,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,33.0
+11,719584,goals,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,67.0
+12,719584,total,home,173,RB Leipzig,https://media.api-sports.io/football/teams/173.png,53.7
+13,719584,total,away,169,Eintracht Frankfurt,https://media.api-sports.io/football/teams/169.png,46.3
+0,719585,form,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,50.0
+1,719585,form,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,50.0
+2,719585,att,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,44.0
+3,719585,att,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,56.0
+4,719585,def,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,50.0
+5,719585,def,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,50.0
+6,719585,poisson_distribution,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,30.0
+7,719585,poisson_distribution,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,70.0
+8,719585,h2h,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,71.0
+9,719585,h2h,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,29.0
+10,719585,goals,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,70.0
+11,719585,goals,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,30.0
+12,719585,total,home,161,VfL Wolfsburg,https://media.api-sports.io/football/teams/161.png,52.5
+13,719585,total,away,168,Bayer Leverkusen,https://media.api-sports.io/football/teams/168.png,47.5
+0,719586,form,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,42.0
+1,719586,form,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,58.0
+2,719586,att,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,53.0
+3,719586,att,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,47.0
+4,719586,def,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,38.0
+5,719586,def,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,63.0
+6,719586,poisson_distribution,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,58.0
+7,719586,poisson_distribution,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,42.0
+8,719586,h2h,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,60.0
+9,719586,h2h,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,40.0
+10,719586,goals,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,40.0
+11,719586,goals,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,60.0
+12,719586,total,home,172,VfB Stuttgart,https://media.api-sports.io/football/teams/172.png,48.5
+13,719586,total,away,170,FC Augsburg,https://media.api-sports.io/football/teams/170.png,51.7
+0,719587,form,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,70.0
+1,719587,form,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,30.0
+2,719587,att,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,89.0
+3,719587,att,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,11.0
+4,719587,def,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,47.0
+5,719587,def,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,53.0
+6,719587,poisson_distribution,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,81.0
+7,719587,poisson_distribution,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,19.0
+8,719587,h2h,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,64.0
+9,719587,h2h,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,36.0
+10,719587,goals,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,54.0
+11,719587,goals,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,46.0
+12,719587,total,home,164,FSV Mainz 05,https://media.api-sports.io/football/teams/164.png,67.5
+13,719587,total,away,188,Arminia Bielefeld,https://media.api-sports.io/football/teams/188.png,32.5
+0,719588,form,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,0.0
+1,719588,form,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,100.0
+2,719588,att,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,27.0
+3,719588,att,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,73.0
+4,719588,def,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,15.0
+5,719588,def,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,85.0
+6,719588,poisson_distribution,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,34.0
+7,719588,poisson_distribution,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,66.0
+8,719588,h2h,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,20.0
+9,719588,h2h,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,80.0
+10,719588,goals,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,38.0
+11,719588,goals,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,63.0
+12,719588,total,home,159,Hertha Berlin,https://media.api-sports.io/football/teams/159.png,26.8
+13,719588,total,away,167,1899 Hoffenheim,https://media.api-sports.io/football/teams/167.png,73.4
+0,719589,form,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,41.0
+1,719589,form,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,59.0
+2,719589,att,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,24.0
+3,719589,att,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,76.0
+4,719589,def,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,55.0
+5,719589,def,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,45.0
+6,719589,poisson_distribution,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,42.0
+7,719589,poisson_distribution,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,58.0
+8,719589,h2h,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,29.0
+9,719589,h2h,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,71.0
+10,719589,goals,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,32.0
+11,719589,goals,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,68.0
+12,719589,total,home,192,FC Koln,https://media.api-sports.io/football/teams/192.png,37.2
+13,719589,total,away,165,Borussia Dortmund,https://media.api-sports.io/football/teams/165.png,62.8
+0,719590,form,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,50.0
+1,719590,form,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,50.0
+2,719590,att,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,47.0
+3,719590,att,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,53.0
+4,719590,def,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,65.0
+5,719590,def,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,35.0
+6,719590,poisson_distribution,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,73.0
+7,719590,poisson_distribution,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,27.0
+8,719590,h2h,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,0.0
+9,719590,h2h,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,100.0
+10,719590,goals,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,33.0
+11,719590,goals,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,67.0
+12,719590,total,home,176,VfL BOCHUM,https://media.api-sports.io/football/teams/176.png,53.6
+13,719590,total,away,163,Borussia Monchengladbach,https://media.api-sports.io/football/teams/163.png,46.4
+0,719591,form,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,27.0
+1,719591,form,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,73.0
+2,719591,att,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,38.0
+3,719591,att,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,63.0
+4,719591,def,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,26.0
+5,719591,def,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,74.0
+6,719591,poisson_distribution,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,24.0
+7,719591,poisson_distribution,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,76.0
+8,719591,h2h,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,0.0
+9,719591,h2h,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,100.0
+10,719591,goals,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,30.0
+11,719591,goals,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,70.0
+12,719591,total,home,178,SpVgg Greuther Furth,https://media.api-sports.io/football/teams/178.png,29.0
+13,719591,total,away,160,SC Freiburg,https://media.api-sports.io/football/teams/160.png,71.2

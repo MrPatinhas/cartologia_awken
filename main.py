@@ -116,23 +116,23 @@ c4.write("Youtube: https://www.youtube.com/channel/UCgwkcq7yeW1mOXdNXhszmOg")
 
 main_parameters_dict = dict({
      'Premier League (ENG)':{
-         "rodada_atual": 29,
+         "rodada_atual": 30,
          "country_name": "England"
      },
      'Serie A (ITA)':{
-         "rodada_atual": 29,
+         "rodada_atual": 30,
          "country_name": "Italy"
      },
      'Bundesliga (GER)':{
-         "rodada_atual": 26,
+         "rodada_atual": 27,
          "country_name": "Germany"
      },
      'La Liga (SPA)':{
-         "rodada_atual": 28,
+         "rodada_atual": 29,
          "country_name": "Spain"
      },
      'Paulistao (BRA)':{
-         "rodada_atual": 11,
+         "rodada_atual": 12,
          "country_name": "Paulista"
      },
 
