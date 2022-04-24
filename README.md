@@ -1,4 +1,4 @@
-# cartologia_awken
+# Cartologia - European Leagues Edition
 Soccer Analysis Portal for main european leagues
 
 Welcome ! This is a project dedicated for the visualization of soccer KPIs from clubs in the main european leagues. The project can be defined in a ETL configuration as:
