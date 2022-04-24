@@ -152,7 +152,7 @@ def load_data(rodada_atual_, country_of_league, year):
     dataframe_player = get_datatframe_player_quantile(df_data)
     team_table = df_data[['home_team_id','home_team_nome']].drop_duplicates(keep='first')
 
-    if((country_of_league=='England') or (country_of_league=='Italy') or (country_of_league=='Germany')):
+    if((country_of_league=='England') or (country_of_league=='Italy') or (country_of_league=='Spain') or (country_of_league=='Germany')):
         stream.session_state['flag_understat'] = True
     else:
         stream.session_state['flag_understat'] = False
@@ -275,7 +275,7 @@ if(stream.session_state['league_decision'] == 'DEFINED'):
 
         cb1.bokeh_chart(p5)
 
-        if((country_of_league=='England') or (country_of_league=='Italy') or (country_of_league=='Germany')):
+        if((country_of_league=='England') or (country_of_league=='Italy') or (country_of_league=='Spain') or (country_of_league=='Germany')):
 
             cb3.markdown("##### Corner Masters | {}".format(team_selector))
             cb3.write("""
