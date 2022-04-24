@@ -14075,3 +14075,3403 @@ fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_na
 193104,25,Cartões amarelos,Marcelo Duarte,1532,1,0,Sousa-PB
 193104,25,Cartões amarelos,Eduardo Bahia,2574,1,0,Globo
 193104,25,Cartões amarelos,Hudson,2574,1,0,Globo
+193105,2,Passes,Brayan Ceballos,1024,19,0,Fortaleza
+193105,2,Passes,José Welison,1024,24,0,Fortaleza
+193105,2,Passes,Juninho Capixaba,1024,13,1,Fortaleza
+193105,2,Passes,Landazuri,1024,6,0,Fortaleza
+193105,2,Passes,Lucas Crispim,1024,21,1,Fortaleza
+193105,2,Passes,Lucas Lima,1024,18,4,Fortaleza
+193105,2,Passes,Marcelo Benevenuto,1024,24,1,Fortaleza
+193105,2,Passes,Matheus Vargas,1024,9,0,Fortaleza
+193105,2,Passes,Max Walef,1024,9,0,Fortaleza
+193105,2,Passes,Renato Kayzer,1024,3,3,Fortaleza
+193105,2,Passes,Robson Fernandes,1024,4,2,Fortaleza
+193105,2,Passes,Romarinho,1024,11,2,Fortaleza
+193105,2,Passes,Ronald,1024,33,2,Fortaleza
+193105,2,Passes,Silvio Romero,1024,12,4,Fortaleza
+193105,2,Passes,Tinga,1024,26,6,Fortaleza
+193105,2,Passes,Yago Pikachu,1024,26,3,Fortaleza
+193105,2,Passes,Bryan,1307,31,3,CRB
+193105,2,Passes,Diego Ivo,1307,10,0,CRB
+193105,2,Passes,Diego Torres,1307,27,1,CRB
+193105,2,Passes,Diogo Silva,1307,14,0,CRB
+193105,2,Passes,Gilvan,1307,30,0,CRB
+193105,2,Passes,Gum,1307,21,2,CRB
+193105,2,Passes,Iago Mendonça,1307,15,1,CRB
+193105,2,Passes,Jalysson Gabriel,1307,7,2,CRB
+193105,2,Passes,Marcinho,1307,18,4,CRB
+193105,2,Passes,Rafael Longuine,1307,8,0,CRB
+193105,2,Passes,Raul Prata,1307,24,3,CRB
+193105,2,Passes,Reginaldo,1307,40,3,CRB
+193105,2,Passes,Richard,1307,11,2,CRB
+193105,2,Passes,Wallace,1307,15,1,CRB
+193105,2,Passes,Wellington Carvalho,1307,6,0,CRB
+193105,2,Passes,Yago,1307,26,4,CRB
+193105,3,Finalizações,Brayan Ceballos,1024,1,0,Fortaleza
+193105,3,Finalizações,José Welison,1024,1,1,Fortaleza
+193105,3,Finalizações,Lucas Crispim,1024,1,0,Fortaleza
+193105,3,Finalizações,Marcelo Benevenuto,1024,0,2,Fortaleza
+193105,3,Finalizações,Renato Kayzer,1024,0,1,Fortaleza
+193105,3,Finalizações,Robson Fernandes,1024,1,0,Fortaleza
+193105,3,Finalizações,Romarinho,1024,0,2,Fortaleza
+193105,3,Finalizações,Ronald,1024,0,1,Fortaleza
+193105,3,Finalizações,Silvio Romero,1024,1,0,Fortaleza
+193105,3,Finalizações,Tinga,1024,1,0,Fortaleza
+193105,3,Finalizações,Yago Pikachu,1024,0,1,Fortaleza
+193105,3,Finalizações,Bryan,1307,0,1,CRB
+193105,3,Finalizações,Diego Torres,1307,0,2,CRB
+193105,3,Finalizações,Gilvan,1307,1,0,CRB
+193105,3,Finalizações,Reginaldo,1307,0,1,CRB
+193105,3,Finalizações,Richard,1307,1,0,CRB
+193105,3,Finalizações,Wallace,1307,1,0,CRB
+193105,3,Finalizações,Yago,1307,0,1,CRB
+193105,5,Desarmes,Brayan Ceballos,1024,1,0,Fortaleza
+193105,5,Desarmes,Juninho Capixaba,1024,1,1,Fortaleza
+193105,5,Desarmes,Lucas Crispim,1024,2,0,Fortaleza
+193105,5,Desarmes,Lucas Lima,1024,2,0,Fortaleza
+193105,5,Desarmes,Marcelo Benevenuto,1024,1,0,Fortaleza
+193105,5,Desarmes,Romarinho,1024,1,0,Fortaleza
+193105,5,Desarmes,Ronald,1024,1,0,Fortaleza
+193105,5,Desarmes,Tinga,1024,0,1,Fortaleza
+193105,5,Desarmes,Yago Pikachu,1024,0,1,Fortaleza
+193105,5,Desarmes,Iago Mendonça,1307,1,0,CRB
+193105,5,Desarmes,Jalysson Gabriel,1307,1,0,CRB
+193105,5,Desarmes,Marcinho,1307,2,0,CRB
+193105,5,Desarmes,Raul Prata,1307,1,0,CRB
+193105,5,Desarmes,Reginaldo,1307,1,0,CRB
+193105,5,Desarmes,Yago,1307,1,0,CRB
+193105,14,Cruzamentos,Juninho Capixaba,1024,1,0,Fortaleza
+193105,14,Cruzamentos,Lucas Crispim,1024,3,1,Fortaleza
+193105,14,Cruzamentos,Lucas Lima,1024,0,1,Fortaleza
+193105,14,Cruzamentos,Ronald,1024,0,2,Fortaleza
+193105,14,Cruzamentos,Tinga,1024,0,1,Fortaleza
+193105,14,Cruzamentos,Yago Pikachu,1024,0,4,Fortaleza
+193105,14,Cruzamentos,Diego Torres,1307,1,3,CRB
+193105,14,Cruzamentos,Marcinho,1307,0,1,CRB
+193105,14,Cruzamentos,Rafael Longuine,1307,0,5,CRB
+193105,14,Cruzamentos,Raul Prata,1307,1,1,CRB
+193105,14,Cruzamentos,Reginaldo,1307,1,1,CRB
+193105,14,Cruzamentos,Richard,1307,0,1,CRB
+193105,14,Cruzamentos,Wallace,1307,0,1,CRB
+193105,1,Lançamentos,Brayan Ceballos,1024,2,2,Fortaleza
+193105,1,Lançamentos,José Welison,1024,0,1,Fortaleza
+193105,1,Lançamentos,Lucas Lima,1024,0,1,Fortaleza
+193105,1,Lançamentos,Marcelo Benevenuto,1024,4,1,Fortaleza
+193105,1,Lançamentos,Matheus Vargas,1024,3,0,Fortaleza
+193105,1,Lançamentos,Max Walef,1024,7,3,Fortaleza
+193105,1,Lançamentos,Romarinho,1024,1,0,Fortaleza
+193105,1,Lançamentos,Ronald,1024,2,0,Fortaleza
+193105,1,Lançamentos,Tinga,1024,4,2,Fortaleza
+193105,1,Lançamentos,Yago Pikachu,1024,1,1,Fortaleza
+193105,1,Lançamentos,Bryan,1307,1,1,CRB
+193105,1,Lançamentos,Diogo Silva,1307,0,8,CRB
+193105,1,Lançamentos,Gilvan,1307,0,2,CRB
+193105,1,Lançamentos,Gum,1307,1,2,CRB
+193105,1,Lançamentos,Iago Mendonça,1307,0,1,CRB
+193105,1,Lançamentos,Marcinho,1307,1,0,CRB
+193105,1,Lançamentos,Raul Prata,1307,0,1,CRB
+193105,1,Lançamentos,Yago,1307,0,3,CRB
+193105,24,Interceptações,Marcelo Benevenuto,1024,1,0,Fortaleza
+193105,24,Interceptações,Matheus Vargas,1024,1,0,Fortaleza
+193105,24,Interceptações,Diego Ivo,1307,1,0,CRB
+193105,24,Interceptações,Reginaldo,1307,1,0,CRB
+193105,4,Dribles,Matheus Vargas,1024,1,0,Fortaleza
+193105,4,Dribles,Romarinho,1024,1,0,Fortaleza
+193105,4,Dribles,Ronald,1024,0,1,Fortaleza
+193105,4,Dribles,Silvio Romero,1024,1,0,Fortaleza
+193105,4,Dribles,Yago Pikachu,1024,0,1,Fortaleza
+193105,4,Dribles,Bryan,1307,1,0,CRB
+193105,4,Dribles,Gilvan,1307,1,0,CRB
+193105,4,Dribles,Marcinho,1307,0,1,CRB
+193105,22,Viradas de jogo,Juninho Capixaba,1024,1,0,Fortaleza
+193105,22,Viradas de jogo,Ronald,1024,1,0,Fortaleza
+193105,22,Viradas de jogo,Tinga,1024,0,1,Fortaleza
+193105,20,Posse de bola,Brayan Ceballos,1024,73,0,Fortaleza
+193105,20,Posse de bola,José Welison,1024,69,0,Fortaleza
+193105,20,Posse de bola,Juninho Capixaba,1024,42,0,Fortaleza
+193105,20,Posse de bola,Landazuri,1024,12,0,Fortaleza
+193105,20,Posse de bola,Lucas Crispim,1024,84,0,Fortaleza
+193105,20,Posse de bola,Lucas Lima,1024,77,0,Fortaleza
+193105,20,Posse de bola,Marcelo Benevenuto,1024,97,0,Fortaleza
+193105,20,Posse de bola,Matheus Vargas,1024,30,0,Fortaleza
+193105,20,Posse de bola,Max Walef,1024,79,0,Fortaleza
+193105,20,Posse de bola,Renato Kayzer,1024,26,0,Fortaleza
+193105,20,Posse de bola,Robson Fernandes,1024,23,0,Fortaleza
+193105,20,Posse de bola,Romarinho,1024,46,0,Fortaleza
+193105,20,Posse de bola,Ronald,1024,104,0,Fortaleza
+193105,20,Posse de bola,Silvio Romero,1024,43,0,Fortaleza
+193105,20,Posse de bola,Tinga,1024,123,0,Fortaleza
+193105,20,Posse de bola,Yago Pikachu,1024,94,0,Fortaleza
+193105,20,Posse de bola,Bryan,1307,106,0,CRB
+193105,20,Posse de bola,Diego Ivo,1307,30,0,CRB
+193105,20,Posse de bola,Diego Torres,1307,80,0,CRB
+193105,20,Posse de bola,Diogo Silva,1307,116,0,CRB
+193105,20,Posse de bola,Gilvan,1307,93,0,CRB
+193105,20,Posse de bola,Gum,1307,63,0,CRB
+193105,20,Posse de bola,Iago Mendonça,1307,59,0,CRB
+193105,20,Posse de bola,Jalysson Gabriel,1307,24,0,CRB
+193105,20,Posse de bola,Marcinho,1307,93,0,CRB
+193105,20,Posse de bola,Rafael Longuine,1307,32,0,CRB
+193105,20,Posse de bola,Raul Prata,1307,73,0,CRB
+193105,20,Posse de bola,Reginaldo,1307,122,0,CRB
+193105,20,Posse de bola,Richard,1307,51,0,CRB
+193105,20,Posse de bola,Wallace,1307,46,0,CRB
+193105,20,Posse de bola,Wellington Carvalho,1307,12,0,CRB
+193105,20,Posse de bola,Yago,1307,82,0,CRB
+193105,8,Gols,José Welison,1024,1,0,Fortaleza
+193105,8,Gols,Tinga,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Brayan Ceballos,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Juninho Capixaba,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Lucas Crispim,1024,3,0,Fortaleza
+193105,28,Assistências para finalização,Max Walef,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Ronald,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Tinga,1024,2,0,Fortaleza
+193105,28,Assistências para finalização,Yago Pikachu,1024,1,0,Fortaleza
+193105,28,Assistências para finalização,Diego Torres,1307,1,0,CRB
+193105,28,Assistências para finalização,Marcinho,1307,1,0,CRB
+193105,28,Assistências para finalização,Rafael Longuine,1307,1,0,CRB
+193105,28,Assistências para finalização,Raul Prata,1307,2,0,CRB
+193105,28,Assistências para finalização,Reginaldo,1307,1,0,CRB
+193105,28,Assistências para finalização,Richard,1307,1,0,CRB
+193105,15,Defesas,Max Walef,1024,2,0,Fortaleza
+193105,15,Defesas,Diogo Silva,1307,4,0,CRB
+193105,15,Defesas,Gum,1307,1,0,CRB
+193105,23,Defesas difíceis,Max Walef,1024,1,0,Fortaleza
+193105,19,Rebatidas,Brayan Ceballos,1024,5,0,Fortaleza
+193105,19,Rebatidas,José Welison,1024,1,0,Fortaleza
+193105,19,Rebatidas,Lucas Crispim,1024,3,0,Fortaleza
+193105,19,Rebatidas,Lucas Lima,1024,1,0,Fortaleza
+193105,19,Rebatidas,Marcelo Benevenuto,1024,8,0,Fortaleza
+193105,19,Rebatidas,Renato Kayzer,1024,1,0,Fortaleza
+193105,19,Rebatidas,Robson Fernandes,1024,1,0,Fortaleza
+193105,19,Rebatidas,Ronald,1024,1,0,Fortaleza
+193105,19,Rebatidas,Tinga,1024,5,0,Fortaleza
+193105,19,Rebatidas,Bryan,1307,5,0,CRB
+193105,19,Rebatidas,Diego Ivo,1307,3,0,CRB
+193105,19,Rebatidas,Gilvan,1307,6,0,CRB
+193105,19,Rebatidas,Iago Mendonça,1307,7,0,CRB
+193105,19,Rebatidas,Reginaldo,1307,1,0,CRB
+193105,19,Rebatidas,Richard,1307,1,0,CRB
+193105,19,Rebatidas,Yago,1307,1,0,CRB
+193105,6,Faltas cometidas,Brayan Ceballos,1024,2,0,Fortaleza
+193105,6,Faltas cometidas,Lucas Lima,1024,1,0,Fortaleza
+193105,6,Faltas cometidas,Marcelo Benevenuto,1024,1,0,Fortaleza
+193105,6,Faltas cometidas,Matheus Vargas,1024,1,0,Fortaleza
+193105,6,Faltas cometidas,Renato Kayzer,1024,3,0,Fortaleza
+193105,6,Faltas cometidas,Ronald,1024,3,0,Fortaleza
+193105,6,Faltas cometidas,Tinga,1024,2,0,Fortaleza
+193105,6,Faltas cometidas,Yago Pikachu,1024,1,0,Fortaleza
+193105,6,Faltas cometidas,Bryan,1307,1,0,CRB
+193105,6,Faltas cometidas,Diego Torres,1307,1,0,CRB
+193105,6,Faltas cometidas,Gilvan,1307,1,0,CRB
+193105,6,Faltas cometidas,Jalysson Gabriel,1307,1,0,CRB
+193105,6,Faltas cometidas,Marcinho,1307,3,0,CRB
+193105,6,Faltas cometidas,Wallace,1307,1,0,CRB
+193105,7,Faltas sofridas,José Welison,1024,2,0,Fortaleza
+193105,7,Faltas sofridas,Juninho Capixaba,1024,1,0,Fortaleza
+193105,7,Faltas sofridas,Marcelo Benevenuto,1024,1,0,Fortaleza
+193105,7,Faltas sofridas,Renato Kayzer,1024,1,0,Fortaleza
+193105,7,Faltas sofridas,Ronald,1024,1,0,Fortaleza
+193105,7,Faltas sofridas,Yago Pikachu,1024,2,0,Fortaleza
+193105,7,Faltas sofridas,Bryan,1307,2,0,CRB
+193105,7,Faltas sofridas,Diego Ivo,1307,1,0,CRB
+193105,7,Faltas sofridas,Diego Torres,1307,1,0,CRB
+193105,7,Faltas sofridas,Marcinho,1307,1,0,CRB
+193105,7,Faltas sofridas,Raul Prata,1307,1,0,CRB
+193105,7,Faltas sofridas,Reginaldo,1307,3,0,CRB
+193105,7,Faltas sofridas,Richard,1307,2,0,CRB
+193105,7,Faltas sofridas,Wallace,1307,1,0,CRB
+193105,7,Faltas sofridas,Yago,1307,2,0,CRB
+193105,9,Impedimentos,Juninho Capixaba,1024,1,0,Fortaleza
+193105,9,Impedimentos,Yago Pikachu,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Brayan Ceballos,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,José Welison,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Lucas Crispim,1024,2,0,Fortaleza
+193105,12,Perda da posse de bola,Lucas Lima,1024,4,0,Fortaleza
+193105,12,Perda da posse de bola,Renato Kayzer,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Robson Fernandes,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Romarinho,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Ronald,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Tinga,1024,1,0,Fortaleza
+193105,12,Perda da posse de bola,Bryan,1307,1,0,CRB
+193105,12,Perda da posse de bola,Diego Torres,1307,2,0,CRB
+193105,12,Perda da posse de bola,Gilvan,1307,1,0,CRB
+193105,12,Perda da posse de bola,Marcinho,1307,6,0,CRB
+193105,12,Perda da posse de bola,Raul Prata,1307,1,0,CRB
+193105,12,Perda da posse de bola,Reginaldo,1307,1,0,CRB
+193105,12,Perda da posse de bola,Richard,1307,4,0,CRB
+193105,12,Perda da posse de bola,Yago,1307,1,0,CRB
+193105,25,Cartões amarelos,Renato Kayzer,1024,1,0,Fortaleza
+193105,25,Cartões amarelos,Tinga,1024,1,0,Fortaleza
+193105,25,Cartões amarelos,Diego Ivo,1307,1,0,CRB
+193105,26,Cartões vermelhos,Juninho Capixaba,1024,1,0,Fortaleza
+193105,26,Cartões vermelhos,Gilvan,1307,1,0,CRB
+193106,2,Passes,Blas Cáceres,1172,9,2,Sport
+193106,2,Passes,Bruno Matias,1172,63,2,Sport
+193106,2,Passes,Búfalo Parraguez,1172,11,5,Sport
+193106,2,Passes,Chico,1172,18,0,Sport
+193106,2,Passes,Denner,1172,15,3,Sport
+193106,2,Passes,Ewerthon,1172,52,4,Sport
+193106,2,Passes,Flávio Souza,1172,2,0,Sport
+193106,2,Passes,Jaderson,1172,6,5,Sport
+193106,2,Passes,Luciano Juba,1172,24,2,Sport
+193106,2,Passes,Maílson,1172,25,0,Sport
+193106,2,Passes,Rafael Thyere,1172,109,2,Sport
+193106,2,Passes,Ray Venegas,1172,10,0,Sport
+193106,2,Passes,Ronaldo,1172,33,0,Sport
+193106,2,Passes,Sabino,1172,77,4,Sport
+193106,2,Passes,Sander,1172,41,3,Sport
+193106,2,Passes,William Oliveira,1172,31,1,Sport
+193106,2,Passes,Brandão,3174,11,1,Floresta
+193106,2,Passes,Dudu,3174,10,2,Floresta
+193106,2,Passes,Fábio Alves,3174,50,6,Floresta
+193106,2,Passes,Iarley,3174,6,0,Floresta
+193106,2,Passes,Igor Oliveira,3174,13,3,Floresta
+193106,2,Passes,Jô,3174,53,3,Floresta
+193106,2,Passes,Lincoln ,3174,10,0,Floresta
+193106,2,Passes,Maílson,3174,48,1,Floresta
+193106,2,Passes,Marcão,3174,17,0,Floresta
+193106,2,Passes,Max Oliveira,3174,44,2,Floresta
+193106,2,Passes,Paulo Vyctor,3174,16,2,Floresta
+193106,2,Passes,Pedro Igor,3174,8,2,Floresta
+193106,2,Passes,Rafael Lopes,3174,6,1,Floresta
+193106,2,Passes,Rendell Venancio,3174,19,1,Floresta
+193106,2,Passes,Thalisson,3174,27,1,Floresta
+193106,2,Passes,Yago Rocha,3174,47,7,Floresta
+193106,3,Finalizações,Búfalo Parraguez,1172,1,0,Sport
+193106,3,Finalizações,Ewerthon,1172,0,3,Sport
+193106,3,Finalizações,Luciano Juba,1172,2,2,Sport
+193106,3,Finalizações,Ray Venegas,1172,1,2,Sport
+193106,3,Finalizações,Sabino,1172,0,1,Sport
+193106,3,Finalizações,Sander,1172,0,1,Sport
+193106,3,Finalizações,Fábio Alves,3174,0,1,Floresta
+193106,3,Finalizações,Iarley,3174,0,2,Floresta
+193106,3,Finalizações,Igor Oliveira,3174,0,1,Floresta
+193106,3,Finalizações,Jô,3174,0,1,Floresta
+193106,3,Finalizações,Max Oliveira,3174,0,1,Floresta
+193106,5,Desarmes,Blas Cáceres,1172,1,0,Sport
+193106,5,Desarmes,Bruno Matias,1172,1,1,Sport
+193106,5,Desarmes,Denner,1172,3,0,Sport
+193106,5,Desarmes,Ewerthon,1172,1,0,Sport
+193106,5,Desarmes,Jaderson,1172,2,1,Sport
+193106,5,Desarmes,Luciano Juba,1172,3,0,Sport
+193106,5,Desarmes,Rafael Thyere,1172,0,1,Sport
+193106,5,Desarmes,Ray Venegas,1172,1,0,Sport
+193106,5,Desarmes,Ronaldo,1172,1,0,Sport
+193106,5,Desarmes,Sander,1172,3,0,Sport
+193106,5,Desarmes,William Oliveira,1172,2,0,Sport
+193106,5,Desarmes,Brandão,3174,1,0,Floresta
+193106,5,Desarmes,Dudu,3174,2,0,Floresta
+193106,5,Desarmes,Fábio Alves,3174,1,0,Floresta
+193106,5,Desarmes,Igor Oliveira,3174,1,2,Floresta
+193106,5,Desarmes,Jô,3174,1,1,Floresta
+193106,5,Desarmes,Maílson,3174,1,0,Floresta
+193106,5,Desarmes,Marcão,3174,1,0,Floresta
+193106,5,Desarmes,Paulo Vyctor,3174,1,0,Floresta
+193106,5,Desarmes,Thalisson,3174,1,0,Floresta
+193106,5,Desarmes,Yago Rocha,3174,2,0,Floresta
+193106,14,Cruzamentos,Blas Cáceres,1172,0,3,Sport
+193106,14,Cruzamentos,Búfalo Parraguez,1172,1,0,Sport
+193106,14,Cruzamentos,Denner,1172,0,3,Sport
+193106,14,Cruzamentos,Ewerthon,1172,1,0,Sport
+193106,14,Cruzamentos,Luciano Juba,1172,1,4,Sport
+193106,14,Cruzamentos,Sander,1172,0,1,Sport
+193106,14,Cruzamentos,Fábio Alves,3174,1,3,Floresta
+193106,14,Cruzamentos,Paulo Vyctor,3174,0,1,Floresta
+193106,14,Cruzamentos,Pedro Igor,3174,2,0,Floresta
+193106,14,Cruzamentos,Rendell Venancio,3174,0,1,Floresta
+193106,14,Cruzamentos,Yago Rocha,3174,1,1,Floresta
+193106,1,Lançamentos,Blas Cáceres,1172,1,0,Sport
+193106,1,Lançamentos,Bruno Matias,1172,0,1,Sport
+193106,1,Lançamentos,Denner,1172,2,0,Sport
+193106,1,Lançamentos,Ewerthon,1172,2,2,Sport
+193106,1,Lançamentos,Luciano Juba,1172,0,1,Sport
+193106,1,Lançamentos,Maílson,1172,1,0,Sport
+193106,1,Lançamentos,Rafael Thyere,1172,1,1,Sport
+193106,1,Lançamentos,Ronaldo,1172,1,0,Sport
+193106,1,Lançamentos,Sabino,1172,3,3,Sport
+193106,1,Lançamentos,William Oliveira,1172,0,1,Sport
+193106,1,Lançamentos,Fábio Alves,3174,1,1,Floresta
+193106,1,Lançamentos,Jô,3174,1,2,Floresta
+193106,1,Lançamentos,Lincoln ,3174,1,0,Floresta
+193106,1,Lançamentos,Maílson,3174,1,4,Floresta
+193106,1,Lançamentos,Marcão,3174,1,2,Floresta
+193106,1,Lançamentos,Max Oliveira,3174,0,5,Floresta
+193106,1,Lançamentos,Thalisson,3174,1,0,Floresta
+193106,24,Interceptações,Bruno Matias,1172,0,1,Sport
+193106,24,Interceptações,Búfalo Parraguez,1172,1,0,Sport
+193106,24,Interceptações,Denner,1172,1,0,Sport
+193106,24,Interceptações,Luciano Juba,1172,1,0,Sport
+193106,24,Interceptações,Paulo Vyctor,3174,1,0,Floresta
+193106,24,Interceptações,Rendell Venancio,3174,1,0,Floresta
+193106,24,Interceptações,Thalisson,3174,2,0,Floresta
+193106,24,Interceptações,Yago Rocha,3174,2,0,Floresta
+193106,4,Dribles,Blas Cáceres,1172,0,1,Sport
+193106,4,Dribles,Luciano Juba,1172,0,1,Sport
+193106,4,Dribles,Ray Venegas,1172,1,0,Sport
+193106,4,Dribles,Sabino,1172,2,1,Sport
+193106,4,Dribles,Sander,1172,2,0,Sport
+193106,4,Dribles,Igor Oliveira,3174,2,0,Floresta
+193106,4,Dribles,Jô,3174,1,2,Floresta
+193106,4,Dribles,Max Oliveira,3174,0,1,Floresta
+193106,4,Dribles,Yago Rocha,3174,1,0,Floresta
+193106,4,Dribles,Blas Cáceres,1172,0,1,Sport
+193106,4,Dribles,Luciano Juba,1172,0,1,Sport
+193106,4,Dribles,Ray Venegas,1172,1,0,Sport
+193106,4,Dribles,Sabino,1172,2,1,Sport
+193106,4,Dribles,Sander,1172,2,0,Sport
+193106,4,Dribles,Igor Oliveira,3174,2,0,Floresta
+193106,4,Dribles,Jô,3174,1,2,Floresta
+193106,4,Dribles,Max Oliveira,3174,0,1,Floresta
+193106,4,Dribles,Yago Rocha,3174,1,0,Floresta
+193106,22,Viradas de jogo,Dudu,3174,1,0,Floresta
+193106,22,Viradas de jogo,Igor Oliveira,3174,1,0,Floresta
+193106,22,Viradas de jogo,Jô,3174,1,0,Floresta
+193106,22,Viradas de jogo,Lincoln ,3174,1,0,Floresta
+193106,22,Viradas de jogo,Thalisson,3174,3,0,Floresta
+193106,20,Posse de bola,Blas Cáceres,1172,46,0,Sport
+193106,20,Posse de bola,Bruno Matias,1172,151,0,Sport
+193106,20,Posse de bola,Búfalo Parraguez,1172,64,0,Sport
+193106,20,Posse de bola,Chico,1172,48,0,Sport
+193106,20,Posse de bola,Denner,1172,68,0,Sport
+193106,20,Posse de bola,Ewerthon,1172,148,0,Sport
+193106,20,Posse de bola,Flávio Souza,1172,4,0,Sport
+193106,20,Posse de bola,Jaderson,1172,46,0,Sport
+193106,20,Posse de bola,Luciano Juba,1172,102,0,Sport
+193106,20,Posse de bola,Maílson,1172,91,0,Sport
+193106,20,Posse de bola,Rafael Thyere,1172,272,0,Sport
+193106,20,Posse de bola,Ray Venegas,1172,34,0,Sport
+193106,20,Posse de bola,Ronaldo,1172,84,0,Sport
+193106,20,Posse de bola,Sabino,1172,244,0,Sport
+193106,20,Posse de bola,Sander,1172,132,0,Sport
+193106,20,Posse de bola,William Oliveira,1172,97,0,Sport
+193106,20,Posse de bola,Brandão,3174,34,0,Floresta
+193106,20,Posse de bola,Dudu,3174,36,0,Floresta
+193106,20,Posse de bola,Fábio Alves,3174,160,0,Floresta
+193106,20,Posse de bola,Iarley,3174,22,0,Floresta
+193106,20,Posse de bola,Igor Oliveira,3174,69,0,Floresta
+193106,20,Posse de bola,Jô,3174,166,0,Floresta
+193106,20,Posse de bola,Lincoln ,3174,26,0,Floresta
+193106,20,Posse de bola,Maílson,3174,129,0,Floresta
+193106,20,Posse de bola,Marcão,3174,49,0,Floresta
+193106,20,Posse de bola,Max Oliveira,3174,135,0,Floresta
+193106,20,Posse de bola,Paulo Vyctor,3174,56,0,Floresta
+193106,20,Posse de bola,Pedro Igor,3174,34,0,Floresta
+193106,20,Posse de bola,Rafael Lopes,3174,16,0,Floresta
+193106,20,Posse de bola,Rendell Venancio,3174,70,0,Floresta
+193106,20,Posse de bola,Thalisson,3174,109,0,Floresta
+193106,20,Posse de bola,Yago Rocha,3174,147,0,Floresta
+193106,8,Gols,Búfalo Parraguez,1172,1,0,Sport
+193106,8,Gols,Luciano Juba,1172,1,0,Sport
+193106,8,Gols,Ray Venegas,1172,1,0,Sport
+193106,28,Assistências para finalização,Búfalo Parraguez,1172,2,0,Sport
+193106,28,Assistências para finalização,Denner,1172,2,0,Sport
+193106,28,Assistências para finalização,Luciano Juba,1172,2,0,Sport
+193106,28,Assistências para finalização,Sander,1172,1,0,Sport
+193106,28,Assistências para finalização,Fábio Alves,3174,1,0,Floresta
+193106,28,Assistências para finalização,Max Oliveira,3174,1,0,Floresta
+193106,28,Assistências para finalização,Pedro Igor,3174,2,0,Floresta
+193106,27,Assistências,Ewerthon,1172,2,0,Sport
+193106,15,Defesas,Chico,1172,1,0,Sport
+193106,15,Defesas,Max Oliveira,3174,1,0,Floresta
+193106,15,Defesas,Chico,1172,1,0,Sport
+193106,15,Defesas,Max Oliveira,3174,1,0,Floresta
+193106,23,Defesas difíceis,Marcão,3174,1,0,Floresta
+193106,19,Rebatidas,Chico,1172,1,0,Sport
+193106,19,Rebatidas,Ewerthon,1172,3,0,Sport
+193106,19,Rebatidas,Luciano Juba,1172,4,0,Sport
+193106,19,Rebatidas,Rafael Thyere,1172,2,0,Sport
+193106,19,Rebatidas,Sabino,1172,2,0,Sport
+193106,19,Rebatidas,Sander,1172,3,0,Sport
+193106,19,Rebatidas,William Oliveira,1172,2,0,Sport
+193106,19,Rebatidas,Brandão,3174,1,0,Floresta
+193106,19,Rebatidas,Fábio Alves,3174,2,0,Floresta
+193106,19,Rebatidas,Jô,3174,2,0,Floresta
+193106,19,Rebatidas,Maílson,3174,4,0,Floresta
+193106,19,Rebatidas,Max Oliveira,3174,8,0,Floresta
+193106,19,Rebatidas,Rafael Lopes,3174,1,0,Floresta
+193106,19,Rebatidas,Yago Rocha,3174,1,0,Floresta
+193106,6,Faltas cometidas,Bruno Matias,1172,1,0,Sport
+193106,6,Faltas cometidas,Denner,1172,2,0,Sport
+193106,6,Faltas cometidas,Ewerthon,1172,2,0,Sport
+193106,6,Faltas cometidas,Jaderson,1172,2,0,Sport
+193106,6,Faltas cometidas,Luciano Juba,1172,1,0,Sport
+193106,6,Faltas cometidas,Rafael Thyere,1172,3,0,Sport
+193106,6,Faltas cometidas,Sabino,1172,1,0,Sport
+193106,6,Faltas cometidas,Sander,1172,4,0,Sport
+193106,6,Faltas cometidas,William Oliveira,1172,2,0,Sport
+193106,6,Faltas cometidas,Fábio Alves,3174,2,0,Floresta
+193106,6,Faltas cometidas,Jô,3174,3,0,Floresta
+193106,6,Faltas cometidas,Max Oliveira,3174,1,0,Floresta
+193106,6,Faltas cometidas,Paulo Vyctor,3174,1,0,Floresta
+193106,6,Faltas cometidas,Rendell Venancio,3174,3,0,Floresta
+193106,6,Faltas cometidas,Thalisson,3174,2,0,Floresta
+193106,7,Faltas sofridas,Denner,1172,3,0,Sport
+193106,7,Faltas sofridas,Jaderson,1172,3,0,Sport
+193106,7,Faltas sofridas,Luciano Juba,1172,1,0,Sport
+193106,7,Faltas sofridas,Sander,1172,1,0,Sport
+193106,7,Faltas sofridas,William Oliveira,1172,4,0,Sport
+193106,7,Faltas sofridas,Brandão,3174,1,0,Floresta
+193106,7,Faltas sofridas,Fábio Alves,3174,1,0,Floresta
+193106,7,Faltas sofridas,Iarley,3174,2,0,Floresta
+193106,7,Faltas sofridas,Igor Oliveira,3174,3,0,Floresta
+193106,7,Faltas sofridas,Jô,3174,2,0,Floresta
+193106,7,Faltas sofridas,Lincoln ,3174,1,0,Floresta
+193106,7,Faltas sofridas,Maílson,3174,1,0,Floresta
+193106,7,Faltas sofridas,Pedro Igor,3174,1,0,Floresta
+193106,7,Faltas sofridas,Thalisson,3174,4,0,Floresta
+193106,7,Faltas sofridas,Yago Rocha,3174,2,0,Floresta
+193106,9,Impedimentos,Búfalo Parraguez,1172,2,0,Sport
+193106,9,Impedimentos,Jaderson,1172,1,0,Sport
+193106,9,Impedimentos,Luciano Juba,1172,1,0,Sport
+193106,9,Impedimentos,Ray Venegas,1172,1,0,Sport
+193106,12,Perda da posse de bola,Blas Cáceres,1172,4,0,Sport
+193106,12,Perda da posse de bola,Búfalo Parraguez,1172,5,0,Sport
+193106,12,Perda da posse de bola,Ewerthon,1172,1,0,Sport
+193106,12,Perda da posse de bola,Jaderson,1172,3,0,Sport
+193106,12,Perda da posse de bola,Luciano Juba,1172,3,0,Sport
+193106,12,Perda da posse de bola,Rafael Thyere,1172,1,0,Sport
+193106,12,Perda da posse de bola,Ronaldo,1172,2,0,Sport
+193106,12,Perda da posse de bola,Sander,1172,1,0,Sport
+193106,12,Perda da posse de bola,William Oliveira,1172,1,0,Sport
+193106,12,Perda da posse de bola,Brandão,3174,2,0,Floresta
+193106,12,Perda da posse de bola,Dudu,3174,3,0,Floresta
+193106,12,Perda da posse de bola,Fábio Alves,3174,7,0,Floresta
+193106,12,Perda da posse de bola,Igor Oliveira,3174,4,0,Floresta
+193106,12,Perda da posse de bola,Jô,3174,4,0,Floresta
+193106,12,Perda da posse de bola,Maílson,3174,1,0,Floresta
+193106,12,Perda da posse de bola,Marcão,3174,1,0,Floresta
+193106,12,Perda da posse de bola,Max Oliveira,3174,1,0,Floresta
+193106,12,Perda da posse de bola,Paulo Vyctor,3174,1,0,Floresta
+193106,12,Perda da posse de bola,Rendell Venancio,3174,6,0,Floresta
+193106,12,Perda da posse de bola,Thalisson,3174,4,0,Floresta
+193106,12,Perda da posse de bola,Yago Rocha,3174,2,0,Floresta
+193107,2,Passes,Adailson,1086,2,3,Sergipe
+193107,2,Passes,Alexandre Lazarini,1086,17,2,Sergipe
+193107,2,Passes,Chiquinho Alagoano,1086,12,4,Sergipe
+193107,2,Passes,Davi Lessa ,1086,10,1,Sergipe
+193107,2,Passes,Diego Augusto,1086,10,0,Sergipe
+193107,2,Passes,Ewerton Ageu,1086,8,2,Sergipe
+193107,2,Passes,Fabiano,1086,15,2,Sergipe
+193107,2,Passes,Hiago Ramiro,1086,7,1,Sergipe
+193107,2,Passes,Janderson,1086,22,5,Sergipe
+193107,2,Passes,Júnior,1086,13,1,Sergipe
+193107,2,Passes,Kaio Felipe,1086,1,0,Sergipe
+193107,2,Passes,Kennedy,1086,5,0,Sergipe
+193107,2,Passes,Matheus de Paula,1086,12,6,Sergipe
+193107,2,Passes,Ryan,1086,7,1,Sergipe
+193107,2,Passes,Silvio Freitas,1086,22,0,Sergipe
+193107,2,Passes,Wendel,1086,14,7,Sergipe
+193107,2,Passes,Daniel,1250,33,4,Bahia
+193107,2,Passes,Djalma Silva,1250,0,1,Bahia
+193107,2,Passes,Douglas Borel,1250,26,4,Bahia
+193107,2,Passes,Hugo Rodallega,1250,9,2,Bahia
+193107,2,Passes,Ignácio,1250,31,0,Bahia
+193107,2,Passes,Lucas Mugni,1250,53,4,Bahia
+193107,2,Passes,Luiz Henrique,1250,25,2,Bahia
+193107,2,Passes,Luiz Otávio,1250,32,1,Bahia
+193107,2,Passes,Marco Antônio,1250,18,3,Bahia
+193107,2,Passes,Mateus Claus,1250,10,0,Bahia
+193107,2,Passes,Matheus Bahia,1250,9,1,Bahia
+193107,2,Passes,Miqueias,1250,3,0,Bahia
+193107,2,Passes,Patrick de Lucca,1250,48,3,Bahia
+193107,2,Passes,Raí Nascimento,1250,13,5,Bahia
+193107,2,Passes,Ronaldo,1250,6,1,Bahia
+193107,3,Finalizações,Davi Lessa ,1086,1,1,Sergipe
+193107,3,Finalizações,Janderson,1086,0,1,Sergipe
+193107,3,Finalizações,Matheus de Paula,1086,1,0,Sergipe
+193107,3,Finalizações,Wendel,1086,1,1,Sergipe
+193107,3,Finalizações,Daniel,1250,0,2,Bahia
+193107,3,Finalizações,Douglas Borel,1250,0,1,Bahia
+193107,3,Finalizações,Hugo Rodallega,1250,1,2,Bahia
+193107,3,Finalizações,Lucas Mugni,1250,1,0,Bahia
+193107,3,Finalizações,Marco Antônio,1250,1,1,Bahia
+193107,3,Finalizações,Raí Nascimento,1250,1,2,Bahia
+193107,3,Finalizações,Ronaldo,1250,2,0,Bahia
+193107,5,Desarmes,Adailson,1086,1,0,Sergipe
+193107,5,Desarmes,Davi Lessa ,1086,1,0,Sergipe
+193107,5,Desarmes,Fabiano,1086,2,0,Sergipe
+193107,5,Desarmes,Janderson,1086,1,0,Sergipe
+193107,5,Desarmes,Wendel,1086,0,1,Sergipe
+193107,5,Desarmes,Daniel,1250,3,0,Bahia
+193107,5,Desarmes,Lucas Mugni,1250,2,1,Bahia
+193107,5,Desarmes,Luiz Henrique,1250,0,1,Bahia
+193107,5,Desarmes,Marco Antônio,1250,1,0,Bahia
+193107,5,Desarmes,Matheus Bahia,1250,2,0,Bahia
+193107,5,Desarmes,Patrick de Lucca,1250,1,0,Bahia
+193107,14,Cruzamentos,Adailson,1086,1,2,Sergipe
+193107,14,Cruzamentos,Chiquinho Alagoano,1086,0,2,Sergipe
+193107,14,Cruzamentos,Ewerton Ageu,1086,1,2,Sergipe
+193107,14,Cruzamentos,Fabiano,1086,0,2,Sergipe
+193107,14,Cruzamentos,Hiago Ramiro,1086,0,2,Sergipe
+193107,14,Cruzamentos,Kaio Felipe,1086,1,0,Sergipe
+193107,14,Cruzamentos,Daniel,1250,1,2,Bahia
+193107,14,Cruzamentos,Douglas Borel,1250,1,1,Bahia
+193107,14,Cruzamentos,Hugo Rodallega,1250,1,0,Bahia
+193107,14,Cruzamentos,Lucas Mugni,1250,0,2,Bahia
+193107,14,Cruzamentos,Luiz Henrique,1250,0,2,Bahia
+193107,14,Cruzamentos,Marco Antônio,1250,0,1,Bahia
+193107,14,Cruzamentos,Matheus Bahia,1250,1,4,Bahia
+193107,14,Cruzamentos,Raí Nascimento,1250,0,2,Bahia
+193107,14,Cruzamentos,Ronaldo,1250,0,1,Bahia
+193107,1,Lançamentos,Chiquinho Alagoano,1086,1,2,Sergipe
+193107,1,Lançamentos,Davi Lessa ,1086,1,0,Sergipe
+193107,1,Lançamentos,Diego Augusto,1086,0,2,Sergipe
+193107,1,Lançamentos,Ewerton Ageu,1086,1,0,Sergipe
+193107,1,Lançamentos,Janderson,1086,1,1,Sergipe
+193107,1,Lançamentos,Júnior,1086,1,2,Sergipe
+193107,1,Lançamentos,Kennedy,1086,7,11,Sergipe
+193107,1,Lançamentos,Matheus de Paula,1086,0,1,Sergipe
+193107,1,Lançamentos,Silvio Freitas,1086,1,2,Sergipe
+193107,1,Lançamentos,Daniel,1250,1,0,Bahia
+193107,1,Lançamentos,Luiz Henrique,1250,1,0,Bahia
+193107,1,Lançamentos,Luiz Otávio,1250,0,2,Bahia
+193107,1,Lançamentos,Mateus Claus,1250,1,1,Bahia
+193107,24,Interceptações,Davi Lessa ,1086,1,0,Sergipe
+193107,24,Interceptações,Raí Nascimento,1250,1,0,Bahia
+193107,4,Dribles,Ewerton Ageu,1086,1,0,Sergipe
+193107,4,Dribles,Wendel,1086,2,0,Sergipe
+193107,4,Dribles,Douglas Borel,1250,1,0,Bahia
+193107,4,Dribles,Marco Antônio,1250,3,1,Bahia
+193107,4,Dribles,Raí Nascimento,1250,2,0,Bahia
+193107,22,Viradas de jogo,Júnior,1086,0,1,Sergipe
+193107,22,Viradas de jogo,Wendel,1086,1,0,Sergipe
+193107,20,Posse de bola,Adailson,1086,32,0,Sergipe
+193107,20,Posse de bola,Alexandre Lazarini,1086,51,0,Sergipe
+193107,20,Posse de bola,Chiquinho Alagoano,1086,48,0,Sergipe
+193107,20,Posse de bola,Davi Lessa ,1086,53,0,Sergipe
+193107,20,Posse de bola,Diego Augusto,1086,45,0,Sergipe
+193107,20,Posse de bola,Ewerton Ageu,1086,41,0,Sergipe
+193107,20,Posse de bola,Fabiano,1086,70,0,Sergipe
+193107,20,Posse de bola,Hiago Ramiro,1086,35,0,Sergipe
+193107,20,Posse de bola,Janderson,1086,104,0,Sergipe
+193107,20,Posse de bola,Júnior,1086,44,0,Sergipe
+193107,20,Posse de bola,Kaio Felipe,1086,10,0,Sergipe
+193107,20,Posse de bola,Kennedy,1086,70,0,Sergipe
+193107,20,Posse de bola,Matheus de Paula,1086,56,0,Sergipe
+193107,20,Posse de bola,Ryan,1086,25,0,Sergipe
+193107,20,Posse de bola,Silvio Freitas,1086,99,0,Sergipe
+193107,20,Posse de bola,Wendel,1086,62,0,Sergipe
+193107,20,Posse de bola,Daniel,1250,100,0,Bahia
+193107,20,Posse de bola,Djalma Silva,1250,2,0,Bahia
+193107,20,Posse de bola,Douglas Borel,1250,82,0,Bahia
+193107,20,Posse de bola,Hugo Rodallega,1250,38,0,Bahia
+193107,20,Posse de bola,Ignácio,1250,94,0,Bahia
+193107,20,Posse de bola,Lucas Mugni,1250,145,0,Bahia
+193107,20,Posse de bola,Luiz Henrique,1250,79,0,Bahia
+193107,20,Posse de bola,Luiz Otávio,1250,109,0,Bahia
+193107,20,Posse de bola,Marco Antônio,1250,70,0,Bahia
+193107,20,Posse de bola,Mateus Claus,1250,32,0,Bahia
+193107,20,Posse de bola,Matheus Bahia,1250,36,0,Bahia
+193107,20,Posse de bola,Miqueias,1250,6,0,Bahia
+193107,20,Posse de bola,Patrick de Lucca,1250,128,0,Bahia
+193107,20,Posse de bola,Raí Nascimento,1250,68,0,Bahia
+193107,20,Posse de bola,Ronaldo,1250,30,0,Bahia
+193107,8,Gols,Wendel,1086,1,0,Sergipe
+193107,8,Gols,Hugo Rodallega,1250,1,0,Bahia
+193107,8,Gols,Marco Antônio,1250,1,0,Bahia
+193107,8,Gols,Ronaldo,1250,1,0,Bahia
+193107,28,Assistências para finalização,Adailson,1086,1,0,Sergipe
+193107,28,Assistências para finalização,Davi Lessa ,1086,2,0,Sergipe
+193107,28,Assistências para finalização,Daniel,1250,2,0,Bahia
+193107,28,Assistências para finalização,Ignácio,1250,1,0,Bahia
+193107,28,Assistências para finalização,Marco Antônio,1250,1,0,Bahia
+193107,28,Assistências para finalização,Matheus Bahia,1250,2,0,Bahia
+193107,28,Assistências para finalização,Patrick de Lucca,1250,2,0,Bahia
+193107,27,Assistências,Ewerton Ageu,1086,1,0,Sergipe
+193107,27,Assistências,Daniel,1250,1,0,Bahia
+193107,27,Assistências,Douglas Borel,1250,1,0,Bahia
+193107,27,Assistências,Hugo Rodallega,1250,1,0,Bahia
+193107,15,Defesas,Fabiano,1086,1,0,Sergipe
+193107,15,Defesas,Kennedy,1086,1,0,Sergipe
+193107,15,Defesas,Ryan,1086,1,0,Sergipe
+193107,15,Defesas,Ignácio,1250,1,0,Bahia
+193107,15,Defesas,Mateus Claus,1250,2,0,Bahia
+193107,23,Defesas difíceis,Kennedy,1086,2,0,Sergipe
+193107,19,Rebatidas,Diego Augusto,1086,5,0,Sergipe
+193107,19,Rebatidas,Silvio Freitas,1086,7,0,Sergipe
+193107,19,Rebatidas,Wendel,1086,2,0,Sergipe
+193107,19,Rebatidas,Daniel,1250,1,0,Bahia
+193107,19,Rebatidas,Douglas Borel,1250,4,0,Bahia
+193107,19,Rebatidas,Hugo Rodallega,1250,1,0,Bahia
+193107,19,Rebatidas,Ignácio,1250,10,0,Bahia
+193107,19,Rebatidas,Lucas Mugni,1250,1,0,Bahia
+193107,19,Rebatidas,Luiz Henrique,1250,1,0,Bahia
+193107,19,Rebatidas,Luiz Otávio,1250,5,0,Bahia
+193107,19,Rebatidas,Mateus Claus,1250,1,0,Bahia
+193107,19,Rebatidas,Patrick de Lucca,1250,4,0,Bahia
+193107,19,Rebatidas,Raí Nascimento,1250,1,0,Bahia
+193107,19,Rebatidas,Ronaldo,1250,1,0,Bahia
+193107,6,Faltas cometidas,Adailson,1086,1,0,Sergipe
+193107,6,Faltas cometidas,Alexandre Lazarini,1086,1,0,Sergipe
+193107,6,Faltas cometidas,Davi Lessa ,1086,1,0,Sergipe
+193107,6,Faltas cometidas,Kaio Felipe,1086,1,0,Sergipe
+193107,6,Faltas cometidas,Wendel,1086,1,0,Sergipe
+193107,6,Faltas cometidas,Ignácio,1250,1,0,Bahia
+193107,6,Faltas cometidas,Lucas Mugni,1250,5,0,Bahia
+193107,6,Faltas cometidas,Luiz Otávio,1250,3,0,Bahia
+193107,6,Faltas cometidas,Matheus Bahia,1250,1,0,Bahia
+193107,6,Faltas cometidas,Patrick de Lucca,1250,2,0,Bahia
+193107,6,Faltas cometidas,Raí Nascimento,1250,2,0,Bahia
+193107,7,Faltas sofridas,Adailson,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Davi Lessa ,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Diego Augusto,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Ewerton Ageu,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Fabiano,1086,4,0,Sergipe
+193107,7,Faltas sofridas,Janderson,1086,2,0,Sergipe
+193107,7,Faltas sofridas,Júnior,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Matheus de Paula,1086,2,0,Sergipe
+193107,7,Faltas sofridas,Ryan,1086,1,0,Sergipe
+193107,7,Faltas sofridas,Daniel,1250,1,0,Bahia
+193107,7,Faltas sofridas,Douglas Borel,1250,1,0,Bahia
+193107,7,Faltas sofridas,Luiz Henrique,1250,1,0,Bahia
+193107,7,Faltas sofridas,Mateus Claus,1250,1,0,Bahia
+193107,7,Faltas sofridas,Ronaldo,1250,1,0,Bahia
+193107,9,Impedimentos,Silvio Freitas,1086,1,0,Sergipe
+193107,9,Impedimentos,Hugo Rodallega,1250,2,0,Bahia
+193107,9,Impedimentos,Patrick de Lucca,1250,1,0,Bahia
+193107,9,Impedimentos,Raí Nascimento,1250,1,0,Bahia
+193107,12,Perda da posse de bola,Adailson,1086,4,0,Sergipe
+193107,12,Perda da posse de bola,Davi Lessa ,1086,1,0,Sergipe
+193107,12,Perda da posse de bola,Ewerton Ageu,1086,3,0,Sergipe
+193107,12,Perda da posse de bola,Hiago Ramiro,1086,3,0,Sergipe
+193107,12,Perda da posse de bola,Janderson,1086,3,0,Sergipe
+193107,12,Perda da posse de bola,Júnior,1086,1,0,Sergipe
+193107,12,Perda da posse de bola,Kaio Felipe,1086,2,0,Sergipe
+193107,12,Perda da posse de bola,Matheus de Paula,1086,6,0,Sergipe
+193107,12,Perda da posse de bola,Daniel,1250,2,0,Bahia
+193107,12,Perda da posse de bola,Douglas Borel,1250,1,0,Bahia
+193107,12,Perda da posse de bola,Hugo Rodallega,1250,1,0,Bahia
+193107,12,Perda da posse de bola,Luiz Henrique,1250,4,0,Bahia
+193107,12,Perda da posse de bola,Marco Antônio,1250,2,0,Bahia
+193107,12,Perda da posse de bola,Raí Nascimento,1250,4,0,Bahia
+193107,12,Perda da posse de bola,Ronaldo,1250,3,0,Bahia
+193107,25,Cartões amarelos,Silvio Freitas,1086,1,0,Sergipe
+193107,25,Cartões amarelos,Lucas Mugni,1250,1,0,Bahia
+193107,25,Cartões amarelos,Luiz Otávio,1250,1,0,Bahia
+193107,25,Cartões amarelos,Matheus Bahia,1250,1,0,Bahia
+193108,2,Passes,Eloir,1540,28,4,Sampaio Corrêa
+193108,2,Passes,Eron,1540,5,0,Sampaio Corrêa
+193108,2,Passes,Ferreira,1540,13,1,Sampaio Corrêa
+193108,2,Passes,Gabriel Poveda,1540,13,1,Sampaio Corrêa
+193108,2,Passes,Lucas Araújo,1540,51,6,Sampaio Corrêa
+193108,2,Passes,Luiz Daniel,1540,14,0,Sampaio Corrêa
+193108,2,Passes,Matheusinho,1540,24,3,Sampaio Corrêa
+193108,2,Passes,Maurício,1540,19,2,Sampaio Corrêa
+193108,2,Passes,Nilson Júnior,1540,32,0,Sampaio Corrêa
+193108,2,Passes,Pará,1540,29,1,Sampaio Corrêa
+193108,2,Passes,Pedro Carrerete,1540,50,2,Sampaio Corrêa
+193108,2,Passes,Renatinho,1540,6,1,Sampaio Corrêa
+193108,2,Passes,Ronan,1540,31,5,Sampaio Corrêa
+193108,2,Passes,Soares,1540,9,0,Sampaio Corrêa
+193108,2,Passes,Thiago,1540,5,1,Sampaio Corrêa
+193108,2,Passes,Wesley Pionteck,1540,3,0,Sampaio Corrêa
+193108,2,Passes,Adriano Júnior ,1074,3,3,Botafogo-PB
+193108,2,Passes,Alessandro,1074,4,0,Botafogo-PB
+193108,2,Passes,Anderson Paraíba,1074,5,2,Botafogo-PB
+193108,2,Passes,Bruno Ré,1074,25,5,Botafogo-PB
+193108,2,Passes,Diego Gomes,1074,7,0,Botafogo-PB
+193108,2,Passes,Elias Lira,1074,8,3,Botafogo-PB
+193108,2,Passes,Esquerdinha,1074,14,2,Botafogo-PB
+193108,2,Passes,Gabriel Yanno,1074,6,2,Botafogo-PB
+193108,2,Passes,Gustavo Coutinho,1074,11,4,Botafogo-PB
+193108,2,Passes,Leandro Camilo,1074,3,0,Botafogo-PB
+193108,2,Passes,Leilson,1074,8,3,Botafogo-PB
+193108,2,Passes,Luis Carlos,1074,6,0,Botafogo-PB
+193108,2,Passes,Nicolas Schulz,1074,2,0,Botafogo-PB
+193108,2,Passes,Pablo,1074,11,1,Botafogo-PB
+193108,2,Passes,Paulo Vitor,1074,8,1,Botafogo-PB
+193108,3,Finalizações,Eron,1540,1,2,Sampaio Corrêa
+193108,3,Finalizações,Lucas Araújo,1540,2,1,Sampaio Corrêa
+193108,3,Finalizações,Pará,1540,0,1,Sampaio Corrêa
+193108,3,Finalizações,Pedro Carrerete,1540,0,1,Sampaio Corrêa
+193108,3,Finalizações,Ronan,1540,1,1,Sampaio Corrêa
+193108,3,Finalizações,Thiago,1540,1,1,Sampaio Corrêa
+193108,3,Finalizações,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,3,Finalizações,Leilson,1074,1,1,Botafogo-PB
+193108,3,Finalizações,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,5,Desarmes,Lucas Araújo,1540,2,0,Sampaio Corrêa
+193108,5,Desarmes,Nilson Júnior,1540,2,0,Sampaio Corrêa
+193108,5,Desarmes,Pará,1540,2,0,Sampaio Corrêa
+193108,5,Desarmes,Pedro Carrerete,1540,1,0,Sampaio Corrêa
+193108,5,Desarmes,Ronan,1540,2,0,Sampaio Corrêa
+193108,5,Desarmes,Thiago,1540,1,0,Sampaio Corrêa
+193108,5,Desarmes,Adriano Júnior ,1074,0,1,Botafogo-PB
+193108,5,Desarmes,Alessandro,1074,1,0,Botafogo-PB
+193108,5,Desarmes,Bruno Ré,1074,1,0,Botafogo-PB
+193108,5,Desarmes,Diego Gomes,1074,2,0,Botafogo-PB
+193108,5,Desarmes,Elias Lira,1074,1,0,Botafogo-PB
+193108,5,Desarmes,Esquerdinha,1074,1,0,Botafogo-PB
+193108,5,Desarmes,Leilson,1074,2,0,Botafogo-PB
+193108,5,Desarmes,Pablo,1074,2,0,Botafogo-PB
+193108,14,Cruzamentos,Eloir,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Eron,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Lucas Araújo,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Matheusinho,1540,0,5,Sampaio Corrêa
+193108,14,Cruzamentos,Pará,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Renatinho,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Ronan,1540,0,2,Sampaio Corrêa
+193108,14,Cruzamentos,Soares,1540,0,5,Sampaio Corrêa
+193108,14,Cruzamentos,Thiago,1540,0,1,Sampaio Corrêa
+193108,14,Cruzamentos,Anderson Paraíba,1074,0,2,Botafogo-PB
+193108,14,Cruzamentos,Elias Lira,1074,0,1,Botafogo-PB
+193108,14,Cruzamentos,Esquerdinha,1074,1,0,Botafogo-PB
+193108,14,Cruzamentos,Leilson,1074,0,1,Botafogo-PB
+193108,1,Lançamentos,Eloir,1540,1,1,Sampaio Corrêa
+193108,1,Lançamentos,Eron,1540,0,1,Sampaio Corrêa
+193108,1,Lançamentos,Lucas Araújo,1540,0,2,Sampaio Corrêa
+193108,1,Lançamentos,Luiz Daniel,1540,0,2,Sampaio Corrêa
+193108,1,Lançamentos,Matheusinho,1540,0,2,Sampaio Corrêa
+193108,1,Lançamentos,Maurício,1540,1,0,Sampaio Corrêa
+193108,1,Lançamentos,Nilson Júnior,1540,0,1,Sampaio Corrêa
+193108,1,Lançamentos,Pará,1540,0,2,Sampaio Corrêa
+193108,1,Lançamentos,Renatinho,1540,0,1,Sampaio Corrêa
+193108,1,Lançamentos,Ronan,1540,0,1,Sampaio Corrêa
+193108,1,Lançamentos,Soares,1540,0,2,Sampaio Corrêa
+193108,1,Lançamentos,Wesley Pionteck,1540,0,1,Sampaio Corrêa
+193108,1,Lançamentos,Alessandro,1074,0,1,Botafogo-PB
+193108,1,Lançamentos,Gabriel Yanno,1074,2,2,Botafogo-PB
+193108,1,Lançamentos,Leandro Camilo,1074,1,1,Botafogo-PB
+193108,1,Lançamentos,Luis Carlos,1074,8,16,Botafogo-PB
+193108,1,Lançamentos,Pablo,1074,1,0,Botafogo-PB
+193108,1,Lançamentos,Paulo Vitor,1074,2,3,Botafogo-PB
+193108,24,Interceptações,Lucas Araújo,1540,1,0,Sampaio Corrêa
+193108,24,Interceptações,Pará,1540,1,0,Sampaio Corrêa
+193108,24,Interceptações,Pedro Carrerete,1540,2,0,Sampaio Corrêa
+193108,24,Interceptações,Alessandro,1074,1,0,Botafogo-PB
+193108,24,Interceptações,Bruno Ré,1074,1,0,Botafogo-PB
+193108,24,Interceptações,Esquerdinha,1074,2,0,Botafogo-PB
+193108,24,Interceptações,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,4,Dribles,Ronan,1540,2,0,Sampaio Corrêa
+193108,4,Dribles,Thiago,1540,1,0,Sampaio Corrêa
+193108,4,Dribles,Alessandro,1074,1,0,Botafogo-PB
+193108,4,Dribles,Bruno Ré,1074,0,2,Botafogo-PB
+193108,4,Dribles,Gustavo Coutinho,1074,3,0,Botafogo-PB
+193108,4,Dribles,Nicolas Schulz,1074,2,0,Botafogo-PB
+193108,20,Posse de bola,Eloir,1540,93,0,Sampaio Corrêa
+193108,20,Posse de bola,Eron,1540,38,0,Sampaio Corrêa
+193108,20,Posse de bola,Ferreira,1540,40,0,Sampaio Corrêa
+193108,20,Posse de bola,Gabriel Poveda,1540,33,0,Sampaio Corrêa
+193108,20,Posse de bola,Lucas Araújo,1540,161,0,Sampaio Corrêa
+193108,20,Posse de bola,Luiz Daniel,1540,44,0,Sampaio Corrêa
+193108,20,Posse de bola,Matheusinho,1540,104,0,Sampaio Corrêa
+193108,20,Posse de bola,Maurício,1540,67,0,Sampaio Corrêa
+193108,20,Posse de bola,Nilson Júnior,1540,90,0,Sampaio Corrêa
+193108,20,Posse de bola,Pará,1540,96,0,Sampaio Corrêa
+193108,20,Posse de bola,Pedro Carrerete,1540,148,0,Sampaio Corrêa
+193108,20,Posse de bola,Renatinho,1540,23,0,Sampaio Corrêa
+193108,20,Posse de bola,Ronan,1540,152,0,Sampaio Corrêa
+193108,20,Posse de bola,Soares,1540,40,0,Sampaio Corrêa
+193108,20,Posse de bola,Thiago,1540,29,0,Sampaio Corrêa
+193108,20,Posse de bola,Wesley Pionteck,1540,25,0,Sampaio Corrêa
+193108,20,Posse de bola,Adriano Júnior ,1074,24,0,Botafogo-PB
+193108,20,Posse de bola,Alessandro,1074,33,0,Botafogo-PB
+193108,20,Posse de bola,Anderson Paraíba,1074,28,0,Botafogo-PB
+193108,20,Posse de bola,Bruno Ré,1074,114,0,Botafogo-PB
+193108,20,Posse de bola,Diego Gomes,1074,32,0,Botafogo-PB
+193108,20,Posse de bola,Elias Lira,1074,40,0,Botafogo-PB
+193108,20,Posse de bola,Esquerdinha,1074,52,0,Botafogo-PB
+193108,20,Posse de bola,Gabriel Yanno,1074,39,0,Botafogo-PB
+193108,20,Posse de bola,Gustavo Coutinho,1074,88,0,Botafogo-PB
+193108,20,Posse de bola,Leandro Camilo,1074,16,0,Botafogo-PB
+193108,20,Posse de bola,Leilson,1074,44,0,Botafogo-PB
+193108,20,Posse de bola,Luis Carlos,1074,170,0,Botafogo-PB
+193108,20,Posse de bola,Nicolas Schulz,1074,49,0,Botafogo-PB
+193108,20,Posse de bola,Pablo,1074,42,0,Botafogo-PB
+193108,20,Posse de bola,Paulo Vitor,1074,49,0,Botafogo-PB
+193108,20,Posse de bola,Eloir,1540,93,0,Sampaio Corrêa
+193108,20,Posse de bola,Eron,1540,38,0,Sampaio Corrêa
+193108,20,Posse de bola,Ferreira,1540,40,0,Sampaio Corrêa
+193108,20,Posse de bola,Gabriel Poveda,1540,33,0,Sampaio Corrêa
+193108,20,Posse de bola,Lucas Araújo,1540,161,0,Sampaio Corrêa
+193108,20,Posse de bola,Luiz Daniel,1540,44,0,Sampaio Corrêa
+193108,20,Posse de bola,Matheusinho,1540,104,0,Sampaio Corrêa
+193108,20,Posse de bola,Maurício,1540,67,0,Sampaio Corrêa
+193108,20,Posse de bola,Nilson Júnior,1540,90,0,Sampaio Corrêa
+193108,20,Posse de bola,Pará,1540,96,0,Sampaio Corrêa
+193108,20,Posse de bola,Pedro Carrerete,1540,148,0,Sampaio Corrêa
+193108,20,Posse de bola,Renatinho,1540,23,0,Sampaio Corrêa
+193108,20,Posse de bola,Ronan,1540,152,0,Sampaio Corrêa
+193108,20,Posse de bola,Soares,1540,40,0,Sampaio Corrêa
+193108,20,Posse de bola,Thiago,1540,29,0,Sampaio Corrêa
+193108,20,Posse de bola,Wesley Pionteck,1540,25,0,Sampaio Corrêa
+193108,20,Posse de bola,Adriano Júnior ,1074,24,0,Botafogo-PB
+193108,20,Posse de bola,Alessandro,1074,33,0,Botafogo-PB
+193108,20,Posse de bola,Anderson Paraíba,1074,28,0,Botafogo-PB
+193108,20,Posse de bola,Bruno Ré,1074,114,0,Botafogo-PB
+193108,20,Posse de bola,Diego Gomes,1074,32,0,Botafogo-PB
+193108,20,Posse de bola,Elias Lira,1074,40,0,Botafogo-PB
+193108,20,Posse de bola,Esquerdinha,1074,52,0,Botafogo-PB
+193108,20,Posse de bola,Gabriel Yanno,1074,39,0,Botafogo-PB
+193108,20,Posse de bola,Gustavo Coutinho,1074,88,0,Botafogo-PB
+193108,20,Posse de bola,Leandro Camilo,1074,16,0,Botafogo-PB
+193108,20,Posse de bola,Leilson,1074,44,0,Botafogo-PB
+193108,20,Posse de bola,Luis Carlos,1074,170,0,Botafogo-PB
+193108,20,Posse de bola,Nicolas Schulz,1074,49,0,Botafogo-PB
+193108,20,Posse de bola,Pablo,1074,42,0,Botafogo-PB
+193108,20,Posse de bola,Paulo Vitor,1074,49,0,Botafogo-PB
+193108,8,Gols,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,8,Gols,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,28,Assistências para finalização,Eloir,1540,1,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Gabriel Poveda,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Lucas Araújo,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Matheusinho,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Ronan,1540,1,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Anderson Paraíba,1074,1,0,Botafogo-PB
+193108,28,Assistências para finalização,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,28,Assistências para finalização,Eloir,1540,1,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Gabriel Poveda,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Lucas Araújo,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Matheusinho,1540,2,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Ronan,1540,1,0,Sampaio Corrêa
+193108,28,Assistências para finalização,Anderson Paraíba,1074,1,0,Botafogo-PB
+193108,28,Assistências para finalização,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,27,Assistências,Esquerdinha,1074,2,0,Botafogo-PB
+193108,15,Defesas,Luiz Daniel,1540,1,0,Sampaio Corrêa
+193108,15,Defesas,Luis Carlos,1074,4,0,Botafogo-PB
+193108,15,Defesas,Luiz Daniel,1540,1,0,Sampaio Corrêa
+193108,15,Defesas,Luis Carlos,1074,4,0,Botafogo-PB
+193108,23,Defesas difíceis,Luis Carlos,1074,1,0,Botafogo-PB
+193108,19,Rebatidas,Ferreira,1540,1,0,Sampaio Corrêa
+193108,19,Rebatidas,Maurício,1540,2,0,Sampaio Corrêa
+193108,19,Rebatidas,Nilson Júnior,1540,5,0,Sampaio Corrêa
+193108,19,Rebatidas,Pedro Carrerete,1540,8,0,Sampaio Corrêa
+193108,19,Rebatidas,Adriano Júnior ,1074,1,0,Botafogo-PB
+193108,19,Rebatidas,Anderson Paraíba,1074,2,0,Botafogo-PB
+193108,19,Rebatidas,Bruno Ré,1074,6,0,Botafogo-PB
+193108,19,Rebatidas,Diego Gomes,1074,3,0,Botafogo-PB
+193108,19,Rebatidas,Elias Lira,1074,6,0,Botafogo-PB
+193108,19,Rebatidas,Gabriel Yanno,1074,2,0,Botafogo-PB
+193108,19,Rebatidas,Leandro Camilo,1074,3,0,Botafogo-PB
+193108,19,Rebatidas,Leilson,1074,1,0,Botafogo-PB
+193108,19,Rebatidas,Luis Carlos,1074,2,0,Botafogo-PB
+193108,19,Rebatidas,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,19,Rebatidas,Paulo Vitor,1074,3,0,Botafogo-PB
+193108,6,Faltas cometidas,Eloir,1540,1,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Ferreira,1540,2,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Lucas Araújo,1540,1,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Matheusinho,1540,3,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Maurício,1540,1,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Pedro Carrerete,1540,3,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Soares,1540,1,0,Sampaio Corrêa
+193108,6,Faltas cometidas,Bruno Ré,1074,2,0,Botafogo-PB
+193108,6,Faltas cometidas,Diego Gomes,1074,1,0,Botafogo-PB
+193108,6,Faltas cometidas,Esquerdinha,1074,1,0,Botafogo-PB
+193108,6,Faltas cometidas,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,7,Faltas sofridas,Eloir,1540,1,0,Sampaio Corrêa
+193108,7,Faltas sofridas,Ferreira,1540,1,0,Sampaio Corrêa
+193108,7,Faltas sofridas,Lucas Araújo,1540,1,0,Sampaio Corrêa
+193108,7,Faltas sofridas,Matheusinho,1540,1,0,Sampaio Corrêa
+193108,7,Faltas sofridas,Pedro Carrerete,1540,1,0,Sampaio Corrêa
+193108,7,Faltas sofridas,Alessandro,1074,2,0,Botafogo-PB
+193108,7,Faltas sofridas,Anderson Paraíba,1074,2,0,Botafogo-PB
+193108,7,Faltas sofridas,Bruno Ré,1074,2,0,Botafogo-PB
+193108,7,Faltas sofridas,Esquerdinha,1074,2,0,Botafogo-PB
+193108,7,Faltas sofridas,Gustavo Coutinho,1074,4,0,Botafogo-PB
+193108,9,Impedimentos,Eron,1540,1,0,Sampaio Corrêa
+193108,9,Impedimentos,Matheusinho,1540,1,0,Sampaio Corrêa
+193108,9,Impedimentos,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,12,Perda da posse de bola,Eloir,1540,2,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Eron,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Ferreira,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Gabriel Poveda,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Lucas Araújo,1540,2,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Matheusinho,1540,3,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Nilson Júnior,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Pará,1540,2,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Pedro Carrerete,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Ronan,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Soares,1540,1,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Wesley Pionteck,1540,2,0,Sampaio Corrêa
+193108,12,Perda da posse de bola,Adriano Júnior ,1074,1,0,Botafogo-PB
+193108,12,Perda da posse de bola,Alessandro,1074,1,0,Botafogo-PB
+193108,12,Perda da posse de bola,Anderson Paraíba,1074,1,0,Botafogo-PB
+193108,12,Perda da posse de bola,Bruno Ré,1074,4,0,Botafogo-PB
+193108,12,Perda da posse de bola,Diego Gomes,1074,2,0,Botafogo-PB
+193108,12,Perda da posse de bola,Esquerdinha,1074,2,0,Botafogo-PB
+193108,12,Perda da posse de bola,Gustavo Coutinho,1074,12,0,Botafogo-PB
+193108,12,Perda da posse de bola,Leilson,1074,2,0,Botafogo-PB
+193108,12,Perda da posse de bola,Nicolas Schulz,1074,4,0,Botafogo-PB
+193108,12,Perda da posse de bola,Pablo,1074,2,0,Botafogo-PB
+193108,12,Perda da posse de bola,Paulo Vitor,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Ferreira,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Matheusinho,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Maurício,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Nilson Júnior,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Renatinho,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Soares,1540,1,0,Sampaio Corrêa
+193108,25,Cartões amarelos,Diego Gomes,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Esquerdinha,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Luis Carlos,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Nicolas Schulz,1074,1,0,Botafogo-PB
+193108,25,Cartões amarelos,Pablo,1074,1,0,Botafogo-PB
+193109,2,Passes,Alan Leite,1411,5,1,Campinense
+193109,2,Passes,Camilo,1411,5,0,Campinense
+193109,2,Passes,Carlos Maia,1411,2,2,Campinense
+193109,2,Passes,Christian,1411,11,3,Campinense
+193109,2,Passes,Cleiton,1411,19,3,Campinense
+193109,2,Passes,Dione,1411,13,2,Campinense
+193109,2,Passes,Emerson,1411,14,1,Campinense
+193109,2,Passes,Felipinho,1411,26,4,Campinense
+193109,2,Passes,Filipe Ramon,1411,15,5,Campinense
+193109,2,Passes,José Cláudio,1411,1,0,Campinense
+193109,2,Passes,Juninho Potiguar,1411,3,1,Campinense
+193109,2,Passes,Magno Souza,1411,18,1,Campinense
+193109,2,Passes,Olavio,1411,1,0,Campinense
+193109,2,Passes,Patrick Recife,1411,13,2,Campinense
+193109,2,Passes,Bruno Pacheco,1297,27,5,Ceará
+193109,2,Passes,Cléber,1297,5,3,Ceará
+193109,2,Passes,Erick,1297,2,0,Ceará
+193109,2,Passes,Fernando Sobral,1297,13,2,Ceará
+193109,2,Passes,João Ricardo,1297,18,1,Ceará
+193109,2,Passes,Kelvyn,1297,1,0,Ceará
+193109,2,Passes,Léo Rafael,1297,3,0,Ceará
+193109,2,Passes,Lima,1297,12,3,Ceará
+193109,2,Passes,Lucas Ribeiro,1297,28,2,Ceará
+193109,2,Passes,Messias,1297,21,1,Ceará
+193109,2,Passes,Nino Paraíba,1297,21,2,Ceará
+193109,2,Passes,Richardson,1297,18,0,Ceará
+193109,2,Passes,Rodrigo Lindoso,1297,29,5,Ceará
+193109,2,Passes,Stiven Mendoza,1297,13,3,Ceará
+193109,2,Passes,Vinícius,1297,12,1,Ceará
+193109,2,Passes,Zé Roberto,1297,1,2,Ceará
+193109,3,Finalizações,Alan Leite,1411,0,1,Campinense
+193109,3,Finalizações,Christian,1411,0,1,Campinense
+193109,3,Finalizações,Dione,1411,0,1,Campinense
+193109,3,Finalizações,Felipinho,1411,1,1,Campinense
+193109,3,Finalizações,Juninho Potiguar,1411,0,1,Campinense
+193109,3,Finalizações,Magno Souza,1411,1,0,Campinense
+193109,3,Finalizações,Olavio,1411,1,1,Campinense
+193109,3,Finalizações,Cléber,1297,1,1,Ceará
+193109,3,Finalizações,Nino Paraíba,1297,1,0,Ceará
+193109,3,Finalizações,Richardson,1297,0,1,Ceará
+193109,3,Finalizações,Stiven Mendoza,1297,0,1,Ceará
+193109,3,Finalizações,Vinícius,1297,1,1,Ceará
+193109,5,Desarmes,Carlos Maia,1411,1,0,Campinense
+193109,5,Desarmes,Filipe Ramon,1411,0,1,Campinense
+193109,5,Desarmes,Magno Souza,1411,1,0,Campinense
+193109,5,Desarmes,Patrick Recife,1411,1,0,Campinense
+193109,5,Desarmes,Bruno Pacheco,1297,3,0,Ceará
+193109,5,Desarmes,Cléber,1297,1,0,Ceará
+193109,5,Desarmes,Erick,1297,1,0,Ceará
+193109,5,Desarmes,Lima,1297,1,0,Ceará
+193109,5,Desarmes,Lucas Ribeiro,1297,1,0,Ceará
+193109,14,Cruzamentos,Cleiton,1411,0,1,Campinense
+193109,14,Cruzamentos,Dione,1411,1,8,Campinense
+193109,14,Cruzamentos,Emerson,1411,1,1,Campinense
+193109,14,Cruzamentos,Felipinho,1411,1,2,Campinense
+193109,14,Cruzamentos,Filipe Ramon,1411,0,1,Campinense
+193109,14,Cruzamentos,José Cláudio,1411,0,1,Campinense
+193109,14,Cruzamentos,Juninho Potiguar,1411,0,2,Campinense
+193109,14,Cruzamentos,Patrick Recife,1411,0,1,Campinense
+193109,14,Cruzamentos,Bruno Pacheco,1297,0,2,Ceará
+193109,14,Cruzamentos,Cléber,1297,1,1,Ceará
+193109,14,Cruzamentos,Lima,1297,0,1,Ceará
+193109,14,Cruzamentos,Nino Paraíba,1297,1,0,Ceará
+193109,14,Cruzamentos,Stiven Mendoza,1297,1,2,Ceará
+193109,1,Lançamentos,Camilo,1411,0,7,Campinense
+193109,1,Lançamentos,Carlos Maia,1411,0,1,Campinense
+193109,1,Lançamentos,Christian,1411,3,3,Campinense
+193109,1,Lançamentos,Cleiton,1411,1,2,Campinense
+193109,1,Lançamentos,Dione,1411,1,1,Campinense
+193109,1,Lançamentos,Felipinho,1411,0,4,Campinense
+193109,1,Lançamentos,Filipe Ramon,1411,0,3,Campinense
+193109,1,Lançamentos,Magno Souza,1411,1,0,Campinense
+193109,1,Lançamentos,Bruno Pacheco,1297,1,0,Ceará
+193109,1,Lançamentos,João Ricardo,1297,4,8,Ceará
+193109,1,Lançamentos,Lucas Ribeiro,1297,1,2,Ceará
+193109,1,Lançamentos,Nino Paraíba,1297,0,1,Ceará
+193109,1,Lançamentos,Rodrigo Lindoso,1297,1,0,Ceará
+193109,24,Interceptações,Dione,1411,1,0,Campinense
+193109,24,Interceptações,Juninho Potiguar,1411,1,0,Campinense
+193109,24,Interceptações,Magno Souza,1411,1,0,Campinense
+193109,24,Interceptações,Richardson,1297,1,0,Ceará
+193109,24,Interceptações,Rodrigo Lindoso,1297,1,0,Ceará
+193109,24,Interceptações,Dione,1411,1,0,Campinense
+193109,24,Interceptações,Juninho Potiguar,1411,1,0,Campinense
+193109,24,Interceptações,Magno Souza,1411,1,0,Campinense
+193109,24,Interceptações,Richardson,1297,1,0,Ceará
+193109,24,Interceptações,Rodrigo Lindoso,1297,1,0,Ceará
+193109,4,Dribles,Fernando Sobral,1297,1,0,Ceará
+193109,22,Viradas de jogo,Magno Souza,1411,1,0,Campinense
+193109,22,Viradas de jogo,Lucas Ribeiro,1297,1,0,Ceará
+193109,22,Viradas de jogo,Rodrigo Lindoso,1297,1,0,Ceará
+193109,20,Posse de bola,Alan Leite,1411,20,0,Campinense
+193109,20,Posse de bola,Camilo,1411,42,0,Campinense
+193109,20,Posse de bola,Carlos Maia,1411,12,0,Campinense
+193109,20,Posse de bola,Christian,1411,63,0,Campinense
+193109,20,Posse de bola,Cleiton,1411,81,0,Campinense
+193109,20,Posse de bola,Dione,1411,71,0,Campinense
+193109,20,Posse de bola,Emerson,1411,54,0,Campinense
+193109,20,Posse de bola,Felipinho,1411,108,0,Campinense
+193109,20,Posse de bola,Filipe Ramon,1411,64,0,Campinense
+193109,20,Posse de bola,José Cláudio,1411,12,0,Campinense
+193109,20,Posse de bola,Juninho Potiguar,1411,34,0,Campinense
+193109,20,Posse de bola,Magno Souza,1411,58,0,Campinense
+193109,20,Posse de bola,Olavio,1411,18,0,Campinense
+193109,20,Posse de bola,Patrick Recife,1411,44,0,Campinense
+193109,20,Posse de bola,Bruno Pacheco,1297,117,0,Ceará
+193109,20,Posse de bola,Cléber,1297,38,0,Ceará
+193109,20,Posse de bola,Erick,1297,12,0,Ceará
+193109,20,Posse de bola,Fernando Sobral,1297,53,0,Ceará
+193109,20,Posse de bola,João Ricardo,1297,146,0,Ceará
+193109,20,Posse de bola,Kelvyn,1297,2,0,Ceará
+193109,20,Posse de bola,Léo Rafael,1297,10,0,Ceará
+193109,20,Posse de bola,Lima,1297,46,0,Ceará
+193109,20,Posse de bola,Lucas Ribeiro,1297,88,0,Ceará
+193109,20,Posse de bola,Messias,1297,75,0,Ceará
+193109,20,Posse de bola,Nino Paraíba,1297,70,0,Ceará
+193109,20,Posse de bola,Richardson,1297,46,0,Ceará
+193109,20,Posse de bola,Rodrigo Lindoso,1297,86,0,Ceará
+193109,20,Posse de bola,Stiven Mendoza,1297,47,0,Ceará
+193109,20,Posse de bola,Vinícius,1297,34,0,Ceará
+193109,20,Posse de bola,Zé Roberto,1297,14,0,Ceará
+193109,20,Posse de bola,Alan Leite,1411,20,0,Campinense
+193109,20,Posse de bola,Camilo,1411,42,0,Campinense
+193109,20,Posse de bola,Carlos Maia,1411,12,0,Campinense
+193109,20,Posse de bola,Christian,1411,63,0,Campinense
+193109,20,Posse de bola,Cleiton,1411,81,0,Campinense
+193109,20,Posse de bola,Dione,1411,71,0,Campinense
+193109,20,Posse de bola,Emerson,1411,54,0,Campinense
+193109,20,Posse de bola,Felipinho,1411,108,0,Campinense
+193109,20,Posse de bola,Filipe Ramon,1411,64,0,Campinense
+193109,20,Posse de bola,José Cláudio,1411,12,0,Campinense
+193109,20,Posse de bola,Juninho Potiguar,1411,34,0,Campinense
+193109,20,Posse de bola,Magno Souza,1411,58,0,Campinense
+193109,20,Posse de bola,Olavio,1411,18,0,Campinense
+193109,20,Posse de bola,Patrick Recife,1411,44,0,Campinense
+193109,20,Posse de bola,Bruno Pacheco,1297,117,0,Ceará
+193109,20,Posse de bola,Cléber,1297,38,0,Ceará
+193109,20,Posse de bola,Erick,1297,12,0,Ceará
+193109,20,Posse de bola,Fernando Sobral,1297,53,0,Ceará
+193109,20,Posse de bola,João Ricardo,1297,146,0,Ceará
+193109,20,Posse de bola,Kelvyn,1297,2,0,Ceará
+193109,20,Posse de bola,Léo Rafael,1297,10,0,Ceará
+193109,20,Posse de bola,Lima,1297,46,0,Ceará
+193109,20,Posse de bola,Lucas Ribeiro,1297,88,0,Ceará
+193109,20,Posse de bola,Messias,1297,75,0,Ceará
+193109,20,Posse de bola,Nino Paraíba,1297,70,0,Ceará
+193109,20,Posse de bola,Richardson,1297,46,0,Ceará
+193109,20,Posse de bola,Rodrigo Lindoso,1297,86,0,Ceará
+193109,20,Posse de bola,Stiven Mendoza,1297,47,0,Ceará
+193109,20,Posse de bola,Vinícius,1297,34,0,Ceará
+193109,20,Posse de bola,Zé Roberto,1297,14,0,Ceará
+193109,8,Gols,Cléber,1297,1,0,Ceará
+193109,28,Assistências para finalização,Carlos Maia,1411,1,0,Campinense
+193109,28,Assistências para finalização,Dione,1411,2,0,Campinense
+193109,28,Assistências para finalização,Emerson,1411,1,0,Campinense
+193109,28,Assistências para finalização,Felipinho,1411,2,0,Campinense
+193109,28,Assistências para finalização,Cléber,1297,3,0,Ceará
+193109,28,Assistências para finalização,Nino Paraíba,1297,2,0,Ceará
+193109,15,Defesas,Camilo,1411,1,0,Campinense
+193109,15,Defesas,Cleiton,1411,1,0,Campinense
+193109,15,Defesas,João Ricardo,1297,3,0,Ceará
+193109,15,Defesas,Messias,1297,1,0,Ceará
+193109,23,Defesas difíceis,Camilo,1411,1,0,Campinense
+193109,19,Rebatidas,Christian,1411,3,0,Campinense
+193109,19,Rebatidas,Cleiton,1411,6,0,Campinense
+193109,19,Rebatidas,Felipinho,1411,2,0,Campinense
+193109,19,Rebatidas,Filipe Ramon,1411,1,0,Campinense
+193109,19,Rebatidas,Magno Souza,1411,1,0,Campinense
+193109,19,Rebatidas,Bruno Pacheco,1297,4,0,Ceará
+193109,19,Rebatidas,Fernando Sobral,1297,1,0,Ceará
+193109,19,Rebatidas,João Ricardo,1297,1,0,Ceará
+193109,19,Rebatidas,Lima,1297,1,0,Ceará
+193109,19,Rebatidas,Lucas Ribeiro,1297,3,0,Ceará
+193109,19,Rebatidas,Messias,1297,9,0,Ceará
+193109,19,Rebatidas,Nino Paraíba,1297,2,0,Ceará
+193109,19,Rebatidas,Rodrigo Lindoso,1297,1,0,Ceará
+193109,6,Faltas cometidas,Emerson,1411,3,0,Campinense
+193109,6,Faltas cometidas,Filipe Ramon,1411,1,0,Campinense
+193109,6,Faltas cometidas,Juninho Potiguar,1411,4,0,Campinense
+193109,6,Faltas cometidas,Magno Souza,1411,2,0,Campinense
+193109,6,Faltas cometidas,Patrick Recife,1411,2,0,Campinense
+193109,6,Faltas cometidas,Bruno Pacheco,1297,1,0,Ceará
+193109,6,Faltas cometidas,Cléber,1297,3,0,Ceará
+193109,6,Faltas cometidas,Fernando Sobral,1297,2,0,Ceará
+193109,6,Faltas cometidas,Léo Rafael,1297,1,0,Ceará
+193109,6,Faltas cometidas,Lucas Ribeiro,1297,2,0,Ceará
+193109,6,Faltas cometidas,Messias,1297,1,0,Ceará
+193109,6,Faltas cometidas,Nino Paraíba,1297,1,0,Ceará
+193109,6,Faltas cometidas,Richardson,1297,3,0,Ceará
+193109,6,Faltas cometidas,Rodrigo Lindoso,1297,3,0,Ceará
+193109,6,Faltas cometidas,Zé Roberto,1297,2,0,Ceará
+193109,7,Faltas sofridas,Cleiton,1411,4,0,Campinense
+193109,7,Faltas sofridas,Dione,1411,4,0,Campinense
+193109,7,Faltas sofridas,Emerson,1411,3,0,Campinense
+193109,7,Faltas sofridas,José Cláudio,1411,2,0,Campinense
+193109,7,Faltas sofridas,Juninho Potiguar,1411,1,0,Campinense
+193109,7,Faltas sofridas,Magno Souza,1411,1,0,Campinense
+193109,7,Faltas sofridas,Olavio,1411,2,0,Campinense
+193109,7,Faltas sofridas,Patrick Recife,1411,2,0,Campinense
+193109,7,Faltas sofridas,Bruno Pacheco,1297,4,0,Ceará
+193109,7,Faltas sofridas,Erick,1297,1,0,Ceará
+193109,7,Faltas sofridas,Lima,1297,3,0,Ceará
+193109,7,Faltas sofridas,Nino Paraíba,1297,2,0,Ceará
+193109,7,Faltas sofridas,Zé Roberto,1297,1,0,Ceará
+193109,9,Impedimentos,Cleiton,1411,1,0,Campinense
+193109,9,Impedimentos,Olavio,1411,2,0,Campinense
+193109,9,Impedimentos,Cléber,1297,3,0,Ceará
+193109,9,Impedimentos,Léo Rafael,1297,1,0,Ceará
+193109,9,Impedimentos,Lima,1297,1,0,Ceará
+193109,9,Impedimentos,Zé Roberto,1297,1,0,Ceará
+193109,12,Perda da posse de bola,Alan Leite,1411,1,0,Campinense
+193109,12,Perda da posse de bola,Christian,1411,1,0,Campinense
+193109,12,Perda da posse de bola,Dione,1411,1,0,Campinense
+193109,12,Perda da posse de bola,Emerson,1411,3,0,Campinense
+193109,12,Perda da posse de bola,Felipinho,1411,1,0,Campinense
+193109,12,Perda da posse de bola,Filipe Ramon,1411,1,0,Campinense
+193109,12,Perda da posse de bola,José Cláudio,1411,2,0,Campinense
+193109,12,Perda da posse de bola,Juninho Potiguar,1411,3,0,Campinense
+193109,12,Perda da posse de bola,Magno Souza,1411,1,0,Campinense
+193109,12,Perda da posse de bola,Olavio,1411,2,0,Campinense
+193109,12,Perda da posse de bola,Bruno Pacheco,1297,4,0,Ceará
+193109,12,Perda da posse de bola,Fernando Sobral,1297,1,0,Ceará
+193109,12,Perda da posse de bola,Lucas Ribeiro,1297,1,0,Ceará
+193109,12,Perda da posse de bola,Messias,1297,1,0,Ceará
+193109,12,Perda da posse de bola,Nino Paraíba,1297,2,0,Ceará
+193109,12,Perda da posse de bola,Vinícius,1297,1,0,Ceará
+193109,25,Cartões amarelos,Filipe Ramon,1411,1,0,Campinense
+193109,25,Cartões amarelos,Juninho Potiguar,1411,1,0,Campinense
+193109,25,Cartões amarelos,Fernando Sobral,1297,1,0,Ceará
+193109,25,Cartões amarelos,Lucas Ribeiro,1297,1,0,Ceará
+193109,25,Cartões amarelos,Rodrigo Lindoso,1297,1,0,Ceará
+193109,25,Cartões amarelos,Zé Roberto,1297,1,0,Ceará
+193110,2,Passes,Adílio Gomes,2574,10,4,Globo
+193110,2,Passes,Alessandro,2574,12,0,Globo
+193110,2,Passes,Chaparral,2574,1,1,Globo
+193110,2,Passes,Eduardo Bahia,2574,22,1,Globo
+193110,2,Passes,Geovane,2574,2,1,Globo
+193110,2,Passes,Gravatá,2574,22,1,Globo
+193110,2,Passes,Hiltinho,2574,6,2,Globo
+193110,2,Passes,Hudson,2574,13,4,Globo
+193110,2,Passes,Iago Hass ,2574,11,0,Globo
+193110,2,Passes,João Aleluia,2574,12,4,Globo
+193110,2,Passes,Joãozinho,2574,2,0,Globo
+193110,2,Passes,Jonathan,2574,35,5,Globo
+193110,2,Passes,Nino Mipibu,2574,19,7,Globo
+193110,2,Passes,Palominha,2574,7,1,Globo
+193110,2,Passes,Pedro Maia,2574,24,5,Globo
+193110,2,Passes,Ramon,2574,24,4,Globo
+193110,2,Passes,Amarildo Aparecido,1222,2,2,Náutico
+193110,2,Passes,Carlão,1222,57,5,Náutico
+193110,2,Passes,Djavan,1222,11,1,Náutico
+193110,2,Passes,Ewandro,1222,12,5,Náutico
+193110,2,Passes,Hereda,1222,43,9,Náutico
+193110,2,Passes,Jean Carlos,1222,10,3,Náutico
+193110,2,Passes,Juninho Carpina,1222,2,2,Náutico
+193110,2,Passes,Júnior Tavares,1222,49,4,Náutico
+193110,2,Passes,Léo Passos,1222,8,3,Náutico
+193110,2,Passes,Lucas Perri,1222,18,0,Náutico
+193110,2,Passes,Pedro Vitor,1222,13,2,Náutico
+193110,2,Passes,Richard Franco,1222,30,5,Náutico
+193110,2,Passes,Robinho,1222,10,0,Náutico
+193110,2,Passes,Thássio,1222,4,1,Náutico
+193110,2,Passes,Wagninho,1222,11,3,Náutico
+193110,2,Passes,Wellington,1222,56,0,Náutico
+193110,3,Finalizações,Adílio Gomes,2574,1,0,Globo
+193110,3,Finalizações,Eduardo Bahia,2574,0,1,Globo
+193110,3,Finalizações,Hiltinho,2574,0,1,Globo
+193110,3,Finalizações,João Aleluia,2574,0,1,Globo
+193110,3,Finalizações,Jonathan,2574,1,0,Globo
+193110,3,Finalizações,Nino Mipibu,2574,0,1,Globo
+193110,3,Finalizações,Pedro Maia,2574,0,1,Globo
+193110,3,Finalizações,Amarildo Aparecido,1222,0,1,Náutico
+193110,3,Finalizações,Carlão,1222,0,2,Náutico
+193110,3,Finalizações,Ewandro,1222,0,1,Náutico
+193110,3,Finalizações,Juninho Carpina,1222,0,1,Náutico
+193110,3,Finalizações,Júnior Tavares,1222,1,0,Náutico
+193110,3,Finalizações,Léo Passos,1222,3,0,Náutico
+193110,3,Finalizações,Richard Franco,1222,0,1,Náutico
+193110,3,Finalizações,Robinho,1222,1,1,Náutico
+193110,3,Finalizações,Wagninho,1222,1,0,Náutico
+193110,5,Desarmes,Adílio Gomes,2574,2,0,Globo
+193110,5,Desarmes,Alessandro,2574,1,0,Globo
+193110,5,Desarmes,Eduardo Bahia,2574,1,0,Globo
+193110,5,Desarmes,Gravatá,2574,1,2,Globo
+193110,5,Desarmes,Hiltinho,2574,1,0,Globo
+193110,5,Desarmes,Hudson,2574,1,0,Globo
+193110,5,Desarmes,João Aleluia,2574,1,0,Globo
+193110,5,Desarmes,Jonathan,2574,1,0,Globo
+193110,5,Desarmes,Palominha,2574,2,0,Globo
+193110,5,Desarmes,Pedro Maia,2574,1,0,Globo
+193110,5,Desarmes,Ramon,2574,0,1,Globo
+193110,5,Desarmes,Carlão,1222,1,0,Náutico
+193110,5,Desarmes,Ewandro,1222,1,0,Náutico
+193110,5,Desarmes,Hereda,1222,3,0,Náutico
+193110,5,Desarmes,Léo Passos,1222,3,0,Náutico
+193110,5,Desarmes,Pedro Vitor,1222,1,0,Náutico
+193110,5,Desarmes,Richard Franco,1222,3,0,Náutico
+193110,14,Cruzamentos,Nino Mipibu,2574,0,6,Globo
+193110,14,Cruzamentos,Palominha,2574,1,1,Globo
+193110,14,Cruzamentos,Djavan,1222,0,1,Náutico
+193110,14,Cruzamentos,Hereda,1222,0,2,Náutico
+193110,14,Cruzamentos,Jean Carlos,1222,4,11,Náutico
+193110,14,Cruzamentos,Léo Passos,1222,0,1,Náutico
+193110,14,Cruzamentos,Pedro Vitor,1222,0,1,Náutico
+193110,14,Cruzamentos,Robinho,1222,0,1,Náutico
+193110,14,Cruzamentos,Wagninho,1222,0,3,Náutico
+193110,1,Lançamentos,Alessandro,2574,0,1,Globo
+193110,1,Lançamentos,Eduardo Bahia,2574,1,7,Globo
+193110,1,Lançamentos,Gravatá,2574,0,5,Globo
+193110,1,Lançamentos,Hudson,2574,1,2,Globo
+193110,1,Lançamentos,Iago Hass ,2574,4,12,Globo
+193110,1,Lançamentos,Nino Mipibu,2574,1,0,Globo
+193110,1,Lançamentos,Pedro Maia,2574,0,1,Globo
+193110,1,Lançamentos,Ramon,2574,1,2,Globo
+193110,1,Lançamentos,Carlão,1222,1,0,Náutico
+193110,1,Lançamentos,Ewandro,1222,0,1,Náutico
+193110,1,Lançamentos,Hereda,1222,0,1,Náutico
+193110,1,Lançamentos,Jean Carlos,1222,0,2,Náutico
+193110,1,Lançamentos,Júnior Tavares,1222,0,1,Náutico
+193110,1,Lançamentos,Lucas Perri,1222,3,5,Náutico
+193110,1,Lançamentos,Richard Franco,1222,1,0,Náutico
+193110,1,Lançamentos,Wellington,1222,2,0,Náutico
+193110,24,Interceptações,Jonathan,2574,1,0,Globo
+193110,24,Interceptações,Carlão,1222,1,0,Náutico
+193110,24,Interceptações,Djavan,1222,1,0,Náutico
+193110,24,Interceptações,Jean Carlos,1222,1,0,Náutico
+193110,24,Interceptações,Júnior Tavares,1222,0,1,Náutico
+193110,24,Interceptações,Pedro Vitor,1222,1,0,Náutico
+193110,24,Interceptações,Robinho,1222,1,0,Náutico
+193110,24,Interceptações,Wellington,1222,1,0,Náutico
+193110,4,Dribles,Adílio Gomes,2574,1,0,Globo
+193110,4,Dribles,Alessandro,2574,0,1,Globo
+193110,4,Dribles,Nino Mipibu,2574,1,0,Globo
+193110,4,Dribles,Amarildo Aparecido,1222,0,1,Náutico
+193110,4,Dribles,Jean Carlos,1222,1,0,Náutico
+193110,4,Dribles,Wagninho,1222,1,1,Náutico
+193110,22,Viradas de jogo,Pedro Maia,2574,1,0,Globo
+193110,22,Viradas de jogo,Carlão,1222,0,1,Náutico
+193110,22,Viradas de jogo,Wagninho,1222,0,1,Náutico
+193110,20,Posse de bola,Adílio Gomes,2574,70,0,Globo
+193110,20,Posse de bola,Alessandro,2574,51,0,Globo
+193110,20,Posse de bola,Chaparral,2574,6,0,Globo
+193110,20,Posse de bola,Eduardo Bahia,2574,92,0,Globo
+193110,20,Posse de bola,Geovane,2574,12,0,Globo
+193110,20,Posse de bola,Gravatá,2574,94,0,Globo
+193110,20,Posse de bola,Hiltinho,2574,29,0,Globo
+193110,20,Posse de bola,Hudson,2574,48,0,Globo
+193110,20,Posse de bola,Iago Hass ,2574,102,0,Globo
+193110,20,Posse de bola,João Aleluia,2574,52,0,Globo
+193110,20,Posse de bola,Joãozinho,2574,6,0,Globo
+193110,20,Posse de bola,Jonathan,2574,103,0,Globo
+193110,20,Posse de bola,Nino Mipibu,2574,115,0,Globo
+193110,20,Posse de bola,Palominha,2574,37,0,Globo
+193110,20,Posse de bola,Pedro Maia,2574,96,0,Globo
+193110,20,Posse de bola,Ramon,2574,81,0,Globo
+193110,20,Posse de bola,Amarildo Aparecido,1222,18,0,Náutico
+193110,20,Posse de bola,Carlão,1222,172,0,Náutico
+193110,20,Posse de bola,Djavan,1222,36,0,Náutico
+193110,20,Posse de bola,Ewandro,1222,52,0,Náutico
+193110,20,Posse de bola,Hereda,1222,145,0,Náutico
+193110,20,Posse de bola,Jean Carlos,1222,82,0,Náutico
+193110,20,Posse de bola,Juninho Carpina,1222,10,0,Náutico
+193110,20,Posse de bola,Júnior Tavares,1222,133,0,Náutico
+193110,20,Posse de bola,Léo Passos,1222,52,0,Náutico
+193110,20,Posse de bola,Lucas Perri,1222,99,0,Náutico
+193110,20,Posse de bola,Pedro Vitor,1222,53,0,Náutico
+193110,20,Posse de bola,Richard Franco,1222,103,0,Náutico
+193110,20,Posse de bola,Robinho,1222,38,0,Náutico
+193110,20,Posse de bola,Thássio,1222,14,0,Náutico
+193110,20,Posse de bola,Wagninho,1222,73,0,Náutico
+193110,20,Posse de bola,Wellington,1222,160,0,Náutico
+193110,20,Posse de bola,Adílio Gomes,2574,70,0,Globo
+193110,20,Posse de bola,Alessandro,2574,51,0,Globo
+193110,20,Posse de bola,Chaparral,2574,6,0,Globo
+193110,20,Posse de bola,Eduardo Bahia,2574,92,0,Globo
+193110,20,Posse de bola,Geovane,2574,12,0,Globo
+193110,20,Posse de bola,Gravatá,2574,94,0,Globo
+193110,20,Posse de bola,Hiltinho,2574,29,0,Globo
+193110,20,Posse de bola,Hudson,2574,48,0,Globo
+193110,20,Posse de bola,Iago Hass ,2574,102,0,Globo
+193110,20,Posse de bola,João Aleluia,2574,52,0,Globo
+193110,20,Posse de bola,Joãozinho,2574,6,0,Globo
+193110,20,Posse de bola,Jonathan,2574,103,0,Globo
+193110,20,Posse de bola,Nino Mipibu,2574,115,0,Globo
+193110,20,Posse de bola,Palominha,2574,37,0,Globo
+193110,20,Posse de bola,Pedro Maia,2574,96,0,Globo
+193110,20,Posse de bola,Ramon,2574,81,0,Globo
+193110,20,Posse de bola,Amarildo Aparecido,1222,18,0,Náutico
+193110,20,Posse de bola,Carlão,1222,172,0,Náutico
+193110,20,Posse de bola,Djavan,1222,36,0,Náutico
+193110,20,Posse de bola,Ewandro,1222,52,0,Náutico
+193110,20,Posse de bola,Hereda,1222,145,0,Náutico
+193110,20,Posse de bola,Jean Carlos,1222,82,0,Náutico
+193110,20,Posse de bola,Juninho Carpina,1222,10,0,Náutico
+193110,20,Posse de bola,Júnior Tavares,1222,133,0,Náutico
+193110,20,Posse de bola,Léo Passos,1222,52,0,Náutico
+193110,20,Posse de bola,Lucas Perri,1222,99,0,Náutico
+193110,20,Posse de bola,Pedro Vitor,1222,53,0,Náutico
+193110,20,Posse de bola,Richard Franco,1222,103,0,Náutico
+193110,20,Posse de bola,Robinho,1222,38,0,Náutico
+193110,20,Posse de bola,Thássio,1222,14,0,Náutico
+193110,20,Posse de bola,Wagninho,1222,73,0,Náutico
+193110,20,Posse de bola,Wellington,1222,160,0,Náutico
+193110,8,Gols,Léo Passos,1222,1,0,Náutico
+193110,8,Gols,Robinho,1222,1,0,Náutico
+193110,28,Assistências para finalização,Eduardo Bahia,2574,1,0,Globo
+193110,28,Assistências para finalização,Hudson,2574,1,0,Globo
+193110,28,Assistências para finalização,Palominha,2574,1,0,Globo
+193110,28,Assistências para finalização,Pedro Maia,2574,1,0,Globo
+193110,28,Assistências para finalização,Carlão,1222,1,0,Náutico
+193110,28,Assistências para finalização,Jean Carlos,1222,4,0,Náutico
+193110,28,Assistências para finalização,Pedro Vitor,1222,1,0,Náutico
+193110,28,Assistências para finalização,Richard Franco,1222,1,0,Náutico
+193110,28,Assistências para finalização,Thássio,1222,1,0,Náutico
+193110,28,Assistências para finalização,Eduardo Bahia,2574,1,0,Globo
+193110,28,Assistências para finalização,Hudson,2574,1,0,Globo
+193110,28,Assistências para finalização,Palominha,2574,1,0,Globo
+193110,28,Assistências para finalização,Pedro Maia,2574,1,0,Globo
+193110,28,Assistências para finalização,Carlão,1222,1,0,Náutico
+193110,28,Assistências para finalização,Jean Carlos,1222,4,0,Náutico
+193110,28,Assistências para finalização,Pedro Vitor,1222,1,0,Náutico
+193110,28,Assistências para finalização,Richard Franco,1222,1,0,Náutico
+193110,28,Assistências para finalização,Thássio,1222,1,0,Náutico
+193110,27,Assistências,Ewandro,1222,1,0,Náutico
+193110,27,Assistências,Jean Carlos,1222,1,0,Náutico
+193110,15,Defesas,Gravatá,2574,1,0,Globo
+193110,15,Defesas,Lucas Perri,1222,2,0,Náutico
+193110,15,Defesas,Wellington,1222,1,0,Náutico
+193110,23,Defesas difíceis,Iago Hass ,2574,3,0,Globo
+193110,19,Rebatidas,Adílio Gomes,2574,3,0,Globo
+193110,19,Rebatidas,Alessandro,2574,2,0,Globo
+193110,19,Rebatidas,Eduardo Bahia,2574,3,0,Globo
+193110,19,Rebatidas,Geovane,2574,3,0,Globo
+193110,19,Rebatidas,Gravatá,2574,5,0,Globo
+193110,19,Rebatidas,Hiltinho,2574,1,0,Globo
+193110,19,Rebatidas,Hudson,2574,2,0,Globo
+193110,19,Rebatidas,Jonathan,2574,1,0,Globo
+193110,19,Rebatidas,Pedro Maia,2574,8,0,Globo
+193110,19,Rebatidas,Ramon,2574,2,0,Globo
+193110,19,Rebatidas,Carlão,1222,5,0,Náutico
+193110,19,Rebatidas,Hereda,1222,3,0,Náutico
+193110,19,Rebatidas,Júnior Tavares,1222,1,0,Náutico
+193110,19,Rebatidas,Léo Passos,1222,1,0,Náutico
+193110,19,Rebatidas,Lucas Perri,1222,1,0,Náutico
+193110,19,Rebatidas,Richard Franco,1222,1,0,Náutico
+193110,19,Rebatidas,Wagninho,1222,1,0,Náutico
+193110,19,Rebatidas,Wellington,1222,3,0,Náutico
+193110,6,Faltas cometidas,Adílio Gomes,2574,2,0,Globo
+193110,6,Faltas cometidas,Alessandro,2574,2,0,Globo
+193110,6,Faltas cometidas,Gravatá,2574,1,0,Globo
+193110,6,Faltas cometidas,Joãozinho,2574,1,0,Globo
+193110,6,Faltas cometidas,Jonathan,2574,2,0,Globo
+193110,6,Faltas cometidas,Nino Mipibu,2574,4,0,Globo
+193110,6,Faltas cometidas,Pedro Maia,2574,1,0,Globo
+193110,6,Faltas cometidas,Ramon,2574,1,0,Globo
+193110,6,Faltas cometidas,Amarildo Aparecido,1222,1,0,Náutico
+193110,6,Faltas cometidas,Djavan,1222,2,0,Náutico
+193110,6,Faltas cometidas,Hereda,1222,1,0,Náutico
+193110,6,Faltas cometidas,Júnior Tavares,1222,1,0,Náutico
+193110,6,Faltas cometidas,Pedro Vitor,1222,1,0,Náutico
+193110,6,Faltas cometidas,Richard Franco,1222,5,0,Náutico
+193110,6,Faltas cometidas,Wagninho,1222,3,0,Náutico
+193110,6,Faltas cometidas,Wellington,1222,2,0,Náutico
+193110,7,Faltas sofridas,Adílio Gomes,2574,2,0,Globo
+193110,7,Faltas sofridas,Eduardo Bahia,2574,1,0,Globo
+193110,7,Faltas sofridas,Gravatá,2574,1,0,Globo
+193110,7,Faltas sofridas,Hiltinho,2574,1,0,Globo
+193110,7,Faltas sofridas,Hudson,2574,1,0,Globo
+193110,7,Faltas sofridas,João Aleluia,2574,2,0,Globo
+193110,7,Faltas sofridas,Jonathan,2574,1,0,Globo
+193110,7,Faltas sofridas,Nino Mipibu,2574,3,0,Globo
+193110,7,Faltas sofridas,Palominha,2574,2,0,Globo
+193110,7,Faltas sofridas,Ramon,2574,2,0,Globo
+193110,7,Faltas sofridas,Carlão,1222,1,0,Náutico
+193110,7,Faltas sofridas,Ewandro,1222,1,0,Náutico
+193110,7,Faltas sofridas,Jean Carlos,1222,3,0,Náutico
+193110,7,Faltas sofridas,Júnior Tavares,1222,1,0,Náutico
+193110,7,Faltas sofridas,Léo Passos,1222,2,0,Náutico
+193110,7,Faltas sofridas,Richard Franco,1222,1,0,Náutico
+193110,7,Faltas sofridas,Robinho,1222,4,0,Náutico
+193110,7,Faltas sofridas,Thássio,1222,1,0,Náutico
+193110,9,Impedimentos,Eduardo Bahia,2574,1,0,Globo
+193110,12,Perda da posse de bola,Adílio Gomes,2574,2,0,Globo
+193110,12,Perda da posse de bola,Alessandro,2574,2,0,Globo
+193110,12,Perda da posse de bola,Chaparral,2574,1,0,Globo
+193110,12,Perda da posse de bola,Gravatá,2574,1,0,Globo
+193110,12,Perda da posse de bola,Hiltinho,2574,1,0,Globo
+193110,12,Perda da posse de bola,João Aleluia,2574,4,0,Globo
+193110,12,Perda da posse de bola,Nino Mipibu,2574,7,0,Globo
+193110,12,Perda da posse de bola,Palominha,2574,1,0,Globo
+193110,12,Perda da posse de bola,Pedro Maia,2574,1,0,Globo
+193110,12,Perda da posse de bola,Amarildo Aparecido,1222,2,0,Náutico
+193110,12,Perda da posse de bola,Carlão,1222,1,0,Náutico
+193110,12,Perda da posse de bola,Djavan,1222,2,0,Náutico
+193110,12,Perda da posse de bola,Ewandro,1222,1,0,Náutico
+193110,12,Perda da posse de bola,Hereda,1222,6,0,Náutico
+193110,12,Perda da posse de bola,Jean Carlos,1222,2,0,Náutico
+193110,12,Perda da posse de bola,Júnior Tavares,1222,2,0,Náutico
+193110,12,Perda da posse de bola,Léo Passos,1222,3,0,Náutico
+193110,12,Perda da posse de bola,Pedro Vitor,1222,3,0,Náutico
+193110,12,Perda da posse de bola,Richard Franco,1222,2,0,Náutico
+193110,12,Perda da posse de bola,Robinho,1222,1,0,Náutico
+193110,12,Perda da posse de bola,Wagninho,1222,5,0,Náutico
+193110,12,Perda da posse de bola,Wellington,1222,1,0,Náutico
+193110,25,Cartões amarelos,Alessandro,2574,1,0,Globo
+193110,25,Cartões amarelos,Nino Mipibu,2574,1,0,Globo
+193110,25,Cartões amarelos,Ramon,2574,1,0,Globo
+193110,25,Cartões amarelos,Pedro Vitor,1222,1,0,Náutico
+193110,25,Cartões amarelos,Robinho,1222,1,0,Náutico
+193110,25,Cartões amarelos,Wellington,1222,1,0,Náutico
+193111,2,Passes,Bremer,2142,24,2,Atlético de Alagoinhas
+193111,2,Passes,Caetano,2142,3,1,Atlético de Alagoinhas
+193111,2,Passes,Cesinha,2142,1,1,Atlético de Alagoinhas
+193111,2,Passes,Dionísio,2142,17,1,Atlético de Alagoinhas
+193111,2,Passes,Edson,2142,15,1,Atlético de Alagoinhas
+193111,2,Passes,Fábio Lima,2142,10,0,Atlético de Alagoinhas
+193111,2,Passes,Iran,2142,35,0,Atlético de Alagoinhas
+193111,2,Passes,Jeferson,2142,5,1,Atlético de Alagoinhas
+193111,2,Passes,Jerry,2142,13,4,Atlético de Alagoinhas
+193111,2,Passes,Leandro Sobral,2142,5,1,Atlético de Alagoinhas
+193111,2,Passes,Lucas Alisson,2142,22,5,Atlético de Alagoinhas
+193111,2,Passes,Matheus Leal,2142,19,2,Atlético de Alagoinhas
+193111,2,Passes,Miller,2142,9,2,Atlético de Alagoinhas
+193111,2,Passes,Paulinho,2142,10,5,Atlético de Alagoinhas
+193111,2,Passes,Thiaguinho,2142,9,2,Atlético de Alagoinhas
+193111,2,Passes,Adriano,1532,13,0,Sousa-PB
+193111,2,Passes,André Victor,1532,3,2,Sousa-PB
+193111,2,Passes,Arthur Santos,1532,3,1,Sousa-PB
+193111,2,Passes,Daniel Costa,1532,19,5,Sousa-PB
+193111,2,Passes,Doda,1532,17,3,Sousa-PB
+193111,2,Passes,Esquerdinha,1532,19,4,Sousa-PB
+193111,2,Passes,Iranílson,1532,17,2,Sousa-PB
+193111,2,Passes,Jo Boy,1532,4,2,Sousa-PB
+193111,2,Passes,João Victor,1532,1,1,Sousa-PB
+193111,2,Passes,Juninho Paraíba,1532,21,4,Sousa-PB
+193111,2,Passes,Marcelo Duarte,1532,13,0,Sousa-PB
+193111,2,Passes,Otacílio Marcos,1532,1,1,Sousa-PB
+193111,2,Passes,Ricardo,1532,5,0,Sousa-PB
+193111,2,Passes,Vinicius Paiva,1532,13,4,Sousa-PB
+193111,3,Finalizações,Bremer,2142,0,1,Atlético de Alagoinhas
+193111,3,Finalizações,Dionísio,2142,0,2,Atlético de Alagoinhas
+193111,3,Finalizações,Iran,2142,0,2,Atlético de Alagoinhas
+193111,3,Finalizações,Jerry,2142,0,1,Atlético de Alagoinhas
+193111,3,Finalizações,Miller,2142,0,1,Atlético de Alagoinhas
+193111,3,Finalizações,Thiaguinho,2142,0,1,Atlético de Alagoinhas
+193111,3,Finalizações,Adriano,1532,0,1,Sousa-PB
+193111,3,Finalizações,Arthur Santos,1532,0,1,Sousa-PB
+193111,3,Finalizações,Doda,1532,0,1,Sousa-PB
+193111,3,Finalizações,Esquerdinha,1532,0,2,Sousa-PB
+193111,3,Finalizações,Iranílson,1532,1,0,Sousa-PB
+193111,3,Finalizações,Jo Boy,1532,0,1,Sousa-PB
+193111,3,Finalizações,Otacílio Marcos,1532,1,0,Sousa-PB
+193111,5,Desarmes,Dionísio,2142,3,0,Atlético de Alagoinhas
+193111,5,Desarmes,Edson,2142,1,0,Atlético de Alagoinhas
+193111,5,Desarmes,Iran,2142,4,0,Atlético de Alagoinhas
+193111,5,Desarmes,Jeferson,2142,1,0,Atlético de Alagoinhas
+193111,5,Desarmes,Jerry,2142,0,1,Atlético de Alagoinhas
+193111,5,Desarmes,Matheus Leal,2142,2,0,Atlético de Alagoinhas
+193111,5,Desarmes,Miller,2142,2,0,Atlético de Alagoinhas
+193111,5,Desarmes,Paulinho,2142,2,0,Atlético de Alagoinhas
+193111,5,Desarmes,Adriano,1532,2,0,Sousa-PB
+193111,5,Desarmes,André Victor,1532,1,0,Sousa-PB
+193111,5,Desarmes,Daniel Costa,1532,1,0,Sousa-PB
+193111,5,Desarmes,Doda,1532,3,1,Sousa-PB
+193111,5,Desarmes,Esquerdinha,1532,1,0,Sousa-PB
+193111,5,Desarmes,Iranílson,1532,3,0,Sousa-PB
+193111,5,Desarmes,Juninho Paraíba,1532,2,0,Sousa-PB
+193111,5,Desarmes,Marcelo Duarte,1532,1,0,Sousa-PB
+193111,5,Desarmes,Vinicius Paiva,1532,2,1,Sousa-PB
+193111,14,Cruzamentos,Caetano,2142,0,1,Atlético de Alagoinhas
+193111,14,Cruzamentos,Cesinha,2142,0,1,Atlético de Alagoinhas
+193111,14,Cruzamentos,Dionísio,2142,0,2,Atlético de Alagoinhas
+193111,14,Cruzamentos,Edson,2142,0,1,Atlético de Alagoinhas
+193111,14,Cruzamentos,Jerry,2142,0,1,Atlético de Alagoinhas
+193111,14,Cruzamentos,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193111,14,Cruzamentos,Matheus Leal,2142,1,2,Atlético de Alagoinhas
+193111,14,Cruzamentos,Miller,2142,1,0,Atlético de Alagoinhas
+193111,14,Cruzamentos,Thiaguinho,2142,2,8,Atlético de Alagoinhas
+193111,14,Cruzamentos,André Victor,1532,0,1,Sousa-PB
+193111,14,Cruzamentos,Doda,1532,1,1,Sousa-PB
+193111,14,Cruzamentos,Esquerdinha,1532,2,3,Sousa-PB
+193111,14,Cruzamentos,Otacílio Marcos,1532,0,1,Sousa-PB
+193111,14,Cruzamentos,Vinicius Paiva,1532,0,2,Sousa-PB
+193111,1,Lançamentos,Edson,2142,1,0,Atlético de Alagoinhas
+193111,1,Lançamentos,Fábio Lima,2142,0,2,Atlético de Alagoinhas
+193111,1,Lançamentos,Iran,2142,3,3,Atlético de Alagoinhas
+193111,1,Lançamentos,Lucas Alisson,2142,1,1,Atlético de Alagoinhas
+193111,1,Lançamentos,Matheus Leal,2142,2,0,Atlético de Alagoinhas
+193111,1,Lançamentos,Paulinho,2142,1,0,Atlético de Alagoinhas
+193111,1,Lançamentos,Thiaguinho,2142,0,2,Atlético de Alagoinhas
+193111,1,Lançamentos,Adriano,1532,2,4,Sousa-PB
+193111,1,Lançamentos,André Victor,1532,0,1,Sousa-PB
+193111,1,Lançamentos,Daniel Costa,1532,0,3,Sousa-PB
+193111,1,Lançamentos,Doda,1532,1,0,Sousa-PB
+193111,1,Lançamentos,Esquerdinha,1532,1,2,Sousa-PB
+193111,1,Lançamentos,Iranílson,1532,0,3,Sousa-PB
+193111,1,Lançamentos,Marcelo Duarte,1532,0,3,Sousa-PB
+193111,1,Lançamentos,Ricardo,1532,1,7,Sousa-PB
+193111,24,Interceptações,Bremer,2142,1,0,Atlético de Alagoinhas
+193111,24,Interceptações,Edson,2142,2,0,Atlético de Alagoinhas
+193111,24,Interceptações,Iran,2142,1,0,Atlético de Alagoinhas
+193111,24,Interceptações,Jerry,2142,1,0,Atlético de Alagoinhas
+193111,24,Interceptações,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193111,24,Interceptações,Daniel Costa,1532,1,0,Sousa-PB
+193111,24,Interceptações,Doda,1532,1,0,Sousa-PB
+193111,24,Interceptações,Vinicius Paiva,1532,1,0,Sousa-PB
+193111,4,Dribles,Jerry,2142,1,0,Atlético de Alagoinhas
+193111,4,Dribles,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193111,4,Dribles,Miller,2142,3,0,Atlético de Alagoinhas
+193111,4,Dribles,Paulinho,2142,1,1,Atlético de Alagoinhas
+193111,4,Dribles,André Victor,1532,2,0,Sousa-PB
+193111,4,Dribles,Arthur Santos,1532,1,1,Sousa-PB
+193111,4,Dribles,Esquerdinha,1532,1,1,Sousa-PB
+193111,4,Dribles,Iranílson,1532,0,1,Sousa-PB
+193111,4,Dribles,Jo Boy,1532,1,0,Sousa-PB
+193111,22,Viradas de jogo,Jeferson,2142,1,0,Atlético de Alagoinhas
+193111,22,Viradas de jogo,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193111,22,Viradas de jogo,Miller,2142,1,0,Atlético de Alagoinhas
+193111,22,Viradas de jogo,André Victor,1532,1,0,Sousa-PB
+193111,22,Viradas de jogo,Daniel Costa,1532,1,1,Sousa-PB
+193111,22,Viradas de jogo,Juninho Paraíba,1532,0,1,Sousa-PB
+193111,20,Posse de bola,Bremer,2142,66,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Caetano,2142,14,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Cesinha,2142,14,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Dionísio,2142,74,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Edson,2142,57,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Fábio Lima,2142,51,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Iran,2142,133,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Jeferson,2142,26,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Jerry,2142,60,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Leandro Sobral,2142,18,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Lucas Alisson,2142,90,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Matheus Leal,2142,81,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Miller,2142,76,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Paulinho,2142,65,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Thiaguinho,2142,70,0,Atlético de Alagoinhas
+193111,20,Posse de bola,Adriano,1532,76,0,Sousa-PB
+193111,20,Posse de bola,André Victor,1532,29,0,Sousa-PB
+193111,20,Posse de bola,Arthur Santos,1532,24,0,Sousa-PB
+193111,20,Posse de bola,Daniel Costa,1532,82,0,Sousa-PB
+193111,20,Posse de bola,Doda,1532,72,0,Sousa-PB
+193111,20,Posse de bola,Esquerdinha,1532,101,0,Sousa-PB
+193111,20,Posse de bola,Iranílson,1532,72,0,Sousa-PB
+193111,20,Posse de bola,Jo Boy,1532,18,0,Sousa-PB
+193111,20,Posse de bola,João Victor,1532,6,0,Sousa-PB
+193111,20,Posse de bola,Juninho Paraíba,1532,74,0,Sousa-PB
+193111,20,Posse de bola,Marcelo Duarte,1532,74,0,Sousa-PB
+193111,20,Posse de bola,Otacílio Marcos,1532,18,0,Sousa-PB
+193111,20,Posse de bola,Ricardo,1532,55,0,Sousa-PB
+193111,20,Posse de bola,Vinicius Paiva,1532,66,0,Sousa-PB
+193111,28,Assistências para finalização,Matheus Leal,2142,2,0,Atlético de Alagoinhas
+193111,28,Assistências para finalização,Miller,2142,1,0,Atlético de Alagoinhas
+193111,28,Assistências para finalização,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193111,28,Assistências para finalização,Esquerdinha,1532,4,0,Sousa-PB
+193111,28,Assistências para finalização,Jo Boy,1532,1,0,Sousa-PB
+193111,28,Assistências para finalização,Juninho Paraíba,1532,1,0,Sousa-PB
+193111,15,Defesas,Bremer,2142,1,0,Atlético de Alagoinhas
+193111,15,Defesas,Paulinho,2142,1,0,Atlético de Alagoinhas
+193111,15,Defesas,Adriano,1532,1,0,Sousa-PB
+193111,23,Defesas difíceis,Fábio Lima,2142,2,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Bremer,2142,2,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Fábio Lima,2142,2,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Iran,2142,11,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Leandro Sobral,2142,2,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Lucas Alisson,2142,2,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Matheus Leal,2142,3,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Miller,2142,1,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Paulinho,2142,1,0,Atlético de Alagoinhas
+193111,19,Rebatidas,Adriano,1532,6,0,Sousa-PB
+193111,19,Rebatidas,Daniel Costa,1532,6,0,Sousa-PB
+193111,19,Rebatidas,Doda,1532,1,0,Sousa-PB
+193111,19,Rebatidas,Iranílson,1532,2,0,Sousa-PB
+193111,19,Rebatidas,Juninho Paraíba,1532,1,0,Sousa-PB
+193111,19,Rebatidas,Marcelo Duarte,1532,11,0,Sousa-PB
+193111,19,Rebatidas,Otacílio Marcos,1532,1,0,Sousa-PB
+193111,19,Rebatidas,Vinicius Paiva,1532,3,0,Sousa-PB
+193111,6,Faltas cometidas,Cesinha,2142,1,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Dionísio,2142,3,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Edson,2142,1,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Iran,2142,1,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Jerry,2142,1,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Lucas Alisson,2142,2,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Miller,2142,3,0,Atlético de Alagoinhas
+193111,6,Faltas cometidas,Adriano,1532,2,0,Sousa-PB
+193111,6,Faltas cometidas,André Victor,1532,1,0,Sousa-PB
+193111,6,Faltas cometidas,Daniel Costa,1532,1,0,Sousa-PB
+193111,6,Faltas cometidas,Doda,1532,4,0,Sousa-PB
+193111,6,Faltas cometidas,Esquerdinha,1532,3,0,Sousa-PB
+193111,6,Faltas cometidas,Juninho Paraíba,1532,3,0,Sousa-PB
+193111,6,Faltas cometidas,Marcelo Duarte,1532,3,0,Sousa-PB
+193111,6,Faltas cometidas,Otacílio Marcos,1532,2,0,Sousa-PB
+193111,6,Faltas cometidas,Vinicius Paiva,1532,3,0,Sousa-PB
+193111,7,Faltas sofridas,Caetano,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Dionísio,2142,3,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Jeferson,2142,2,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Jerry,2142,4,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Miller,2142,3,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Paulinho,2142,2,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Thiaguinho,2142,4,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Adriano,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Arthur Santos,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Daniel Costa,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Esquerdinha,1532,2,0,Sousa-PB
+193111,7,Faltas sofridas,Iranílson,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Jo Boy,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Juninho Paraíba,1532,2,0,Sousa-PB
+193111,7,Faltas sofridas,Marcelo Duarte,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Otacílio Marcos,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Ricardo,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Caetano,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Dionísio,2142,3,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Jeferson,2142,2,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Jerry,2142,4,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Miller,2142,3,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Paulinho,2142,2,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Thiaguinho,2142,4,0,Atlético de Alagoinhas
+193111,7,Faltas sofridas,Adriano,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Arthur Santos,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Daniel Costa,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Esquerdinha,1532,2,0,Sousa-PB
+193111,7,Faltas sofridas,Iranílson,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Jo Boy,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Juninho Paraíba,1532,2,0,Sousa-PB
+193111,7,Faltas sofridas,Marcelo Duarte,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Otacílio Marcos,1532,1,0,Sousa-PB
+193111,7,Faltas sofridas,Ricardo,1532,1,0,Sousa-PB
+193111,9,Impedimentos,Juninho Paraíba,1532,1,0,Sousa-PB
+193111,9,Impedimentos,Otacílio Marcos,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,Bremer,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Caetano,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Cesinha,2142,3,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Dionísio,2142,5,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Edson,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Jeferson,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Jerry,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Miller,2142,3,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Paulinho,2142,2,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Thiaguinho,2142,2,0,Atlético de Alagoinhas
+193111,12,Perda da posse de bola,Adriano,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,André Victor,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,Arthur Santos,1532,2,0,Sousa-PB
+193111,12,Perda da posse de bola,Daniel Costa,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,Doda,1532,2,0,Sousa-PB
+193111,12,Perda da posse de bola,Esquerdinha,1532,4,0,Sousa-PB
+193111,12,Perda da posse de bola,Iranílson,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,João Victor,1532,1,0,Sousa-PB
+193111,12,Perda da posse de bola,Juninho Paraíba,1532,2,0,Sousa-PB
+193111,12,Perda da posse de bola,Marcelo Duarte,1532,2,0,Sousa-PB
+193111,12,Perda da posse de bola,Vinicius Paiva,1532,1,0,Sousa-PB
+193111,25,Cartões amarelos,Jerry,2142,1,0,Atlético de Alagoinhas
+193111,25,Cartões amarelos,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193111,25,Cartões amarelos,Adriano,1532,1,0,Sousa-PB
+193111,25,Cartões amarelos,Daniel Costa,1532,1,0,Sousa-PB
+193111,25,Cartões amarelos,Doda,1532,1,0,Sousa-PB
+193111,25,Cartões amarelos,Esquerdinha,1532,1,0,Sousa-PB
+193111,25,Cartões amarelos,Marcelo Duarte,1532,1,0,Sousa-PB
+193112,2,Passes,Bruno Mota,1412,12,0,CSA
+193112,2,Passes,Cedric,1412,24,6,CSA
+193112,2,Passes,Dalberto,1412,4,2,CSA
+193112,2,Passes,Didira,1412,13,1,CSA
+193112,2,Passes,Diego Renan,1412,49,1,CSA
+193112,2,Passes,Douglão,1412,36,1,CSA
+193112,2,Passes,Felipe Augusto,1412,16,2,CSA
+193112,2,Passes,Gabriel,1412,20,0,CSA
+193112,2,Passes,Giva Santos,1412,22,1,CSA
+193112,2,Passes,Lucas Barcelos,1412,7,3,CSA
+193112,2,Passes,Lucas Marques,1412,28,7,CSA
+193112,2,Passes,Luiz Henrique,1412,3,0,CSA
+193112,2,Passes,Marcel,1412,44,1,CSA
+193112,2,Passes,Marcelo Carné,1412,20,0,CSA
+193112,2,Passes,Rodrigo Rodrigues,1412,6,0,CSA
+193112,2,Passes,William,1412,1,0,CSA
+193112,2,Passes,Alexandre Quaresma,2972,41,8,Altos-PI
+193112,2,Passes,Danillo Bala,2972,3,0,Altos-PI
+193112,2,Passes,Dico,2972,11,2,Altos-PI
+193112,2,Passes,Diego Viana,2972,18,2,Altos-PI
+193112,2,Passes,Dieguinho,2972,15,3,Altos-PI
+193112,2,Passes,Eliélton,2972,16,3,Altos-PI
+193112,2,Passes,Júlio Ferrari,2972,23,5,Altos-PI
+193112,2,Passes,Lucas Souza,2972,20,1,Altos-PI
+193112,2,Passes,Manoel,2972,16,3,Altos-PI
+193112,2,Passes,Marcelo,2972,11,0,Altos-PI
+193112,2,Passes,Mimica,2972,4,0,Altos-PI
+193112,2,Passes,Netinho,2972,38,1,Altos-PI
+193112,2,Passes,Tibiri,2972,17,3,Altos-PI
+193112,2,Passes,Vinícius Leandro,2972,14,4,Altos-PI
+193112,3,Finalizações,Bruno Mota,1412,0,1,CSA
+193112,3,Finalizações,Diego Renan,1412,0,3,CSA
+193112,3,Finalizações,Giva Santos,1412,0,1,CSA
+193112,3,Finalizações,Lucas Barcelos,1412,1,1,CSA
+193112,3,Finalizações,Luiz Henrique,1412,1,0,CSA
+193112,3,Finalizações,Rodrigo Rodrigues,1412,2,1,CSA
+193112,3,Finalizações,William,1412,0,1,CSA
+193112,3,Finalizações,Dico,2972,1,0,Altos-PI
+193112,3,Finalizações,Diego Viana,2972,1,0,Altos-PI
+193112,3,Finalizações,Dieguinho,2972,1,1,Altos-PI
+193112,3,Finalizações,Eliélton,2972,1,1,Altos-PI
+193112,3,Finalizações,Júlio Ferrari,2972,1,0,Altos-PI
+193112,3,Finalizações,Manoel,2972,0,1,Altos-PI
+193112,3,Finalizações,Mimica,2972,0,1,Altos-PI
+193112,5,Desarmes,Diego Renan,1412,1,0,CSA
+193112,5,Desarmes,Giva Santos,1412,3,0,CSA
+193112,5,Desarmes,Lucas Marques,1412,2,0,CSA
+193112,5,Desarmes,Alexandre Quaresma,2972,1,0,Altos-PI
+193112,5,Desarmes,Dieguinho,2972,3,0,Altos-PI
+193112,5,Desarmes,Eliélton,2972,1,0,Altos-PI
+193112,5,Desarmes,Lucas Souza,2972,1,0,Altos-PI
+193112,5,Desarmes,Manoel,2972,1,0,Altos-PI
+193112,5,Desarmes,Netinho,2972,1,0,Altos-PI
+193112,5,Desarmes,Tibiri,2972,0,1,Altos-PI
+193112,5,Desarmes,Vinícius Leandro,2972,3,0,Altos-PI
+193112,14,Cruzamentos,Cedric,1412,0,1,CSA
+193112,14,Cruzamentos,Diego Renan,1412,0,4,CSA
+193112,14,Cruzamentos,Felipe Augusto,1412,1,2,CSA
+193112,14,Cruzamentos,Gabriel,1412,1,3,CSA
+193112,14,Cruzamentos,Rodrigo Rodrigues,1412,0,1,CSA
+193112,14,Cruzamentos,William,1412,0,1,CSA
+193112,14,Cruzamentos,Alexandre Quaresma,2972,1,3,Altos-PI
+193112,14,Cruzamentos,Danillo Bala,2972,0,1,Altos-PI
+193112,14,Cruzamentos,Dieguinho,2972,1,1,Altos-PI
+193112,14,Cruzamentos,Eliélton,2972,0,1,Altos-PI
+193112,14,Cruzamentos,Júlio Ferrari,2972,0,1,Altos-PI
+193112,1,Lançamentos,Cedric,1412,1,0,CSA
+193112,1,Lançamentos,Diego Renan,1412,1,2,CSA
+193112,1,Lançamentos,Douglão,1412,0,1,CSA
+193112,1,Lançamentos,Gabriel,1412,0,1,CSA
+193112,1,Lançamentos,Giva Santos,1412,1,0,CSA
+193112,1,Lançamentos,Marcel,1412,1,1,CSA
+193112,1,Lançamentos,Marcelo Carné,1412,1,6,CSA
+193112,1,Lançamentos,Alexandre Quaresma,2972,0,2,Altos-PI
+193112,1,Lançamentos,Júlio Ferrari,2972,0,1,Altos-PI
+193112,1,Lançamentos,Lucas Souza,2972,0,3,Altos-PI
+193112,1,Lançamentos,Marcelo,2972,1,4,Altos-PI
+193112,1,Lançamentos,Mimica,2972,0,1,Altos-PI
+193112,1,Lançamentos,Vinícius Leandro,2972,2,0,Altos-PI
+193112,24,Interceptações,Didira,1412,1,0,CSA
+193112,24,Interceptações,Diego Renan,1412,1,0,CSA
+193112,24,Interceptações,Felipe Augusto,1412,1,0,CSA
+193112,24,Interceptações,Giva Santos,1412,1,0,CSA
+193112,24,Interceptações,Luiz Henrique,1412,1,0,CSA
+193112,4,Dribles,Cedric,1412,2,1,CSA
+193112,4,Dribles,Dalberto,1412,0,1,CSA
+193112,4,Dribles,Diego Renan,1412,1,0,CSA
+193112,4,Dribles,Felipe Augusto,1412,0,1,CSA
+193112,4,Dribles,Gabriel,1412,1,0,CSA
+193112,4,Dribles,Lucas Barcelos,1412,1,1,CSA
+193112,4,Dribles,Lucas Marques,1412,1,0,CSA
+193112,4,Dribles,Luiz Henrique,1412,1,0,CSA
+193112,4,Dribles,Rodrigo Rodrigues,1412,1,0,CSA
+193112,4,Dribles,Eliélton,2972,1,0,Altos-PI
+193112,4,Dribles,Júlio Ferrari,2972,0,1,Altos-PI
+193112,22,Viradas de jogo,Diego Renan,1412,1,0,CSA
+193112,22,Viradas de jogo,Marcel,1412,0,1,CSA
+193112,22,Viradas de jogo,Diego Viana,2972,1,0,Altos-PI
+193112,22,Viradas de jogo,Manoel,2972,1,0,Altos-PI
+193112,22,Viradas de jogo,Netinho,2972,2,0,Altos-PI
+193112,22,Viradas de jogo,Vinícius Leandro,2972,1,0,Altos-PI
+193112,20,Posse de bola,Bruno Mota,1412,40,0,CSA
+193112,20,Posse de bola,Cedric,1412,107,0,CSA
+193112,20,Posse de bola,Dalberto,1412,28,0,CSA
+193112,20,Posse de bola,Didira,1412,34,0,CSA
+193112,20,Posse de bola,Diego Renan,1412,178,0,CSA
+193112,20,Posse de bola,Douglão,1412,138,0,CSA
+193112,20,Posse de bola,Felipe Augusto,1412,62,0,CSA
+193112,20,Posse de bola,Gabriel,1412,64,0,CSA
+193112,20,Posse de bola,Giva Santos,1412,77,0,CSA
+193112,20,Posse de bola,Lucas Barcelos,1412,54,0,CSA
+193112,20,Posse de bola,Lucas Marques,1412,107,0,CSA
+193112,20,Posse de bola,Luiz Henrique,1412,12,0,CSA
+193112,20,Posse de bola,Marcel,1412,165,0,CSA
+193112,20,Posse de bola,Marcelo Carné,1412,123,0,CSA
+193112,20,Posse de bola,Rodrigo Rodrigues,1412,28,0,CSA
+193112,20,Posse de bola,William,1412,12,0,CSA
+193112,20,Posse de bola,Alexandre Quaresma,2972,134,0,Altos-PI
+193112,20,Posse de bola,Danillo Bala,2972,12,0,Altos-PI
+193112,20,Posse de bola,Dico,2972,44,0,Altos-PI
+193112,20,Posse de bola,Diego Viana,2972,54,0,Altos-PI
+193112,20,Posse de bola,Dieguinho,2972,64,0,Altos-PI
+193112,20,Posse de bola,Eliélton,2972,76,0,Altos-PI
+193112,20,Posse de bola,Júlio Ferrari,2972,91,0,Altos-PI
+193112,20,Posse de bola,Lucas Souza,2972,76,0,Altos-PI
+193112,20,Posse de bola,Manoel,2972,56,0,Altos-PI
+193112,20,Posse de bola,Marcelo,2972,73,0,Altos-PI
+193112,20,Posse de bola,Mimica,2972,19,0,Altos-PI
+193112,20,Posse de bola,Netinho,2972,104,0,Altos-PI
+193112,20,Posse de bola,Tibiri,2972,54,0,Altos-PI
+193112,20,Posse de bola,Vinícius Leandro,2972,83,0,Altos-PI
+193112,8,Gols,Lucas Barcelos,1412,1,0,CSA
+193112,8,Gols,Luiz Henrique,1412,1,0,CSA
+193112,8,Gols,Rodrigo Rodrigues,1412,1,0,CSA
+193112,28,Assistências para finalização,Bruno Mota,1412,1,0,CSA
+193112,28,Assistências para finalização,Dalberto,1412,1,0,CSA
+193112,28,Assistências para finalização,Didira,1412,1,0,CSA
+193112,28,Assistências para finalização,Diego Renan,1412,2,0,CSA
+193112,28,Assistências para finalização,Felipe Augusto,1412,1,0,CSA
+193112,28,Assistências para finalização,Gabriel,1412,1,0,CSA
+193112,28,Assistências para finalização,Lucas Barcelos,1412,1,0,CSA
+193112,28,Assistências para finalização,Alexandre Quaresma,2972,1,0,Altos-PI
+193112,28,Assistências para finalização,Diego Viana,2972,1,0,Altos-PI
+193112,28,Assistências para finalização,Dieguinho,2972,3,0,Altos-PI
+193112,28,Assistências para finalização,Eliélton,2972,1,0,Altos-PI
+193112,27,Assistências,Bruno Mota,1412,2,0,CSA
+193112,27,Assistências,Gabriel,1412,1,0,CSA
+193112,15,Defesas,Marcelo Carné,1412,4,0,CSA
+193112,15,Defesas,Vinícius Leandro,2972,2,0,Altos-PI
+193112,23,Defesas difíceis,Marcelo Carné,1412,1,0,CSA
+193112,23,Defesas difíceis,Marcelo,2972,1,0,Altos-PI
+193112,19,Rebatidas,Didira,1412,1,0,CSA
+193112,19,Rebatidas,Diego Renan,1412,5,0,CSA
+193112,19,Rebatidas,Douglão,1412,4,0,CSA
+193112,19,Rebatidas,Felipe Augusto,1412,1,0,CSA
+193112,19,Rebatidas,Giva Santos,1412,1,0,CSA
+193112,19,Rebatidas,Lucas Marques,1412,3,0,CSA
+193112,19,Rebatidas,Marcel,1412,7,0,CSA
+193112,19,Rebatidas,Marcelo Carné,1412,1,0,CSA
+193112,19,Rebatidas,Alexandre Quaresma,2972,3,0,Altos-PI
+193112,19,Rebatidas,Dico,2972,3,0,Altos-PI
+193112,19,Rebatidas,Júlio Ferrari,2972,2,0,Altos-PI
+193112,19,Rebatidas,Lucas Souza,2972,5,0,Altos-PI
+193112,19,Rebatidas,Marcelo,2972,2,0,Altos-PI
+193112,19,Rebatidas,Mimica,2972,2,0,Altos-PI
+193112,19,Rebatidas,Netinho,2972,3,0,Altos-PI
+193112,19,Rebatidas,Tibiri,2972,3,0,Altos-PI
+193112,19,Rebatidas,Vinícius Leandro,2972,5,0,Altos-PI
+193112,6,Faltas cometidas,Bruno Mota,1412,2,0,CSA
+193112,6,Faltas cometidas,Cedric,1412,1,0,CSA
+193112,6,Faltas cometidas,Diego Renan,1412,1,0,CSA
+193112,6,Faltas cometidas,Giva Santos,1412,2,0,CSA
+193112,6,Faltas cometidas,Lucas Barcelos,1412,1,0,CSA
+193112,6,Faltas cometidas,Lucas Marques,1412,1,0,CSA
+193112,6,Faltas cometidas,William,1412,2,0,CSA
+193112,6,Faltas cometidas,Alexandre Quaresma,2972,2,0,Altos-PI
+193112,6,Faltas cometidas,Dico,2972,1,0,Altos-PI
+193112,6,Faltas cometidas,Diego Viana,2972,1,0,Altos-PI
+193112,6,Faltas cometidas,Eliélton,2972,1,0,Altos-PI
+193112,6,Faltas cometidas,Júlio Ferrari,2972,1,0,Altos-PI
+193112,6,Faltas cometidas,Lucas Souza,2972,1,0,Altos-PI
+193112,6,Faltas cometidas,Tibiri,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Cedric,1412,4,0,CSA
+193112,7,Faltas sofridas,Felipe Augusto,1412,1,0,CSA
+193112,7,Faltas sofridas,Gabriel,1412,1,0,CSA
+193112,7,Faltas sofridas,Lucas Barcelos,1412,1,0,CSA
+193112,7,Faltas sofridas,Danillo Bala,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Diego Viana,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Dieguinho,2972,2,0,Altos-PI
+193112,7,Faltas sofridas,Eliélton,2972,2,0,Altos-PI
+193112,7,Faltas sofridas,Júlio Ferrari,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Lucas Souza,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Manoel,2972,1,0,Altos-PI
+193112,7,Faltas sofridas,Vinícius Leandro,2972,1,0,Altos-PI
+193112,9,Impedimentos,Dalberto,1412,1,0,CSA
+193112,9,Impedimentos,Rodrigo Rodrigues,1412,1,0,CSA
+193112,9,Impedimentos,Danillo Bala,2972,1,0,Altos-PI
+193112,12,Perda da posse de bola,Bruno Mota,1412,4,0,CSA
+193112,12,Perda da posse de bola,Cedric,1412,2,0,CSA
+193112,12,Perda da posse de bola,Dalberto,1412,5,0,CSA
+193112,12,Perda da posse de bola,Felipe Augusto,1412,2,0,CSA
+193112,12,Perda da posse de bola,Giva Santos,1412,1,0,CSA
+193112,12,Perda da posse de bola,Lucas Barcelos,1412,4,0,CSA
+193112,12,Perda da posse de bola,Lucas Marques,1412,4,0,CSA
+193112,12,Perda da posse de bola,Rodrigo Rodrigues,1412,2,0,CSA
+193112,12,Perda da posse de bola,William,1412,1,0,CSA
+193112,12,Perda da posse de bola,Alexandre Quaresma,2972,1,0,Altos-PI
+193112,12,Perda da posse de bola,Dico,2972,4,0,Altos-PI
+193112,12,Perda da posse de bola,Diego Viana,2972,1,0,Altos-PI
+193112,12,Perda da posse de bola,Dieguinho,2972,2,0,Altos-PI
+193112,12,Perda da posse de bola,Eliélton,2972,4,0,Altos-PI
+193112,12,Perda da posse de bola,Júlio Ferrari,2972,1,0,Altos-PI
+193112,12,Perda da posse de bola,Manoel,2972,3,0,Altos-PI
+193112,12,Perda da posse de bola,Tibiri,2972,1,0,Altos-PI
+193112,25,Cartões amarelos,Bruno Mota,1412,1,0,CSA
+193112,25,Cartões amarelos,Lucas Marques,1412,1,0,CSA
+193112,25,Cartões amarelos,Dico,2972,1,0,Altos-PI
+193112,25,Cartões amarelos,Júlio Ferrari,2972,1,0,Altos-PI
+193113,2,Passes,Brayan Ceballos,1024,3,0,Fortaleza
+193113,2,Passes,Felipe,1024,2,2,Fortaleza
+193113,2,Passes,Hércules,1024,12,3,Fortaleza
+193113,2,Passes,Lucas Lima,1024,26,4,Fortaleza
+193113,2,Passes,Marcelo Benevenuto,1024,31,2,Fortaleza
+193113,2,Passes,Matheus Jussa,1024,19,3,Fortaleza
+193113,2,Passes,Max Walef,1024,12,0,Fortaleza
+193113,2,Passes,Moisés,1024,9,4,Fortaleza
+193113,2,Passes,Renato Kayzer,1024,5,1,Fortaleza
+193113,2,Passes,Robson Fernandes,1024,9,3,Fortaleza
+193113,2,Passes,Romarinho,1024,6,1,Fortaleza
+193113,2,Passes,Ronald,1024,13,2,Fortaleza
+193113,2,Passes,Silvio Romero,1024,1,0,Fortaleza
+193113,2,Passes,Tinga,1024,34,10,Fortaleza
+193113,2,Passes,Titi,1024,25,2,Fortaleza
+193113,2,Passes,Yago Pikachu,1024,21,2,Fortaleza
+193113,2,Passes,Bremer,2142,16,5,Atlético de Alagoinhas
+193113,2,Passes,Caetano,2142,16,0,Atlético de Alagoinhas
+193113,2,Passes,Cesinha,2142,12,4,Atlético de Alagoinhas
+193113,2,Passes,Dionísio,2142,33,1,Atlético de Alagoinhas
+193113,2,Passes,Edson,2142,18,1,Atlético de Alagoinhas
+193113,2,Passes,Emerson,2142,6,2,Atlético de Alagoinhas
+193113,2,Passes,Fábio Lima,2142,8,0,Atlético de Alagoinhas
+193113,2,Passes,Iran,2142,24,1,Atlético de Alagoinhas
+193113,2,Passes,Jerry,2142,17,3,Atlético de Alagoinhas
+193113,2,Passes,Leandro Sobral,2142,9,2,Atlético de Alagoinhas
+193113,2,Passes,Lucas Alisson,2142,18,0,Atlético de Alagoinhas
+193113,2,Passes,Matheus Leal,2142,13,4,Atlético de Alagoinhas
+193113,2,Passes,Miller,2142,19,3,Atlético de Alagoinhas
+193113,2,Passes,Paulinho,2142,16,4,Atlético de Alagoinhas
+193113,2,Passes,Thiaguinho,2142,21,3,Atlético de Alagoinhas
+193113,3,Finalizações,Hércules,1024,1,0,Fortaleza
+193113,3,Finalizações,Lucas Lima,1024,1,0,Fortaleza
+193113,3,Finalizações,Marcelo Benevenuto,1024,2,0,Fortaleza
+193113,3,Finalizações,Moisés,1024,3,1,Fortaleza
+193113,3,Finalizações,Renato Kayzer,1024,4,3,Fortaleza
+193113,3,Finalizações,Robson Fernandes,1024,2,3,Fortaleza
+193113,3,Finalizações,Romarinho,1024,3,1,Fortaleza
+193113,3,Finalizações,Silvio Romero,1024,1,1,Fortaleza
+193113,3,Finalizações,Yago Pikachu,1024,2,3,Fortaleza
+193113,3,Finalizações,Cesinha,2142,1,0,Atlético de Alagoinhas
+193113,3,Finalizações,Dionísio,2142,0,4,Atlético de Alagoinhas
+193113,3,Finalizações,Emerson,2142,0,3,Atlético de Alagoinhas
+193113,3,Finalizações,Iran,2142,0,1,Atlético de Alagoinhas
+193113,3,Finalizações,Jerry,2142,1,1,Atlético de Alagoinhas
+193113,3,Finalizações,Leandro Sobral,2142,0,1,Atlético de Alagoinhas
+193113,3,Finalizações,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193113,3,Finalizações,Thiaguinho,2142,1,2,Atlético de Alagoinhas
+193113,5,Desarmes,Brayan Ceballos,1024,1,0,Fortaleza
+193113,5,Desarmes,Hércules,1024,2,0,Fortaleza
+193113,5,Desarmes,Matheus Jussa,1024,3,1,Fortaleza
+193113,5,Desarmes,Moisés,1024,2,0,Fortaleza
+193113,5,Desarmes,Ronald,1024,1,0,Fortaleza
+193113,5,Desarmes,Tinga,1024,4,1,Fortaleza
+193113,5,Desarmes,Titi,1024,5,0,Fortaleza
+193113,5,Desarmes,Bremer,2142,1,0,Atlético de Alagoinhas
+193113,5,Desarmes,Caetano,2142,3,0,Atlético de Alagoinhas
+193113,5,Desarmes,Cesinha,2142,1,0,Atlético de Alagoinhas
+193113,5,Desarmes,Dionísio,2142,0,1,Atlético de Alagoinhas
+193113,5,Desarmes,Edson,2142,2,0,Atlético de Alagoinhas
+193113,5,Desarmes,Iran,2142,0,1,Atlético de Alagoinhas
+193113,5,Desarmes,Jerry,2142,1,0,Atlético de Alagoinhas
+193113,5,Desarmes,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193113,5,Desarmes,Lucas Alisson,2142,1,1,Atlético de Alagoinhas
+193113,5,Desarmes,Miller,2142,1,0,Atlético de Alagoinhas
+193113,14,Cruzamentos,Lucas Lima,1024,3,1,Fortaleza
+193113,14,Cruzamentos,Moisés,1024,2,4,Fortaleza
+193113,14,Cruzamentos,Tinga,1024,2,3,Fortaleza
+193113,14,Cruzamentos,Yago Pikachu,1024,1,0,Fortaleza
+193113,14,Cruzamentos,Caetano,2142,1,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Edson,2142,0,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Emerson,2142,0,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Jerry,2142,1,2,Atlético de Alagoinhas
+193113,14,Cruzamentos,Leandro Sobral,2142,0,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Lucas Alisson,2142,0,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Paulinho,2142,1,1,Atlético de Alagoinhas
+193113,14,Cruzamentos,Thiaguinho,2142,2,7,Atlético de Alagoinhas
+193113,1,Lançamentos,Brayan Ceballos,1024,0,2,Fortaleza
+193113,1,Lançamentos,Felipe,1024,1,0,Fortaleza
+193113,1,Lançamentos,Lucas Lima,1024,1,0,Fortaleza
+193113,1,Lançamentos,Marcelo Benevenuto,1024,1,3,Fortaleza
+193113,1,Lançamentos,Matheus Jussa,1024,0,1,Fortaleza
+193113,1,Lançamentos,Max Walef,1024,1,3,Fortaleza
+193113,1,Lançamentos,Moisés,1024,0,1,Fortaleza
+193113,1,Lançamentos,Ronald,1024,1,0,Fortaleza
+193113,1,Lançamentos,Tinga,1024,2,5,Fortaleza
+193113,1,Lançamentos,Titi,1024,2,1,Fortaleza
+193113,1,Lançamentos,Yago Pikachu,1024,1,0,Fortaleza
+193113,1,Lançamentos,Bremer,2142,0,1,Atlético de Alagoinhas
+193113,1,Lançamentos,Dionísio,2142,0,1,Atlético de Alagoinhas
+193113,1,Lançamentos,Edson,2142,1,4,Atlético de Alagoinhas
+193113,1,Lançamentos,Fábio Lima,2142,2,5,Atlético de Alagoinhas
+193113,1,Lançamentos,Iran,2142,0,1,Atlético de Alagoinhas
+193113,1,Lançamentos,Miller,2142,1,0,Atlético de Alagoinhas
+193113,1,Lançamentos,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193113,24,Interceptações,Moisés,1024,1,0,Fortaleza
+193113,24,Interceptações,Robson Fernandes,1024,1,0,Fortaleza
+193113,24,Interceptações,Tinga,1024,1,1,Fortaleza
+193113,24,Interceptações,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193113,24,Interceptações,Thiaguinho,2142,0,1,Atlético de Alagoinhas
+193113,4,Dribles,Moisés,1024,0,1,Fortaleza
+193113,4,Dribles,Renato Kayzer,1024,2,0,Fortaleza
+193113,4,Dribles,Romarinho,1024,1,0,Fortaleza
+193113,4,Dribles,Tinga,1024,2,0,Fortaleza
+193113,4,Dribles,Yago Pikachu,1024,2,0,Fortaleza
+193113,4,Dribles,Miller,2142,0,2,Atlético de Alagoinhas
+193113,22,Viradas de jogo,Moisés,1024,1,0,Fortaleza
+193113,22,Viradas de jogo,Jerry,2142,1,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Brayan Ceballos,1024,20,0,Fortaleza
+193113,20,Posse de bola,Felipe,1024,12,0,Fortaleza
+193113,20,Posse de bola,Hércules,1024,44,0,Fortaleza
+193113,20,Posse de bola,Lucas Lima,1024,82,0,Fortaleza
+193113,20,Posse de bola,Marcelo Benevenuto,1024,137,0,Fortaleza
+193113,20,Posse de bola,Matheus Jussa,1024,72,0,Fortaleza
+193113,20,Posse de bola,Max Walef,1024,51,0,Fortaleza
+193113,20,Posse de bola,Moisés,1024,85,0,Fortaleza
+193113,20,Posse de bola,Renato Kayzer,1024,42,0,Fortaleza
+193113,20,Posse de bola,Robson Fernandes,1024,42,0,Fortaleza
+193113,20,Posse de bola,Romarinho,1024,32,0,Fortaleza
+193113,20,Posse de bola,Ronald,1024,38,0,Fortaleza
+193113,20,Posse de bola,Silvio Romero,1024,8,0,Fortaleza
+193113,20,Posse de bola,Tinga,1024,173,0,Fortaleza
+193113,20,Posse de bola,Titi,1024,96,0,Fortaleza
+193113,20,Posse de bola,Yago Pikachu,1024,83,0,Fortaleza
+193113,20,Posse de bola,Bremer,2142,64,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Caetano,2142,52,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Cesinha,2142,46,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Dionísio,2142,93,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Edson,2142,70,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Emerson,2142,41,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Fábio Lima,2142,77,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Iran,2142,82,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Jerry,2142,76,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Leandro Sobral,2142,36,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Lucas Alisson,2142,58,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Matheus Leal,2142,42,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Miller,2142,80,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Paulinho,2142,59,0,Atlético de Alagoinhas
+193113,20,Posse de bola,Thiaguinho,2142,92,0,Atlético de Alagoinhas
+193113,8,Gols,Hércules,1024,1,0,Fortaleza
+193113,8,Gols,Moisés,1024,1,0,Fortaleza
+193113,8,Gols,Renato Kayzer,1024,2,0,Fortaleza
+193113,8,Gols,Silvio Romero,1024,1,0,Fortaleza
+193113,8,Gols,Cesinha,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Felipe,1024,1,0,Fortaleza
+193113,28,Assistências para finalização,Lucas Lima,1024,5,0,Fortaleza
+193113,28,Assistências para finalização,Moisés,1024,2,0,Fortaleza
+193113,28,Assistências para finalização,Renato Kayzer,1024,1,0,Fortaleza
+193113,28,Assistências para finalização,Robson Fernandes,1024,3,0,Fortaleza
+193113,28,Assistências para finalização,Tinga,1024,3,0,Fortaleza
+193113,28,Assistências para finalização,Yago Pikachu,1024,4,0,Fortaleza
+193113,28,Assistências para finalização,Caetano,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Dionísio,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Emerson,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Miller,2142,2,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Paulinho,2142,1,0,Atlético de Alagoinhas
+193113,28,Assistências para finalização,Thiaguinho,2142,3,0,Atlético de Alagoinhas
+193113,27,Assistências,Tinga,1024,2,0,Fortaleza
+193113,27,Assistências,Yago Pikachu,1024,1,0,Fortaleza
+193113,27,Assistências,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193113,15,Defesas,Marcelo Benevenuto,1024,1,0,Fortaleza
+193113,15,Defesas,Tinga,1024,2,0,Fortaleza
+193113,15,Defesas,Yago Pikachu,1024,1,0,Fortaleza
+193113,15,Defesas,Bremer,2142,1,0,Atlético de Alagoinhas
+193113,15,Defesas,Edson,2142,1,0,Atlético de Alagoinhas
+193113,15,Defesas,Fábio Lima,2142,9,0,Atlético de Alagoinhas
+193113,15,Defesas,Iran,2142,2,0,Atlético de Alagoinhas
+193113,15,Defesas,Matheus Leal,2142,1,0,Atlético de Alagoinhas
+193113,15,Defesas,Paulinho,2142,1,0,Atlético de Alagoinhas
+193113,23,Defesas difíceis,Max Walef,1024,1,0,Fortaleza
+193113,19,Rebatidas,Brayan Ceballos,1024,1,0,Fortaleza
+193113,19,Rebatidas,Felipe,1024,1,0,Fortaleza
+193113,19,Rebatidas,Marcelo Benevenuto,1024,4,0,Fortaleza
+193113,19,Rebatidas,Matheus Jussa,1024,1,0,Fortaleza
+193113,19,Rebatidas,Moisés,1024,2,0,Fortaleza
+193113,19,Rebatidas,Renato Kayzer,1024,2,0,Fortaleza
+193113,19,Rebatidas,Silvio Romero,1024,1,0,Fortaleza
+193113,19,Rebatidas,Tinga,1024,2,0,Fortaleza
+193113,19,Rebatidas,Titi,1024,3,0,Fortaleza
+193113,19,Rebatidas,Bremer,2142,7,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Caetano,2142,2,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Dionísio,2142,1,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Edson,2142,2,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Fábio Lima,2142,1,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Iran,2142,5,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Jerry,2142,2,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Matheus Leal,2142,2,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Miller,2142,1,0,Atlético de Alagoinhas
+193113,19,Rebatidas,Paulinho,2142,3,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Hércules,1024,3,0,Fortaleza
+193113,6,Faltas cometidas,Lucas Lima,1024,1,0,Fortaleza
+193113,6,Faltas cometidas,Marcelo Benevenuto,1024,2,0,Fortaleza
+193113,6,Faltas cometidas,Matheus Jussa,1024,3,0,Fortaleza
+193113,6,Faltas cometidas,Moisés,1024,2,0,Fortaleza
+193113,6,Faltas cometidas,Romarinho,1024,1,0,Fortaleza
+193113,6,Faltas cometidas,Ronald,1024,1,0,Fortaleza
+193113,6,Faltas cometidas,Tinga,1024,1,0,Fortaleza
+193113,6,Faltas cometidas,Titi,1024,2,0,Fortaleza
+193113,6,Faltas cometidas,Cesinha,2142,1,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Dionísio,2142,1,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Emerson,2142,1,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Jerry,2142,3,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Lucas Alisson,2142,3,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Miller,2142,2,0,Atlético de Alagoinhas
+193113,6,Faltas cometidas,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Hércules,1024,1,0,Fortaleza
+193113,7,Faltas sofridas,Lucas Lima,1024,2,0,Fortaleza
+193113,7,Faltas sofridas,Marcelo Benevenuto,1024,2,0,Fortaleza
+193113,7,Faltas sofridas,Renato Kayzer,1024,2,0,Fortaleza
+193113,7,Faltas sofridas,Romarinho,1024,1,0,Fortaleza
+193113,7,Faltas sofridas,Ronald,1024,1,0,Fortaleza
+193113,7,Faltas sofridas,Titi,1024,3,0,Fortaleza
+193113,7,Faltas sofridas,Caetano,2142,1,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Cesinha,2142,4,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Edson,2142,1,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Jerry,2142,3,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Miller,2142,3,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Paulinho,2142,1,0,Atlético de Alagoinhas
+193113,7,Faltas sofridas,Thiaguinho,2142,1,0,Atlético de Alagoinhas
+193113,9,Impedimentos,Renato Kayzer,1024,1,0,Fortaleza
+193113,9,Impedimentos,Robson Fernandes,1024,1,0,Fortaleza
+193113,9,Impedimentos,Romarinho,1024,1,0,Fortaleza
+193113,12,Perda da posse de bola,Lucas Lima,1024,1,0,Fortaleza
+193113,12,Perda da posse de bola,Marcelo Benevenuto,1024,1,0,Fortaleza
+193113,12,Perda da posse de bola,Matheus Jussa,1024,5,0,Fortaleza
+193113,12,Perda da posse de bola,Moisés,1024,1,0,Fortaleza
+193113,12,Perda da posse de bola,Robson Fernandes,1024,2,0,Fortaleza
+193113,12,Perda da posse de bola,Romarinho,1024,1,0,Fortaleza
+193113,12,Perda da posse de bola,Tinga,1024,2,0,Fortaleza
+193113,12,Perda da posse de bola,Yago Pikachu,1024,5,0,Fortaleza
+193113,12,Perda da posse de bola,Caetano,2142,1,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Dionísio,2142,1,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Emerson,2142,3,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Jerry,2142,3,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Leandro Sobral,2142,1,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Lucas Alisson,2142,2,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Miller,2142,6,0,Atlético de Alagoinhas
+193113,12,Perda da posse de bola,Thiaguinho,2142,3,0,Atlético de Alagoinhas
+193113,25,Cartões amarelos,Marcelo Benevenuto,1024,1,0,Fortaleza
+193113,25,Cartões amarelos,Ronald,1024,1,0,Fortaleza
+193113,25,Cartões amarelos,Dionísio,2142,1,0,Atlético de Alagoinhas
+193113,25,Cartões amarelos,Jerry,2142,1,0,Atlético de Alagoinhas
+193113,25,Cartões amarelos,Lucas Alisson,2142,1,0,Atlético de Alagoinhas
+193114,2,Passes,Adilson Bahia,1074,2,1,Botafogo-PB
+193114,2,Passes,Adriano Júnior ,1074,21,2,Botafogo-PB
+193114,2,Passes,Alessandro,1074,18,3,Botafogo-PB
+193114,2,Passes,Bruno Ré,1074,40,12,Botafogo-PB
+193114,2,Passes,Diego Gomes,1074,10,2,Botafogo-PB
+193114,2,Passes,Elias Lira,1074,20,4,Botafogo-PB
+193114,2,Passes,Gabriel Yanno,1074,29,2,Botafogo-PB
+193114,2,Passes,Gustavo Coutinho,1074,11,2,Botafogo-PB
+193114,2,Passes,Leilson,1074,12,2,Botafogo-PB
+193114,2,Passes,Luis Carlos,1074,8,0,Botafogo-PB
+193114,2,Passes,Nicolas Schulz,1074,7,3,Botafogo-PB
+193114,2,Passes,Paulo Vitor,1074,26,2,Botafogo-PB
+193114,2,Passes,Ratinho,1074,15,0,Botafogo-PB
+193114,2,Passes,Tinga,1074,10,1,Botafogo-PB
+193114,2,Passes,Carlão,1222,28,1,Náutico
+193114,2,Passes,Djavan,1222,6,0,Náutico
+193114,2,Passes,Ewandro,1222,13,2,Náutico
+193114,2,Passes,Hereda,1222,38,6,Náutico
+193114,2,Passes,Jean Carlos,1222,16,3,Náutico
+193114,2,Passes,Juninho Carpina,1222,3,0,Náutico
+193114,2,Passes,Júnior Tavares,1222,43,9,Náutico
+193114,2,Passes,Leandro Carvalho,1222,13,1,Náutico
+193114,2,Passes,Léo Passos,1222,3,4,Náutico
+193114,2,Passes,Lucas Perri,1222,6,0,Náutico
+193114,2,Passes,Pedro Vitor,1222,3,1,Náutico
+193114,2,Passes,Ralph,1222,3,1,Náutico
+193114,2,Passes,Richard Franco,1222,14,2,Náutico
+193114,2,Passes,Wagninho,1222,9,4,Náutico
+193114,2,Passes,Wellington,1222,23,1,Náutico
+193114,3,Finalizações,Adriano Júnior ,1074,0,1,Botafogo-PB
+193114,3,Finalizações,Elias Lira,1074,0,1,Botafogo-PB
+193114,3,Finalizações,Leilson,1074,2,4,Botafogo-PB
+193114,3,Finalizações,Nicolas Schulz,1074,0,1,Botafogo-PB
+193114,3,Finalizações,Pio,1074,0,2,Botafogo-PB
+193114,3,Finalizações,Ratinho,1074,0,1,Botafogo-PB
+193114,3,Finalizações,Tinga,1074,0,1,Botafogo-PB
+193114,3,Finalizações,Jean Carlos,1222,2,2,Náutico
+193114,3,Finalizações,Júnior Tavares,1222,1,0,Náutico
+193114,3,Finalizações,Léo Passos,1222,0,1,Náutico
+193114,5,Desarmes,Adriano Júnior ,1074,3,0,Botafogo-PB
+193114,5,Desarmes,Alessandro,1074,5,0,Botafogo-PB
+193114,5,Desarmes,Bruno Ré,1074,2,2,Botafogo-PB
+193114,5,Desarmes,Elias Lira,1074,2,0,Botafogo-PB
+193114,5,Desarmes,Gustavo Coutinho,1074,2,0,Botafogo-PB
+193114,5,Desarmes,Nicolas Schulz,1074,2,0,Botafogo-PB
+193114,5,Desarmes,Carlão,1222,1,0,Náutico
+193114,5,Desarmes,Ewandro,1222,2,0,Náutico
+193114,5,Desarmes,Hereda,1222,1,1,Náutico
+193114,5,Desarmes,Pedro Vitor,1222,1,1,Náutico
+193114,5,Desarmes,Richard Franco,1222,3,0,Náutico
+193114,5,Desarmes,Wagninho,1222,3,1,Náutico
+193114,5,Desarmes,Wellington,1222,0,1,Náutico
+193114,14,Cruzamentos,Alessandro,1074,0,1,Botafogo-PB
+193114,14,Cruzamentos,Bruno Ré,1074,1,0,Botafogo-PB
+193114,14,Cruzamentos,Diego Gomes,1074,0,1,Botafogo-PB
+193114,14,Cruzamentos,Elias Lira,1074,1,6,Botafogo-PB
+193114,14,Cruzamentos,Gustavo Coutinho,1074,1,1,Botafogo-PB
+193114,14,Cruzamentos,Leilson,1074,1,4,Botafogo-PB
+193114,14,Cruzamentos,Nicolas Schulz,1074,0,3,Botafogo-PB
+193114,14,Cruzamentos,Ratinho,1074,0,1,Botafogo-PB
+193114,14,Cruzamentos,Amarildo Aparecido,1222,1,0,Náutico
+193114,14,Cruzamentos,Hereda,1222,0,1,Náutico
+193114,14,Cruzamentos,Jean Carlos,1222,0,4,Náutico
+193114,14,Cruzamentos,Juninho Carpina,1222,0,1,Náutico
+193114,14,Cruzamentos,Júnior Tavares,1222,0,2,Náutico
+193114,14,Cruzamentos,Leandro Carvalho,1222,0,1,Náutico
+193114,14,Cruzamentos,Wagninho,1222,0,1,Náutico
+193114,1,Lançamentos,Adriano Júnior ,1074,1,1,Botafogo-PB
+193114,1,Lançamentos,Alessandro,1074,0,1,Botafogo-PB
+193114,1,Lançamentos,Bruno Ré,1074,2,3,Botafogo-PB
+193114,1,Lançamentos,Elias Lira,1074,0,1,Botafogo-PB
+193114,1,Lançamentos,Gabriel Yanno,1074,3,3,Botafogo-PB
+193114,1,Lançamentos,Leilson,1074,1,0,Botafogo-PB
+193114,1,Lançamentos,Luis Carlos,1074,1,7,Botafogo-PB
+193114,1,Lançamentos,Paulo Vitor,1074,0,7,Botafogo-PB
+193114,1,Lançamentos,Carlão,1222,1,0,Náutico
+193114,1,Lançamentos,Ewandro,1222,0,1,Náutico
+193114,1,Lançamentos,Hereda,1222,0,3,Náutico
+193114,1,Lançamentos,Juninho Carpina,1222,0,1,Náutico
+193114,1,Lançamentos,Leandro Carvalho,1222,0,1,Náutico
+193114,1,Lançamentos,Lucas Perri,1222,0,9,Náutico
+193114,1,Lançamentos,Richard Franco,1222,0,4,Náutico
+193114,1,Lançamentos,Wagninho,1222,0,1,Náutico
+193114,1,Lançamentos,Wellington,1222,0,2,Náutico
+193114,24,Interceptações,Bruno Ré,1074,2,0,Botafogo-PB
+193114,24,Interceptações,Leilson,1074,1,0,Botafogo-PB
+193114,24,Interceptações,Paulo Vitor,1074,1,0,Botafogo-PB
+193114,24,Interceptações,Carlão,1222,0,1,Náutico
+193114,24,Interceptações,Wagninho,1222,2,0,Náutico
+193114,24,Interceptações,Wellington,1222,0,1,Náutico
+193114,4,Dribles,Alessandro,1074,1,0,Botafogo-PB
+193114,4,Dribles,Bruno Ré,1074,0,2,Botafogo-PB
+193114,4,Dribles,Gustavo Coutinho,1074,0,1,Botafogo-PB
+193114,4,Dribles,Leilson,1074,1,0,Botafogo-PB
+193114,4,Dribles,Nicolas Schulz,1074,1,0,Botafogo-PB
+193114,4,Dribles,Tinga,1074,1,1,Botafogo-PB
+193114,4,Dribles,Ewandro,1222,1,0,Náutico
+193114,4,Dribles,Hereda,1222,2,1,Náutico
+193114,4,Dribles,Leandro Carvalho,1222,1,1,Náutico
+193114,4,Dribles,Pedro Vitor,1222,3,0,Náutico
+193114,4,Dribles,Wagninho,1222,0,1,Náutico
+193114,4,Dribles,Alessandro,1074,1,0,Botafogo-PB
+193114,4,Dribles,Bruno Ré,1074,0,2,Botafogo-PB
+193114,4,Dribles,Gustavo Coutinho,1074,0,1,Botafogo-PB
+193114,4,Dribles,Leilson,1074,1,0,Botafogo-PB
+193114,4,Dribles,Nicolas Schulz,1074,1,0,Botafogo-PB
+193114,4,Dribles,Tinga,1074,1,1,Botafogo-PB
+193114,4,Dribles,Ewandro,1222,1,0,Náutico
+193114,4,Dribles,Hereda,1222,2,1,Náutico
+193114,4,Dribles,Leandro Carvalho,1222,1,1,Náutico
+193114,4,Dribles,Pedro Vitor,1222,3,0,Náutico
+193114,4,Dribles,Wagninho,1222,0,1,Náutico
+193114,22,Viradas de jogo,Júnior Tavares,1222,1,0,Náutico
+193114,22,Viradas de jogo,Pedro Vitor,1222,1,0,Náutico
+193114,20,Posse de bola,Adilson Bahia,1074,14,0,Botafogo-PB
+193114,20,Posse de bola,Adriano Júnior ,1074,67,0,Botafogo-PB
+193114,20,Posse de bola,Alessandro,1074,81,0,Botafogo-PB
+193114,20,Posse de bola,Bruno Ré,1074,176,0,Botafogo-PB
+193114,20,Posse de bola,Diego Gomes,1074,42,0,Botafogo-PB
+193114,20,Posse de bola,Elias Lira,1074,85,0,Botafogo-PB
+193114,20,Posse de bola,Gabriel Yanno,1074,121,0,Botafogo-PB
+193114,20,Posse de bola,Gustavo Coutinho,1074,62,0,Botafogo-PB
+193114,20,Posse de bola,Leilson,1074,89,0,Botafogo-PB
+193114,20,Posse de bola,Luis Carlos,1074,51,0,Botafogo-PB
+193114,20,Posse de bola,Nicolas Schulz,1074,60,0,Botafogo-PB
+193114,20,Posse de bola,Paulo Vitor,1074,107,0,Botafogo-PB
+193114,20,Posse de bola,Pio,1074,10,0,Botafogo-PB
+193114,20,Posse de bola,Ratinho,1074,44,0,Botafogo-PB
+193114,20,Posse de bola,Tinga,1074,40,0,Botafogo-PB
+193114,20,Posse de bola,Amarildo Aparecido,1222,10,0,Náutico
+193114,20,Posse de bola,Carlão,1222,102,0,Náutico
+193114,20,Posse de bola,Djavan,1222,20,0,Náutico
+193114,20,Posse de bola,Ewandro,1222,62,0,Náutico
+193114,20,Posse de bola,Hereda,1222,150,0,Náutico
+193114,20,Posse de bola,Jean Carlos,1222,69,0,Náutico
+193114,20,Posse de bola,Juninho Carpina,1222,18,0,Náutico
+193114,20,Posse de bola,Júnior Tavares,1222,170,0,Náutico
+193114,20,Posse de bola,Leandro Carvalho,1222,51,0,Náutico
+193114,20,Posse de bola,Léo Passos,1222,24,0,Náutico
+193114,20,Posse de bola,Lucas Perri,1222,65,0,Náutico
+193114,20,Posse de bola,Pedro Vitor,1222,31,0,Náutico
+193114,20,Posse de bola,Ralph,1222,12,0,Náutico
+193114,20,Posse de bola,Richard Franco,1222,64,0,Náutico
+193114,20,Posse de bola,Wagninho,1222,56,0,Náutico
+193114,20,Posse de bola,Wellington,1222,94,0,Náutico
+193114,8,Gols,Leilson,1074,1,0,Botafogo-PB
+193114,8,Gols,Júnior Tavares,1222,1,0,Náutico
+193114,28,Assistências para finalização,Adriano Júnior ,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Alessandro,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Bruno Ré,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Leilson,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Nicolas Schulz,1074,1,0,Botafogo-PB
+193114,28,Assistências para finalização,Júnior Tavares,1222,1,0,Náutico
+193114,28,Assistências para finalização,Leandro Carvalho,1222,1,0,Náutico
+193114,28,Assistências para finalização,Richard Franco,1222,1,0,Náutico
+193114,27,Assistências,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193114,15,Defesas,Gabriel Yanno,1074,1,0,Botafogo-PB
+193114,15,Defesas,Luis Carlos,1074,1,0,Botafogo-PB
+193114,15,Defesas,Paulo Vitor,1074,1,0,Botafogo-PB
+193114,15,Defesas,Amarildo Aparecido,1222,1,0,Náutico
+193114,15,Defesas,Carlão,1222,1,0,Náutico
+193114,15,Defesas,Leandro Carvalho,1222,1,0,Náutico
+193114,15,Defesas,Léo Passos,1222,1,0,Náutico
+193114,15,Defesas,Lucas Perri,1222,1,0,Náutico
+193114,15,Defesas,Richard Franco,1222,1,0,Náutico
+193114,15,Defesas,Wellington,1222,2,0,Náutico
+193114,23,Defesas difíceis,Luis Carlos,1074,1,0,Botafogo-PB
+193114,19,Rebatidas,Adriano Júnior ,1074,1,0,Botafogo-PB
+193114,19,Rebatidas,Bruno Ré,1074,7,0,Botafogo-PB
+193114,19,Rebatidas,Diego Gomes,1074,3,0,Botafogo-PB
+193114,19,Rebatidas,Elias Lira,1074,2,0,Botafogo-PB
+193114,19,Rebatidas,Gabriel Yanno,1074,9,0,Botafogo-PB
+193114,19,Rebatidas,Leilson,1074,1,0,Botafogo-PB
+193114,19,Rebatidas,Luis Carlos,1074,2,0,Botafogo-PB
+193114,19,Rebatidas,Paulo Vitor,1074,8,0,Botafogo-PB
+193114,19,Rebatidas,Ratinho,1074,2,0,Botafogo-PB
+193114,19,Rebatidas,Amarildo Aparecido,1222,1,0,Náutico
+193114,19,Rebatidas,Carlão,1222,12,0,Náutico
+193114,19,Rebatidas,Ewandro,1222,1,0,Náutico
+193114,19,Rebatidas,Hereda,1222,12,0,Náutico
+193114,19,Rebatidas,Juninho Carpina,1222,1,0,Náutico
+193114,19,Rebatidas,Júnior Tavares,1222,4,0,Náutico
+193114,19,Rebatidas,Leandro Carvalho,1222,1,0,Náutico
+193114,19,Rebatidas,Lucas Perri,1222,4,0,Náutico
+193114,19,Rebatidas,Ralph,1222,2,0,Náutico
+193114,19,Rebatidas,Richard Franco,1222,2,0,Náutico
+193114,19,Rebatidas,Wellington,1222,9,0,Náutico
+193114,6,Faltas cometidas,Alessandro,1074,2,0,Botafogo-PB
+193114,6,Faltas cometidas,Bruno Ré,1074,2,0,Botafogo-PB
+193114,6,Faltas cometidas,Diego Gomes,1074,3,0,Botafogo-PB
+193114,6,Faltas cometidas,Gabriel Yanno,1074,1,0,Botafogo-PB
+193114,6,Faltas cometidas,Gustavo Coutinho,1074,2,0,Botafogo-PB
+193114,6,Faltas cometidas,Leilson,1074,2,0,Botafogo-PB
+193114,6,Faltas cometidas,Paulo Vitor,1074,1,0,Botafogo-PB
+193114,6,Faltas cometidas,Pio,1074,2,0,Botafogo-PB
+193114,6,Faltas cometidas,Tinga,1074,1,0,Botafogo-PB
+193114,6,Faltas cometidas,Djavan,1222,2,0,Náutico
+193114,6,Faltas cometidas,Ewandro,1222,1,0,Náutico
+193114,6,Faltas cometidas,Jean Carlos,1222,2,0,Náutico
+193114,6,Faltas cometidas,Léo Passos,1222,2,0,Náutico
+193114,6,Faltas cometidas,Pedro Vitor,1222,1,0,Náutico
+193114,6,Faltas cometidas,Richard Franco,1222,2,0,Náutico
+193114,6,Faltas cometidas,Wagninho,1222,1,0,Náutico
+193114,6,Faltas cometidas,Wellington,1222,2,0,Náutico
+193114,7,Faltas sofridas,Adilson Bahia,1074,2,0,Botafogo-PB
+193114,7,Faltas sofridas,Bruno Ré,1074,1,0,Botafogo-PB
+193114,7,Faltas sofridas,Gabriel Yanno,1074,1,0,Botafogo-PB
+193114,7,Faltas sofridas,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193114,7,Faltas sofridas,Leilson,1074,3,0,Botafogo-PB
+193114,7,Faltas sofridas,Paulo Vitor,1074,1,0,Botafogo-PB
+193114,7,Faltas sofridas,Ratinho,1074,1,0,Botafogo-PB
+193114,7,Faltas sofridas,Tinga,1074,2,0,Botafogo-PB
+193114,7,Faltas sofridas,Amarildo Aparecido,1222,1,0,Náutico
+193114,7,Faltas sofridas,Carlão,1222,1,0,Náutico
+193114,7,Faltas sofridas,Ewandro,1222,2,0,Náutico
+193114,7,Faltas sofridas,Jean Carlos,1222,2,0,Náutico
+193114,7,Faltas sofridas,Juninho Carpina,1222,1,0,Náutico
+193114,7,Faltas sofridas,Júnior Tavares,1222,1,0,Náutico
+193114,7,Faltas sofridas,Leandro Carvalho,1222,2,0,Náutico
+193114,7,Faltas sofridas,Lucas Perri,1222,1,0,Náutico
+193114,7,Faltas sofridas,Pedro Vitor,1222,1,0,Náutico
+193114,7,Faltas sofridas,Richard Franco,1222,1,0,Náutico
+193114,7,Faltas sofridas,Wagninho,1222,2,0,Náutico
+193114,7,Faltas sofridas,Wellington,1222,1,0,Náutico
+193114,9,Impedimentos,Alessandro,1074,1,0,Botafogo-PB
+193114,9,Impedimentos,Leilson,1074,1,0,Botafogo-PB
+193114,12,Perda da posse de bola,Adilson Bahia,1074,2,0,Botafogo-PB
+193114,12,Perda da posse de bola,Adriano Júnior ,1074,1,0,Botafogo-PB
+193114,12,Perda da posse de bola,Alessandro,1074,5,0,Botafogo-PB
+193114,12,Perda da posse de bola,Diego Gomes,1074,2,0,Botafogo-PB
+193114,12,Perda da posse de bola,Elias Lira,1074,1,0,Botafogo-PB
+193114,12,Perda da posse de bola,Gustavo Coutinho,1074,8,0,Botafogo-PB
+193114,12,Perda da posse de bola,Leilson,1074,2,0,Botafogo-PB
+193114,12,Perda da posse de bola,Nicolas Schulz,1074,6,0,Botafogo-PB
+193114,12,Perda da posse de bola,Pio,1074,1,0,Botafogo-PB
+193114,12,Perda da posse de bola,Ratinho,1074,1,0,Botafogo-PB
+193114,12,Perda da posse de bola,Amarildo Aparecido,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Carlão,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Djavan,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Ewandro,1222,2,0,Náutico
+193114,12,Perda da posse de bola,Hereda,1222,5,0,Náutico
+193114,12,Perda da posse de bola,Jean Carlos,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Juninho Carpina,1222,2,0,Náutico
+193114,12,Perda da posse de bola,Júnior Tavares,1222,3,0,Náutico
+193114,12,Perda da posse de bola,Leandro Carvalho,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Léo Passos,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Pedro Vitor,1222,1,0,Náutico
+193114,12,Perda da posse de bola,Richard Franco,1222,2,0,Náutico
+193114,12,Perda da posse de bola,Wagninho,1222,3,0,Náutico
+193114,12,Perda da posse de bola,Wellington,1222,1,0,Náutico
+193114,25,Cartões amarelos,Gustavo Coutinho,1074,1,0,Botafogo-PB
+193114,25,Cartões amarelos,Paulo Vitor,1074,1,0,Botafogo-PB
+193114,25,Cartões amarelos,Djavan,1222,1,0,Náutico
+193114,25,Cartões amarelos,Júnior Tavares,1222,1,0,Náutico
+193114,25,Cartões amarelos,Ralph,1222,1,0,Náutico
+193114,25,Cartões amarelos,Richard Franco,1222,1,0,Náutico
+193115,2,Passes,Cléber,1297,13,1,Ceará
+193115,2,Passes,Dentinho,1297,4,0,Ceará
+193115,2,Passes,Erick,1297,14,3,Ceará
+193115,2,Passes,Fernando Sobral,1297,36,4,Ceará
+193115,2,Passes,João Ricardo,1297,12,0,Ceará
+193115,2,Passes,Léo Rafael,1297,10,2,Ceará
+193115,2,Passes,Lima,1297,23,3,Ceará
+193115,2,Passes,Luiz Otávio,1297,42,1,Ceará
+193115,2,Passes,Messias,1297,38,0,Ceará
+193115,2,Passes,Nino Paraíba,1297,43,4,Ceará
+193115,2,Passes,Rodrigo Lindoso,1297,49,8,Ceará
+193115,2,Passes,Stiven Mendoza,1297,27,5,Ceará
+193115,2,Passes,Victor Luis,1297,36,2,Ceará
+193115,2,Passes,Vinícius,1297,16,10,Ceará
+193115,2,Passes,Zé Roberto,1297,4,2,Ceará
+193115,2,Passes,Anselmo Ramon,1307,24,2,CRB
+193115,2,Passes,Diogo Silva,1307,2,0,CRB
+193115,2,Passes,Emerson Negueba,1307,7,0,CRB
+193115,2,Passes,Guilherme Romão,1307,24,8,CRB
+193115,2,Passes,Gum,1307,14,3,CRB
+193115,2,Passes,Iago Mendonça,1307,16,4,CRB
+193115,2,Passes,Maicon,1307,13,5,CRB
+193115,2,Passes,Marcinho,1307,14,1,CRB
+193115,2,Passes,Marthã,1307,11,3,CRB
+193115,2,Passes,Rafael Longuine,1307,16,5,CRB
+193115,2,Passes,Raul Prata,1307,11,2,CRB
+193115,2,Passes,Reginaldo,1307,19,5,CRB
+193115,2,Passes,Richard,1307,11,3,CRB
+193115,2,Passes,Wellington Carvalho,1307,2,0,CRB
+193115,2,Passes,Yago,1307,25,8,CRB
+193115,3,Finalizações,Cléber,1297,2,2,Ceará
+193115,3,Finalizações,Erick,1297,1,1,Ceará
+193115,3,Finalizações,Fernando Sobral,1297,0,3,Ceará
+193115,3,Finalizações,Léo Rafael,1297,2,1,Ceará
+193115,3,Finalizações,Lima,1297,0,4,Ceará
+193115,3,Finalizações,Luiz Otávio,1297,0,3,Ceará
+193115,3,Finalizações,Nino Paraíba,1297,1,1,Ceará
+193115,3,Finalizações,Rodrigo Lindoso,1297,0,1,Ceará
+193115,3,Finalizações,Stiven Mendoza,1297,1,2,Ceará
+193115,3,Finalizações,Victor Luis,1297,1,0,Ceará
+193115,3,Finalizações,Vinícius,1297,3,0,Ceará
+193115,3,Finalizações,Anselmo Ramon,1307,3,0,CRB
+193115,3,Finalizações,Guilherme Romão,1307,0,2,CRB
+193115,3,Finalizações,Iago Mendonça,1307,0,1,CRB
+193115,3,Finalizações,Marcinho,1307,1,1,CRB
+193115,3,Finalizações,Yago,1307,0,1,CRB
+193115,5,Desarmes,Cléber,1297,1,0,Ceará
+193115,5,Desarmes,Lima,1297,2,0,Ceará
+193115,5,Desarmes,Luiz Otávio,1297,2,1,Ceará
+193115,5,Desarmes,Messias,1297,0,1,Ceará
+193115,5,Desarmes,Nino Paraíba,1297,1,2,Ceará
+193115,5,Desarmes,Rodrigo Lindoso,1297,0,1,Ceará
+193115,5,Desarmes,Stiven Mendoza,1297,1,0,Ceará
+193115,5,Desarmes,Emerson Negueba,1307,2,0,CRB
+193115,5,Desarmes,Iago Mendonça,1307,0,1,CRB
+193115,5,Desarmes,Maicon,1307,1,0,CRB
+193115,5,Desarmes,Marcinho,1307,0,1,CRB
+193115,5,Desarmes,Rafael Longuine,1307,0,1,CRB
+193115,5,Desarmes,Reginaldo,1307,1,1,CRB
+193115,14,Cruzamentos,Erick,1297,1,1,Ceará
+193115,14,Cruzamentos,Fernando Sobral,1297,3,1,Ceará
+193115,14,Cruzamentos,Léo Rafael,1297,0,1,Ceará
+193115,14,Cruzamentos,Lima,1297,1,5,Ceará
+193115,14,Cruzamentos,Messias,1297,0,1,Ceará
+193115,14,Cruzamentos,Nino Paraíba,1297,3,9,Ceará
+193115,14,Cruzamentos,Rodrigo Lindoso,1297,1,0,Ceará
+193115,14,Cruzamentos,Stiven Mendoza,1297,2,3,Ceará
+193115,14,Cruzamentos,Victor Luis,1297,0,2,Ceará
+193115,14,Cruzamentos,Vinícius,1297,2,4,Ceará
+193115,14,Cruzamentos,Zé Roberto,1297,0,2,Ceará
+193115,14,Cruzamentos,Guilherme Romão,1307,0,1,CRB
+193115,14,Cruzamentos,Marcinho,1307,0,2,CRB
+193115,14,Cruzamentos,Rafael Longuine,1307,2,1,CRB
+193115,14,Cruzamentos,Raul Prata,1307,0,3,CRB
+193115,14,Cruzamentos,Reginaldo,1307,0,1,CRB
+193115,14,Cruzamentos,Richard,1307,0,2,CRB
+193115,14,Cruzamentos,Yago,1307,0,1,CRB
+193115,1,Lançamentos,Fernando Sobral,1297,1,3,Ceará
+193115,1,Lançamentos,João Ricardo,1297,0,3,Ceará
+193115,1,Lançamentos,Messias,1297,0,2,Ceará
+193115,1,Lançamentos,Nino Paraíba,1297,1,2,Ceará
+193115,1,Lançamentos,Rodrigo Lindoso,1297,2,1,Ceará
+193115,1,Lançamentos,Victor Luis,1297,1,0,Ceará
+193115,1,Lançamentos,Vinícius,1297,1,0,Ceará
+193115,1,Lançamentos,Diogo Silva,1307,8,18,CRB
+193115,1,Lançamentos,Guilherme Romão,1307,0,1,CRB
+193115,1,Lançamentos,Gum,1307,0,4,CRB
+193115,1,Lançamentos,Iago Mendonça,1307,0,4,CRB
+193115,1,Lançamentos,Marcinho,1307,0,1,CRB
+193115,1,Lançamentos,Marthã,1307,0,2,CRB
+193115,1,Lançamentos,Yago,1307,0,2,CRB
+193115,24,Interceptações,Fernando Sobral,1297,1,0,Ceará
+193115,24,Interceptações,Rodrigo Lindoso,1297,1,0,Ceará
+193115,24,Interceptações,Stiven Mendoza,1297,0,1,Ceará
+193115,24,Interceptações,Marcinho,1307,1,0,CRB
+193115,24,Interceptações,Marthã,1307,0,1,CRB
+193115,24,Interceptações,Yago,1307,1,1,CRB
+193115,4,Dribles,Cléber,1297,1,0,Ceará
+193115,4,Dribles,Erick,1297,1,1,Ceará
+193115,4,Dribles,Fernando Sobral,1297,1,0,Ceará
+193115,4,Dribles,Luiz Otávio,1297,1,0,Ceará
+193115,4,Dribles,Nino Paraíba,1297,2,0,Ceará
+193115,4,Dribles,Stiven Mendoza,1297,2,1,Ceará
+193115,4,Dribles,Vinícius,1297,2,0,Ceará
+193115,4,Dribles,Emerson Negueba,1307,0,1,CRB
+193115,4,Dribles,Marthã,1307,1,0,CRB
+193115,4,Dribles,Raul Prata,1307,2,0,CRB
+193115,4,Dribles,Reginaldo,1307,1,0,CRB
+193115,4,Dribles,Richard,1307,1,0,CRB
+193115,22,Viradas de jogo,Rodrigo Lindoso,1297,1,0,Ceará
+193115,22,Viradas de jogo,Zé Roberto,1297,0,1,Ceará
+193115,22,Viradas de jogo,Marcinho,1307,1,0,CRB
+193115,20,Posse de bola,Cléber,1297,56,0,Ceará
+193115,20,Posse de bola,Dentinho,1297,16,0,Ceará
+193115,20,Posse de bola,Erick,1297,60,0,Ceará
+193115,20,Posse de bola,Fernando Sobral,1297,135,0,Ceará
+193115,20,Posse de bola,João Ricardo,1297,47,0,Ceará
+193115,20,Posse de bola,Léo Rafael,1297,40,0,Ceará
+193115,20,Posse de bola,Lima,1297,102,0,Ceará
+193115,20,Posse de bola,Luiz Otávio,1297,144,0,Ceará
+193115,20,Posse de bola,Messias,1297,148,0,Ceará
+193115,20,Posse de bola,Nino Paraíba,1297,223,0,Ceará
+193115,20,Posse de bola,Rodrigo Lindoso,1297,172,0,Ceará
+193115,20,Posse de bola,Stiven Mendoza,1297,157,0,Ceará
+193115,20,Posse de bola,Victor Luis,1297,115,0,Ceará
+193115,20,Posse de bola,Vinícius,1297,86,0,Ceará
+193115,20,Posse de bola,Zé Roberto,1297,27,0,Ceará
+193115,20,Posse de bola,Anselmo Ramon,1307,72,0,CRB
+193115,20,Posse de bola,Diogo Silva,1307,229,0,CRB
+193115,20,Posse de bola,Emerson Negueba,1307,31,0,CRB
+193115,20,Posse de bola,Guilherme Romão,1307,92,0,CRB
+193115,20,Posse de bola,Gum,1307,73,0,CRB
+193115,20,Posse de bola,Iago Mendonça,1307,76,0,CRB
+193115,20,Posse de bola,Maicon,1307,50,0,CRB
+193115,20,Posse de bola,Marcinho,1307,65,0,CRB
+193115,20,Posse de bola,Marthã,1307,58,0,CRB
+193115,20,Posse de bola,Rafael Longuine,1307,60,0,CRB
+193115,20,Posse de bola,Raul Prata,1307,44,0,CRB
+193115,20,Posse de bola,Reginaldo,1307,70,0,CRB
+193115,20,Posse de bola,Richard,1307,55,0,CRB
+193115,20,Posse de bola,Wellington Carvalho,1307,14,0,CRB
+193115,20,Posse de bola,Yago,1307,84,0,CRB
+193115,28,Assistências para finalização,Cléber,1297,1,0,Ceará
+193115,28,Assistências para finalização,Erick,1297,4,0,Ceará
+193115,28,Assistências para finalização,Fernando Sobral,1297,1,0,Ceará
+193115,28,Assistências para finalização,Lima,1297,1,0,Ceará
+193115,28,Assistências para finalização,Luiz Otávio,1297,1,0,Ceará
+193115,28,Assistências para finalização,Messias,1297,1,0,Ceará
+193115,28,Assistências para finalização,Nino Paraíba,1297,4,0,Ceará
+193115,28,Assistências para finalização,Rodrigo Lindoso,1297,2,0,Ceará
+193115,28,Assistências para finalização,Stiven Mendoza,1297,3,0,Ceará
+193115,28,Assistências para finalização,Vinícius,1297,5,0,Ceará
+193115,28,Assistências para finalização,Zé Roberto,1297,1,0,Ceará
+193115,28,Assistências para finalização,Anselmo Ramon,1307,1,0,CRB
+193115,28,Assistências para finalização,Rafael Longuine,1307,5,0,CRB
+193115,15,Defesas,João Ricardo,1297,4,0,Ceará
+193115,15,Defesas,Messias,1297,1,0,Ceará
+193115,15,Defesas,Diogo Silva,1307,9,0,CRB
+193115,15,Defesas,Guilherme Romão,1307,1,0,CRB
+193115,15,Defesas,Gum,1307,1,0,CRB
+193115,15,Defesas,Marthã,1307,2,0,CRB
+193115,15,Defesas,Rafael Longuine,1307,1,0,CRB
+193115,15,Defesas,Reginaldo,1307,2,0,CRB
+193115,15,Defesas,Wellington Carvalho,1307,1,0,CRB
+193115,15,Defesas,João Ricardo,1297,4,0,Ceará
+193115,15,Defesas,Messias,1297,1,0,Ceará
+193115,15,Defesas,Diogo Silva,1307,9,0,CRB
+193115,15,Defesas,Guilherme Romão,1307,1,0,CRB
+193115,15,Defesas,Gum,1307,1,0,CRB
+193115,15,Defesas,Marthã,1307,2,0,CRB
+193115,15,Defesas,Rafael Longuine,1307,1,0,CRB
+193115,15,Defesas,Reginaldo,1307,2,0,CRB
+193115,15,Defesas,Wellington Carvalho,1307,1,0,CRB
+193115,23,Defesas difíceis,Diogo Silva,1307,1,0,CRB
+193115,19,Rebatidas,Cléber,1297,1,0,Ceará
+193115,19,Rebatidas,Fernando Sobral,1297,1,0,Ceará
+193115,19,Rebatidas,Lima,1297,1,0,Ceará
+193115,19,Rebatidas,Luiz Otávio,1297,9,0,Ceará
+193115,19,Rebatidas,Messias,1297,13,0,Ceará
+193115,19,Rebatidas,Nino Paraíba,1297,5,0,Ceará
+193115,19,Rebatidas,Rodrigo Lindoso,1297,3,0,Ceará
+193115,19,Rebatidas,Victor Luis,1297,5,0,Ceará
+193115,19,Rebatidas,Diogo Silva,1307,3,0,CRB
+193115,19,Rebatidas,Guilherme Romão,1307,6,0,CRB
+193115,19,Rebatidas,Gum,1307,11,0,CRB
+193115,19,Rebatidas,Iago Mendonça,1307,10,0,CRB
+193115,19,Rebatidas,Maicon,1307,2,0,CRB
+193115,19,Rebatidas,Marthã,1307,4,0,CRB
+193115,19,Rebatidas,Rafael Longuine,1307,1,0,CRB
+193115,19,Rebatidas,Raul Prata,1307,1,0,CRB
+193115,19,Rebatidas,Reginaldo,1307,4,0,CRB
+193115,19,Rebatidas,Wellington Carvalho,1307,4,0,CRB
+193115,19,Rebatidas,Yago,1307,2,0,CRB
+193115,6,Faltas cometidas,Fernando Sobral,1297,1,0,Ceará
+193115,6,Faltas cometidas,Messias,1297,1,0,Ceará
+193115,6,Faltas cometidas,Nino Paraíba,1297,4,0,Ceará
+193115,6,Faltas cometidas,Rodrigo Lindoso,1297,1,0,Ceará
+193115,6,Faltas cometidas,Stiven Mendoza,1297,1,0,Ceará
+193115,6,Faltas cometidas,Victor Luis,1297,1,0,Ceará
+193115,6,Faltas cometidas,Anselmo Ramon,1307,2,0,CRB
+193115,6,Faltas cometidas,Guilherme Romão,1307,1,0,CRB
+193115,6,Faltas cometidas,Iago Mendonça,1307,2,0,CRB
+193115,6,Faltas cometidas,Richard,1307,2,0,CRB
+193115,6,Faltas cometidas,Yago,1307,1,0,CRB
+193115,7,Faltas sofridas,Cléber,1297,1,0,Ceará
+193115,7,Faltas sofridas,Lima,1297,2,0,Ceará
+193115,7,Faltas sofridas,Rodrigo Lindoso,1297,2,0,Ceará
+193115,7,Faltas sofridas,Stiven Mendoza,1297,1,0,Ceará
+193115,7,Faltas sofridas,Victor Luis,1297,1,0,Ceará
+193115,7,Faltas sofridas,Anselmo Ramon,1307,3,0,CRB
+193115,7,Faltas sofridas,Guilherme Romão,1307,1,0,CRB
+193115,7,Faltas sofridas,Maicon,1307,1,0,CRB
+193115,7,Faltas sofridas,Marcinho,1307,2,0,CRB
+193115,7,Faltas sofridas,Richard,1307,2,0,CRB
+193115,9,Impedimentos,Stiven Mendoza,1297,1,0,Ceará
+193115,9,Impedimentos,Anselmo Ramon,1307,1,0,CRB
+193115,9,Impedimentos,Marcinho,1307,1,0,CRB
+193115,12,Perda da posse de bola,Cléber,1297,2,0,Ceará
+193115,12,Perda da posse de bola,Dentinho,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Fernando Sobral,1297,3,0,Ceará
+193115,12,Perda da posse de bola,Lima,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Luiz Otávio,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Rodrigo Lindoso,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Stiven Mendoza,1297,3,0,Ceará
+193115,12,Perda da posse de bola,Victor Luis,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Vinícius,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Zé Roberto,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Anselmo Ramon,1307,1,0,CRB
+193115,12,Perda da posse de bola,Emerson Negueba,1307,1,0,CRB
+193115,12,Perda da posse de bola,Guilherme Romão,1307,1,0,CRB
+193115,12,Perda da posse de bola,Maicon,1307,2,0,CRB
+193115,12,Perda da posse de bola,Marcinho,1307,3,0,CRB
+193115,12,Perda da posse de bola,Marthã,1307,4,0,CRB
+193115,12,Perda da posse de bola,Rafael Longuine,1307,2,0,CRB
+193115,12,Perda da posse de bola,Raul Prata,1307,1,0,CRB
+193115,12,Perda da posse de bola,Richard,1307,2,0,CRB
+193115,12,Perda da posse de bola,Cléber,1297,2,0,Ceará
+193115,12,Perda da posse de bola,Dentinho,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Fernando Sobral,1297,3,0,Ceará
+193115,12,Perda da posse de bola,Lima,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Luiz Otávio,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Rodrigo Lindoso,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Stiven Mendoza,1297,3,0,Ceará
+193115,12,Perda da posse de bola,Victor Luis,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Vinícius,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Zé Roberto,1297,1,0,Ceará
+193115,12,Perda da posse de bola,Anselmo Ramon,1307,1,0,CRB
+193115,12,Perda da posse de bola,Emerson Negueba,1307,1,0,CRB
+193115,12,Perda da posse de bola,Guilherme Romão,1307,1,0,CRB
+193115,12,Perda da posse de bola,Maicon,1307,2,0,CRB
+193115,12,Perda da posse de bola,Marcinho,1307,3,0,CRB
+193115,12,Perda da posse de bola,Marthã,1307,4,0,CRB
+193115,12,Perda da posse de bola,Rafael Longuine,1307,2,0,CRB
+193115,12,Perda da posse de bola,Raul Prata,1307,1,0,CRB
+193115,12,Perda da posse de bola,Richard,1307,2,0,CRB
+193115,25,Cartões amarelos,Guilherme Romão,1307,1,0,CRB
+193115,25,Cartões amarelos,Iago Mendonça,1307,1,0,CRB
+193116,2,Passes,Bruno Mota,1412,5,1,CSA
+193116,2,Passes,Ernandes,1412,34,8,CSA
+193116,2,Passes,Felipe Augusto,1412,5,4,CSA
+193116,2,Passes,Gabriel,1412,25,2,CSA
+193116,2,Passes,Geovane Batista,1412,19,4,CSA
+193116,2,Passes,Igor,1412,31,16,CSA
+193116,2,Passes,Lucas Barcelos,1412,4,2,CSA
+193116,2,Passes,Marcelo Carné,1412,7,0,CSA
+193116,2,Passes,Marco Túlio,1412,5,4,CSA
+193116,2,Passes,Osvaldo,1412,5,2,CSA
+193116,2,Passes,Rodrigo Rodrigues,1412,6,7,CSA
+193116,2,Passes,Wellington,1412,28,3,CSA
+193116,2,Passes,Werley,1412,34,0,CSA
+193116,2,Passes,Yann Rolim,1412,10,2,CSA
+193116,2,Passes,Blas Cáceres,1172,1,0,Sport
+193116,2,Passes,Bruno Matias,1172,9,5,Sport
+193116,2,Passes,Búfalo Parraguez,1172,14,4,Sport
+193116,2,Passes,Chico,1172,16,10,Sport
+193116,2,Passes,Denner,1172,15,3,Sport
+193116,2,Passes,Ewerthon,1172,17,6,Sport
+193116,2,Passes,Ezequiel,1172,3,2,Sport
+193116,2,Passes,Jaderson,1172,10,3,Sport
+193116,2,Passes,Luciano Juba,1172,7,8,Sport
+193116,2,Passes,Maílson,1172,4,0,Sport
+193116,2,Passes,Rafael Thyere,1172,8,2,Sport
+193116,2,Passes,Ray Venegas,1172,7,2,Sport
+193116,2,Passes,Ronaldo,1172,4,1,Sport
+193116,2,Passes,Sabino,1172,13,2,Sport
+193116,2,Passes,Sander,1172,4,2,Sport
+193116,2,Passes,William Oliveira,1172,7,2,Sport
+193116,3,Finalizações,Bruno Mota,1412,1,0,CSA
+193116,3,Finalizações,Felipe Augusto,1412,0,2,CSA
+193116,3,Finalizações,Gabriel,1412,1,2,CSA
+193116,3,Finalizações,Marco Túlio,1412,1,2,CSA
+193116,3,Finalizações,Osvaldo,1412,1,0,CSA
+193116,3,Finalizações,Rodrigo Rodrigues,1412,0,2,CSA
+193116,3,Finalizações,Wellington,1412,0,1,CSA
+193116,3,Finalizações,Yann Rolim,1412,2,0,CSA
+193116,3,Finalizações,Búfalo Parraguez,1172,0,1,Sport
+193116,3,Finalizações,Denner,1172,0,1,Sport
+193116,3,Finalizações,Luciano Juba,1172,2,1,Sport
+193116,3,Finalizações,Rafael Thyere,1172,0,1,Sport
+193116,3,Finalizações,Ronaldo,1172,0,2,Sport
+193116,3,Finalizações,Sabino,1172,0,1,Sport
+193116,3,Finalizações,William Oliveira,1172,0,1,Sport
+193116,5,Desarmes,Ernandes,1412,1,0,CSA
+193116,5,Desarmes,Felipe Augusto,1412,1,0,CSA
+193116,5,Desarmes,Gabriel,1412,1,1,CSA
+193116,5,Desarmes,Geovane Batista,1412,0,1,CSA
+193116,5,Desarmes,Marco Túlio,1412,1,0,CSA
+193116,5,Desarmes,Wellington,1412,2,0,CSA
+193116,5,Desarmes,Werley,1412,0,1,CSA
+193116,5,Desarmes,Yann Rolim,1412,1,1,CSA
+193116,5,Desarmes,Bruno Matias,1172,1,0,Sport
+193116,5,Desarmes,Chico,1172,2,0,Sport
+193116,5,Desarmes,Ewerthon,1172,1,0,Sport
+193116,5,Desarmes,Ezequiel,1172,2,0,Sport
+193116,5,Desarmes,Luciano Juba,1172,3,0,Sport
+193116,5,Desarmes,Rafael Thyere,1172,1,0,Sport
+193116,5,Desarmes,Sabino,1172,1,0,Sport
+193116,5,Desarmes,William Oliveira,1172,1,0,Sport
+193116,14,Cruzamentos,Bruno Mota,1412,0,2,CSA
+193116,14,Cruzamentos,Ernandes,1412,0,1,CSA
+193116,14,Cruzamentos,Felipe Augusto,1412,0,3,CSA
+193116,14,Cruzamentos,Gabriel,1412,0,2,CSA
+193116,14,Cruzamentos,Igor,1412,0,9,CSA
+193116,14,Cruzamentos,Lucas Barcelos,1412,2,0,CSA
+193116,14,Cruzamentos,Marco Túlio,1412,1,4,CSA
+193116,14,Cruzamentos,Yann Rolim,1412,0,3,CSA
+193116,14,Cruzamentos,Bruno Matias,1172,1,2,Sport
+193116,14,Cruzamentos,Denner,1172,0,4,Sport
+193116,14,Cruzamentos,Ezequiel,1172,1,1,Sport
+193116,14,Cruzamentos,Jaderson,1172,1,0,Sport
+193116,14,Cruzamentos,Luciano Juba,1172,0,8,Sport
+193116,14,Cruzamentos,Ray Venegas,1172,0,1,Sport
+193116,1,Lançamentos,Bruno Mota,1412,0,1,CSA
+193116,1,Lançamentos,Ernandes,1412,1,3,CSA
+193116,1,Lançamentos,Felipe Augusto,1412,0,1,CSA
+193116,1,Lançamentos,Gabriel,1412,1,3,CSA
+193116,1,Lançamentos,Geovane Batista,1412,3,2,CSA
+193116,1,Lançamentos,Igor,1412,0,4,CSA
+193116,1,Lançamentos,Marcelo Carné,1412,4,3,CSA
+193116,1,Lançamentos,Marco Túlio,1412,0,2,CSA
+193116,1,Lançamentos,Rodrigo Rodrigues,1412,1,1,CSA
+193116,1,Lançamentos,Wellington,1412,0,2,CSA
+193116,1,Lançamentos,Werley,1412,1,6,CSA
+193116,1,Lançamentos,Bruno Matias,1172,0,1,Sport
+193116,1,Lançamentos,Chico,1172,0,1,Sport
+193116,1,Lançamentos,Ewerthon,1172,0,1,Sport
+193116,1,Lançamentos,Ezequiel,1172,1,1,Sport
+193116,1,Lançamentos,Luciano Juba,1172,1,0,Sport
+193116,1,Lançamentos,Maílson,1172,5,15,Sport
+193116,1,Lançamentos,Rafael Thyere,1172,0,5,Sport
+193116,1,Lançamentos,Sabino,1172,0,2,Sport
+193116,1,Lançamentos,Sander,1172,0,2,Sport
+193116,24,Interceptações,Ernandes,1412,1,0,CSA
+193116,24,Interceptações,Geovane Batista,1412,1,0,CSA
+193116,24,Interceptações,Bruno Matias,1172,1,0,Sport
+193116,24,Interceptações,Denner,1172,1,0,Sport
+193116,24,Interceptações,Jaderson,1172,1,0,Sport
+193116,24,Interceptações,Luciano Juba,1172,1,0,Sport
+193116,4,Dribles,Igor,1412,1,1,CSA
+193116,4,Dribles,Lucas Barcelos,1412,0,1,CSA
+193116,4,Dribles,Marco Túlio,1412,1,0,CSA
+193116,4,Dribles,Búfalo Parraguez,1172,1,0,Sport
+193116,4,Dribles,Chico,1172,1,0,Sport
+193116,4,Dribles,Jaderson,1172,2,0,Sport
+193116,22,Viradas de jogo,Gabriel,1412,0,1,CSA
+193116,20,Posse de bola,Bruno Mota,1412,33,0,CSA
+193116,20,Posse de bola,Ernandes,1412,150,0,CSA
+193116,20,Posse de bola,Felipe Augusto,1412,89,0,CSA
+193116,20,Posse de bola,Gabriel,1412,110,0,CSA
+193116,20,Posse de bola,Geovane Batista,1412,79,0,CSA
+193116,20,Posse de bola,Igor,1412,181,0,CSA
+193116,20,Posse de bola,Lucas Barcelos,1412,23,0,CSA
+193116,20,Posse de bola,Marcelo Carné,1412,64,0,CSA
+193116,20,Posse de bola,Marco Túlio,1412,78,0,CSA
+193116,20,Posse de bola,Osvaldo,1412,22,0,CSA
+193116,20,Posse de bola,Rodrigo Rodrigues,1412,46,0,CSA
+193116,20,Posse de bola,Wellington,1412,117,0,CSA
+193116,20,Posse de bola,Werley,1412,105,0,CSA
+193116,20,Posse de bola,Yann Rolim,1412,48,0,CSA
+193116,20,Posse de bola,Blas Cáceres,1172,2,0,Sport
+193116,20,Posse de bola,Bruno Matias,1172,50,0,Sport
+193116,20,Posse de bola,Búfalo Parraguez,1172,66,0,Sport
+193116,20,Posse de bola,Chico,1172,96,0,Sport
+193116,20,Posse de bola,Denner,1172,56,0,Sport
+193116,20,Posse de bola,Ewerthon,1172,64,0,Sport
+193116,20,Posse de bola,Ezequiel,1172,36,0,Sport
+193116,20,Posse de bola,Jaderson,1172,61,0,Sport
+193116,20,Posse de bola,Luciano Juba,1172,80,0,Sport
+193116,20,Posse de bola,Maílson,1172,142,0,Sport
+193116,20,Posse de bola,Rafael Thyere,1172,54,0,Sport
+193116,20,Posse de bola,Ray Venegas,1172,28,0,Sport
+193116,20,Posse de bola,Ronaldo,1172,14,0,Sport
+193116,20,Posse de bola,Sabino,1172,88,0,Sport
+193116,20,Posse de bola,Sander,1172,22,0,Sport
+193116,20,Posse de bola,William Oliveira,1172,28,0,Sport
+193116,28,Assistências para finalização,Bruno Mota,1412,1,0,CSA
+193116,28,Assistências para finalização,Ernandes,1412,2,0,CSA
+193116,28,Assistências para finalização,Gabriel,1412,2,0,CSA
+193116,28,Assistências para finalização,Igor,1412,1,0,CSA
+193116,28,Assistências para finalização,Lucas Barcelos,1412,1,0,CSA
+193116,28,Assistências para finalização,Marco Túlio,1412,1,0,CSA
+193116,28,Assistências para finalização,Rodrigo Rodrigues,1412,2,0,CSA
+193116,28,Assistências para finalização,Yann Rolim,1412,1,0,CSA
+193116,28,Assistências para finalização,Bruno Matias,1172,1,0,Sport
+193116,28,Assistências para finalização,Búfalo Parraguez,1172,1,0,Sport
+193116,28,Assistências para finalização,Ewerthon,1172,1,0,Sport
+193116,28,Assistências para finalização,Jaderson,1172,2,0,Sport
+193116,15,Defesas,Geovane Batista,1412,1,0,CSA
+193116,15,Defesas,Marcelo Carné,1412,2,0,CSA
+193116,15,Defesas,Wellington,1412,2,0,CSA
+193116,15,Defesas,Luciano Juba,1172,1,0,Sport
+193116,15,Defesas,Maílson,1172,5,0,Sport
+193116,15,Defesas,Sabino,1172,2,0,Sport
+193116,15,Defesas,Geovane Batista,1412,1,0,CSA
+193116,15,Defesas,Marcelo Carné,1412,2,0,CSA
+193116,15,Defesas,Wellington,1412,2,0,CSA
+193116,15,Defesas,Luciano Juba,1172,1,0,Sport
+193116,15,Defesas,Maílson,1172,5,0,Sport
+193116,15,Defesas,Sabino,1172,2,0,Sport
+193116,23,Defesas difíceis,Maílson,1172,1,0,Sport
+193116,19,Rebatidas,Ernandes,1412,2,0,CSA
+193116,19,Rebatidas,Felipe Augusto,1412,3,0,CSA
+193116,19,Rebatidas,Gabriel,1412,8,0,CSA
+193116,19,Rebatidas,Geovane Batista,1412,5,0,CSA
+193116,19,Rebatidas,Igor,1412,9,0,CSA
+193116,19,Rebatidas,Marcelo Carné,1412,1,0,CSA
+193116,19,Rebatidas,Rodrigo Rodrigues,1412,2,0,CSA
+193116,19,Rebatidas,Wellington,1412,10,0,CSA
+193116,19,Rebatidas,Werley,1412,6,0,CSA
+193116,19,Rebatidas,Yann Rolim,1412,1,0,CSA
+193116,19,Rebatidas,Bruno Matias,1172,1,0,Sport
+193116,19,Rebatidas,Búfalo Parraguez,1172,1,0,Sport
+193116,19,Rebatidas,Chico,1172,16,0,Sport
+193116,19,Rebatidas,Denner,1172,1,0,Sport
+193116,19,Rebatidas,Ewerthon,1172,6,0,Sport
+193116,19,Rebatidas,Ezequiel,1172,5,0,Sport
+193116,19,Rebatidas,Jaderson,1172,2,0,Sport
+193116,19,Rebatidas,Luciano Juba,1172,2,0,Sport
+193116,19,Rebatidas,Rafael Thyere,1172,10,0,Sport
+193116,19,Rebatidas,Sabino,1172,20,0,Sport
+193116,19,Rebatidas,Sander,1172,2,0,Sport
+193116,6,Faltas cometidas,Ernandes,1412,2,0,CSA
+193116,6,Faltas cometidas,Felipe Augusto,1412,2,0,CSA
+193116,6,Faltas cometidas,Geovane Batista,1412,1,0,CSA
+193116,6,Faltas cometidas,Marco Túlio,1412,2,0,CSA
+193116,6,Faltas cometidas,Wellington,1412,1,0,CSA
+193116,6,Faltas cometidas,Werley,1412,1,0,CSA
+193116,6,Faltas cometidas,Yann Rolim,1412,1,0,CSA
+193116,6,Faltas cometidas,Bruno Matias,1172,3,0,Sport
+193116,6,Faltas cometidas,Búfalo Parraguez,1172,3,0,Sport
+193116,6,Faltas cometidas,Chico,1172,2,0,Sport
+193116,6,Faltas cometidas,Denner,1172,2,0,Sport
+193116,6,Faltas cometidas,Ezequiel,1172,1,0,Sport
+193116,6,Faltas cometidas,Jaderson,1172,1,0,Sport
+193116,6,Faltas cometidas,Ray Venegas,1172,1,0,Sport
+193116,6,Faltas cometidas,Sabino,1172,1,0,Sport
+193116,7,Faltas sofridas,Ernandes,1412,1,0,CSA
+193116,7,Faltas sofridas,Felipe Augusto,1412,1,0,CSA
+193116,7,Faltas sofridas,Gabriel,1412,5,0,CSA
+193116,7,Faltas sofridas,Marco Túlio,1412,1,0,CSA
+193116,7,Faltas sofridas,Rodrigo Rodrigues,1412,2,0,CSA
+193116,7,Faltas sofridas,Werley,1412,1,0,CSA
+193116,7,Faltas sofridas,Yann Rolim,1412,1,0,CSA
+193116,7,Faltas sofridas,Denner,1172,1,0,Sport
+193116,7,Faltas sofridas,Ewerthon,1172,1,0,Sport
+193116,7,Faltas sofridas,Ezequiel,1172,1,0,Sport
+193116,7,Faltas sofridas,Jaderson,1172,3,0,Sport
+193116,7,Faltas sofridas,Sander,1172,1,0,Sport
+193116,7,Faltas sofridas,William Oliveira,1172,2,0,Sport
+193116,9,Impedimentos,Igor,1412,1,0,CSA
+193116,9,Impedimentos,Búfalo Parraguez,1172,2,0,Sport
+193116,12,Perda da posse de bola,Bruno Mota,1412,2,0,CSA
+193116,12,Perda da posse de bola,Ernandes,1412,1,0,CSA
+193116,12,Perda da posse de bola,Felipe Augusto,1412,8,0,CSA
+193116,12,Perda da posse de bola,Gabriel,1412,1,0,CSA
+193116,12,Perda da posse de bola,Igor,1412,4,0,CSA
+193116,12,Perda da posse de bola,Lucas Barcelos,1412,1,0,CSA
+193116,12,Perda da posse de bola,Marco Túlio,1412,6,0,CSA
+193116,12,Perda da posse de bola,Rodrigo Rodrigues,1412,1,0,CSA
+193116,12,Perda da posse de bola,Werley,1412,1,0,CSA
+193116,12,Perda da posse de bola,Yann Rolim,1412,1,0,CSA
+193116,12,Perda da posse de bola,Bruno Matias,1172,1,0,Sport
+193116,12,Perda da posse de bola,Búfalo Parraguez,1172,5,0,Sport
+193116,12,Perda da posse de bola,Jaderson,1172,4,0,Sport
+193116,12,Perda da posse de bola,Luciano Juba,1172,6,0,Sport
+193116,12,Perda da posse de bola,Ray Venegas,1172,1,0,Sport
+193116,12,Perda da posse de bola,Sabino,1172,2,0,Sport
+193116,12,Perda da posse de bola,William Oliveira,1172,1,0,Sport
+193116,25,Cartões amarelos,Wellington,1412,1,0,CSA
+193116,25,Cartões amarelos,Jaderson,1172,1,0,Sport
+193118,2,Passes,Blas Cáceres,1172,8,0,Sport
+193118,2,Passes,Bruno Matias,1172,22,1,Sport
+193118,2,Passes,Búfalo Parraguez,1172,11,0,Sport
+193118,2,Passes,Denner,1172,10,1,Sport
+193118,2,Passes,Ewerthon,1172,37,3,Sport
+193118,2,Passes,Jaderson,1172,6,3,Sport
+193118,2,Passes,Luciano Juba,1172,13,3,Sport
+193118,2,Passes,Maílson,1172,22,0,Sport
+193118,2,Passes,Rafael Thyere,1172,45,1,Sport
+193118,2,Passes,Ray Venegas,1172,7,1,Sport
+193118,2,Passes,Ronaldo,1172,5,0,Sport
+193118,2,Passes,Sabino,1172,36,2,Sport
+193118,2,Passes,Sander,1172,21,5,Sport
+193118,2,Passes,William Oliveira,1172,27,0,Sport
+193118,2,Passes,Brayan Ceballos,1024,32,0,Fortaleza
+193118,2,Passes,José Welison,1024,27,2,Fortaleza
+193118,2,Passes,Juninho Capixaba,1024,24,6,Fortaleza
+193118,2,Passes,Landazuri,1024,19,4,Fortaleza
+193118,2,Passes,Lucas Lima,1024,25,4,Fortaleza
+193118,2,Passes,Matheus Jussa,1024,22,1,Fortaleza
+193118,2,Passes,Max Walef,1024,9,0,Fortaleza
+193118,2,Passes,Moisés,1024,6,0,Fortaleza
+193118,2,Passes,Renato Kayzer,1024,4,1,Fortaleza
+193118,2,Passes,Robson Fernandes,1024,6,5,Fortaleza
+193118,2,Passes,Romarinho,1024,7,1,Fortaleza
+193118,2,Passes,Ronald,1024,2,0,Fortaleza
+193118,2,Passes,Silvio Romero,1024,2,1,Fortaleza
+193118,2,Passes,Titi,1024,38,2,Fortaleza
+193118,2,Passes,Yago Pikachu,1024,19,5,Fortaleza
+193118,3,Finalizações,Bill,1172,1,0,Sport
+193118,3,Finalizações,Búfalo Parraguez,1172,1,0,Sport
+193118,3,Finalizações,Jaderson,1172,0,1,Sport
+193118,3,Finalizações,Luciano Juba,1172,0,1,Sport
+193118,3,Finalizações,Rafael Thyere,1172,0,1,Sport
+193118,3,Finalizações,Ronaldo,1172,0,1,Sport
+193118,3,Finalizações,Sander,1172,0,1,Sport
+193118,3,Finalizações,William Oliveira,1172,0,1,Sport
+193118,3,Finalizações,Brayan Ceballos,1024,0,2,Fortaleza
+193118,3,Finalizações,José Welison,1024,1,2,Fortaleza
+193118,3,Finalizações,Juninho Capixaba,1024,0,1,Fortaleza
+193118,3,Finalizações,Landazuri,1024,1,0,Fortaleza
+193118,3,Finalizações,Lucas Lima,1024,1,1,Fortaleza
+193118,3,Finalizações,Moisés,1024,0,1,Fortaleza
+193118,3,Finalizações,Robson Fernandes,1024,0,1,Fortaleza
+193118,3,Finalizações,Silvio Romero,1024,0,1,Fortaleza
+193118,3,Finalizações,Titi,1024,0,1,Fortaleza
+193118,3,Finalizações,Yago Pikachu,1024,0,1,Fortaleza
+193118,5,Desarmes,Búfalo Parraguez,1172,1,0,Sport
+193118,5,Desarmes,Denner,1172,1,0,Sport
+193118,5,Desarmes,Ewerthon,1172,2,1,Sport
+193118,5,Desarmes,Jaderson,1172,1,0,Sport
+193118,5,Desarmes,Luciano Juba,1172,1,0,Sport
+193118,5,Desarmes,Rafael Thyere,1172,2,0,Sport
+193118,5,Desarmes,Ray Venegas,1172,1,0,Sport
+193118,5,Desarmes,Sander,1172,4,0,Sport
+193118,5,Desarmes,William Oliveira,1172,1,0,Sport
+193118,5,Desarmes,José Welison,1024,1,0,Fortaleza
+193118,5,Desarmes,Juninho Capixaba,1024,2,1,Fortaleza
+193118,5,Desarmes,Lucas Lima,1024,1,1,Fortaleza
+193118,5,Desarmes,Matheus Jussa,1024,1,0,Fortaleza
+193118,5,Desarmes,Moisés,1024,2,0,Fortaleza
+193118,5,Desarmes,Titi,1024,1,0,Fortaleza
+193118,14,Cruzamentos,Bill,1172,0,1,Sport
+193118,14,Cruzamentos,Blas Cáceres,1172,1,0,Sport
+193118,14,Cruzamentos,Bruno Matias,1172,1,1,Sport
+193118,14,Cruzamentos,Denner,1172,0,1,Sport
+193118,14,Cruzamentos,Ewerthon,1172,0,1,Sport
+193118,14,Cruzamentos,Luciano Juba,1172,1,4,Sport
+193118,14,Cruzamentos,Ray Venegas,1172,0,1,Sport
+193118,14,Cruzamentos,Sander,1172,2,0,Sport
+193118,14,Cruzamentos,José Welison,1024,0,1,Fortaleza
+193118,14,Cruzamentos,Juninho Capixaba,1024,0,1,Fortaleza
+193118,14,Cruzamentos,Lucas Lima,1024,1,7,Fortaleza
+193118,14,Cruzamentos,Matheus Jussa,1024,0,1,Fortaleza
+193118,14,Cruzamentos,Moisés,1024,0,1,Fortaleza
+193118,14,Cruzamentos,Yago Pikachu,1024,2,5,Fortaleza
+193118,1,Lançamentos,Luciano Juba,1172,1,1,Sport
+193118,1,Lançamentos,Maílson,1172,4,7,Sport
+193118,1,Lançamentos,Rafael Thyere,1172,1,3,Sport
+193118,1,Lançamentos,Ronaldo,1172,1,2,Sport
+193118,1,Lançamentos,Sabino,1172,2,9,Sport
+193118,1,Lançamentos,Brayan Ceballos,1024,0,4,Fortaleza
+193118,1,Lançamentos,José Welison,1024,2,4,Fortaleza
+193118,1,Lançamentos,Juninho Capixaba,1024,0,1,Fortaleza
+193118,1,Lançamentos,Landazuri,1024,1,0,Fortaleza
+193118,1,Lançamentos,Lucas Lima,1024,2,1,Fortaleza
+193118,1,Lançamentos,Max Walef,1024,3,10,Fortaleza
+193118,1,Lançamentos,Romarinho,1024,0,1,Fortaleza
+193118,1,Lançamentos,Yago Pikachu,1024,1,0,Fortaleza
+193118,24,Interceptações,Blas Cáceres,1172,0,1,Sport
+193118,24,Interceptações,Ewerthon,1172,1,0,Sport
+193118,24,Interceptações,Luciano Juba,1172,1,0,Sport
+193118,24,Interceptações,Rafael Thyere,1172,1,0,Sport
+193118,24,Interceptações,Ronaldo,1172,1,0,Sport
+193118,24,Interceptações,William Oliveira,1172,1,0,Sport
+193118,24,Interceptações,José Welison,1024,1,0,Fortaleza
+193118,24,Interceptações,Matheus Jussa,1024,1,0,Fortaleza
+193118,4,Dribles,Búfalo Parraguez,1172,2,0,Sport
+193118,4,Dribles,Denner,1172,1,0,Sport
+193118,4,Dribles,Ewerthon,1172,0,1,Sport
+193118,4,Dribles,Luciano Juba,1172,2,0,Sport
+193118,4,Dribles,Ronaldo,1172,1,0,Sport
+193118,4,Dribles,Sabino,1172,2,0,Sport
+193118,4,Dribles,Juninho Capixaba,1024,0,1,Fortaleza
+193118,4,Dribles,Landazuri,1024,0,1,Fortaleza
+193118,4,Dribles,Lucas Lima,1024,0,1,Fortaleza
+193118,4,Dribles,Moisés,1024,2,0,Fortaleza
+193118,4,Dribles,Robson Fernandes,1024,1,0,Fortaleza
+193118,4,Dribles,Silvio Romero,1024,1,0,Fortaleza
+193118,22,Viradas de jogo,Ewerthon,1172,1,0,Sport
+193118,22,Viradas de jogo,Rafael Thyere,1172,1,0,Sport
+193118,22,Viradas de jogo,Ray Venegas,1172,1,0,Sport
+193118,22,Viradas de jogo,Sabino,1172,0,1,Sport
+193118,22,Viradas de jogo,José Welison,1024,2,0,Fortaleza
+193118,22,Viradas de jogo,Moisés,1024,1,0,Fortaleza
+193118,20,Posse de bola,Bill,1172,11,0,Sport
+193118,20,Posse de bola,Blas Cáceres,1172,31,0,Sport
+193118,20,Posse de bola,Bruno Matias,1172,70,0,Sport
+193118,20,Posse de bola,Búfalo Parraguez,1172,56,0,Sport
+193118,20,Posse de bola,Denner,1172,44,0,Sport
+193118,20,Posse de bola,Ewerthon,1172,127,0,Sport
+193118,20,Posse de bola,Jaderson,1172,36,0,Sport
+193118,20,Posse de bola,Luciano Juba,1172,80,0,Sport
+193118,20,Posse de bola,Maílson,1172,123,0,Sport
+193118,20,Posse de bola,Rafael Thyere,1172,141,0,Sport
+193118,20,Posse de bola,Ray Venegas,1172,32,0,Sport
+193118,20,Posse de bola,Ronaldo,1172,32,0,Sport
+193118,20,Posse de bola,Sabino,1172,138,0,Sport
+193118,20,Posse de bola,Sander,1172,88,0,Sport
+193118,20,Posse de bola,William Oliveira,1172,80,0,Sport
+193118,20,Posse de bola,Brayan Ceballos,1024,120,0,Fortaleza
+193118,20,Posse de bola,José Welison,1024,138,0,Fortaleza
+193118,20,Posse de bola,Juninho Capixaba,1024,103,0,Fortaleza
+193118,20,Posse de bola,Landazuri,1024,69,0,Fortaleza
+193118,20,Posse de bola,Lucas Lima,1024,109,0,Fortaleza
+193118,20,Posse de bola,Matheus Jussa,1024,75,0,Fortaleza
+193118,20,Posse de bola,Max Walef,1024,84,0,Fortaleza
+193118,20,Posse de bola,Moisés,1024,44,0,Fortaleza
+193118,20,Posse de bola,Renato Kayzer,1024,18,0,Fortaleza
+193118,20,Posse de bola,Robson Fernandes,1024,34,0,Fortaleza
+193118,20,Posse de bola,Romarinho,1024,27,0,Fortaleza
+193118,20,Posse de bola,Ronald,1024,4,0,Fortaleza
+193118,20,Posse de bola,Silvio Romero,1024,16,0,Fortaleza
+193118,20,Posse de bola,Titi,1024,147,0,Fortaleza
+193118,20,Posse de bola,Yago Pikachu,1024,98,0,Fortaleza
+193118,8,Gols,Bill,1172,1,0,Sport
+193118,8,Gols,José Welison,1024,1,0,Fortaleza
+193118,28,Assistências para finalização,Búfalo Parraguez,1172,2,0,Sport
+193118,28,Assistências para finalização,Denner,1172,1,0,Sport
+193118,28,Assistências para finalização,Ronaldo,1172,1,0,Sport
+193118,28,Assistências para finalização,Sabino,1172,1,0,Sport
+193118,28,Assistências para finalização,William Oliveira,1172,1,0,Sport
+193118,28,Assistências para finalização,Lucas Lima,1024,2,0,Fortaleza
+193118,28,Assistências para finalização,Renato Kayzer,1024,1,0,Fortaleza
+193118,28,Assistências para finalização,Ronald,1024,1,0,Fortaleza
+193118,28,Assistências para finalização,Yago Pikachu,1024,4,0,Fortaleza
+193118,27,Assistências,Luciano Juba,1172,1,0,Sport
+193118,27,Assistências,Juninho Capixaba,1024,1,0,Fortaleza
+193118,15,Defesas,Blas Cáceres,1172,1,0,Sport
+193118,15,Defesas,Denner,1172,1,0,Sport
+193118,15,Defesas,Maílson,1172,2,0,Sport
+193118,15,Defesas,Rafael Thyere,1172,3,0,Sport
+193118,15,Defesas,José Welison,1024,1,0,Fortaleza
+193118,15,Defesas,Max Walef,1024,1,0,Fortaleza
+193118,15,Defesas,Titi,1024,1,0,Fortaleza
+193118,19,Rebatidas,Bill,1172,1,0,Sport
+193118,19,Rebatidas,Bruno Matias,1172,2,0,Sport
+193118,19,Rebatidas,Búfalo Parraguez,1172,2,0,Sport
+193118,19,Rebatidas,Denner,1172,1,0,Sport
+193118,19,Rebatidas,Ewerthon,1172,3,0,Sport
+193118,19,Rebatidas,Jaderson,1172,2,0,Sport
+193118,19,Rebatidas,Luciano Juba,1172,1,0,Sport
+193118,19,Rebatidas,Rafael Thyere,1172,6,0,Sport
+193118,19,Rebatidas,Sabino,1172,6,0,Sport
+193118,19,Rebatidas,Sander,1172,4,0,Sport
+193118,19,Rebatidas,William Oliveira,1172,5,0,Sport
+193118,19,Rebatidas,Brayan Ceballos,1024,6,0,Fortaleza
+193118,19,Rebatidas,José Welison,1024,3,0,Fortaleza
+193118,19,Rebatidas,Juninho Capixaba,1024,2,0,Fortaleza
+193118,19,Rebatidas,Landazuri,1024,1,0,Fortaleza
+193118,19,Rebatidas,Matheus Jussa,1024,2,0,Fortaleza
+193118,19,Rebatidas,Robson Fernandes,1024,1,0,Fortaleza
+193118,19,Rebatidas,Silvio Romero,1024,1,0,Fortaleza
+193118,19,Rebatidas,Titi,1024,11,0,Fortaleza
+193118,19,Rebatidas,Yago Pikachu,1024,3,0,Fortaleza
+193118,6,Faltas cometidas,Bruno Matias,1172,4,0,Sport
+193118,6,Faltas cometidas,Búfalo Parraguez,1172,3,0,Sport
+193118,6,Faltas cometidas,Denner,1172,1,0,Sport
+193118,6,Faltas cometidas,Jaderson,1172,2,0,Sport
+193118,6,Faltas cometidas,Luciano Juba,1172,1,0,Sport
+193118,6,Faltas cometidas,Ray Venegas,1172,1,0,Sport
+193118,6,Faltas cometidas,Ronaldo,1172,2,0,Sport
+193118,6,Faltas cometidas,Sander,1172,1,0,Sport
+193118,6,Faltas cometidas,William Oliveira,1172,2,0,Sport
+193118,6,Faltas cometidas,Brayan Ceballos,1024,1,0,Fortaleza
+193118,6,Faltas cometidas,José Welison,1024,1,0,Fortaleza
+193118,6,Faltas cometidas,Juninho Capixaba,1024,3,0,Fortaleza
+193118,6,Faltas cometidas,Landazuri,1024,2,0,Fortaleza
+193118,6,Faltas cometidas,Lucas Lima,1024,2,0,Fortaleza
+193118,6,Faltas cometidas,Matheus Jussa,1024,2,0,Fortaleza
+193118,6,Faltas cometidas,Renato Kayzer,1024,1,0,Fortaleza
+193118,6,Faltas cometidas,Robson Fernandes,1024,2,0,Fortaleza
+193118,6,Faltas cometidas,Titi,1024,1,0,Fortaleza
+193118,6,Faltas cometidas,Yago Pikachu,1024,3,0,Fortaleza
+193118,7,Faltas sofridas,Bill,1172,1,0,Sport
+193118,7,Faltas sofridas,Blas Cáceres,1172,1,0,Sport
+193118,7,Faltas sofridas,Búfalo Parraguez,1172,1,0,Sport
+193118,7,Faltas sofridas,Denner,1172,2,0,Sport
+193118,7,Faltas sofridas,Ewerthon,1172,3,0,Sport
+193118,7,Faltas sofridas,Jaderson,1172,1,0,Sport
+193118,7,Faltas sofridas,Luciano Juba,1172,2,0,Sport
+193118,7,Faltas sofridas,Sander,1172,4,0,Sport
+193118,7,Faltas sofridas,William Oliveira,1172,2,0,Sport
+193118,7,Faltas sofridas,José Welison,1024,1,0,Fortaleza
+193118,7,Faltas sofridas,Juninho Capixaba,1024,2,0,Fortaleza
+193118,7,Faltas sofridas,Lucas Lima,1024,2,0,Fortaleza
+193118,7,Faltas sofridas,Matheus Jussa,1024,1,0,Fortaleza
+193118,7,Faltas sofridas,Max Walef,1024,1,0,Fortaleza
+193118,7,Faltas sofridas,Renato Kayzer,1024,2,0,Fortaleza
+193118,7,Faltas sofridas,Robson Fernandes,1024,1,0,Fortaleza
+193118,7,Faltas sofridas,Romarinho,1024,1,0,Fortaleza
+193118,7,Faltas sofridas,Titi,1024,3,0,Fortaleza
+193118,7,Faltas sofridas,Yago Pikachu,1024,3,0,Fortaleza
+193118,9,Impedimentos,Búfalo Parraguez,1172,1,0,Sport
+193118,12,Perda da posse de bola,Blas Cáceres,1172,1,0,Sport
+193118,12,Perda da posse de bola,Bruno Matias,1172,2,0,Sport
+193118,12,Perda da posse de bola,Búfalo Parraguez,1172,5,0,Sport
+193118,12,Perda da posse de bola,Denner,1172,3,0,Sport
+193118,12,Perda da posse de bola,Ewerthon,1172,4,0,Sport
+193118,12,Perda da posse de bola,Jaderson,1172,2,0,Sport
+193118,12,Perda da posse de bola,Luciano Juba,1172,5,0,Sport
+193118,12,Perda da posse de bola,Ray Venegas,1172,3,0,Sport
+193118,12,Perda da posse de bola,José Welison,1024,2,0,Fortaleza
+193118,12,Perda da posse de bola,Landazuri,1024,1,0,Fortaleza
+193118,12,Perda da posse de bola,Moisés,1024,1,0,Fortaleza
+193118,12,Perda da posse de bola,Renato Kayzer,1024,1,0,Fortaleza
+193118,12,Perda da posse de bola,Silvio Romero,1024,2,0,Fortaleza
+193118,12,Perda da posse de bola,Yago Pikachu,1024,4,0,Fortaleza
+193118,25,Cartões amarelos,Bill,1172,1,0,Sport
+193118,25,Cartões amarelos,Bruno Matias,1172,1,0,Sport
+193118,25,Cartões amarelos,Ronaldo,1172,1,0,Sport
+193118,25,Cartões amarelos,Robson Fernandes,1024,1,0,Fortaleza
+193118,25,Cartões amarelos,Titi,1024,1,0,Fortaleza
+201045,2,Passes,Felipe,1024,1,0,Fortaleza
+201045,2,Passes,Hércules,1024,24,6,Fortaleza
+201045,2,Passes,José Welison,1024,27,1,Fortaleza
+201045,2,Passes,Juninho Capixaba,1024,37,8,Fortaleza
+201045,2,Passes,Landazuri,1024,28,4,Fortaleza
+201045,2,Passes,Lucas Lima,1024,23,7,Fortaleza
+201045,2,Passes,Marcelo Benevenuto,1024,17,1,Fortaleza
+201045,2,Passes,Matheus Jussa,1024,3,2,Fortaleza
+201045,2,Passes,Max Walef,1024,6,0,Fortaleza
+201045,2,Passes,Moisés,1024,13,3,Fortaleza
+201045,2,Passes,Renato Kayzer,1024,8,2,Fortaleza
+201045,2,Passes,Silvio Romero,1024,3,3,Fortaleza
+201045,2,Passes,Titi,1024,22,2,Fortaleza
+201045,2,Passes,Yago Pikachu,1024,20,5,Fortaleza
+201045,2,Passes,Alanzinho,1172,7,1,Sport
+201045,2,Passes,Bill,1172,10,2,Sport
+201045,2,Passes,Búfalo Parraguez,1172,9,2,Sport
+201045,2,Passes,Chico,1172,22,2,Sport
+201045,2,Passes,Denner,1172,10,3,Sport
+201045,2,Passes,Ewerthon,1172,22,3,Sport
+201045,2,Passes,Jaderson,1172,4,1,Sport
+201045,2,Passes,Lucas Hernández,1172,5,0,Sport
+201045,2,Passes,Luciano Juba,1172,14,4,Sport
+201045,2,Passes,Maílson,1172,8,0,Sport
+201045,2,Passes,Pedro Naressi,1172,4,3,Sport
+201045,2,Passes,Rafael Thyere,1172,24,2,Sport
+201045,2,Passes,Ronaldo,1172,3,1,Sport
+201045,2,Passes,Sabino,1172,23,1,Sport
+201045,2,Passes,Sander,1172,33,6,Sport
+201045,2,Passes,William Oliveira,1172,21,1,Sport
+201045,3,Finalizações,Hércules,1024,1,2,Fortaleza
+201045,3,Finalizações,Lucas Lima,1024,0,2,Fortaleza
+201045,3,Finalizações,Marcelo Benevenuto,1024,0,1,Fortaleza
+201045,3,Finalizações,Moisés,1024,0,2,Fortaleza
+201045,3,Finalizações,Yago Pikachu,1024,1,0,Fortaleza
+201045,3,Finalizações,Bill,1172,0,1,Sport
+201045,3,Finalizações,Búfalo Parraguez,1172,0,1,Sport
+201045,3,Finalizações,Luciano Juba,1172,2,0,Sport
+201045,3,Finalizações,Sabino,1172,0,2,Sport
+201045,3,Finalizações,Sander,1172,1,0,Sport
+201045,5,Desarmes,Hércules,1024,4,0,Fortaleza
+201045,5,Desarmes,José Welison,1024,2,0,Fortaleza
+201045,5,Desarmes,Juninho Capixaba,1024,2,0,Fortaleza
+201045,5,Desarmes,Landazuri,1024,1,1,Fortaleza
+201045,5,Desarmes,Lucas Lima,1024,1,0,Fortaleza
+201045,5,Desarmes,Marcelo Benevenuto,1024,2,0,Fortaleza
+201045,5,Desarmes,Titi,1024,1,0,Fortaleza
+201045,5,Desarmes,Yago Pikachu,1024,1,1,Fortaleza
+201045,5,Desarmes,Alanzinho,1172,1,0,Sport
+201045,5,Desarmes,Bill,1172,0,1,Sport
+201045,5,Desarmes,Chico,1172,1,0,Sport
+201045,5,Desarmes,Lucas Hernández,1172,1,0,Sport
+201045,5,Desarmes,Luciano Juba,1172,1,1,Sport
+201045,5,Desarmes,Rafael Thyere,1172,4,0,Sport
+201045,5,Desarmes,Ronaldo,1172,1,0,Sport
+201045,5,Desarmes,Sabino,1172,2,0,Sport
+201045,5,Desarmes,Sander,1172,2,0,Sport
+201045,14,Cruzamentos,Juninho Capixaba,1024,0,4,Fortaleza
+201045,14,Cruzamentos,Landazuri,1024,0,1,Fortaleza
+201045,14,Cruzamentos,Lucas Lima,1024,1,8,Fortaleza
+201045,14,Cruzamentos,Moisés,1024,0,2,Fortaleza
+201045,14,Cruzamentos,Renato Kayzer,1024,0,1,Fortaleza
+201045,14,Cruzamentos,Yago Pikachu,1024,0,6,Fortaleza
+201045,14,Cruzamentos,Ewerthon,1172,0,1,Sport
+201045,14,Cruzamentos,Lucas Hernández,1172,0,1,Sport
+201045,14,Cruzamentos,Luciano Juba,1172,5,4,Sport
+201045,14,Cruzamentos,Pedro Naressi,1172,0,5,Sport
+201045,14,Cruzamentos,Sabino,1172,0,1,Sport
+201045,14,Cruzamentos,Sander,1172,0,3,Sport
+201045,1,Lançamentos,Hércules,1024,2,0,Fortaleza
+201045,1,Lançamentos,Juninho Capixaba,1024,0,1,Fortaleza
+201045,1,Lançamentos,Landazuri,1024,0,1,Fortaleza
+201045,1,Lançamentos,Lucas Lima,1024,3,1,Fortaleza
+201045,1,Lançamentos,Marcelo Benevenuto,1024,2,2,Fortaleza
+201045,1,Lançamentos,Max Walef,1024,3,4,Fortaleza
+201045,1,Lançamentos,Titi,1024,1,3,Fortaleza
+201045,1,Lançamentos,Yago Pikachu,1024,1,1,Fortaleza
+201045,1,Lançamentos,Bill,1172,0,2,Sport
+201045,1,Lançamentos,Chico,1172,3,3,Sport
+201045,1,Lançamentos,Ewerthon,1172,1,1,Sport
+201045,1,Lançamentos,Luciano Juba,1172,1,0,Sport
+201045,1,Lançamentos,Maílson,1172,3,7,Sport
+201045,1,Lançamentos,Pedro Naressi,1172,0,1,Sport
+201045,1,Lançamentos,Rafael Thyere,1172,1,6,Sport
+201045,1,Lançamentos,Sabino,1172,4,2,Sport
+201045,1,Lançamentos,Sander,1172,1,0,Sport
+201045,24,Interceptações,Hércules,1024,1,0,Fortaleza
+201045,24,Interceptações,Lucas Lima,1024,1,0,Fortaleza
+201045,24,Interceptações,Matheus Jussa,1024,1,0,Fortaleza
+201045,24,Interceptações,Yago Pikachu,1024,0,1,Fortaleza
+201045,24,Interceptações,Búfalo Parraguez,1172,1,0,Sport
+201045,24,Interceptações,Ewerthon,1172,1,0,Sport
+201045,24,Interceptações,Ronaldo,1172,2,0,Sport
+201045,4,Dribles,Hércules,1024,1,0,Fortaleza
+201045,4,Dribles,José Welison,1024,1,0,Fortaleza
+201045,4,Dribles,Juninho Capixaba,1024,1,0,Fortaleza
+201045,4,Dribles,Landazuri,1024,0,1,Fortaleza
+201045,4,Dribles,Lucas Lima,1024,1,0,Fortaleza
+201045,4,Dribles,Moisés,1024,3,0,Fortaleza
+201045,4,Dribles,Robson Fernandes,1024,1,0,Fortaleza
+201045,4,Dribles,Silvio Romero,1024,0,1,Fortaleza
+201045,4,Dribles,Bill,1172,0,1,Sport
+201045,4,Dribles,Búfalo Parraguez,1172,1,2,Sport
+201045,4,Dribles,Luciano Juba,1172,1,0,Sport
+201045,4,Dribles,Sander,1172,3,0,Sport
+201045,4,Dribles,William Oliveira,1172,1,0,Sport
+201045,22,Viradas de jogo,José Welison,1024,2,0,Fortaleza
+201045,22,Viradas de jogo,Juninho Capixaba,1024,1,0,Fortaleza
+201045,22,Viradas de jogo,Marcelo Benevenuto,1024,1,0,Fortaleza
+201045,22,Viradas de jogo,Robson Fernandes,1024,1,0,Fortaleza
+201045,22,Viradas de jogo,Titi,1024,1,0,Fortaleza
+201045,22,Viradas de jogo,William Oliveira,1172,1,0,Sport
+201045,20,Posse de bola,Felipe,1024,10,0,Fortaleza
+201045,20,Posse de bola,Hércules,1024,109,0,Fortaleza
+201045,20,Posse de bola,José Welison,1024,103,0,Fortaleza
+201045,20,Posse de bola,Juninho Capixaba,1024,154,0,Fortaleza
+201045,20,Posse de bola,Landazuri,1024,89,0,Fortaleza
+201045,20,Posse de bola,Lucas Lima,1024,124,0,Fortaleza
+201045,20,Posse de bola,Marcelo Benevenuto,1024,125,0,Fortaleza
+201045,20,Posse de bola,Matheus Jussa,1024,22,0,Fortaleza
+201045,20,Posse de bola,Max Walef,1024,64,0,Fortaleza
+201045,20,Posse de bola,Moisés,1024,103,0,Fortaleza
+201045,20,Posse de bola,Renato Kayzer,1024,34,0,Fortaleza
+201045,20,Posse de bola,Robson Fernandes,1024,12,0,Fortaleza
+201045,20,Posse de bola,Silvio Romero,1024,31,0,Fortaleza
+201045,20,Posse de bola,Titi,1024,103,0,Fortaleza
+201045,20,Posse de bola,Yago Pikachu,1024,105,0,Fortaleza
+201045,20,Posse de bola,Alanzinho,1172,22,0,Sport
+201045,20,Posse de bola,Bill,1172,55,0,Sport
+201045,20,Posse de bola,Búfalo Parraguez,1172,66,0,Sport
+201045,20,Posse de bola,Chico,1172,97,0,Sport
+201045,20,Posse de bola,Denner,1172,41,0,Sport
+201045,20,Posse de bola,Ewerthon,1172,90,0,Sport
+201045,20,Posse de bola,Jaderson,1172,17,0,Sport
+201045,20,Posse de bola,Lucas Hernández,1172,14,0,Sport
+201045,20,Posse de bola,Luciano Juba,1172,74,0,Sport
+201045,20,Posse de bola,Maílson,1172,58,0,Sport
+201045,20,Posse de bola,Pedro Naressi,1172,38,0,Sport
+201045,20,Posse de bola,Rafael Thyere,1172,113,0,Sport
+201045,20,Posse de bola,Ronaldo,1172,24,0,Sport
+201045,20,Posse de bola,Sabino,1172,140,0,Sport
+201045,20,Posse de bola,Sander,1172,133,0,Sport
+201045,20,Posse de bola,William Oliveira,1172,76,0,Sport
+201045,8,Gols,Yago Pikachu,1024,1,0,Fortaleza
+201045,28,Assistências para finalização,José Welison,1024,1,0,Fortaleza
+201045,28,Assistências para finalização,Juninho Capixaba,1024,1,0,Fortaleza
+201045,28,Assistências para finalização,Lucas Lima,1024,2,0,Fortaleza
+201045,28,Assistências para finalização,Moisés,1024,1,0,Fortaleza
+201045,28,Assistências para finalização,Renato Kayzer,1024,1,0,Fortaleza
+201045,28,Assistências para finalização,Bill,1172,1,0,Sport
+201045,28,Assistências para finalização,Luciano Juba,1172,3,0,Sport
+201045,28,Assistências para finalização,Sabino,1172,2,0,Sport
+201045,15,Defesas,Max Walef,1024,3,0,Fortaleza
+201045,15,Defesas,Yago Pikachu,1024,1,0,Fortaleza
+201045,15,Defesas,Maílson,1172,1,0,Sport
+201045,15,Defesas,Sabino,1172,3,0,Sport
+201045,15,Defesas,Sander,1172,1,0,Sport
+201045,19,Rebatidas,Hércules,1024,1,0,Fortaleza
+201045,19,Rebatidas,José Welison,1024,2,0,Fortaleza
+201045,19,Rebatidas,Juninho Capixaba,1024,4,0,Fortaleza
+201045,19,Rebatidas,Landazuri,1024,3,0,Fortaleza
+201045,19,Rebatidas,Marcelo Benevenuto,1024,15,0,Fortaleza
+201045,19,Rebatidas,Matheus Jussa,1024,5,0,Fortaleza
+201045,19,Rebatidas,Robson Fernandes,1024,1,0,Fortaleza
+201045,19,Rebatidas,Titi,1024,6,0,Fortaleza
+201045,19,Rebatidas,Bill,1172,2,0,Sport
+201045,19,Rebatidas,Chico,1172,9,0,Sport
+201045,19,Rebatidas,Denner,1172,1,0,Sport
+201045,19,Rebatidas,Ewerthon,1172,5,0,Sport
+201045,19,Rebatidas,Luciano Juba,1172,1,0,Sport
+201045,19,Rebatidas,Pedro Naressi,1172,1,0,Sport
+201045,19,Rebatidas,Rafael Thyere,1172,6,0,Sport
+201045,19,Rebatidas,Ronaldo,1172,2,0,Sport
+201045,19,Rebatidas,Sabino,1172,11,0,Sport
+201045,19,Rebatidas,Sander,1172,5,0,Sport
+201045,19,Rebatidas,William Oliveira,1172,5,0,Sport
+201045,6,Faltas cometidas,Felipe,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,José Welison,1024,2,0,Fortaleza
+201045,6,Faltas cometidas,Juninho Capixaba,1024,2,0,Fortaleza
+201045,6,Faltas cometidas,Landazuri,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,Lucas Lima,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,Marcelo Benevenuto,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,Robson Fernandes,1024,2,0,Fortaleza
+201045,6,Faltas cometidas,Silvio Romero,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,Titi,1024,2,0,Fortaleza
+201045,6,Faltas cometidas,Yago Pikachu,1024,1,0,Fortaleza
+201045,6,Faltas cometidas,Alanzinho,1172,1,0,Sport
+201045,6,Faltas cometidas,Bill,1172,1,0,Sport
+201045,6,Faltas cometidas,Búfalo Parraguez,1172,5,0,Sport
+201045,6,Faltas cometidas,Chico,1172,1,0,Sport
+201045,6,Faltas cometidas,Denner,1172,2,0,Sport
+201045,6,Faltas cometidas,Pedro Naressi,1172,1,0,Sport
+201045,6,Faltas cometidas,Ronaldo,1172,1,0,Sport
+201045,6,Faltas cometidas,Sabino,1172,2,0,Sport
+201045,6,Faltas cometidas,Sander,1172,1,0,Sport
+201045,6,Faltas cometidas,William Oliveira,1172,1,0,Sport
+201045,7,Faltas sofridas,Hércules,1024,1,0,Fortaleza
+201045,7,Faltas sofridas,José Welison,1024,3,0,Fortaleza
+201045,7,Faltas sofridas,Lucas Lima,1024,3,0,Fortaleza
+201045,7,Faltas sofridas,Marcelo Benevenuto,1024,3,0,Fortaleza
+201045,7,Faltas sofridas,Renato Kayzer,1024,2,0,Fortaleza
+201045,7,Faltas sofridas,Titi,1024,1,0,Fortaleza
+201045,7,Faltas sofridas,Yago Pikachu,1024,2,0,Fortaleza
+201045,7,Faltas sofridas,Ewerthon,1172,1,0,Sport
+201045,7,Faltas sofridas,Jaderson,1172,1,0,Sport
+201045,7,Faltas sofridas,Luciano Juba,1172,1,0,Sport
+201045,7,Faltas sofridas,Maílson,1172,1,0,Sport
+201045,7,Faltas sofridas,Pedro Naressi,1172,2,0,Sport
+201045,7,Faltas sofridas,Rafael Thyere,1172,1,0,Sport
+201045,7,Faltas sofridas,Ronaldo,1172,1,0,Sport
+201045,7,Faltas sofridas,Sabino,1172,1,0,Sport
+201045,7,Faltas sofridas,Sander,1172,2,0,Sport
+201045,7,Faltas sofridas,William Oliveira,1172,3,0,Sport
+201045,9,Impedimentos,Renato Kayzer,1024,2,0,Fortaleza
+201045,9,Impedimentos,Búfalo Parraguez,1172,1,0,Sport
+201045,9,Impedimentos,Pedro Naressi,1172,1,0,Sport
+201045,11,Pênaltis,Moisés,1024,1,0,Fortaleza
+201045,12,Perda da posse de bola,Felipe,1024,3,0,Fortaleza
+201045,12,Perda da posse de bola,Hércules,1024,3,0,Fortaleza
+201045,12,Perda da posse de bola,José Welison,1024,2,0,Fortaleza
+201045,12,Perda da posse de bola,Juninho Capixaba,1024,3,0,Fortaleza
+201045,12,Perda da posse de bola,Landazuri,1024,1,0,Fortaleza
+201045,12,Perda da posse de bola,Lucas Lima,1024,1,0,Fortaleza
+201045,12,Perda da posse de bola,Moisés,1024,5,0,Fortaleza
+201045,12,Perda da posse de bola,Renato Kayzer,1024,2,0,Fortaleza
+201045,12,Perda da posse de bola,Silvio Romero,1024,4,0,Fortaleza
+201045,12,Perda da posse de bola,Yago Pikachu,1024,2,0,Fortaleza
+201045,12,Perda da posse de bola,Alanzinho,1172,1,0,Sport
+201045,12,Perda da posse de bola,Bill,1172,4,0,Sport
+201045,12,Perda da posse de bola,Búfalo Parraguez,1172,5,0,Sport
+201045,12,Perda da posse de bola,Chico,1172,1,0,Sport
+201045,12,Perda da posse de bola,Denner,1172,3,0,Sport
+201045,12,Perda da posse de bola,Ewerthon,1172,3,0,Sport
+201045,12,Perda da posse de bola,Jaderson,1172,1,0,Sport
+201045,12,Perda da posse de bola,Luciano Juba,1172,2,0,Sport
+201045,12,Perda da posse de bola,Pedro Naressi,1172,1,0,Sport
+201045,12,Perda da posse de bola,Rafael Thyere,1172,1,0,Sport
+201045,12,Perda da posse de bola,Ronaldo,1172,1,0,Sport
+201045,12,Perda da posse de bola,Sabino,1172,1,0,Sport
+201045,12,Perda da posse de bola,Sander,1172,1,0,Sport
+201045,12,Perda da posse de bola,William Oliveira,1172,3,0,Sport
+201045,25,Cartões amarelos,Juninho Capixaba,1024,1,0,Fortaleza
+201045,25,Cartões amarelos,Marcelo Benevenuto,1024,1,0,Fortaleza
+201045,25,Cartões amarelos,Silvio Romero,1024,1,0,Fortaleza
+201045,25,Cartões amarelos,Alanzinho,1172,1,0,Sport
+201045,25,Cartões amarelos,Búfalo Parraguez,1172,1,0,Sport
+201045,25,Cartões amarelos,Carlos Eduardo,1172,1,0,Sport
+201045,25,Cartões amarelos,Denner,1172,1,0,Sport
+201045,25,Cartões amarelos,Ray Venegas,1172,1,0,Sport
+201045,25,Cartões amarelos,Ronaldo,1172,1,0,Sport
+201045,26,Cartões vermelhos,Robson Fernandes,1024,1,0,Fortaleza

@@ -1,0 +1,1682 @@
+fix_id,scout_id,idPlayer,nomePlayer,team_id,idPlayerDestino,nome,scout_name,team_name,qtd
+199690,1,50802,Marlon Freitas,1361,66176,Dudu,Lançamentos,Atlético-GO,4
+199690,1,51483,Luan Polli,1361,75379,Léo Pereira,Lançamentos,Atlético-GO,2
+199690,1,62017,Baralhas,1361,75379,Léo Pereira,Lançamentos,Atlético-GO,1
+199690,1,63656,Jefferson,1361,24688,Jorginho,Lançamentos,Atlético-GO,1
+199690,1,65284,Rickson,1361,75379,Léo Pereira,Lançamentos,Atlético-GO,1
+199690,1,66176,Dudu,1361,20495,Churín,Lançamentos,Atlético-GO,1
+199690,2,20495,Churín,1361,21122,Edson,Passes,Atlético-GO,2
+199690,2,20495,Churín,1361,62017,Baralhas,Passes,Atlético-GO,1
+199690,2,20495,Churín,1361,65284,Rickson,Passes,Atlético-GO,1
+199690,2,20495,Churín,1361,66176,Dudu,Passes,Atlético-GO,1
+199690,2,21122,Edson,1361,20495,Churín,Passes,Atlético-GO,1
+199690,2,21122,Edson,1361,24688,Jorginho,Passes,Atlético-GO,5
+199690,2,21122,Edson,1361,33213,Wanderson,Passes,Atlético-GO,4
+199690,2,21122,Edson,1361,50802,Marlon Freitas,Passes,Atlético-GO,9
+199690,2,21122,Edson,1361,51483,Luan Polli,Passes,Atlético-GO,2
+199690,2,21122,Edson,1361,62017,Baralhas,Passes,Atlético-GO,6
+199690,2,21122,Edson,1361,63656,Jefferson,Passes,Atlético-GO,11
+199690,2,21122,Edson,1361,66176,Dudu,Passes,Atlético-GO,1
+199690,2,21122,Edson,1361,75379,Léo Pereira,Passes,Atlético-GO,1
+199690,2,24688,Jorginho,1361,33213,Wanderson,Passes,Atlético-GO,1
+199690,2,24688,Jorginho,1361,42737,Wellington Rato,Passes,Atlético-GO,4
+199690,2,24688,Jorginho,1361,50802,Marlon Freitas,Passes,Atlético-GO,2
+199690,2,24688,Jorginho,1361,61424,Shaylon,Passes,Atlético-GO,2
+199690,2,24688,Jorginho,1361,63656,Jefferson,Passes,Atlético-GO,3
+199690,2,24688,Jorginho,1361,66176,Dudu,Passes,Atlético-GO,3
+199690,2,24688,Jorginho,1361,75379,Léo Pereira,Passes,Atlético-GO,1
+199690,2,33213,Wanderson,1361,21122,Edson,Passes,Atlético-GO,9
+199690,2,33213,Wanderson,1361,42737,Wellington Rato,Passes,Atlético-GO,2
+199690,2,33213,Wanderson,1361,50802,Marlon Freitas,Passes,Atlético-GO,3
+199690,2,33213,Wanderson,1361,51483,Luan Polli,Passes,Atlético-GO,4
+199690,2,33213,Wanderson,1361,61424,Shaylon,Passes,Atlético-GO,2
+199690,2,33213,Wanderson,1361,62017,Baralhas,Passes,Atlético-GO,7
+199690,2,33213,Wanderson,1361,63656,Jefferson,Passes,Atlético-GO,4
+199690,2,33213,Wanderson,1361,66176,Dudu,Passes,Atlético-GO,12
+199690,2,42737,Wellington Rato,1361,24688,Jorginho,Passes,Atlético-GO,2
+199690,2,42737,Wellington Rato,1361,33213,Wanderson,Passes,Atlético-GO,1
+199690,2,42737,Wellington Rato,1361,50802,Marlon Freitas,Passes,Atlético-GO,1
+199690,2,42737,Wellington Rato,1361,61424,Shaylon,Passes,Atlético-GO,4
+199690,2,42737,Wellington Rato,1361,62017,Baralhas,Passes,Atlético-GO,1
+199690,2,42737,Wellington Rato,1361,66176,Dudu,Passes,Atlético-GO,3
+199690,2,50802,Marlon Freitas,1361,20495,Churín,Passes,Atlético-GO,1
+199690,2,50802,Marlon Freitas,1361,21122,Edson,Passes,Atlético-GO,2
+199690,2,50802,Marlon Freitas,1361,24688,Jorginho,Passes,Atlético-GO,2
+199690,2,50802,Marlon Freitas,1361,33213,Wanderson,Passes,Atlético-GO,5
+199690,2,50802,Marlon Freitas,1361,42737,Wellington Rato,Passes,Atlético-GO,2
+199690,2,50802,Marlon Freitas,1361,51483,Luan Polli,Passes,Atlético-GO,2
+199690,2,50802,Marlon Freitas,1361,61424,Shaylon,Passes,Atlético-GO,8
+199690,2,50802,Marlon Freitas,1361,62017,Baralhas,Passes,Atlético-GO,8
+199690,2,50802,Marlon Freitas,1361,63656,Jefferson,Passes,Atlético-GO,2
+199690,2,50802,Marlon Freitas,1361,66176,Dudu,Passes,Atlético-GO,7
+199690,2,51483,Luan Polli,1361,21122,Edson,Passes,Atlético-GO,5
+199690,2,51483,Luan Polli,1361,33213,Wanderson,Passes,Atlético-GO,12
+199690,2,51483,Luan Polli,1361,50802,Marlon Freitas,Passes,Atlético-GO,1
+199690,2,51483,Luan Polli,1361,56863,Hayner,Passes,Atlético-GO,1
+199690,2,51483,Luan Polli,1361,62017,Baralhas,Passes,Atlético-GO,3
+199690,2,51483,Luan Polli,1361,63656,Jefferson,Passes,Atlético-GO,3
+199690,2,51483,Luan Polli,1361,66176,Dudu,Passes,Atlético-GO,1
+199690,2,61424,Shaylon,1361,24688,Jorginho,Passes,Atlético-GO,4
+199690,2,61424,Shaylon,1361,33213,Wanderson,Passes,Atlético-GO,4
+199690,2,61424,Shaylon,1361,42737,Wellington Rato,Passes,Atlético-GO,2
+199690,2,61424,Shaylon,1361,50802,Marlon Freitas,Passes,Atlético-GO,6
+199690,2,61424,Shaylon,1361,51483,Luan Polli,Passes,Atlético-GO,1
+199690,2,61424,Shaylon,1361,66176,Dudu,Passes,Atlético-GO,5
+199690,2,62017,Baralhas,1361,20495,Churín,Passes,Atlético-GO,2
+199690,2,62017,Baralhas,1361,21122,Edson,Passes,Atlético-GO,5
+199690,2,62017,Baralhas,1361,24688,Jorginho,Passes,Atlético-GO,1
+199690,2,62017,Baralhas,1361,33213,Wanderson,Passes,Atlético-GO,2
+199690,2,62017,Baralhas,1361,42737,Wellington Rato,Passes,Atlético-GO,3
+199690,2,62017,Baralhas,1361,50802,Marlon Freitas,Passes,Atlético-GO,7
+199690,2,62017,Baralhas,1361,51483,Luan Polli,Passes,Atlético-GO,2
+199690,2,62017,Baralhas,1361,61424,Shaylon,Passes,Atlético-GO,2
+199690,2,62017,Baralhas,1361,63656,Jefferson,Passes,Atlético-GO,4
+199690,2,62017,Baralhas,1361,66176,Dudu,Passes,Atlético-GO,6
+199690,2,63656,Jefferson,1361,21122,Edson,Passes,Atlético-GO,10
+199690,2,63656,Jefferson,1361,24688,Jorginho,Passes,Atlético-GO,4
+199690,2,63656,Jefferson,1361,42737,Wellington Rato,Passes,Atlético-GO,3
+199690,2,63656,Jefferson,1361,50802,Marlon Freitas,Passes,Atlético-GO,3
+199690,2,63656,Jefferson,1361,51483,Luan Polli,Passes,Atlético-GO,2
+199690,2,63656,Jefferson,1361,61424,Shaylon,Passes,Atlético-GO,1
+199690,2,63656,Jefferson,1361,62017,Baralhas,Passes,Atlético-GO,6
+199690,2,63656,Jefferson,1361,75379,Léo Pereira,Passes,Atlético-GO,10
+199690,2,65284,Rickson,1361,56863,Hayner,Passes,Atlético-GO,1
+199690,2,65284,Rickson,1361,62017,Baralhas,Passes,Atlético-GO,1
+199690,2,66176,Dudu,1361,21122,Edson,Passes,Atlético-GO,1
+199690,2,66176,Dudu,1361,24688,Jorginho,Passes,Atlético-GO,3
+199690,2,66176,Dudu,1361,33213,Wanderson,Passes,Atlético-GO,15
+199690,2,66176,Dudu,1361,42737,Wellington Rato,Passes,Atlético-GO,3
+199690,2,66176,Dudu,1361,50802,Marlon Freitas,Passes,Atlético-GO,12
+199690,2,66176,Dudu,1361,61424,Shaylon,Passes,Atlético-GO,10
+199690,2,66176,Dudu,1361,62017,Baralhas,Passes,Atlético-GO,2
+199690,2,66176,Dudu,1361,65284,Rickson,Passes,Atlético-GO,1
+199690,2,75379,Léo Pereira,1361,21122,Edson,Passes,Atlético-GO,1
+199690,2,75379,Léo Pereira,1361,50802,Marlon Freitas,Passes,Atlético-GO,1
+199690,2,75379,Léo Pereira,1361,63656,Jefferson,Passes,Atlético-GO,5
+199690,5,33213,Wanderson,1361,66176,Dudu,Desarmes,Atlético-GO,1
+199690,5,61424,Shaylon,1361,66176,Dudu,Desarmes,Atlético-GO,1
+199690,5,62017,Baralhas,1361,24688,Jorginho,Desarmes,Atlético-GO,1
+199690,5,62017,Baralhas,1361,51483,Luan Polli,Desarmes,Atlético-GO,1
+199690,5,66176,Dudu,1361,51483,Luan Polli,Desarmes,Atlético-GO,1
+199690,5,75379,Léo Pereira,1361,62017,Baralhas,Desarmes,Atlético-GO,1
+199690,7,56863,Hayner,1361,63656,Jefferson,Faltas sofridas,Atlético-GO,1
+199690,14,66176,Dudu,1361,42737,Wellington Rato,Cruzamentos,Atlético-GO,1
+199690,19,20495,Churín,1361,51483,Luan Polli,Rebatidas,Atlético-GO,1
+199690,19,20495,Churín,1361,56863,Hayner,Rebatidas,Atlético-GO,1
+199690,19,21122,Edson,1361,50802,Marlon Freitas,Rebatidas,Atlético-GO,1
+199690,19,21122,Edson,1361,51483,Luan Polli,Rebatidas,Atlético-GO,3
+199690,19,21122,Edson,1361,63656,Jefferson,Rebatidas,Atlético-GO,1
+199690,19,21122,Edson,1361,65284,Rickson,Rebatidas,Atlético-GO,1
+199690,19,21122,Edson,1361,66176,Dudu,Rebatidas,Atlético-GO,2
+199690,19,33213,Wanderson,1361,21122,Edson,Rebatidas,Atlético-GO,1
+199690,19,33213,Wanderson,1361,62017,Baralhas,Rebatidas,Atlético-GO,1
+199690,19,33213,Wanderson,1361,66176,Dudu,Rebatidas,Atlético-GO,2
+199690,19,42737,Wellington Rato,1361,51483,Luan Polli,Rebatidas,Atlético-GO,1
+199690,19,42737,Wellington Rato,1361,63656,Jefferson,Rebatidas,Atlético-GO,1
+199690,19,50802,Marlon Freitas,1361,66176,Dudu,Rebatidas,Atlético-GO,1
+199690,19,51483,Luan Polli,1361,63656,Jefferson,Rebatidas,Atlético-GO,2
+199690,19,61424,Shaylon,1361,42737,Wellington Rato,Rebatidas,Atlético-GO,1
+199690,19,61424,Shaylon,1361,75379,Léo Pereira,Rebatidas,Atlético-GO,1
+199690,19,63656,Jefferson,1361,21122,Edson,Rebatidas,Atlético-GO,1
+199690,19,63656,Jefferson,1361,42737,Wellington Rato,Rebatidas,Atlético-GO,1
+199690,19,63656,Jefferson,1361,50802,Marlon Freitas,Rebatidas,Atlético-GO,1
+199690,19,63656,Jefferson,1361,51483,Luan Polli,Rebatidas,Atlético-GO,1
+199690,19,63656,Jefferson,1361,75379,Léo Pereira,Rebatidas,Atlético-GO,1
+199690,19,66176,Dudu,1361,50802,Marlon Freitas,Rebatidas,Atlético-GO,1
+199690,19,66176,Dudu,1361,61424,Shaylon,Rebatidas,Atlético-GO,1
+199690,19,66176,Dudu,1361,63656,Jefferson,Rebatidas,Atlético-GO,1
+199690,19,66176,Dudu,1361,75379,Léo Pereira,Rebatidas,Atlético-GO,1
+199690,19,75379,Léo Pereira,1361,20495,Churín,Rebatidas,Atlético-GO,1
+199690,22,24688,Jorginho,1361,66176,Dudu,Viradas de jogo,Atlético-GO,1
+199690,22,33213,Wanderson,1361,63656,Jefferson,Viradas de jogo,Atlético-GO,2
+199690,22,42737,Wellington Rato,1361,63656,Jefferson,Viradas de jogo,Atlético-GO,1
+199690,22,63656,Jefferson,1361,33213,Wanderson,Viradas de jogo,Atlético-GO,1
+199690,22,66176,Dudu,1361,63656,Jefferson,Viradas de jogo,Atlético-GO,1
+199713,1,29029,Everson,1009,16871,Savarino,Lançamentos,Atlético-MG,1
+199713,1,29029,Everson,1009,47503,Júnior Alonso,Lançamentos,Atlético-MG,1
+199713,1,29029,Everson,1009,50816,Guilherme Arana,Lançamentos,Atlético-MG,1
+199713,1,29029,Everson,1009,72372,Guga,Lançamentos,Atlético-MG,2
+199713,1,29029,Everson,1009,72610,Ademir,Lançamentos,Atlético-MG,1
+199713,1,45475,Keno,1009,72610,Ademir,Lançamentos,Atlético-MG,1
+199713,1,47503,Júnior Alonso,1009,72372,Guga,Lançamentos,Atlético-MG,1
+199713,1,50816,Guilherme Arana,1009,31958,Eduardo Vargas,Lançamentos,Atlético-MG,1
+199713,1,50816,Guilherme Arana,1009,72610,Ademir,Lançamentos,Atlético-MG,2
+199713,1,52183,Otávio,1009,72610,Ademir,Lançamentos,Atlético-MG,1
+199713,1,66174,Allan,1009,16871,Savarino,Lançamentos,Atlético-MG,1
+199713,1,66174,Allan,1009,45475,Keno,Lançamentos,Atlético-MG,1
+199713,1,66174,Allan,1009,72610,Ademir,Lançamentos,Atlético-MG,2
+199713,2,16871,Savarino,1009,28907,Hulk,Passes,Atlético-MG,1
+199713,2,16871,Savarino,1009,50816,Guilherme Arana,Passes,Atlético-MG,1
+199713,2,16871,Savarino,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,16871,Savarino,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,16871,Savarino,1009,72372,Guga,Passes,Atlético-MG,1
+199713,2,22061,Eduardo Sasha,1009,28907,Hulk,Passes,Atlético-MG,2
+199713,2,22061,Eduardo Sasha,1009,45475,Keno,Passes,Atlético-MG,1
+199713,2,22061,Eduardo Sasha,1009,50816,Guilherme Arana,Passes,Atlético-MG,1
+199713,2,22061,Eduardo Sasha,1009,66174,Allan,Passes,Atlético-MG,3
+199713,2,22061,Eduardo Sasha,1009,72372,Guga,Passes,Atlético-MG,2
+199713,2,22061,Eduardo Sasha,1009,72610,Ademir,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,16871,Savarino,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,22061,Eduardo Sasha,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,31958,Eduardo Vargas,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,45475,Keno,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,50816,Guilherme Arana,Passes,Atlético-MG,3
+199713,2,28907,Hulk,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,52183,Otávio,Passes,Atlético-MG,3
+199713,2,28907,Hulk,1009,52406,Nathan Silva,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,66174,Allan,Passes,Atlético-MG,2
+199713,2,28907,Hulk,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,28907,Hulk,1009,72372,Guga,Passes,Atlético-MG,5
+199713,2,28907,Hulk,1009,72610,Ademir,Passes,Atlético-MG,3
+199713,2,29029,Everson,1009,45475,Keno,Passes,Atlético-MG,1
+199713,2,29029,Everson,1009,47503,Júnior Alonso,Passes,Atlético-MG,7
+199713,2,29029,Everson,1009,50816,Guilherme Arana,Passes,Atlético-MG,4
+199713,2,29029,Everson,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,29029,Everson,1009,52183,Otávio,Passes,Atlético-MG,2
+199713,2,29029,Everson,1009,52406,Nathan Silva,Passes,Atlético-MG,8
+199713,2,29029,Everson,1009,66174,Allan,Passes,Atlético-MG,3
+199713,2,29029,Everson,1009,72372,Guga,Passes,Atlético-MG,2
+199713,2,31958,Eduardo Vargas,1009,47503,Júnior Alonso,Passes,Atlético-MG,1
+199713,2,31958,Eduardo Vargas,1009,51209,Jair,Passes,Atlético-MG,2
+199713,2,31958,Eduardo Vargas,1009,52406,Nathan Silva,Passes,Atlético-MG,1
+199713,2,31958,Eduardo Vargas,1009,66174,Allan,Passes,Atlético-MG,1
+199713,2,31958,Eduardo Vargas,1009,69665,Federico Zaracho,Passes,Atlético-MG,2
+199713,2,31958,Eduardo Vargas,1009,72372,Guga,Passes,Atlético-MG,1
+199713,2,45475,Keno,1009,22061,Eduardo Sasha,Passes,Atlético-MG,3
+199713,2,45475,Keno,1009,28907,Hulk,Passes,Atlético-MG,3
+199713,2,45475,Keno,1009,50816,Guilherme Arana,Passes,Atlético-MG,6
+199713,2,45475,Keno,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,45475,Keno,1009,52183,Otávio,Passes,Atlético-MG,2
+199713,2,45475,Keno,1009,66174,Allan,Passes,Atlético-MG,1
+199713,2,45475,Keno,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,45475,Keno,1009,72610,Ademir,Passes,Atlético-MG,1
+199713,2,47503,Júnior Alonso,1009,28907,Hulk,Passes,Atlético-MG,2
+199713,2,47503,Júnior Alonso,1009,29029,Everson,Passes,Atlético-MG,7
+199713,2,47503,Júnior Alonso,1009,31958,Eduardo Vargas,Passes,Atlético-MG,1
+199713,2,47503,Júnior Alonso,1009,45475,Keno,Passes,Atlético-MG,2
+199713,2,47503,Júnior Alonso,1009,50816,Guilherme Arana,Passes,Atlético-MG,22
+199713,2,47503,Júnior Alonso,1009,51209,Jair,Passes,Atlético-MG,2
+199713,2,47503,Júnior Alonso,1009,52183,Otávio,Passes,Atlético-MG,7
+199713,2,47503,Júnior Alonso,1009,52406,Nathan Silva,Passes,Atlético-MG,10
+199713,2,47503,Júnior Alonso,1009,66174,Allan,Passes,Atlético-MG,6
+199713,2,47503,Júnior Alonso,1009,69665,Federico Zaracho,Passes,Atlético-MG,2
+199713,2,47503,Júnior Alonso,1009,72372,Guga,Passes,Atlético-MG,1
+199713,2,47503,Júnior Alonso,1009,72610,Ademir,Passes,Atlético-MG,1
+199713,2,50816,Guilherme Arana,1009,22061,Eduardo Sasha,Passes,Atlético-MG,2
+199713,2,50816,Guilherme Arana,1009,28907,Hulk,Passes,Atlético-MG,2
+199713,2,50816,Guilherme Arana,1009,29029,Everson,Passes,Atlético-MG,2
+199713,2,50816,Guilherme Arana,1009,31958,Eduardo Vargas,Passes,Atlético-MG,4
+199713,2,50816,Guilherme Arana,1009,45475,Keno,Passes,Atlético-MG,18
+199713,2,50816,Guilherme Arana,1009,47503,Júnior Alonso,Passes,Atlético-MG,13
+199713,2,50816,Guilherme Arana,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,50816,Guilherme Arana,1009,52183,Otávio,Passes,Atlético-MG,8
+199713,2,50816,Guilherme Arana,1009,52406,Nathan Silva,Passes,Atlético-MG,4
+199713,2,50816,Guilherme Arana,1009,66174,Allan,Passes,Atlético-MG,10
+199713,2,50816,Guilherme Arana,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,51209,Jair,1009,16871,Savarino,Passes,Atlético-MG,1
+199713,2,51209,Jair,1009,47503,Júnior Alonso,Passes,Atlético-MG,2
+199713,2,51209,Jair,1009,50816,Guilherme Arana,Passes,Atlético-MG,2
+199713,2,51209,Jair,1009,52406,Nathan Silva,Passes,Atlético-MG,2
+199713,2,51209,Jair,1009,66174,Allan,Passes,Atlético-MG,2
+199713,2,51209,Jair,1009,69665,Federico Zaracho,Passes,Atlético-MG,3
+199713,2,51209,Jair,1009,72372,Guga,Passes,Atlético-MG,1
+199713,2,52183,Otávio,1009,22061,Eduardo Sasha,Passes,Atlético-MG,2
+199713,2,52183,Otávio,1009,28907,Hulk,Passes,Atlético-MG,4
+199713,2,52183,Otávio,1009,29029,Everson,Passes,Atlético-MG,3
+199713,2,52183,Otávio,1009,47503,Júnior Alonso,Passes,Atlético-MG,6
+199713,2,52183,Otávio,1009,50816,Guilherme Arana,Passes,Atlético-MG,7
+199713,2,52183,Otávio,1009,52406,Nathan Silva,Passes,Atlético-MG,9
+199713,2,52183,Otávio,1009,66174,Allan,Passes,Atlético-MG,9
+199713,2,52183,Otávio,1009,72372,Guga,Passes,Atlético-MG,9
+199713,2,52183,Otávio,1009,72610,Ademir,Passes,Atlético-MG,4
+199713,2,52406,Nathan Silva,1009,28907,Hulk,Passes,Atlético-MG,1
+199713,2,52406,Nathan Silva,1009,29029,Everson,Passes,Atlético-MG,14
+199713,2,52406,Nathan Silva,1009,31958,Eduardo Vargas,Passes,Atlético-MG,1
+199713,2,52406,Nathan Silva,1009,47503,Júnior Alonso,Passes,Atlético-MG,17
+199713,2,52406,Nathan Silva,1009,50816,Guilherme Arana,Passes,Atlético-MG,1
+199713,2,52406,Nathan Silva,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,52406,Nathan Silva,1009,52183,Otávio,Passes,Atlético-MG,7
+199713,2,52406,Nathan Silva,1009,66174,Allan,Passes,Atlético-MG,12
+199713,2,52406,Nathan Silva,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,52406,Nathan Silva,1009,72372,Guga,Passes,Atlético-MG,6
+199713,2,52406,Nathan Silva,1009,72610,Ademir,Passes,Atlético-MG,3
+199713,2,66174,Allan,1009,16871,Savarino,Passes,Atlético-MG,1
+199713,2,66174,Allan,1009,22061,Eduardo Sasha,Passes,Atlético-MG,1
+199713,2,66174,Allan,1009,28907,Hulk,Passes,Atlético-MG,4
+199713,2,66174,Allan,1009,29029,Everson,Passes,Atlético-MG,6
+199713,2,66174,Allan,1009,45475,Keno,Passes,Atlético-MG,2
+199713,2,66174,Allan,1009,47503,Júnior Alonso,Passes,Atlético-MG,6
+199713,2,66174,Allan,1009,50816,Guilherme Arana,Passes,Atlético-MG,9
+199713,2,66174,Allan,1009,51209,Jair,Passes,Atlético-MG,2
+199713,2,66174,Allan,1009,52183,Otávio,Passes,Atlético-MG,9
+199713,2,66174,Allan,1009,52406,Nathan Silva,Passes,Atlético-MG,8
+199713,2,66174,Allan,1009,69665,Federico Zaracho,Passes,Atlético-MG,1
+199713,2,66174,Allan,1009,72372,Guga,Passes,Atlético-MG,3
+199713,2,66174,Allan,1009,72610,Ademir,Passes,Atlético-MG,1
+199713,2,69665,Federico Zaracho,1009,16871,Savarino,Passes,Atlético-MG,1
+199713,2,69665,Federico Zaracho,1009,28907,Hulk,Passes,Atlético-MG,4
+199713,2,69665,Federico Zaracho,1009,31958,Eduardo Vargas,Passes,Atlético-MG,2
+199713,2,69665,Federico Zaracho,1009,50816,Guilherme Arana,Passes,Atlético-MG,4
+199713,2,69665,Federico Zaracho,1009,51209,Jair,Passes,Atlético-MG,1
+199713,2,69665,Federico Zaracho,1009,52406,Nathan Silva,Passes,Atlético-MG,2
+199713,2,69665,Federico Zaracho,1009,66174,Allan,Passes,Atlético-MG,1
+199713,2,69665,Federico Zaracho,1009,72372,Guga,Passes,Atlético-MG,1
+199713,2,72372,Guga,1009,16871,Savarino,Passes,Atlético-MG,2
+199713,2,72372,Guga,1009,28907,Hulk,Passes,Atlético-MG,7
+199713,2,72372,Guga,1009,29029,Everson,Passes,Atlético-MG,1
+199713,2,72372,Guga,1009,45475,Keno,Passes,Atlético-MG,1
+199713,2,72372,Guga,1009,47503,Júnior Alonso,Passes,Atlético-MG,2
+199713,2,72372,Guga,1009,50816,Guilherme Arana,Passes,Atlético-MG,1
+199713,2,72372,Guga,1009,51209,Jair,Passes,Atlético-MG,2
+199713,2,72372,Guga,1009,52183,Otávio,Passes,Atlético-MG,5
+199713,2,72372,Guga,1009,52406,Nathan Silva,Passes,Atlético-MG,10
+199713,2,72372,Guga,1009,66174,Allan,Passes,Atlético-MG,6
+199713,2,72372,Guga,1009,69665,Federico Zaracho,Passes,Atlético-MG,4
+199713,2,72372,Guga,1009,72610,Ademir,Passes,Atlético-MG,4
+199713,2,72610,Ademir,1009,22061,Eduardo Sasha,Passes,Atlético-MG,2
+199713,2,72610,Ademir,1009,28907,Hulk,Passes,Atlético-MG,2
+199713,2,72610,Ademir,1009,45475,Keno,Passes,Atlético-MG,2
+199713,2,72610,Ademir,1009,50816,Guilherme Arana,Passes,Atlético-MG,2
+199713,2,72610,Ademir,1009,52183,Otávio,Passes,Atlético-MG,4
+199713,2,72610,Ademir,1009,66174,Allan,Passes,Atlético-MG,1
+199713,2,72610,Ademir,1009,72372,Guga,Passes,Atlético-MG,1
+199713,5,45475,Keno,1009,28907,Hulk,Desarmes,Atlético-MG,1
+199713,5,52406,Nathan Silva,1009,72372,Guga,Desarmes,Atlético-MG,1
+199713,5,69665,Federico Zaracho,1009,50816,Guilherme Arana,Desarmes,Atlético-MG,1
+199713,5,69665,Federico Zaracho,1009,72372,Guga,Desarmes,Atlético-MG,1
+199713,5,72610,Ademir,1009,52183,Otávio,Desarmes,Atlético-MG,1
+199713,5,72610,Ademir,1009,72372,Guga,Desarmes,Atlético-MG,1
+199713,7,45475,Keno,1009,52183,Otávio,Faltas sofridas,Atlético-MG,1
+199713,14,45475,Keno,1009,22061,Eduardo Sasha,Cruzamentos,Atlético-MG,1
+199713,14,45475,Keno,1009,28907,Hulk,Cruzamentos,Atlético-MG,1
+199713,14,69665,Federico Zaracho,1009,50816,Guilherme Arana,Cruzamentos,Atlético-MG,1
+199713,14,72372,Guga,1009,28907,Hulk,Cruzamentos,Atlético-MG,1
+199713,14,72372,Guga,1009,45475,Keno,Cruzamentos,Atlético-MG,1
+199713,14,72372,Guga,1009,47503,Júnior Alonso,Cruzamentos,Atlético-MG,1
+199713,19,47503,Júnior Alonso,1009,45475,Keno,Rebatidas,Atlético-MG,1
+199713,19,47503,Júnior Alonso,1009,66174,Allan,Rebatidas,Atlético-MG,1
+199713,19,47503,Júnior Alonso,1009,69665,Federico Zaracho,Rebatidas,Atlético-MG,1
+199713,19,47503,Júnior Alonso,1009,72372,Guga,Rebatidas,Atlético-MG,1
+199713,19,50816,Guilherme Arana,1009,28907,Hulk,Rebatidas,Atlético-MG,1
+199713,19,50816,Guilherme Arana,1009,66174,Allan,Rebatidas,Atlético-MG,1
+199713,19,50816,Guilherme Arana,1009,72372,Guga,Rebatidas,Atlético-MG,1
+199713,19,52183,Otávio,1009,50816,Guilherme Arana,Rebatidas,Atlético-MG,1
+199713,19,52183,Otávio,1009,52406,Nathan Silva,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,29029,Everson,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,31958,Eduardo Vargas,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,45475,Keno,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,47503,Júnior Alonso,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,50816,Guilherme Arana,Rebatidas,Atlético-MG,1
+199713,19,52406,Nathan Silva,1009,69665,Federico Zaracho,Rebatidas,Atlético-MG,1
+199713,19,66174,Allan,1009,47503,Júnior Alonso,Rebatidas,Atlético-MG,1
+199713,19,66174,Allan,1009,50816,Guilherme Arana,Rebatidas,Atlético-MG,1
+199713,19,72372,Guga,1009,52406,Nathan Silva,Rebatidas,Atlético-MG,1
+199713,19,72372,Guga,1009,72610,Ademir,Rebatidas,Atlético-MG,1
+199713,22,31958,Eduardo Vargas,1009,72372,Guga,Viradas de jogo,Atlético-MG,1
+199713,22,45475,Keno,1009,72610,Ademir,Viradas de jogo,Atlético-MG,1
+199713,22,66174,Allan,1009,72372,Guga,Viradas de jogo,Atlético-MG,1
+199713,22,72610,Ademir,1009,45475,Keno,Viradas de jogo,Atlético-MG,1
+199713,24,69665,Federico Zaracho,1009,50816,Guilherme Arana,Interceptações,Atlético-MG,1
+199719,1,20707,Bruno Silva,1256,61895,Kevin,Lançamentos,Avaí,1
+199719,1,28885,Bressan,1256,35752,Jonathan Copete,Lançamentos,Avaí,1
+199719,1,28885,Bressan,1256,58223,Eduardo,Lançamentos,Avaí,1
+199719,1,28885,Bressan,1256,91581,Dentinho,Lançamentos,Avaí,1
+199719,1,37167,Douglas Friedrich,1256,20707,Bruno Silva,Lançamentos,Avaí,1
+199719,1,37167,Douglas Friedrich,1256,91581,Dentinho,Lançamentos,Avaí,1
+199719,1,61895,Kevin,1256,10433,Muriqui,Lançamentos,Avaí,1
+199719,1,61895,Kevin,1256,33828,Jean Cléber,Lançamentos,Avaí,2
+199719,1,64659,Raniele,1256,35311,Bruno Cortez,Lançamentos,Avaí,1
+199719,1,64659,Raniele,1256,35752,Jonathan Copete,Lançamentos,Avaí,2
+199719,1,64659,Raniele,1256,43513,Morato,Lançamentos,Avaí,1
+199719,2,10433,Muriqui,1256,20707,Bruno Silva,Passes,Avaí,4
+199719,2,10433,Muriqui,1256,35311,Bruno Cortez,Passes,Avaí,1
+199719,2,10433,Muriqui,1256,35752,Jonathan Copete,Passes,Avaí,2
+199719,2,10433,Muriqui,1256,43513,Morato,Passes,Avaí,3
+199719,2,10433,Muriqui,1256,58223,Eduardo,Passes,Avaí,1
+199719,2,10433,Muriqui,1256,61895,Kevin,Passes,Avaí,3
+199719,2,10433,Muriqui,1256,64659,Raniele,Passes,Avaí,2
+199719,2,10433,Muriqui,1256,81126,Arthur Chaves,Passes,Avaí,1
+199719,2,20707,Bruno Silva,1256,10433,Muriqui,Passes,Avaí,4
+199719,2,20707,Bruno Silva,1256,28885,Bressan,Passes,Avaí,8
+199719,2,20707,Bruno Silva,1256,33828,Jean Cléber,Passes,Avaí,2
+199719,2,20707,Bruno Silva,1256,35311,Bruno Cortez,Passes,Avaí,1
+199719,2,20707,Bruno Silva,1256,35752,Jonathan Copete,Passes,Avaí,3
+199719,2,20707,Bruno Silva,1256,43513,Morato,Passes,Avaí,8
+199719,2,20707,Bruno Silva,1256,43577,Vinícius Leite,Passes,Avaí,2
+199719,2,20707,Bruno Silva,1256,58223,Eduardo,Passes,Avaí,1
+199719,2,20707,Bruno Silva,1256,61895,Kevin,Passes,Avaí,7
+199719,2,20707,Bruno Silva,1256,64659,Raniele,Passes,Avaí,8
+199719,2,20707,Bruno Silva,1256,81126,Arthur Chaves,Passes,Avaí,4
+199719,2,28885,Bressan,1256,10433,Muriqui,Passes,Avaí,3
+199719,2,28885,Bressan,1256,20707,Bruno Silva,Passes,Avaí,4
+199719,2,28885,Bressan,1256,35311,Bruno Cortez,Passes,Avaí,5
+199719,2,28885,Bressan,1256,37167,Douglas Friedrich,Passes,Avaí,7
+199719,2,28885,Bressan,1256,43513,Morato,Passes,Avaí,7
+199719,2,28885,Bressan,1256,43577,Vinícius Leite,Passes,Avaí,1
+199719,2,28885,Bressan,1256,61895,Kevin,Passes,Avaí,15
+199719,2,28885,Bressan,1256,64659,Raniele,Passes,Avaí,2
+199719,2,28885,Bressan,1256,81126,Arthur Chaves,Passes,Avaí,28
+199719,2,33828,Jean Cléber,1256,10433,Muriqui,Passes,Avaí,1
+199719,2,33828,Jean Cléber,1256,20707,Bruno Silva,Passes,Avaí,2
+199719,2,33828,Jean Cléber,1256,43513,Morato,Passes,Avaí,3
+199719,2,33828,Jean Cléber,1256,61895,Kevin,Passes,Avaí,3
+199719,2,33828,Jean Cléber,1256,65140,Guilherme Bissoli,Passes,Avaí,1
+199719,2,35311,Bruno Cortez,1256,10433,Muriqui,Passes,Avaí,4
+199719,2,35311,Bruno Cortez,1256,20707,Bruno Silva,Passes,Avaí,10
+199719,2,35311,Bruno Cortez,1256,28885,Bressan,Passes,Avaí,3
+199719,2,35311,Bruno Cortez,1256,33828,Jean Cléber,Passes,Avaí,1
+199719,2,35311,Bruno Cortez,1256,35752,Jonathan Copete,Passes,Avaí,8
+199719,2,35311,Bruno Cortez,1256,37167,Douglas Friedrich,Passes,Avaí,1
+199719,2,35311,Bruno Cortez,1256,43513,Morato,Passes,Avaí,2
+199719,2,35311,Bruno Cortez,1256,43577,Vinícius Leite,Passes,Avaí,7
+199719,2,35311,Bruno Cortez,1256,58223,Eduardo,Passes,Avaí,4
+199719,2,35311,Bruno Cortez,1256,61895,Kevin,Passes,Avaí,1
+199719,2,35311,Bruno Cortez,1256,64659,Raniele,Passes,Avaí,3
+199719,2,35311,Bruno Cortez,1256,81126,Arthur Chaves,Passes,Avaí,11
+199719,2,35752,Jonathan Copete,1256,10433,Muriqui,Passes,Avaí,2
+199719,2,35752,Jonathan Copete,1256,20707,Bruno Silva,Passes,Avaí,2
+199719,2,35752,Jonathan Copete,1256,33828,Jean Cléber,Passes,Avaí,1
+199719,2,35752,Jonathan Copete,1256,35311,Bruno Cortez,Passes,Avaí,6
+199719,2,35752,Jonathan Copete,1256,43513,Morato,Passes,Avaí,1
+199719,2,35752,Jonathan Copete,1256,58223,Eduardo,Passes,Avaí,2
+199719,2,35752,Jonathan Copete,1256,64659,Raniele,Passes,Avaí,2
+199719,2,35752,Jonathan Copete,1256,81126,Arthur Chaves,Passes,Avaí,3
+199719,2,37167,Douglas Friedrich,1256,28885,Bressan,Passes,Avaí,8
+199719,2,37167,Douglas Friedrich,1256,35311,Bruno Cortez,Passes,Avaí,2
+199719,2,37167,Douglas Friedrich,1256,61895,Kevin,Passes,Avaí,2
+199719,2,37167,Douglas Friedrich,1256,81126,Arthur Chaves,Passes,Avaí,4
+199719,2,43513,Morato,1256,10433,Muriqui,Passes,Avaí,4
+199719,2,43513,Morato,1256,20707,Bruno Silva,Passes,Avaí,6
+199719,2,43513,Morato,1256,28885,Bressan,Passes,Avaí,4
+199719,2,43513,Morato,1256,43577,Vinícius Leite,Passes,Avaí,1
+199719,2,43513,Morato,1256,58223,Eduardo,Passes,Avaí,1
+199719,2,43513,Morato,1256,61895,Kevin,Passes,Avaí,7
+199719,2,43513,Morato,1256,64659,Raniele,Passes,Avaí,5
+199719,2,43577,Vinícius Leite,1256,20707,Bruno Silva,Passes,Avaí,4
+199719,2,43577,Vinícius Leite,1256,28885,Bressan,Passes,Avaí,2
+199719,2,43577,Vinícius Leite,1256,35311,Bruno Cortez,Passes,Avaí,4
+199719,2,43577,Vinícius Leite,1256,35752,Jonathan Copete,Passes,Avaí,4
+199719,2,43577,Vinícius Leite,1256,64659,Raniele,Passes,Avaí,2
+199719,2,43577,Vinícius Leite,1256,81126,Arthur Chaves,Passes,Avaí,3
+199719,2,58223,Eduardo,1256,10433,Muriqui,Passes,Avaí,1
+199719,2,58223,Eduardo,1256,20707,Bruno Silva,Passes,Avaí,1
+199719,2,58223,Eduardo,1256,28885,Bressan,Passes,Avaí,1
+199719,2,58223,Eduardo,1256,33828,Jean Cléber,Passes,Avaí,3
+199719,2,58223,Eduardo,1256,35311,Bruno Cortez,Passes,Avaí,4
+199719,2,58223,Eduardo,1256,35752,Jonathan Copete,Passes,Avaí,4
+199719,2,58223,Eduardo,1256,65140,Guilherme Bissoli,Passes,Avaí,1
+199719,2,61895,Kevin,1256,10433,Muriqui,Passes,Avaí,2
+199719,2,61895,Kevin,1256,20707,Bruno Silva,Passes,Avaí,6
+199719,2,61895,Kevin,1256,28885,Bressan,Passes,Avaí,18
+199719,2,61895,Kevin,1256,33828,Jean Cléber,Passes,Avaí,4
+199719,2,61895,Kevin,1256,43513,Morato,Passes,Avaí,14
+199719,2,61895,Kevin,1256,43577,Vinícius Leite,Passes,Avaí,2
+199719,2,61895,Kevin,1256,64659,Raniele,Passes,Avaí,9
+199719,2,61895,Kevin,1256,65140,Guilherme Bissoli,Passes,Avaí,2
+199719,2,61895,Kevin,1256,81126,Arthur Chaves,Passes,Avaí,2
+199719,2,64659,Raniele,1256,10433,Muriqui,Passes,Avaí,2
+199719,2,64659,Raniele,1256,20707,Bruno Silva,Passes,Avaí,4
+199719,2,64659,Raniele,1256,28885,Bressan,Passes,Avaí,12
+199719,2,64659,Raniele,1256,35311,Bruno Cortez,Passes,Avaí,5
+199719,2,64659,Raniele,1256,35752,Jonathan Copete,Passes,Avaí,3
+199719,2,64659,Raniele,1256,37167,Douglas Friedrich,Passes,Avaí,3
+199719,2,64659,Raniele,1256,43513,Morato,Passes,Avaí,3
+199719,2,64659,Raniele,1256,43577,Vinícius Leite,Passes,Avaí,3
+199719,2,64659,Raniele,1256,58223,Eduardo,Passes,Avaí,1
+199719,2,64659,Raniele,1256,61895,Kevin,Passes,Avaí,7
+199719,2,64659,Raniele,1256,81126,Arthur Chaves,Passes,Avaí,2
+199719,2,65140,Guilherme Bissoli,1256,61895,Kevin,Passes,Avaí,2
+199719,2,81126,Arthur Chaves,1256,20707,Bruno Silva,Passes,Avaí,2
+199719,2,81126,Arthur Chaves,1256,28885,Bressan,Passes,Avaí,22
+199719,2,81126,Arthur Chaves,1256,35311,Bruno Cortez,Passes,Avaí,16
+199719,2,81126,Arthur Chaves,1256,37167,Douglas Friedrich,Passes,Avaí,6
+199719,2,81126,Arthur Chaves,1256,43577,Vinícius Leite,Passes,Avaí,2
+199719,2,81126,Arthur Chaves,1256,58223,Eduardo,Passes,Avaí,4
+199719,2,81126,Arthur Chaves,1256,61895,Kevin,Passes,Avaí,3
+199719,2,81126,Arthur Chaves,1256,64659,Raniele,Passes,Avaí,9
+199719,2,91581,Dentinho,1256,35311,Bruno Cortez,Passes,Avaí,1
+199719,2,91581,Dentinho,1256,58223,Eduardo,Passes,Avaí,1
+199719,5,20707,Bruno Silva,1256,64659,Raniele,Desarmes,Avaí,1
+199719,5,28885,Bressan,1256,81126,Arthur Chaves,Desarmes,Avaí,1
+199719,5,35311,Bruno Cortez,1256,43513,Morato,Desarmes,Avaí,1
+199719,5,43513,Morato,1256,35311,Bruno Cortez,Desarmes,Avaí,1
+199719,5,43513,Morato,1256,61895,Kevin,Desarmes,Avaí,1
+199719,14,35311,Bruno Cortez,1256,10433,Muriqui,Cruzamentos,Avaí,1
+199719,14,35311,Bruno Cortez,1256,43513,Morato,Cruzamentos,Avaí,1
+199719,14,61895,Kevin,1256,28885,Bressan,Cruzamentos,Avaí,1
+199719,19,10433,Muriqui,1256,61895,Kevin,Rebatidas,Avaí,1
+199719,19,20707,Bruno Silva,1256,61895,Kevin,Rebatidas,Avaí,1
+199719,19,28885,Bressan,1256,20707,Bruno Silva,Rebatidas,Avaí,1
+199719,19,28885,Bressan,1256,35311,Bruno Cortez,Rebatidas,Avaí,1
+199719,19,28885,Bressan,1256,61895,Kevin,Rebatidas,Avaí,1
+199719,19,28885,Bressan,1256,81126,Arthur Chaves,Rebatidas,Avaí,1
+199719,19,33828,Jean Cléber,1256,61895,Kevin,Rebatidas,Avaí,1
+199719,19,35311,Bruno Cortez,1256,10433,Muriqui,Rebatidas,Avaí,1
+199719,19,35311,Bruno Cortez,1256,20707,Bruno Silva,Rebatidas,Avaí,1
+199719,19,35311,Bruno Cortez,1256,37167,Douglas Friedrich,Rebatidas,Avaí,1
+199719,19,37167,Douglas Friedrich,1256,20707,Bruno Silva,Rebatidas,Avaí,1
+199719,19,37167,Douglas Friedrich,1256,28885,Bressan,Rebatidas,Avaí,1
+199719,19,37167,Douglas Friedrich,1256,43513,Morato,Rebatidas,Avaí,1
+199719,19,61895,Kevin,1256,10433,Muriqui,Rebatidas,Avaí,1
+199719,19,61895,Kevin,1256,33828,Jean Cléber,Rebatidas,Avaí,1
+199719,19,61895,Kevin,1256,35311,Bruno Cortez,Rebatidas,Avaí,1
+199719,19,61895,Kevin,1256,37167,Douglas Friedrich,Rebatidas,Avaí,1
+199719,19,64659,Raniele,1256,20707,Bruno Silva,Rebatidas,Avaí,1
+199719,19,64659,Raniele,1256,35311,Bruno Cortez,Rebatidas,Avaí,1
+199719,19,81126,Arthur Chaves,1256,33828,Jean Cléber,Rebatidas,Avaí,1
+199719,19,81126,Arthur Chaves,1256,35311,Bruno Cortez,Rebatidas,Avaí,2
+199719,19,81126,Arthur Chaves,1256,43513,Morato,Rebatidas,Avaí,1
+199719,19,81126,Arthur Chaves,1256,61895,Kevin,Rebatidas,Avaí,1
+199719,19,81126,Arthur Chaves,1256,91581,Dentinho,Rebatidas,Avaí,2
+199719,22,28885,Bressan,1256,35752,Jonathan Copete,Viradas de jogo,Avaí,1
+199719,22,81126,Arthur Chaves,1256,61895,Kevin,Viradas de jogo,Avaí,1
+199719,24,35752,Jonathan Copete,1256,35311,Bruno Cortez,Interceptações,Avaí,1
+199719,24,43513,Morato,1256,64659,Raniele,Interceptações,Avaí,1
+199719,24,61895,Kevin,1256,10433,Muriqui,Interceptações,Avaí,1
+199719,24,64659,Raniele,1256,35752,Jonathan Copete,Interceptações,Avaí,1
+199744,1,16977,Gatito Fernández,1003,48380,Saravia,Lançamentos,Botafogo,2
+199744,1,16977,Gatito Fernández,1003,79102,Victor Sá,Lançamentos,Botafogo,2
+199744,1,16977,Gatito Fernández,1003,80803,Chay,Lançamentos,Botafogo,1
+199744,1,16977,Gatito Fernández,1003,84182,Matheus Nascimento,Lançamentos,Botafogo,1
+199744,1,50745,Philipe Sampaio,1003,79102,Victor Sá,Lançamentos,Botafogo,1
+199744,1,50745,Philipe Sampaio,1003,80803,Chay,Lançamentos,Botafogo,2
+199744,1,65269,Kanu,1003,56368,Diego Gonçalves,Lançamentos,Botafogo,1
+199744,1,65269,Kanu,1003,70348,Luís Oyama,Lançamentos,Botafogo,1
+199744,1,80549,Patrick de Paula,1003,79102,Victor Sá,Lançamentos,Botafogo,2
+199744,1,80810,Hugo Neto,1003,84182,Matheus Nascimento,Lançamentos,Botafogo,1
+199744,1,84182,Matheus Nascimento,1003,56368,Diego Gonçalves,Lançamentos,Botafogo,1
+199744,2,14684,Lucas Piazon,1003,48380,Saravia,Passes,Botafogo,1
+199744,2,14684,Lucas Piazon,1003,50745,Philipe Sampaio,Passes,Botafogo,2
+199744,2,14684,Lucas Piazon,1003,70348,Luís Oyama,Passes,Botafogo,2
+199744,2,14684,Lucas Piazon,1003,73159,Jonathan Silva,Passes,Botafogo,1
+199744,2,14684,Lucas Piazon,1003,79102,Victor Sá,Passes,Botafogo,2
+199744,2,14684,Lucas Piazon,1003,80549,Patrick de Paula,Passes,Botafogo,1
+199744,2,14684,Lucas Piazon,1003,80803,Chay,Passes,Botafogo,1
+199744,2,16977,Gatito Fernández,1003,14684,Lucas Piazon,Passes,Botafogo,1
+199744,2,16977,Gatito Fernández,1003,48380,Saravia,Passes,Botafogo,1
+199744,2,16977,Gatito Fernández,1003,50745,Philipe Sampaio,Passes,Botafogo,3
+199744,2,16977,Gatito Fernández,1003,65269,Kanu,Passes,Botafogo,7
+199744,2,16977,Gatito Fernández,1003,73159,Jonathan Silva,Passes,Botafogo,3
+199744,2,16977,Gatito Fernández,1003,80549,Patrick de Paula,Passes,Botafogo,1
+199744,2,48380,Saravia,1003,14684,Lucas Piazon,Passes,Botafogo,2
+199744,2,48380,Saravia,1003,50745,Philipe Sampaio,Passes,Botafogo,11
+199744,2,48380,Saravia,1003,56368,Diego Gonçalves,Passes,Botafogo,4
+199744,2,48380,Saravia,1003,70348,Luís Oyama,Passes,Botafogo,4
+199744,2,48380,Saravia,1003,73159,Jonathan Silva,Passes,Botafogo,1
+199744,2,48380,Saravia,1003,80549,Patrick de Paula,Passes,Botafogo,2
+199744,2,48380,Saravia,1003,80803,Chay,Passes,Botafogo,8
+199744,2,48380,Saravia,1003,82356,Erison,Passes,Botafogo,1
+199744,2,48380,Saravia,1003,84182,Matheus Nascimento,Passes,Botafogo,2
+199744,2,50745,Philipe Sampaio,1003,16977,Gatito Fernández,Passes,Botafogo,6
+199744,2,50745,Philipe Sampaio,1003,48380,Saravia,Passes,Botafogo,14
+199744,2,50745,Philipe Sampaio,1003,56368,Diego Gonçalves,Passes,Botafogo,4
+199744,2,50745,Philipe Sampaio,1003,65269,Kanu,Passes,Botafogo,16
+199744,2,50745,Philipe Sampaio,1003,70348,Luís Oyama,Passes,Botafogo,3
+199744,2,50745,Philipe Sampaio,1003,73159,Jonathan Silva,Passes,Botafogo,2
+199744,2,50745,Philipe Sampaio,1003,80549,Patrick de Paula,Passes,Botafogo,6
+199744,2,50745,Philipe Sampaio,1003,80803,Chay,Passes,Botafogo,2
+199744,2,50745,Philipe Sampaio,1003,80810,Hugo Neto,Passes,Botafogo,3
+199744,2,50745,Philipe Sampaio,1003,80920,Daniel Borges,Passes,Botafogo,6
+199744,2,50745,Philipe Sampaio,1003,81524,Romildo,Passes,Botafogo,2
+199744,2,56368,Diego Gonçalves,1003,48380,Saravia,Passes,Botafogo,3
+199744,2,56368,Diego Gonçalves,1003,50745,Philipe Sampaio,Passes,Botafogo,3
+199744,2,56368,Diego Gonçalves,1003,65269,Kanu,Passes,Botafogo,1
+199744,2,56368,Diego Gonçalves,1003,70348,Luís Oyama,Passes,Botafogo,3
+199744,2,56368,Diego Gonçalves,1003,79102,Victor Sá,Passes,Botafogo,1
+199744,2,56368,Diego Gonçalves,1003,80549,Patrick de Paula,Passes,Botafogo,2
+199744,2,56368,Diego Gonçalves,1003,80920,Daniel Borges,Passes,Botafogo,1
+199744,2,56368,Diego Gonçalves,1003,81524,Romildo,Passes,Botafogo,1
+199744,2,65269,Kanu,1003,14684,Lucas Piazon,Passes,Botafogo,2
+199744,2,65269,Kanu,1003,16977,Gatito Fernández,Passes,Botafogo,7
+199744,2,65269,Kanu,1003,48380,Saravia,Passes,Botafogo,2
+199744,2,65269,Kanu,1003,50745,Philipe Sampaio,Passes,Botafogo,23
+199744,2,65269,Kanu,1003,70348,Luís Oyama,Passes,Botafogo,1
+199744,2,65269,Kanu,1003,73159,Jonathan Silva,Passes,Botafogo,12
+199744,2,65269,Kanu,1003,79102,Victor Sá,Passes,Botafogo,1
+199744,2,65269,Kanu,1003,80549,Patrick de Paula,Passes,Botafogo,2
+199744,2,65269,Kanu,1003,80803,Chay,Passes,Botafogo,2
+199744,2,65269,Kanu,1003,80810,Hugo Neto,Passes,Botafogo,10
+199744,2,65269,Kanu,1003,81524,Romildo,Passes,Botafogo,1
+199744,2,65269,Kanu,1003,82356,Erison,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,14684,Lucas Piazon,Passes,Botafogo,2
+199744,2,70348,Luís Oyama,1003,16977,Gatito Fernández,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,48380,Saravia,Passes,Botafogo,4
+199744,2,70348,Luís Oyama,1003,50745,Philipe Sampaio,Passes,Botafogo,3
+199744,2,70348,Luís Oyama,1003,56368,Diego Gonçalves,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,65269,Kanu,Passes,Botafogo,4
+199744,2,70348,Luís Oyama,1003,73159,Jonathan Silva,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,79102,Victor Sá,Passes,Botafogo,2
+199744,2,70348,Luís Oyama,1003,80549,Patrick de Paula,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,80803,Chay,Passes,Botafogo,1
+199744,2,70348,Luís Oyama,1003,80810,Hugo Neto,Passes,Botafogo,1
+199744,2,73159,Jonathan Silva,1003,14684,Lucas Piazon,Passes,Botafogo,3
+199744,2,73159,Jonathan Silva,1003,50745,Philipe Sampaio,Passes,Botafogo,1
+199744,2,73159,Jonathan Silva,1003,65269,Kanu,Passes,Botafogo,15
+199744,2,73159,Jonathan Silva,1003,70348,Luís Oyama,Passes,Botafogo,2
+199744,2,73159,Jonathan Silva,1003,79102,Victor Sá,Passes,Botafogo,4
+199744,2,73159,Jonathan Silva,1003,80549,Patrick de Paula,Passes,Botafogo,9
+199744,2,73159,Jonathan Silva,1003,82356,Erison,Passes,Botafogo,1
+199744,2,79102,Victor Sá,1003,14684,Lucas Piazon,Passes,Botafogo,3
+199744,2,79102,Victor Sá,1003,50745,Philipe Sampaio,Passes,Botafogo,1
+199744,2,79102,Victor Sá,1003,65269,Kanu,Passes,Botafogo,5
+199744,2,79102,Victor Sá,1003,73159,Jonathan Silva,Passes,Botafogo,3
+199744,2,79102,Victor Sá,1003,80549,Patrick de Paula,Passes,Botafogo,3
+199744,2,79102,Victor Sá,1003,80803,Chay,Passes,Botafogo,1
+199744,2,79102,Victor Sá,1003,80810,Hugo Neto,Passes,Botafogo,4
+199744,2,79102,Victor Sá,1003,82356,Erison,Passes,Botafogo,2
+199744,2,80549,Patrick de Paula,1003,14684,Lucas Piazon,Passes,Botafogo,2
+199744,2,80549,Patrick de Paula,1003,16977,Gatito Fernández,Passes,Botafogo,1
+199744,2,80549,Patrick de Paula,1003,50745,Philipe Sampaio,Passes,Botafogo,7
+199744,2,80549,Patrick de Paula,1003,56368,Diego Gonçalves,Passes,Botafogo,3
+199744,2,80549,Patrick de Paula,1003,65269,Kanu,Passes,Botafogo,7
+199744,2,80549,Patrick de Paula,1003,70348,Luís Oyama,Passes,Botafogo,4
+199744,2,80549,Patrick de Paula,1003,73159,Jonathan Silva,Passes,Botafogo,6
+199744,2,80549,Patrick de Paula,1003,79102,Victor Sá,Passes,Botafogo,3
+199744,2,80549,Patrick de Paula,1003,80803,Chay,Passes,Botafogo,5
+199744,2,80549,Patrick de Paula,1003,80920,Daniel Borges,Passes,Botafogo,1
+199744,2,80549,Patrick de Paula,1003,82356,Erison,Passes,Botafogo,1
+199744,2,80803,Chay,1003,16977,Gatito Fernández,Passes,Botafogo,1
+199744,2,80803,Chay,1003,48380,Saravia,Passes,Botafogo,5
+199744,2,80803,Chay,1003,50745,Philipe Sampaio,Passes,Botafogo,1
+199744,2,80803,Chay,1003,56368,Diego Gonçalves,Passes,Botafogo,2
+199744,2,80803,Chay,1003,65269,Kanu,Passes,Botafogo,1
+199744,2,80803,Chay,1003,70348,Luís Oyama,Passes,Botafogo,2
+199744,2,80803,Chay,1003,79102,Victor Sá,Passes,Botafogo,1
+199744,2,80803,Chay,1003,80549,Patrick de Paula,Passes,Botafogo,4
+199744,2,80803,Chay,1003,80810,Hugo Neto,Passes,Botafogo,3
+199744,2,80803,Chay,1003,84182,Matheus Nascimento,Passes,Botafogo,1
+199744,2,80810,Hugo Neto,1003,16977,Gatito Fernández,Passes,Botafogo,1
+199744,2,80810,Hugo Neto,1003,50745,Philipe Sampaio,Passes,Botafogo,2
+199744,2,80810,Hugo Neto,1003,65269,Kanu,Passes,Botafogo,5
+199744,2,80810,Hugo Neto,1003,79102,Victor Sá,Passes,Botafogo,7
+199744,2,80810,Hugo Neto,1003,80549,Patrick de Paula,Passes,Botafogo,8
+199744,2,80810,Hugo Neto,1003,80803,Chay,Passes,Botafogo,3
+199744,2,80810,Hugo Neto,1003,81524,Romildo,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,16977,Gatito Fernández,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,50745,Philipe Sampaio,Passes,Botafogo,2
+199744,2,80920,Daniel Borges,1003,65269,Kanu,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,80549,Patrick de Paula,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,80810,Hugo Neto,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,81524,Romildo,Passes,Botafogo,1
+199744,2,80920,Daniel Borges,1003,84182,Matheus Nascimento,Passes,Botafogo,2
+199744,2,81524,Romildo,1003,50745,Philipe Sampaio,Passes,Botafogo,2
+199744,2,81524,Romildo,1003,56368,Diego Gonçalves,Passes,Botafogo,1
+199744,2,81524,Romildo,1003,65269,Kanu,Passes,Botafogo,1
+199744,2,81524,Romildo,1003,80810,Hugo Neto,Passes,Botafogo,1
+199744,2,81524,Romildo,1003,80920,Daniel Borges,Passes,Botafogo,1
+199744,2,82356,Erison,1003,73159,Jonathan Silva,Passes,Botafogo,1
+199744,2,82356,Erison,1003,79102,Victor Sá,Passes,Botafogo,2
+199744,2,82356,Erison,1003,80549,Patrick de Paula,Passes,Botafogo,2
+199744,2,84182,Matheus Nascimento,1003,70348,Luís Oyama,Passes,Botafogo,2
+199744,2,84182,Matheus Nascimento,1003,80803,Chay,Passes,Botafogo,1
+199744,5,14684,Lucas Piazon,1003,80549,Patrick de Paula,Desarmes,Botafogo,1
+199744,5,70348,Luís Oyama,1003,80803,Chay,Desarmes,Botafogo,1
+199744,5,73159,Jonathan Silva,1003,80549,Patrick de Paula,Desarmes,Botafogo,1
+199744,5,79102,Victor Sá,1003,73159,Jonathan Silva,Desarmes,Botafogo,1
+199744,14,70348,Luís Oyama,1003,84182,Matheus Nascimento,Cruzamentos,Botafogo,1
+199744,14,80803,Chay,1003,65269,Kanu,Cruzamentos,Botafogo,1
+199744,19,16977,Gatito Fernández,1003,80810,Hugo Neto,Rebatidas,Botafogo,1
+199744,19,48380,Saravia,1003,70348,Luís Oyama,Rebatidas,Botafogo,1
+199744,19,50745,Philipe Sampaio,1003,56368,Diego Gonçalves,Rebatidas,Botafogo,1
+199744,19,50745,Philipe Sampaio,1003,80810,Hugo Neto,Rebatidas,Botafogo,1
+199744,19,50745,Philipe Sampaio,1003,81524,Romildo,Rebatidas,Botafogo,3
+199744,19,65269,Kanu,1003,56368,Diego Gonçalves,Rebatidas,Botafogo,1
+199744,19,65269,Kanu,1003,80803,Chay,Rebatidas,Botafogo,1
+199744,19,65269,Kanu,1003,80810,Hugo Neto,Rebatidas,Botafogo,1
+199744,19,65269,Kanu,1003,82356,Erison,Rebatidas,Botafogo,1
+199744,19,80549,Patrick de Paula,1003,65269,Kanu,Rebatidas,Botafogo,1
+199744,19,80549,Patrick de Paula,1003,70348,Luís Oyama,Rebatidas,Botafogo,2
+199744,19,80810,Hugo Neto,1003,79102,Victor Sá,Rebatidas,Botafogo,1
+199744,19,80810,Hugo Neto,1003,84182,Matheus Nascimento,Rebatidas,Botafogo,2
+199744,19,81524,Romildo,1003,80803,Chay,Rebatidas,Botafogo,1
+199744,19,81524,Romildo,1003,80810,Hugo Neto,Rebatidas,Botafogo,1
+199744,22,79102,Victor Sá,1003,80803,Chay,Viradas de jogo,Botafogo,1
+199744,22,80549,Patrick de Paula,1003,48380,Saravia,Viradas de jogo,Botafogo,1
+199744,22,80549,Patrick de Paula,1003,56368,Diego Gonçalves,Viradas de jogo,Botafogo,1
+199744,22,80810,Hugo Neto,1003,84182,Matheus Nascimento,Viradas de jogo,Botafogo,1
+199744,22,80920,Daniel Borges,1003,79102,Victor Sá,Viradas de jogo,Botafogo,1
+199744,24,80803,Chay,1003,16977,Gatito Fernández,Interceptações,Botafogo,1
+199744,24,80803,Chay,1003,79102,Victor Sá,Interceptações,Botafogo,1
+199744,24,80803,Chay,1003,82356,Erison,Interceptações,Botafogo,1
+199744,24,82356,Erison,1003,73159,Jonathan Silva,Interceptações,Botafogo,1
+199807,1,23074,Willian Farias,1008,11814,Egídio,Lançamentos,Coritiba,1
+199807,1,23074,Willian Farias,1008,75268,Igor Paixão,Lançamentos,Coritiba,1
+199807,1,25392,Henrique,1008,11814,Egídio,Lançamentos,Coritiba,1
+199807,1,25392,Henrique,1008,65542,Fabrício Daniel,Lançamentos,Coritiba,1
+199807,1,25392,Henrique,1008,66456,Thonny Anderson,Lançamentos,Coritiba,1
+199807,1,25392,Henrique,1008,75268,Igor Paixão,Lançamentos,Coritiba,1
+199807,1,27144,Luciano Castan,1008,32924,Léo Gamalho,Lançamentos,Coritiba,1
+199807,1,27144,Luciano Castan,1008,42340,Warley,Lançamentos,Coritiba,1
+199807,1,27144,Luciano Castan,1008,75268,Igor Paixão,Lançamentos,Coritiba,1
+199807,1,37124,Alex Muralha,1008,32924,Léo Gamalho,Lançamentos,Coritiba,2
+199807,1,37124,Alex Muralha,1008,75268,Igor Paixão,Lançamentos,Coritiba,2
+199807,1,61856,Andrey,1008,11814,Egídio,Lançamentos,Coritiba,1
+199807,1,61856,Andrey,1008,75268,Igor Paixão,Lançamentos,Coritiba,1
+199807,1,66456,Thonny Anderson,1008,11814,Egídio,Lançamentos,Coritiba,1
+199807,2,11814,Egídio,1008,23074,Willian Farias,Passes,Coritiba,6
+199807,2,11814,Egídio,1008,27144,Luciano Castan,Passes,Coritiba,10
+199807,2,11814,Egídio,1008,32924,Léo Gamalho,Passes,Coritiba,2
+199807,2,11814,Egídio,1008,37124,Alex Muralha,Passes,Coritiba,1
+199807,2,11814,Egídio,1008,42158,Régis,Passes,Coritiba,1
+199807,2,11814,Egídio,1008,61856,Andrey,Passes,Coritiba,2
+199807,2,11814,Egídio,1008,61875,Val,Passes,Coritiba,1
+199807,2,11814,Egídio,1008,66456,Thonny Anderson,Passes,Coritiba,11
+199807,2,11814,Egídio,1008,75268,Igor Paixão,Passes,Coritiba,5
+199807,2,23074,Willian Farias,1008,25392,Henrique,Passes,Coritiba,4
+199807,2,23074,Willian Farias,1008,27144,Luciano Castan,Passes,Coritiba,6
+199807,2,23074,Willian Farias,1008,32924,Léo Gamalho,Passes,Coritiba,2
+199807,2,23074,Willian Farias,1008,42340,Warley,Passes,Coritiba,2
+199807,2,23074,Willian Farias,1008,61856,Andrey,Passes,Coritiba,10
+199807,2,23074,Willian Farias,1008,63456,Alef Manga,Passes,Coritiba,3
+199807,2,23074,Willian Farias,1008,66456,Thonny Anderson,Passes,Coritiba,15
+199807,2,23074,Willian Farias,1008,74268,Matheus Alexandre,Passes,Coritiba,2
+199807,2,23074,Willian Farias,1008,75268,Igor Paixão,Passes,Coritiba,3
+199807,2,25392,Henrique,1008,11814,Egídio,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,23074,Willian Farias,Passes,Coritiba,2
+199807,2,25392,Henrique,1008,27144,Luciano Castan,Passes,Coritiba,15
+199807,2,25392,Henrique,1008,32924,Léo Gamalho,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,37124,Alex Muralha,Passes,Coritiba,2
+199807,2,25392,Henrique,1008,42340,Warley,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,61856,Andrey,Passes,Coritiba,6
+199807,2,25392,Henrique,1008,61875,Val,Passes,Coritiba,2
+199807,2,25392,Henrique,1008,65542,Fabrício Daniel,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,66456,Thonny Anderson,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,74268,Matheus Alexandre,Passes,Coritiba,1
+199807,2,25392,Henrique,1008,75268,Igor Paixão,Passes,Coritiba,1
+199807,2,27144,Luciano Castan,1008,11814,Egídio,Passes,Coritiba,6
+199807,2,27144,Luciano Castan,1008,23074,Willian Farias,Passes,Coritiba,10
+199807,2,27144,Luciano Castan,1008,25392,Henrique,Passes,Coritiba,7
+199807,2,27144,Luciano Castan,1008,37124,Alex Muralha,Passes,Coritiba,3
+199807,2,27144,Luciano Castan,1008,42340,Warley,Passes,Coritiba,1
+199807,2,27144,Luciano Castan,1008,61856,Andrey,Passes,Coritiba,6
+199807,2,27144,Luciano Castan,1008,61875,Val,Passes,Coritiba,2
+199807,2,27144,Luciano Castan,1008,66456,Thonny Anderson,Passes,Coritiba,1
+199807,2,27144,Luciano Castan,1008,74268,Matheus Alexandre,Passes,Coritiba,1
+199807,2,27144,Luciano Castan,1008,75268,Igor Paixão,Passes,Coritiba,2
+199807,2,32924,Léo Gamalho,1008,11814,Egídio,Passes,Coritiba,2
+199807,2,32924,Léo Gamalho,1008,23074,Willian Farias,Passes,Coritiba,1
+199807,2,32924,Léo Gamalho,1008,25392,Henrique,Passes,Coritiba,1
+199807,2,32924,Léo Gamalho,1008,42158,Régis,Passes,Coritiba,1
+199807,2,32924,Léo Gamalho,1008,61856,Andrey,Passes,Coritiba,1
+199807,2,32924,Léo Gamalho,1008,66456,Thonny Anderson,Passes,Coritiba,7
+199807,2,37124,Alex Muralha,1008,11814,Egídio,Passes,Coritiba,3
+199807,2,37124,Alex Muralha,1008,23074,Willian Farias,Passes,Coritiba,1
+199807,2,37124,Alex Muralha,1008,25392,Henrique,Passes,Coritiba,6
+199807,2,37124,Alex Muralha,1008,27144,Luciano Castan,Passes,Coritiba,2
+199807,2,37124,Alex Muralha,1008,61856,Andrey,Passes,Coritiba,1
+199807,2,37124,Alex Muralha,1008,63456,Alef Manga,Passes,Coritiba,1
+199807,2,37124,Alex Muralha,1008,66456,Thonny Anderson,Passes,Coritiba,1
+199807,2,42158,Régis,1008,11814,Egídio,Passes,Coritiba,2
+199807,2,42158,Régis,1008,65542,Fabrício Daniel,Passes,Coritiba,1
+199807,2,42158,Régis,1008,74268,Matheus Alexandre,Passes,Coritiba,1
+199807,2,42158,Régis,1008,75268,Igor Paixão,Passes,Coritiba,2
+199807,2,42340,Warley,1008,25392,Henrique,Passes,Coritiba,6
+199807,2,42340,Warley,1008,61856,Andrey,Passes,Coritiba,2
+199807,2,42340,Warley,1008,63456,Alef Manga,Passes,Coritiba,1
+199807,2,42340,Warley,1008,66456,Thonny Anderson,Passes,Coritiba,4
+199807,2,44176,Guillermo de los Santos,1008,25392,Henrique,Passes,Coritiba,1
+199807,2,44176,Guillermo de los Santos,1008,61875,Val,Passes,Coritiba,2
+199807,2,61856,Andrey,1008,11814,Egídio,Passes,Coritiba,3
+199807,2,61856,Andrey,1008,23074,Willian Farias,Passes,Coritiba,11
+199807,2,61856,Andrey,1008,25392,Henrique,Passes,Coritiba,3
+199807,2,61856,Andrey,1008,27144,Luciano Castan,Passes,Coritiba,6
+199807,2,61856,Andrey,1008,32924,Léo Gamalho,Passes,Coritiba,1
+199807,2,61856,Andrey,1008,37124,Alex Muralha,Passes,Coritiba,1
+199807,2,61856,Andrey,1008,42340,Warley,Passes,Coritiba,2
+199807,2,61856,Andrey,1008,61875,Val,Passes,Coritiba,1
+199807,2,61856,Andrey,1008,63456,Alef Manga,Passes,Coritiba,5
+199807,2,61856,Andrey,1008,65542,Fabrício Daniel,Passes,Coritiba,2
+199807,2,61856,Andrey,1008,66456,Thonny Anderson,Passes,Coritiba,10
+199807,2,61856,Andrey,1008,74268,Matheus Alexandre,Passes,Coritiba,8
+199807,2,61856,Andrey,1008,75268,Igor Paixão,Passes,Coritiba,5
+199807,2,61875,Val,1008,11814,Egídio,Passes,Coritiba,1
+199807,2,61875,Val,1008,25392,Henrique,Passes,Coritiba,4
+199807,2,61875,Val,1008,27144,Luciano Castan,Passes,Coritiba,1
+199807,2,61875,Val,1008,42158,Régis,Passes,Coritiba,2
+199807,2,61875,Val,1008,44176,Guillermo de los Santos,Passes,Coritiba,1
+199807,2,63456,Alef Manga,1008,11814,Egídio,Passes,Coritiba,1
+199807,2,63456,Alef Manga,1008,25392,Henrique,Passes,Coritiba,1
+199807,2,63456,Alef Manga,1008,32924,Léo Gamalho,Passes,Coritiba,1
+199807,2,63456,Alef Manga,1008,42340,Warley,Passes,Coritiba,3
+199807,2,63456,Alef Manga,1008,61856,Andrey,Passes,Coritiba,7
+199807,2,63456,Alef Manga,1008,66456,Thonny Anderson,Passes,Coritiba,3
+199807,2,63456,Alef Manga,1008,75268,Igor Paixão,Passes,Coritiba,1
+199807,2,66456,Thonny Anderson,1008,11814,Egídio,Passes,Coritiba,6
+199807,2,66456,Thonny Anderson,1008,23074,Willian Farias,Passes,Coritiba,6
+199807,2,66456,Thonny Anderson,1008,25392,Henrique,Passes,Coritiba,2
+199807,2,66456,Thonny Anderson,1008,27144,Luciano Castan,Passes,Coritiba,1
+199807,2,66456,Thonny Anderson,1008,32924,Léo Gamalho,Passes,Coritiba,4
+199807,2,66456,Thonny Anderson,1008,42340,Warley,Passes,Coritiba,2
+199807,2,66456,Thonny Anderson,1008,61856,Andrey,Passes,Coritiba,8
+199807,2,66456,Thonny Anderson,1008,63456,Alef Manga,Passes,Coritiba,5
+199807,2,66456,Thonny Anderson,1008,74268,Matheus Alexandre,Passes,Coritiba,3
+199807,2,66456,Thonny Anderson,1008,75268,Igor Paixão,Passes,Coritiba,5
+199807,2,74268,Matheus Alexandre,1008,23074,Willian Farias,Passes,Coritiba,2
+199807,2,74268,Matheus Alexandre,1008,25392,Henrique,Passes,Coritiba,1
+199807,2,74268,Matheus Alexandre,1008,27144,Luciano Castan,Passes,Coritiba,1
+199807,2,74268,Matheus Alexandre,1008,44176,Guillermo de los Santos,Passes,Coritiba,1
+199807,2,74268,Matheus Alexandre,1008,61856,Andrey,Passes,Coritiba,8
+199807,2,74268,Matheus Alexandre,1008,61875,Val,Passes,Coritiba,1
+199807,2,74268,Matheus Alexandre,1008,63456,Alef Manga,Passes,Coritiba,5
+199807,2,74268,Matheus Alexandre,1008,66456,Thonny Anderson,Passes,Coritiba,2
+199807,2,74268,Matheus Alexandre,1008,75268,Igor Paixão,Passes,Coritiba,1
+199807,2,75268,Igor Paixão,1008,11814,Egídio,Passes,Coritiba,5
+199807,2,75268,Igor Paixão,1008,23074,Willian Farias,Passes,Coritiba,2
+199807,2,75268,Igor Paixão,1008,32924,Léo Gamalho,Passes,Coritiba,2
+199807,2,75268,Igor Paixão,1008,42158,Régis,Passes,Coritiba,1
+199807,2,75268,Igor Paixão,1008,44176,Guillermo de los Santos,Passes,Coritiba,1
+199807,2,75268,Igor Paixão,1008,61856,Andrey,Passes,Coritiba,5
+199807,2,75268,Igor Paixão,1008,63456,Alef Manga,Passes,Coritiba,1
+199807,2,75268,Igor Paixão,1008,65542,Fabrício Daniel,Passes,Coritiba,1
+199807,2,75268,Igor Paixão,1008,66456,Thonny Anderson,Passes,Coritiba,1
+199807,5,11814,Egídio,1008,23074,Willian Farias,Desarmes,Coritiba,1
+199807,5,23074,Willian Farias,1008,37124,Alex Muralha,Desarmes,Coritiba,1
+199807,5,23074,Willian Farias,1008,61856,Andrey,Desarmes,Coritiba,2
+199807,5,42158,Régis,1008,61856,Andrey,Desarmes,Coritiba,1
+199807,5,61856,Andrey,1008,23074,Willian Farias,Desarmes,Coritiba,1
+199807,5,61856,Andrey,1008,65542,Fabrício Daniel,Desarmes,Coritiba,1
+199807,5,63456,Alef Manga,1008,74268,Matheus Alexandre,Desarmes,Coritiba,1
+199807,5,65542,Fabrício Daniel,1008,61875,Val,Desarmes,Coritiba,1
+199807,5,74268,Matheus Alexandre,1008,61856,Andrey,Desarmes,Coritiba,1
+199807,5,75268,Igor Paixão,1008,11814,Egídio,Desarmes,Coritiba,1
+199807,5,75268,Igor Paixão,1008,23074,Willian Farias,Desarmes,Coritiba,1
+199807,14,11814,Egídio,1008,25392,Henrique,Cruzamentos,Coritiba,1
+199807,14,11814,Egídio,1008,32924,Léo Gamalho,Cruzamentos,Coritiba,1
+199807,14,11814,Egídio,1008,75268,Igor Paixão,Cruzamentos,Coritiba,1
+199807,14,75268,Igor Paixão,1008,32924,Léo Gamalho,Cruzamentos,Coritiba,1
+199807,19,11814,Egídio,1008,75268,Igor Paixão,Rebatidas,Coritiba,1
+199807,19,25392,Henrique,1008,23074,Willian Farias,Rebatidas,Coritiba,1
+199807,19,25392,Henrique,1008,27144,Luciano Castan,Rebatidas,Coritiba,1
+199807,19,25392,Henrique,1008,37124,Alex Muralha,Rebatidas,Coritiba,1
+199807,19,27144,Luciano Castan,1008,11814,Egídio,Rebatidas,Coritiba,1
+199807,19,27144,Luciano Castan,1008,23074,Willian Farias,Rebatidas,Coritiba,2
+199807,19,27144,Luciano Castan,1008,25392,Henrique,Rebatidas,Coritiba,1
+199807,19,27144,Luciano Castan,1008,37124,Alex Muralha,Rebatidas,Coritiba,1
+199807,19,27144,Luciano Castan,1008,61856,Andrey,Rebatidas,Coritiba,1
+199807,19,37124,Alex Muralha,1008,11814,Egídio,Rebatidas,Coritiba,1
+199807,19,37124,Alex Muralha,1008,25392,Henrique,Rebatidas,Coritiba,1
+199807,19,42340,Warley,1008,23074,Willian Farias,Rebatidas,Coritiba,1
+199807,19,42340,Warley,1008,61856,Andrey,Rebatidas,Coritiba,1
+199807,19,44176,Guillermo de los Santos,1008,74268,Matheus Alexandre,Rebatidas,Coritiba,1
+199807,19,61856,Andrey,1008,27144,Luciano Castan,Rebatidas,Coritiba,1
+199807,19,61856,Andrey,1008,32924,Léo Gamalho,Rebatidas,Coritiba,1
+199807,19,61856,Andrey,1008,37124,Alex Muralha,Rebatidas,Coritiba,1
+199807,19,74268,Matheus Alexandre,1008,11814,Egídio,Rebatidas,Coritiba,1
+199807,19,75268,Igor Paixão,1008,37124,Alex Muralha,Rebatidas,Coritiba,1
+199807,22,23074,Willian Farias,1008,74268,Matheus Alexandre,Viradas de jogo,Coritiba,1
+199807,22,25392,Henrique,1008,11814,Egídio,Viradas de jogo,Coritiba,2
+199807,22,32924,Léo Gamalho,1008,74268,Matheus Alexandre,Viradas de jogo,Coritiba,1
+199807,22,61856,Andrey,1008,27144,Luciano Castan,Viradas de jogo,Coritiba,1
+199807,24,11814,Egídio,1008,23074,Willian Farias,Interceptações,Coritiba,1
+199807,24,11814,Egídio,1008,61856,Andrey,Interceptações,Coritiba,1
+199807,24,61856,Andrey,1008,32924,Léo Gamalho,Interceptações,Coritiba,1
+199869,1,15553,David Braz,1006,74985,Luiz Henrique,Lançamentos,Fluminense,1
+199869,1,15553,David Braz,1006,77486,Calegari,Lançamentos,Fluminense,1
+199869,1,15553,David Braz,1006,88911,Cristiano,Lançamentos,Fluminense,1
+199869,1,21403,Manoel,1006,74985,Luiz Henrique,Lançamentos,Fluminense,1
+199869,1,33921,Luccas Claro,1006,55166,Nino,Lançamentos,Fluminense,1
+199869,1,46519,Yago Felipe,1006,15553,David Braz,Lançamentos,Fluminense,1
+199869,1,55166,Nino,1006,88911,Cristiano,Lançamentos,Fluminense,1
+199869,1,81495,André Trindade,1006,88911,Cristiano,Lançamentos,Fluminense,1
+199869,2,10465,Fábio,1006,15553,David Braz,Passes,Fluminense,1
+199869,2,10465,Fábio,1006,21403,Manoel,Passes,Fluminense,2
+199869,2,10465,Fábio,1006,55927,Nonato,Passes,Fluminense,1
+199869,2,10465,Fábio,1006,77486,Calegari,Passes,Fluminense,2
+199869,2,10465,Fábio,1006,88911,Cristiano,Passes,Fluminense,1
+199869,2,13180,Willian,1006,55927,Nonato,Passes,Fluminense,1
+199869,2,13180,Willian,1006,74985,Luiz Henrique,Passes,Fluminense,1
+199869,2,13180,Willian,1006,82459,Jhon Arias,Passes,Fluminense,1
+199869,2,14326,Cano,1006,15553,David Braz,Passes,Fluminense,2
+199869,2,14326,Cano,1006,55166,Nino,Passes,Fluminense,1
+199869,2,14326,Cano,1006,55927,Nonato,Passes,Fluminense,2
+199869,2,14326,Cano,1006,73738,Nathan,Passes,Fluminense,4
+199869,2,14326,Cano,1006,77486,Calegari,Passes,Fluminense,1
+199869,2,14326,Cano,1006,81495,André Trindade,Passes,Fluminense,1
+199869,2,14326,Cano,1006,82459,Jhon Arias,Passes,Fluminense,2
+199869,2,14326,Cano,1006,88911,Cristiano,Passes,Fluminense,3
+199869,2,15553,David Braz,1006,21403,Manoel,Passes,Fluminense,9
+199869,2,15553,David Braz,1006,46519,Yago Felipe,Passes,Fluminense,4
+199869,2,15553,David Braz,1006,55166,Nino,Passes,Fluminense,1
+199869,2,15553,David Braz,1006,55927,Nonato,Passes,Fluminense,3
+199869,2,15553,David Braz,1006,77486,Calegari,Passes,Fluminense,1
+199869,2,15553,David Braz,1006,81495,André Trindade,Passes,Fluminense,11
+199869,2,15553,David Braz,1006,82459,Jhon Arias,Passes,Fluminense,5
+199869,2,15553,David Braz,1006,88911,Cristiano,Passes,Fluminense,10
+199869,2,21403,Manoel,1006,10465,Fábio,Passes,Fluminense,2
+199869,2,21403,Manoel,1006,15553,David Braz,Passes,Fluminense,12
+199869,2,21403,Manoel,1006,33921,Luccas Claro,Passes,Fluminense,1
+199869,2,21403,Manoel,1006,46519,Yago Felipe,Passes,Fluminense,1
+199869,2,21403,Manoel,1006,55166,Nino,Passes,Fluminense,8
+199869,2,21403,Manoel,1006,55927,Nonato,Passes,Fluminense,2
+199869,2,21403,Manoel,1006,73738,Nathan,Passes,Fluminense,3
+199869,2,21403,Manoel,1006,74985,Luiz Henrique,Passes,Fluminense,1
+199869,2,21403,Manoel,1006,77486,Calegari,Passes,Fluminense,5
+199869,2,21403,Manoel,1006,81495,André Trindade,Passes,Fluminense,5
+199869,2,21403,Manoel,1006,82459,Jhon Arias,Passes,Fluminense,5
+199869,2,21403,Manoel,1006,88911,Cristiano,Passes,Fluminense,2
+199869,2,22746,Fred,1006,13180,Willian,Passes,Fluminense,1
+199869,2,22746,Fred,1006,74985,Luiz Henrique,Passes,Fluminense,2
+199869,2,22746,Fred,1006,82459,Jhon Arias,Passes,Fluminense,1
+199869,2,33921,Luccas Claro,1006,21403,Manoel,Passes,Fluminense,1
+199869,2,33921,Luccas Claro,1006,55166,Nino,Passes,Fluminense,1
+199869,2,33921,Luccas Claro,1006,88911,Cristiano,Passes,Fluminense,2
+199869,2,46519,Yago Felipe,1006,14326,Cano,Passes,Fluminense,3
+199869,2,46519,Yago Felipe,1006,15553,David Braz,Passes,Fluminense,2
+199869,2,46519,Yago Felipe,1006,73738,Nathan,Passes,Fluminense,1
+199869,2,46519,Yago Felipe,1006,77486,Calegari,Passes,Fluminense,2
+199869,2,46519,Yago Felipe,1006,81495,André Trindade,Passes,Fluminense,5
+199869,2,46519,Yago Felipe,1006,82459,Jhon Arias,Passes,Fluminense,1
+199869,2,46519,Yago Felipe,1006,88911,Cristiano,Passes,Fluminense,4
+199869,2,55166,Nino,1006,14326,Cano,Passes,Fluminense,4
+199869,2,55166,Nino,1006,15553,David Braz,Passes,Fluminense,4
+199869,2,55166,Nino,1006,21403,Manoel,Passes,Fluminense,11
+199869,2,55166,Nino,1006,46519,Yago Felipe,Passes,Fluminense,1
+199869,2,55166,Nino,1006,55927,Nonato,Passes,Fluminense,6
+199869,2,55166,Nino,1006,73738,Nathan,Passes,Fluminense,1
+199869,2,55166,Nino,1006,74985,Luiz Henrique,Passes,Fluminense,6
+199869,2,55166,Nino,1006,77486,Calegari,Passes,Fluminense,10
+199869,2,55166,Nino,1006,81495,André Trindade,Passes,Fluminense,9
+199869,2,55166,Nino,1006,82459,Jhon Arias,Passes,Fluminense,7
+199869,2,55166,Nino,1006,88911,Cristiano,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,13180,Willian,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,15553,David Braz,Passes,Fluminense,4
+199869,2,55927,Nonato,1006,21403,Manoel,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,33921,Luccas Claro,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,55166,Nino,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,73738,Nathan,Passes,Fluminense,1
+199869,2,55927,Nonato,1006,74985,Luiz Henrique,Passes,Fluminense,3
+199869,2,55927,Nonato,1006,77486,Calegari,Passes,Fluminense,4
+199869,2,55927,Nonato,1006,81495,André Trindade,Passes,Fluminense,9
+199869,2,55927,Nonato,1006,82459,Jhon Arias,Passes,Fluminense,4
+199869,2,55927,Nonato,1006,88911,Cristiano,Passes,Fluminense,3
+199869,2,73738,Nathan,1006,14326,Cano,Passes,Fluminense,3
+199869,2,73738,Nathan,1006,15553,David Braz,Passes,Fluminense,2
+199869,2,73738,Nathan,1006,21403,Manoel,Passes,Fluminense,1
+199869,2,73738,Nathan,1006,46519,Yago Felipe,Passes,Fluminense,3
+199869,2,73738,Nathan,1006,55166,Nino,Passes,Fluminense,3
+199869,2,73738,Nathan,1006,55927,Nonato,Passes,Fluminense,3
+199869,2,73738,Nathan,1006,77486,Calegari,Passes,Fluminense,5
+199869,2,73738,Nathan,1006,81495,André Trindade,Passes,Fluminense,6
+199869,2,73738,Nathan,1006,82459,Jhon Arias,Passes,Fluminense,2
+199869,2,73738,Nathan,1006,88911,Cristiano,Passes,Fluminense,2
+199869,2,74985,Luiz Henrique,1006,21403,Manoel,Passes,Fluminense,2
+199869,2,74985,Luiz Henrique,1006,22746,Fred,Passes,Fluminense,2
+199869,2,74985,Luiz Henrique,1006,55166,Nino,Passes,Fluminense,5
+199869,2,74985,Luiz Henrique,1006,55927,Nonato,Passes,Fluminense,3
+199869,2,74985,Luiz Henrique,1006,77486,Calegari,Passes,Fluminense,4
+199869,2,74985,Luiz Henrique,1006,81495,André Trindade,Passes,Fluminense,2
+199869,2,74985,Luiz Henrique,1006,82459,Jhon Arias,Passes,Fluminense,2
+199869,2,77486,Calegari,1006,14326,Cano,Passes,Fluminense,2
+199869,2,77486,Calegari,1006,21403,Manoel,Passes,Fluminense,3
+199869,2,77486,Calegari,1006,46519,Yago Felipe,Passes,Fluminense,4
+199869,2,77486,Calegari,1006,55166,Nino,Passes,Fluminense,14
+199869,2,77486,Calegari,1006,55927,Nonato,Passes,Fluminense,3
+199869,2,77486,Calegari,1006,73738,Nathan,Passes,Fluminense,5
+199869,2,77486,Calegari,1006,74985,Luiz Henrique,Passes,Fluminense,4
+199869,2,77486,Calegari,1006,81495,André Trindade,Passes,Fluminense,5
+199869,2,77486,Calegari,1006,82459,Jhon Arias,Passes,Fluminense,5
+199869,2,77486,Calegari,1006,88911,Cristiano,Passes,Fluminense,1
+199869,2,81495,André Trindade,1006,13180,Willian,Passes,Fluminense,2
+199869,2,81495,André Trindade,1006,14326,Cano,Passes,Fluminense,1
+199869,2,81495,André Trindade,1006,15553,David Braz,Passes,Fluminense,11
+199869,2,81495,André Trindade,1006,21403,Manoel,Passes,Fluminense,5
+199869,2,81495,André Trindade,1006,22746,Fred,Passes,Fluminense,2
+199869,2,81495,André Trindade,1006,46519,Yago Felipe,Passes,Fluminense,3
+199869,2,81495,André Trindade,1006,55166,Nino,Passes,Fluminense,7
+199869,2,81495,André Trindade,1006,55927,Nonato,Passes,Fluminense,8
+199869,2,81495,André Trindade,1006,73738,Nathan,Passes,Fluminense,5
+199869,2,81495,André Trindade,1006,74985,Luiz Henrique,Passes,Fluminense,2
+199869,2,81495,André Trindade,1006,77486,Calegari,Passes,Fluminense,5
+199869,2,81495,André Trindade,1006,82459,Jhon Arias,Passes,Fluminense,6
+199869,2,81495,André Trindade,1006,88911,Cristiano,Passes,Fluminense,8
+199869,2,82459,Jhon Arias,1006,14326,Cano,Passes,Fluminense,5
+199869,2,82459,Jhon Arias,1006,21403,Manoel,Passes,Fluminense,2
+199869,2,82459,Jhon Arias,1006,46519,Yago Felipe,Passes,Fluminense,1
+199869,2,82459,Jhon Arias,1006,55166,Nino,Passes,Fluminense,5
+199869,2,82459,Jhon Arias,1006,55927,Nonato,Passes,Fluminense,4
+199869,2,82459,Jhon Arias,1006,73738,Nathan,Passes,Fluminense,6
+199869,2,82459,Jhon Arias,1006,74985,Luiz Henrique,Passes,Fluminense,2
+199869,2,82459,Jhon Arias,1006,77486,Calegari,Passes,Fluminense,4
+199869,2,82459,Jhon Arias,1006,81495,André Trindade,Passes,Fluminense,4
+199869,2,82459,Jhon Arias,1006,88911,Cristiano,Passes,Fluminense,4
+199869,2,88911,Cristiano,1006,13180,Willian,Passes,Fluminense,1
+199869,2,88911,Cristiano,1006,14326,Cano,Passes,Fluminense,1
+199869,2,88911,Cristiano,1006,15553,David Braz,Passes,Fluminense,8
+199869,2,88911,Cristiano,1006,21403,Manoel,Passes,Fluminense,2
+199869,2,88911,Cristiano,1006,22746,Fred,Passes,Fluminense,1
+199869,2,88911,Cristiano,1006,33921,Luccas Claro,Passes,Fluminense,5
+199869,2,88911,Cristiano,1006,46519,Yago Felipe,Passes,Fluminense,8
+199869,2,88911,Cristiano,1006,55927,Nonato,Passes,Fluminense,3
+199869,2,88911,Cristiano,1006,73738,Nathan,Passes,Fluminense,5
+199869,2,88911,Cristiano,1006,81495,André Trindade,Passes,Fluminense,3
+199869,2,88911,Cristiano,1006,82459,Jhon Arias,Passes,Fluminense,4
+199869,5,13180,Willian,1006,55166,Nino,Desarmes,Fluminense,1
+199869,5,46519,Yago Felipe,1006,77486,Calegari,Desarmes,Fluminense,1
+199869,5,55927,Nonato,1006,55166,Nino,Desarmes,Fluminense,1
+199869,5,55927,Nonato,1006,88911,Cristiano,Desarmes,Fluminense,1
+199869,5,77486,Calegari,1006,14326,Cano,Desarmes,Fluminense,1
+199869,5,81495,André Trindade,1006,73738,Nathan,Desarmes,Fluminense,1
+199869,5,82459,Jhon Arias,1006,88911,Cristiano,Desarmes,Fluminense,1
+199869,5,88911,Cristiano,1006,55927,Nonato,Desarmes,Fluminense,1
+199869,5,88911,Cristiano,1006,73738,Nathan,Desarmes,Fluminense,1
+199869,14,46519,Yago Felipe,1006,15553,David Braz,Cruzamentos,Fluminense,1
+199869,14,46519,Yago Felipe,1006,21403,Manoel,Cruzamentos,Fluminense,1
+199869,14,46519,Yago Felipe,1006,55166,Nino,Cruzamentos,Fluminense,1
+199869,14,81495,André Trindade,1006,14326,Cano,Cruzamentos,Fluminense,1
+199869,14,82459,Jhon Arias,1006,55166,Nino,Cruzamentos,Fluminense,1
+199869,14,88911,Cristiano,1006,14326,Cano,Cruzamentos,Fluminense,1
+199869,14,88911,Cristiano,1006,22746,Fred,Cruzamentos,Fluminense,1
+199869,14,88911,Cristiano,1006,73738,Nathan,Cruzamentos,Fluminense,1
+199869,19,15553,David Braz,1006,10465,Fábio,Rebatidas,Fluminense,1
+199869,19,15553,David Braz,1006,21403,Manoel,Rebatidas,Fluminense,1
+199869,19,15553,David Braz,1006,55166,Nino,Rebatidas,Fluminense,1
+199869,19,15553,David Braz,1006,81495,André Trindade,Rebatidas,Fluminense,1
+199869,19,15553,David Braz,1006,82459,Jhon Arias,Rebatidas,Fluminense,1
+199869,19,15553,David Braz,1006,88911,Cristiano,Rebatidas,Fluminense,1
+199869,19,21403,Manoel,1006,14326,Cano,Rebatidas,Fluminense,2
+199869,19,21403,Manoel,1006,55166,Nino,Rebatidas,Fluminense,3
+199869,19,21403,Manoel,1006,73738,Nathan,Rebatidas,Fluminense,1
+199869,19,21403,Manoel,1006,77486,Calegari,Rebatidas,Fluminense,2
+199869,19,21403,Manoel,1006,88911,Cristiano,Rebatidas,Fluminense,1
+199869,19,33921,Luccas Claro,1006,55927,Nonato,Rebatidas,Fluminense,1
+199869,19,46519,Yago Felipe,1006,21403,Manoel,Rebatidas,Fluminense,1
+199869,19,55166,Nino,1006,21403,Manoel,Rebatidas,Fluminense,1
+199869,19,55166,Nino,1006,81495,André Trindade,Rebatidas,Fluminense,1
+199869,19,55166,Nino,1006,88911,Cristiano,Rebatidas,Fluminense,1
+199869,19,55927,Nonato,1006,13180,Willian,Rebatidas,Fluminense,1
+199869,19,73738,Nathan,1006,88911,Cristiano,Rebatidas,Fluminense,1
+199869,19,77486,Calegari,1006,55166,Nino,Rebatidas,Fluminense,1
+199869,19,81495,André Trindade,1006,15553,David Braz,Rebatidas,Fluminense,1
+199869,19,88911,Cristiano,1006,15553,David Braz,Rebatidas,Fluminense,1
+199869,19,88911,Cristiano,1006,22746,Fred,Rebatidas,Fluminense,1
+199869,19,88911,Cristiano,1006,74985,Luiz Henrique,Rebatidas,Fluminense,1
+199869,19,88911,Cristiano,1006,77486,Calegari,Rebatidas,Fluminense,1
+199869,22,55166,Nino,1006,15553,David Braz,Viradas de jogo,Fluminense,1
+199869,22,55166,Nino,1006,88911,Cristiano,Viradas de jogo,Fluminense,1
+199869,22,81495,André Trindade,1006,55166,Nino,Viradas de jogo,Fluminense,1
+199869,24,46519,Yago Felipe,1006,21403,Manoel,Interceptações,Fluminense,1
+199869,24,77486,Calegari,1006,73738,Nathan,Interceptações,Fluminense,1
+199880,1,42381,Tinga,1024,27900,Robson Fernandes,Lançamentos,Fortaleza,2
+199880,1,80703,Vitor Ricardo,1024,27900,Robson Fernandes,Lançamentos,Fortaleza,1
+199880,1,80796,Moisés,1024,42381,Tinga,Lançamentos,Fortaleza,1
+199880,2,27900,Robson Fernandes,1024,37024,Lucas Crispim,Passes,Fortaleza,1
+199880,2,27900,Robson Fernandes,1024,46648,Romarinho,Passes,Fortaleza,2
+199880,2,27900,Robson Fernandes,1024,51733,Matheus Vargas,Passes,Fortaleza,5
+199880,2,37024,Lucas Crispim,1024,27900,Robson Fernandes,Passes,Fortaleza,4
+199880,2,37024,Lucas Crispim,1024,42381,Tinga,Passes,Fortaleza,1
+199880,2,37024,Lucas Crispim,1024,46648,Romarinho,Passes,Fortaleza,7
+199880,2,37024,Lucas Crispim,1024,51733,Matheus Vargas,Passes,Fortaleza,4
+199880,2,37024,Lucas Crispim,1024,58169,Felipe,Passes,Fortaleza,8
+199880,2,37024,Lucas Crispim,1024,58252,Matheus Jussa,Passes,Fortaleza,1
+199880,2,37024,Lucas Crispim,1024,80703,Vitor Ricardo,Passes,Fortaleza,1
+199880,2,37024,Lucas Crispim,1024,86306,Titi,Passes,Fortaleza,5
+199880,2,37024,Lucas Crispim,1024,89815,Brayan Ceballos,Passes,Fortaleza,4
+199880,2,38008,Silvio Romero,1024,42381,Tinga,Passes,Fortaleza,1
+199880,2,38008,Silvio Romero,1024,80796,Moisés,Passes,Fortaleza,1
+199880,2,38008,Silvio Romero,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,38008,Silvio Romero,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,42381,Tinga,1024,27900,Robson Fernandes,Passes,Fortaleza,4
+199880,2,42381,Tinga,1024,38008,Silvio Romero,Passes,Fortaleza,2
+199880,2,42381,Tinga,1024,46648,Romarinho,Passes,Fortaleza,4
+199880,2,42381,Tinga,1024,51733,Matheus Vargas,Passes,Fortaleza,3
+199880,2,42381,Tinga,1024,55722,Renato Kayzer,Passes,Fortaleza,1
+199880,2,42381,Tinga,1024,58169,Felipe,Passes,Fortaleza,10
+199880,2,42381,Tinga,1024,58252,Matheus Jussa,Passes,Fortaleza,7
+199880,2,42381,Tinga,1024,80703,Vitor Ricardo,Passes,Fortaleza,11
+199880,2,42381,Tinga,1024,86306,Titi,Passes,Fortaleza,3
+199880,2,42381,Tinga,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,42381,Tinga,1024,89815,Brayan Ceballos,Passes,Fortaleza,7
+199880,2,42381,Tinga,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,46648,Romarinho,1024,37024,Lucas Crispim,Passes,Fortaleza,4
+199880,2,46648,Romarinho,1024,58169,Felipe,Passes,Fortaleza,5
+199880,2,46648,Romarinho,1024,58252,Matheus Jussa,Passes,Fortaleza,4
+199880,2,46648,Romarinho,1024,80703,Vitor Ricardo,Passes,Fortaleza,4
+199880,2,46648,Romarinho,1024,89815,Brayan Ceballos,Passes,Fortaleza,2
+199880,2,51733,Matheus Vargas,1024,27900,Robson Fernandes,Passes,Fortaleza,2
+199880,2,51733,Matheus Vargas,1024,37024,Lucas Crispim,Passes,Fortaleza,2
+199880,2,51733,Matheus Vargas,1024,42381,Tinga,Passes,Fortaleza,4
+199880,2,51733,Matheus Vargas,1024,46648,Romarinho,Passes,Fortaleza,2
+199880,2,51733,Matheus Vargas,1024,58169,Felipe,Passes,Fortaleza,3
+199880,2,51733,Matheus Vargas,1024,80703,Vitor Ricardo,Passes,Fortaleza,1
+199880,2,51733,Matheus Vargas,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,51733,Matheus Vargas,1024,89816,Hércules,Passes,Fortaleza,2
+199880,2,55722,Renato Kayzer,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,55722,Renato Kayzer,1024,80796,Moisés,Passes,Fortaleza,1
+199880,2,55722,Renato Kayzer,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,55722,Renato Kayzer,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,58163,Max Walef,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,58163,Max Walef,1024,42381,Tinga,Passes,Fortaleza,1
+199880,2,58163,Max Walef,1024,86306,Titi,Passes,Fortaleza,3
+199880,2,58163,Max Walef,1024,89815,Brayan Ceballos,Passes,Fortaleza,4
+199880,2,58169,Felipe,1024,27900,Robson Fernandes,Passes,Fortaleza,1
+199880,2,58169,Felipe,1024,37024,Lucas Crispim,Passes,Fortaleza,7
+199880,2,58169,Felipe,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,58169,Felipe,1024,42381,Tinga,Passes,Fortaleza,10
+199880,2,58169,Felipe,1024,46648,Romarinho,Passes,Fortaleza,5
+199880,2,58169,Felipe,1024,51733,Matheus Vargas,Passes,Fortaleza,2
+199880,2,58169,Felipe,1024,55722,Renato Kayzer,Passes,Fortaleza,1
+199880,2,58169,Felipe,1024,58163,Max Walef,Passes,Fortaleza,1
+199880,2,58169,Felipe,1024,58252,Matheus Jussa,Passes,Fortaleza,3
+199880,2,58169,Felipe,1024,80703,Vitor Ricardo,Passes,Fortaleza,1
+199880,2,58169,Felipe,1024,80796,Moisés,Passes,Fortaleza,2
+199880,2,58169,Felipe,1024,86306,Titi,Passes,Fortaleza,12
+199880,2,58169,Felipe,1024,88084,Valentín Depietri,Passes,Fortaleza,3
+199880,2,58169,Felipe,1024,89815,Brayan Ceballos,Passes,Fortaleza,5
+199880,2,58169,Felipe,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,58252,Matheus Jussa,1024,37024,Lucas Crispim,Passes,Fortaleza,4
+199880,2,58252,Matheus Jussa,1024,42381,Tinga,Passes,Fortaleza,3
+199880,2,58252,Matheus Jussa,1024,51733,Matheus Vargas,Passes,Fortaleza,3
+199880,2,58252,Matheus Jussa,1024,58169,Felipe,Passes,Fortaleza,4
+199880,2,58252,Matheus Jussa,1024,80703,Vitor Ricardo,Passes,Fortaleza,3
+199880,2,58252,Matheus Jussa,1024,86306,Titi,Passes,Fortaleza,5
+199880,2,58252,Matheus Jussa,1024,89815,Brayan Ceballos,Passes,Fortaleza,1
+199880,2,80703,Vitor Ricardo,1024,27900,Robson Fernandes,Passes,Fortaleza,1
+199880,2,80703,Vitor Ricardo,1024,42381,Tinga,Passes,Fortaleza,12
+199880,2,80703,Vitor Ricardo,1024,46648,Romarinho,Passes,Fortaleza,1
+199880,2,80703,Vitor Ricardo,1024,51733,Matheus Vargas,Passes,Fortaleza,2
+199880,2,80703,Vitor Ricardo,1024,58169,Felipe,Passes,Fortaleza,1
+199880,2,80703,Vitor Ricardo,1024,58252,Matheus Jussa,Passes,Fortaleza,3
+199880,2,80703,Vitor Ricardo,1024,80796,Moisés,Passes,Fortaleza,1
+199880,2,80703,Vitor Ricardo,1024,89815,Brayan Ceballos,Passes,Fortaleza,3
+199880,2,80796,Moisés,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,80796,Moisés,1024,42381,Tinga,Passes,Fortaleza,1
+199880,2,80796,Moisés,1024,58169,Felipe,Passes,Fortaleza,1
+199880,2,80796,Moisés,1024,86306,Titi,Passes,Fortaleza,1
+199880,2,80796,Moisés,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,80796,Moisés,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,27900,Robson Fernandes,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,37024,Lucas Crispim,Passes,Fortaleza,12
+199880,2,86306,Titi,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,42381,Tinga,Passes,Fortaleza,2
+199880,2,86306,Titi,1024,46648,Romarinho,Passes,Fortaleza,2
+199880,2,86306,Titi,1024,51733,Matheus Vargas,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,58163,Max Walef,Passes,Fortaleza,2
+199880,2,86306,Titi,1024,58169,Felipe,Passes,Fortaleza,10
+199880,2,86306,Titi,1024,58252,Matheus Jussa,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,80796,Moisés,Passes,Fortaleza,4
+199880,2,86306,Titi,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,2,86306,Titi,1024,89815,Brayan Ceballos,Passes,Fortaleza,15
+199880,2,88084,Valentín Depietri,1024,38008,Silvio Romero,Passes,Fortaleza,3
+199880,2,88084,Valentín Depietri,1024,55722,Renato Kayzer,Passes,Fortaleza,1
+199880,2,88084,Valentín Depietri,1024,80796,Moisés,Passes,Fortaleza,3
+199880,2,88084,Valentín Depietri,1024,89816,Hércules,Passes,Fortaleza,3
+199880,2,89815,Brayan Ceballos,1024,27900,Robson Fernandes,Passes,Fortaleza,1
+199880,2,89815,Brayan Ceballos,1024,37024,Lucas Crispim,Passes,Fortaleza,1
+199880,2,89815,Brayan Ceballos,1024,42381,Tinga,Passes,Fortaleza,17
+199880,2,89815,Brayan Ceballos,1024,51733,Matheus Vargas,Passes,Fortaleza,4
+199880,2,89815,Brayan Ceballos,1024,58163,Max Walef,Passes,Fortaleza,1
+199880,2,89815,Brayan Ceballos,1024,58169,Felipe,Passes,Fortaleza,6
+199880,2,89815,Brayan Ceballos,1024,58252,Matheus Jussa,Passes,Fortaleza,4
+199880,2,89815,Brayan Ceballos,1024,80703,Vitor Ricardo,Passes,Fortaleza,3
+199880,2,89815,Brayan Ceballos,1024,86306,Titi,Passes,Fortaleza,11
+199880,2,89815,Brayan Ceballos,1024,89816,Hércules,Passes,Fortaleza,1
+199880,2,89816,Hércules,1024,38008,Silvio Romero,Passes,Fortaleza,1
+199880,2,89816,Hércules,1024,42381,Tinga,Passes,Fortaleza,2
+199880,2,89816,Hércules,1024,51733,Matheus Vargas,Passes,Fortaleza,4
+199880,2,89816,Hércules,1024,58169,Felipe,Passes,Fortaleza,2
+199880,2,89816,Hércules,1024,88084,Valentín Depietri,Passes,Fortaleza,1
+199880,4,42381,Tinga,1024,80796,Moisés,Dribles,Fortaleza,1
+199880,4,58163,Max Walef,1024,89816,Hércules,Dribles,Fortaleza,1
+199880,5,37024,Lucas Crispim,1024,89815,Brayan Ceballos,Desarmes,Fortaleza,1
+199880,5,51733,Matheus Vargas,1024,89815,Brayan Ceballos,Desarmes,Fortaleza,1
+199880,5,58169,Felipe,1024,86306,Titi,Desarmes,Fortaleza,1
+199880,5,80703,Vitor Ricardo,1024,89815,Brayan Ceballos,Desarmes,Fortaleza,1
+199880,5,86306,Titi,1024,80703,Vitor Ricardo,Desarmes,Fortaleza,1
+199880,14,37024,Lucas Crispim,1024,27900,Robson Fernandes,Cruzamentos,Fortaleza,1
+199880,14,37024,Lucas Crispim,1024,89815,Brayan Ceballos,Cruzamentos,Fortaleza,1
+199880,14,38008,Silvio Romero,1024,55722,Renato Kayzer,Cruzamentos,Fortaleza,1
+199880,14,42381,Tinga,1024,55722,Renato Kayzer,Cruzamentos,Fortaleza,1
+199880,14,80703,Vitor Ricardo,1024,51733,Matheus Vargas,Cruzamentos,Fortaleza,1
+199880,19,37024,Lucas Crispim,1024,86306,Titi,Rebatidas,Fortaleza,1
+199880,19,42381,Tinga,1024,27900,Robson Fernandes,Rebatidas,Fortaleza,1
+199880,19,42381,Tinga,1024,38008,Silvio Romero,Rebatidas,Fortaleza,1
+199880,19,42381,Tinga,1024,58169,Felipe,Rebatidas,Fortaleza,1
+199880,19,42381,Tinga,1024,58252,Matheus Jussa,Rebatidas,Fortaleza,1
+199880,19,42381,Tinga,1024,89815,Brayan Ceballos,Rebatidas,Fortaleza,1
+199880,19,51733,Matheus Vargas,1024,58169,Felipe,Rebatidas,Fortaleza,1
+199880,19,58169,Felipe,1024,46648,Romarinho,Rebatidas,Fortaleza,1
+199880,19,58252,Matheus Jussa,1024,27900,Robson Fernandes,Rebatidas,Fortaleza,1
+199880,19,58252,Matheus Jussa,1024,58169,Felipe,Rebatidas,Fortaleza,1
+199880,19,80796,Moisés,1024,86306,Titi,Rebatidas,Fortaleza,1
+199880,19,86306,Titi,1024,42381,Tinga,Rebatidas,Fortaleza,1
+199880,19,86306,Titi,1024,55722,Renato Kayzer,Rebatidas,Fortaleza,1
+199880,19,89815,Brayan Ceballos,1024,37024,Lucas Crispim,Rebatidas,Fortaleza,1
+199880,19,89815,Brayan Ceballos,1024,42381,Tinga,Rebatidas,Fortaleza,3
+199880,19,89815,Brayan Ceballos,1024,46648,Romarinho,Rebatidas,Fortaleza,1
+199880,19,89815,Brayan Ceballos,1024,55722,Renato Kayzer,Rebatidas,Fortaleza,1
+199880,19,89815,Brayan Ceballos,1024,58163,Max Walef,Rebatidas,Fortaleza,1
+199880,19,89815,Brayan Ceballos,1024,58169,Felipe,Rebatidas,Fortaleza,2
+199880,19,89816,Hércules,1024,86306,Titi,Rebatidas,Fortaleza,1
+199880,22,27900,Robson Fernandes,1024,42381,Tinga,Viradas de jogo,Fortaleza,1
+199880,22,27900,Robson Fernandes,1024,80703,Vitor Ricardo,Viradas de jogo,Fortaleza,1
+199944,1,21387,Paulo Miranda,1019,26917,Ricardo Bueno,Lançamentos,Juventude,1
+199944,1,21387,Paulo Miranda,1019,84439,Isidro Pitta,Lançamentos,Juventude,1
+199944,1,26917,Ricardo Bueno,1019,52418,Capixaba,Lançamentos,Juventude,1
+199944,1,37374,Jádson,1019,56928,Rodrigo Soares,Lançamentos,Juventude,4
+199944,1,42727,Rafael Forster,1019,39306,Paulinho Moccelin,Lançamentos,Juventude,2
+199944,1,42727,Rafael Forster,1019,52418,Capixaba,Lançamentos,Juventude,1
+199944,1,42727,Rafael Forster,1019,67079,Busanello,Lançamentos,Juventude,2
+199944,1,52441,Darlan ,1019,39306,Paulinho Moccelin,Lançamentos,Juventude,1
+199944,1,52441,Darlan ,1019,84439,Isidro Pitta,Lançamentos,Juventude,1
+199944,1,56445,Yuri Lima,1019,26917,Ricardo Bueno,Lançamentos,Juventude,1
+199944,1,56445,Yuri Lima,1019,52418,Capixaba,Lançamentos,Juventude,1
+199944,1,56928,Rodrigo Soares,1019,52418,Capixaba,Lançamentos,Juventude,1
+199944,1,67079,Busanello,1019,26917,Ricardo Bueno,Lançamentos,Juventude,1
+199944,2,21387,Paulo Miranda,1019,26917,Ricardo Bueno,Passes,Juventude,2
+199944,2,21387,Paulo Miranda,1019,37374,Jádson,Passes,Juventude,4
+199944,2,21387,Paulo Miranda,1019,39306,Paulinho Moccelin,Passes,Juventude,1
+199944,2,21387,Paulo Miranda,1019,42656,Chico,Passes,Juventude,1
+199944,2,21387,Paulo Miranda,1019,42727,Rafael Forster,Passes,Juventude,9
+199944,2,21387,Paulo Miranda,1019,52418,Capixaba,Passes,Juventude,1
+199944,2,21387,Paulo Miranda,1019,56445,Yuri Lima,Passes,Juventude,2
+199944,2,21387,Paulo Miranda,1019,56928,Rodrigo Soares,Passes,Juventude,13
+199944,2,21387,Paulo Miranda,1019,67041,César,Passes,Juventude,2
+199944,2,26917,Ricardo Bueno,1019,37374,Jádson,Passes,Juventude,1
+199944,2,26917,Ricardo Bueno,1019,39306,Paulinho Moccelin,Passes,Juventude,1
+199944,2,26917,Ricardo Bueno,1019,42727,Rafael Forster,Passes,Juventude,2
+199944,2,26917,Ricardo Bueno,1019,56445,Yuri Lima,Passes,Juventude,2
+199944,2,26917,Ricardo Bueno,1019,56928,Rodrigo Soares,Passes,Juventude,2
+199944,2,26917,Ricardo Bueno,1019,67079,Busanello,Passes,Juventude,3
+199944,2,37374,Jádson,1019,21387,Paulo Miranda,Passes,Juventude,11
+199944,2,37374,Jádson,1019,26917,Ricardo Bueno,Passes,Juventude,4
+199944,2,37374,Jádson,1019,39081,Edinho,Passes,Juventude,1
+199944,2,37374,Jádson,1019,39306,Paulinho Moccelin,Passes,Juventude,1
+199944,2,37374,Jádson,1019,42656,Chico,Passes,Juventude,3
+199944,2,37374,Jádson,1019,42727,Rafael Forster,Passes,Juventude,4
+199944,2,37374,Jádson,1019,52418,Capixaba,Passes,Juventude,2
+199944,2,37374,Jádson,1019,56445,Yuri Lima,Passes,Juventude,6
+199944,2,37374,Jádson,1019,56928,Rodrigo Soares,Passes,Juventude,5
+199944,2,37374,Jádson,1019,66293,Thalisson Kelven,Passes,Juventude,1
+199944,2,37374,Jádson,1019,84439,Isidro Pitta,Passes,Juventude,1
+199944,2,39081,Edinho,1019,39306,Paulinho Moccelin,Passes,Juventude,2
+199944,2,39306,Paulinho Moccelin,1019,26917,Ricardo Bueno,Passes,Juventude,1
+199944,2,39306,Paulinho Moccelin,1019,37374,Jádson,Passes,Juventude,4
+199944,2,39306,Paulinho Moccelin,1019,39081,Edinho,Passes,Juventude,3
+199944,2,39306,Paulinho Moccelin,1019,42656,Chico,Passes,Juventude,2
+199944,2,39306,Paulinho Moccelin,1019,42727,Rafael Forster,Passes,Juventude,1
+199944,2,39306,Paulinho Moccelin,1019,52418,Capixaba,Passes,Juventude,1
+199944,2,39306,Paulinho Moccelin,1019,56445,Yuri Lima,Passes,Juventude,1
+199944,2,39306,Paulinho Moccelin,1019,56928,Rodrigo Soares,Passes,Juventude,2
+199944,2,39306,Paulinho Moccelin,1019,66293,Thalisson Kelven,Passes,Juventude,1
+199944,2,39306,Paulinho Moccelin,1019,67079,Busanello,Passes,Juventude,3
+199944,2,39306,Paulinho Moccelin,1019,84439,Isidro Pitta,Passes,Juventude,1
+199944,2,42656,Chico,1019,26917,Ricardo Bueno,Passes,Juventude,2
+199944,2,42656,Chico,1019,37374,Jádson,Passes,Juventude,5
+199944,2,42656,Chico,1019,39306,Paulinho Moccelin,Passes,Juventude,6
+199944,2,42656,Chico,1019,42727,Rafael Forster,Passes,Juventude,2
+199944,2,42656,Chico,1019,52418,Capixaba,Passes,Juventude,2
+199944,2,42656,Chico,1019,56445,Yuri Lima,Passes,Juventude,1
+199944,2,42656,Chico,1019,56928,Rodrigo Soares,Passes,Juventude,1
+199944,2,42656,Chico,1019,67079,Busanello,Passes,Juventude,5
+199944,2,42727,Rafael Forster,1019,21387,Paulo Miranda,Passes,Juventude,11
+199944,2,42727,Rafael Forster,1019,26917,Ricardo Bueno,Passes,Juventude,2
+199944,2,42727,Rafael Forster,1019,37374,Jádson,Passes,Juventude,1
+199944,2,42727,Rafael Forster,1019,39306,Paulinho Moccelin,Passes,Juventude,4
+199944,2,42727,Rafael Forster,1019,42656,Chico,Passes,Juventude,1
+199944,2,42727,Rafael Forster,1019,56445,Yuri Lima,Passes,Juventude,4
+199944,2,42727,Rafael Forster,1019,56928,Rodrigo Soares,Passes,Juventude,3
+199944,2,42727,Rafael Forster,1019,67041,César,Passes,Juventude,2
+199944,2,42727,Rafael Forster,1019,67079,Busanello,Passes,Juventude,14
+199944,2,52418,Capixaba,1019,26917,Ricardo Bueno,Passes,Juventude,1
+199944,2,52418,Capixaba,1019,42656,Chico,Passes,Juventude,1
+199944,2,52418,Capixaba,1019,56445,Yuri Lima,Passes,Juventude,2
+199944,2,52418,Capixaba,1019,56928,Rodrigo Soares,Passes,Juventude,7
+199944,2,52418,Capixaba,1019,67079,Busanello,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,42727,Rafael Forster,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,53010,Óscar Ruiz,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,56928,Rodrigo Soares,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,66293,Thalisson Kelven,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,67079,Busanello,Passes,Juventude,1
+199944,2,52441,Darlan ,1019,84439,Isidro Pitta,Passes,Juventude,2
+199944,2,53010,Óscar Ruiz,1019,21387,Paulo Miranda,Passes,Juventude,1
+199944,2,53010,Óscar Ruiz,1019,66293,Thalisson Kelven,Passes,Juventude,1
+199944,2,53010,Óscar Ruiz,1019,67079,Busanello,Passes,Juventude,1
+199944,2,56445,Yuri Lima,1019,21387,Paulo Miranda,Passes,Juventude,3
+199944,2,56445,Yuri Lima,1019,26917,Ricardo Bueno,Passes,Juventude,5
+199944,2,56445,Yuri Lima,1019,37374,Jádson,Passes,Juventude,10
+199944,2,56445,Yuri Lima,1019,39081,Edinho,Passes,Juventude,1
+199944,2,56445,Yuri Lima,1019,42656,Chico,Passes,Juventude,3
+199944,2,56445,Yuri Lima,1019,42727,Rafael Forster,Passes,Juventude,3
+199944,2,56445,Yuri Lima,1019,52418,Capixaba,Passes,Juventude,1
+199944,2,56445,Yuri Lima,1019,53010,Óscar Ruiz,Passes,Juventude,1
+199944,2,56445,Yuri Lima,1019,56928,Rodrigo Soares,Passes,Juventude,3
+199944,2,56445,Yuri Lima,1019,67041,César,Passes,Juventude,1
+199944,2,56445,Yuri Lima,1019,67079,Busanello,Passes,Juventude,1
+199944,2,56928,Rodrigo Soares,1019,21387,Paulo Miranda,Passes,Juventude,4
+199944,2,56928,Rodrigo Soares,1019,37374,Jádson,Passes,Juventude,7
+199944,2,56928,Rodrigo Soares,1019,39306,Paulinho Moccelin,Passes,Juventude,2
+199944,2,56928,Rodrigo Soares,1019,42656,Chico,Passes,Juventude,3
+199944,2,56928,Rodrigo Soares,1019,42727,Rafael Forster,Passes,Juventude,4
+199944,2,56928,Rodrigo Soares,1019,52418,Capixaba,Passes,Juventude,7
+199944,2,56928,Rodrigo Soares,1019,52441,Darlan ,Passes,Juventude,1
+199944,2,56928,Rodrigo Soares,1019,56445,Yuri Lima,Passes,Juventude,9
+199944,2,56928,Rodrigo Soares,1019,67041,César,Passes,Juventude,3
+199944,2,56928,Rodrigo Soares,1019,67079,Busanello,Passes,Juventude,1
+199944,2,66293,Thalisson Kelven,1019,39306,Paulinho Moccelin,Passes,Juventude,2
+199944,2,66293,Thalisson Kelven,1019,42727,Rafael Forster,Passes,Juventude,2
+199944,2,66293,Thalisson Kelven,1019,52441,Darlan ,Passes,Juventude,1
+199944,2,67041,César,1019,21387,Paulo Miranda,Passes,Juventude,3
+199944,2,67041,César,1019,42727,Rafael Forster,Passes,Juventude,3
+199944,2,67041,César,1019,56928,Rodrigo Soares,Passes,Juventude,1
+199944,2,67041,César,1019,66293,Thalisson Kelven,Passes,Juventude,1
+199944,2,67079,Busanello,1019,26917,Ricardo Bueno,Passes,Juventude,1
+199944,2,67079,Busanello,1019,37374,Jádson,Passes,Juventude,2
+199944,2,67079,Busanello,1019,39081,Edinho,Passes,Juventude,2
+199944,2,67079,Busanello,1019,39306,Paulinho Moccelin,Passes,Juventude,6
+199944,2,67079,Busanello,1019,42656,Chico,Passes,Juventude,6
+199944,2,67079,Busanello,1019,42727,Rafael Forster,Passes,Juventude,13
+199944,2,67079,Busanello,1019,52441,Darlan ,Passes,Juventude,1
+199944,2,67079,Busanello,1019,53010,Óscar Ruiz,Passes,Juventude,3
+199944,2,67079,Busanello,1019,56445,Yuri Lima,Passes,Juventude,7
+199944,2,84439,Isidro Pitta,1019,37374,Jádson,Passes,Juventude,1
+199944,2,84439,Isidro Pitta,1019,39081,Edinho,Passes,Juventude,1
+199944,2,84439,Isidro Pitta,1019,52441,Darlan ,Passes,Juventude,2
+199944,2,84439,Isidro Pitta,1019,67079,Busanello,Passes,Juventude,1
+199944,4,39081,Edinho,1019,39306,Paulinho Moccelin,Dribles,Juventude,1
+199944,5,26917,Ricardo Bueno,1019,42656,Chico,Desarmes,Juventude,1
+199944,5,26917,Ricardo Bueno,1019,56928,Rodrigo Soares,Desarmes,Juventude,1
+199944,5,37374,Jádson,1019,52418,Capixaba,Desarmes,Juventude,1
+199944,5,37374,Jádson,1019,52441,Darlan ,Desarmes,Juventude,1
+199944,5,39306,Paulinho Moccelin,1019,56445,Yuri Lima,Desarmes,Juventude,1
+199944,5,39306,Paulinho Moccelin,1019,56928,Rodrigo Soares,Desarmes,Juventude,1
+199944,5,42656,Chico,1019,37374,Jádson,Desarmes,Juventude,2
+199944,5,52418,Capixaba,1019,26917,Ricardo Bueno,Desarmes,Juventude,1
+199944,5,53010,Óscar Ruiz,1019,67079,Busanello,Desarmes,Juventude,1
+199944,5,56445,Yuri Lima,1019,21387,Paulo Miranda,Desarmes,Juventude,1
+199944,5,56445,Yuri Lima,1019,42656,Chico,Desarmes,Juventude,1
+199944,5,67079,Busanello,1019,42727,Rafael Forster,Desarmes,Juventude,1
+199944,6,67079,Busanello,1019,39306,Paulinho Moccelin,Faltas cometidas,Juventude,1
+199944,14,39081,Edinho,1019,67079,Busanello,Cruzamentos,Juventude,1
+199944,14,56928,Rodrigo Soares,1019,21387,Paulo Miranda,Cruzamentos,Juventude,1
+199944,14,56928,Rodrigo Soares,1019,26917,Ricardo Bueno,Cruzamentos,Juventude,1
+199944,14,67079,Busanello,1019,26917,Ricardo Bueno,Cruzamentos,Juventude,1
+199944,19,21387,Paulo Miranda,1019,37374,Jádson,Rebatidas,Juventude,1
+199944,19,21387,Paulo Miranda,1019,39306,Paulinho Moccelin,Rebatidas,Juventude,1
+199944,19,21387,Paulo Miranda,1019,42656,Chico,Rebatidas,Juventude,1
+199944,19,21387,Paulo Miranda,1019,52418,Capixaba,Rebatidas,Juventude,3
+199944,19,21387,Paulo Miranda,1019,56445,Yuri Lima,Rebatidas,Juventude,1
+199944,19,21387,Paulo Miranda,1019,56928,Rodrigo Soares,Rebatidas,Juventude,2
+199944,19,21387,Paulo Miranda,1019,67041,César,Rebatidas,Juventude,1
+199944,19,21387,Paulo Miranda,1019,67079,Busanello,Rebatidas,Juventude,1
+199944,19,39306,Paulinho Moccelin,1019,42727,Rafael Forster,Rebatidas,Juventude,1
+199944,19,39306,Paulinho Moccelin,1019,66293,Thalisson Kelven,Rebatidas,Juventude,1
+199944,19,39306,Paulinho Moccelin,1019,67041,César,Rebatidas,Juventude,1
+199944,19,39306,Paulinho Moccelin,1019,84439,Isidro Pitta,Rebatidas,Juventude,1
+199944,19,42727,Rafael Forster,1019,21387,Paulo Miranda,Rebatidas,Juventude,1
+199944,19,42727,Rafael Forster,1019,39306,Paulinho Moccelin,Rebatidas,Juventude,2
+199944,19,42727,Rafael Forster,1019,67079,Busanello,Rebatidas,Juventude,1
+199944,19,52441,Darlan ,1019,67041,César,Rebatidas,Juventude,1
+199944,19,56928,Rodrigo Soares,1019,37374,Jádson,Rebatidas,Juventude,5
+199944,19,56928,Rodrigo Soares,1019,39081,Edinho,Rebatidas,Juventude,1
+199944,19,56928,Rodrigo Soares,1019,42656,Chico,Rebatidas,Juventude,1
+199944,19,56928,Rodrigo Soares,1019,56445,Yuri Lima,Rebatidas,Juventude,1
+199944,19,66293,Thalisson Kelven,1019,52441,Darlan ,Rebatidas,Juventude,1
+199944,19,66293,Thalisson Kelven,1019,67079,Busanello,Rebatidas,Juventude,1
+199944,19,66293,Thalisson Kelven,1019,84439,Isidro Pitta,Rebatidas,Juventude,1
+199944,19,67041,César,1019,67079,Busanello,Rebatidas,Juventude,3
+199944,19,67079,Busanello,1019,37374,Jádson,Rebatidas,Juventude,1
+199944,19,67079,Busanello,1019,39306,Paulinho Moccelin,Rebatidas,Juventude,2
+199944,19,67079,Busanello,1019,53010,Óscar Ruiz,Rebatidas,Juventude,1
+199944,19,67079,Busanello,1019,56445,Yuri Lima,Rebatidas,Juventude,1
+199944,24,39306,Paulinho Moccelin,1019,21387,Paulo Miranda,Interceptações,Juventude,1
+199944,24,39306,Paulinho Moccelin,1019,42727,Rafael Forster,Interceptações,Juventude,1
+199944,24,39306,Paulinho Moccelin,1019,56445,Yuri Lima,Interceptações,Juventude,1
+199953,1,10617,Marcos Rocha,1012,16658,Rony,Lançamentos,Palmeiras,1
+199953,1,10617,Marcos Rocha,1012,20232,Dudu,Lançamentos,Palmeiras,2
+199953,1,18692,Weverton,1012,10617,Marcos Rocha,Lançamentos,Palmeiras,1
+199953,1,18692,Weverton,1012,16658,Rony,Lançamentos,Palmeiras,1
+199953,1,18692,Weverton,1012,20232,Dudu,Lançamentos,Palmeiras,1
+199953,1,18692,Weverton,1012,43254,Gustavo Gómez,Lançamentos,Palmeiras,1
+199953,1,18692,Weverton,1012,50804,Gustavo Scarpa,Lançamentos,Palmeiras,1
+199953,1,18692,Weverton,1012,85989,Giovani,Lançamentos,Palmeiras,1
+199953,1,34842,Mayke,1012,20232,Dudu,Lançamentos,Palmeiras,1
+199953,1,39038,Zé Rafael,1012,51941,Jorge,Lançamentos,Palmeiras,1
+199953,1,43254,Gustavo Gómez,1012,50804,Gustavo Scarpa,Lançamentos,Palmeiras,2
+199953,1,43254,Gustavo Gómez,1012,51941,Jorge,Lançamentos,Palmeiras,2
+199953,1,56954,Raphael Veiga,1012,20232,Dudu,Lançamentos,Palmeiras,1
+199953,1,61887,Murilo,1012,20232,Dudu,Lançamentos,Palmeiras,2
+199953,1,69745,Eduard Atuesta,1012,16658,Rony,Lançamentos,Palmeiras,1
+199953,1,69745,Eduard Atuesta,1012,85989,Giovani,Lançamentos,Palmeiras,1
+199953,1,80693,Danilo,1012,20232,Dudu,Lançamentos,Palmeiras,1
+199953,1,80693,Danilo,1012,50804,Gustavo Scarpa,Lançamentos,Palmeiras,1
+199953,2,10617,Marcos Rocha,1012,16658,Rony,Passes,Palmeiras,2
+199953,2,10617,Marcos Rocha,1012,20232,Dudu,Passes,Palmeiras,5
+199953,2,10617,Marcos Rocha,1012,39038,Zé Rafael,Passes,Palmeiras,1
+199953,2,10617,Marcos Rocha,1012,43254,Gustavo Gómez,Passes,Palmeiras,7
+199953,2,10617,Marcos Rocha,1012,50804,Gustavo Scarpa,Passes,Palmeiras,2
+199953,2,10617,Marcos Rocha,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,10617,Marcos Rocha,1012,56954,Raphael Veiga,Passes,Palmeiras,7
+199953,2,10617,Marcos Rocha,1012,61887,Murilo,Passes,Palmeiras,2
+199953,2,10617,Marcos Rocha,1012,80693,Danilo,Passes,Palmeiras,4
+199953,2,16658,Rony,1012,20232,Dudu,Passes,Palmeiras,1
+199953,2,16658,Rony,1012,50804,Gustavo Scarpa,Passes,Palmeiras,2
+199953,2,16658,Rony,1012,69745,Eduard Atuesta,Passes,Palmeiras,1
+199953,2,16658,Rony,1012,85989,Giovani,Passes,Palmeiras,2
+199953,2,18692,Weverton,1012,10617,Marcos Rocha,Passes,Palmeiras,1
+199953,2,18692,Weverton,1012,34842,Mayke,Passes,Palmeiras,2
+199953,2,18692,Weverton,1012,43254,Gustavo Gómez,Passes,Palmeiras,1
+199953,2,18692,Weverton,1012,50804,Gustavo Scarpa,Passes,Palmeiras,3
+199953,2,18692,Weverton,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,18692,Weverton,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,18692,Weverton,1012,61887,Murilo,Passes,Palmeiras,3
+199953,2,18692,Weverton,1012,69745,Eduard Atuesta,Passes,Palmeiras,1
+199953,2,18692,Weverton,1012,80693,Danilo,Passes,Palmeiras,3
+199953,2,20232,Dudu,1012,10617,Marcos Rocha,Passes,Palmeiras,5
+199953,2,20232,Dudu,1012,16658,Rony,Passes,Palmeiras,2
+199953,2,20232,Dudu,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,20232,Dudu,1012,56954,Raphael Veiga,Passes,Palmeiras,4
+199953,2,20232,Dudu,1012,80693,Danilo,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,18692,Weverton,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,20232,Dudu,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,43254,Gustavo Gómez,Passes,Palmeiras,4
+199953,2,34842,Mayke,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,61887,Murilo,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,69745,Eduard Atuesta,Passes,Palmeiras,2
+199953,2,34842,Mayke,1012,77241,Rafael Navarro,Passes,Palmeiras,1
+199953,2,34842,Mayke,1012,80693,Danilo,Passes,Palmeiras,7
+199953,2,34842,Mayke,1012,85989,Giovani,Passes,Palmeiras,2
+199953,2,39038,Zé Rafael,1012,10617,Marcos Rocha,Passes,Palmeiras,1
+199953,2,39038,Zé Rafael,1012,43254,Gustavo Gómez,Passes,Palmeiras,2
+199953,2,39038,Zé Rafael,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,39038,Zé Rafael,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,39038,Zé Rafael,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,39038,Zé Rafael,1012,61887,Murilo,Passes,Palmeiras,1
+199953,2,39038,Zé Rafael,1012,80693,Danilo,Passes,Palmeiras,2
+199953,2,43254,Gustavo Gómez,1012,10617,Marcos Rocha,Passes,Palmeiras,8
+199953,2,43254,Gustavo Gómez,1012,18692,Weverton,Passes,Palmeiras,3
+199953,2,43254,Gustavo Gómez,1012,20232,Dudu,Passes,Palmeiras,1
+199953,2,43254,Gustavo Gómez,1012,34842,Mayke,Passes,Palmeiras,3
+199953,2,43254,Gustavo Gómez,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,43254,Gustavo Gómez,1012,56954,Raphael Veiga,Passes,Palmeiras,3
+199953,2,43254,Gustavo Gómez,1012,61887,Murilo,Passes,Palmeiras,10
+199953,2,43254,Gustavo Gómez,1012,69745,Eduard Atuesta,Passes,Palmeiras,4
+199953,2,43254,Gustavo Gómez,1012,80693,Danilo,Passes,Palmeiras,2
+199953,2,43254,Gustavo Gómez,1012,85989,Giovani,Passes,Palmeiras,1
+199953,2,50804,Gustavo Scarpa,1012,10617,Marcos Rocha,Passes,Palmeiras,2
+199953,2,50804,Gustavo Scarpa,1012,20232,Dudu,Passes,Palmeiras,1
+199953,2,50804,Gustavo Scarpa,1012,39038,Zé Rafael,Passes,Palmeiras,2
+199953,2,50804,Gustavo Scarpa,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,50804,Gustavo Scarpa,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,50804,Gustavo Scarpa,1012,61887,Murilo,Passes,Palmeiras,1
+199953,2,50804,Gustavo Scarpa,1012,69745,Eduard Atuesta,Passes,Palmeiras,7
+199953,2,50804,Gustavo Scarpa,1012,80693,Danilo,Passes,Palmeiras,2
+199953,2,51941,Jorge,1012,39038,Zé Rafael,Passes,Palmeiras,3
+199953,2,51941,Jorge,1012,43254,Gustavo Gómez,Passes,Palmeiras,1
+199953,2,51941,Jorge,1012,50804,Gustavo Scarpa,Passes,Palmeiras,2
+199953,2,51941,Jorge,1012,61887,Murilo,Passes,Palmeiras,6
+199953,2,56954,Raphael Veiga,1012,10617,Marcos Rocha,Passes,Palmeiras,5
+199953,2,56954,Raphael Veiga,1012,20232,Dudu,Passes,Palmeiras,3
+199953,2,56954,Raphael Veiga,1012,34842,Mayke,Passes,Palmeiras,1
+199953,2,56954,Raphael Veiga,1012,39038,Zé Rafael,Passes,Palmeiras,2
+199953,2,56954,Raphael Veiga,1012,43254,Gustavo Gómez,Passes,Palmeiras,1
+199953,2,56954,Raphael Veiga,1012,61887,Murilo,Passes,Palmeiras,1
+199953,2,56954,Raphael Veiga,1012,69745,Eduard Atuesta,Passes,Palmeiras,1
+199953,2,56954,Raphael Veiga,1012,77241,Rafael Navarro,Passes,Palmeiras,1
+199953,2,56954,Raphael Veiga,1012,80693,Danilo,Passes,Palmeiras,2
+199953,2,61887,Murilo,1012,10617,Marcos Rocha,Passes,Palmeiras,3
+199953,2,61887,Murilo,1012,18692,Weverton,Passes,Palmeiras,3
+199953,2,61887,Murilo,1012,34842,Mayke,Passes,Palmeiras,2
+199953,2,61887,Murilo,1012,39038,Zé Rafael,Passes,Palmeiras,5
+199953,2,61887,Murilo,1012,43254,Gustavo Gómez,Passes,Palmeiras,14
+199953,2,61887,Murilo,1012,50804,Gustavo Scarpa,Passes,Palmeiras,4
+199953,2,61887,Murilo,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,61887,Murilo,1012,56954,Raphael Veiga,Passes,Palmeiras,2
+199953,2,61887,Murilo,1012,69745,Eduard Atuesta,Passes,Palmeiras,3
+199953,2,61887,Murilo,1012,75281,Gabriel Veron,Passes,Palmeiras,1
+199953,2,61887,Murilo,1012,80693,Danilo,Passes,Palmeiras,3
+199953,2,69745,Eduard Atuesta,1012,18692,Weverton,Passes,Palmeiras,2
+199953,2,69745,Eduard Atuesta,1012,34842,Mayke,Passes,Palmeiras,1
+199953,2,69745,Eduard Atuesta,1012,43254,Gustavo Gómez,Passes,Palmeiras,4
+199953,2,69745,Eduard Atuesta,1012,50804,Gustavo Scarpa,Passes,Palmeiras,3
+199953,2,69745,Eduard Atuesta,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,69745,Eduard Atuesta,1012,61887,Murilo,Passes,Palmeiras,3
+199953,2,69745,Eduard Atuesta,1012,77241,Rafael Navarro,Passes,Palmeiras,2
+199953,2,69745,Eduard Atuesta,1012,85989,Giovani,Passes,Palmeiras,1
+199953,2,75281,Gabriel Veron,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,75281,Gabriel Veron,1012,61887,Murilo,Passes,Palmeiras,1
+199953,2,75281,Gabriel Veron,1012,85989,Giovani,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,16658,Rony,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,34842,Mayke,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,43254,Gustavo Gómez,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,56954,Raphael Veiga,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,75281,Gabriel Veron,Passes,Palmeiras,1
+199953,2,77241,Rafael Navarro,1012,80693,Danilo,Passes,Palmeiras,1
+199953,2,80693,Danilo,1012,10617,Marcos Rocha,Passes,Palmeiras,4
+199953,2,80693,Danilo,1012,16658,Rony,Passes,Palmeiras,1
+199953,2,80693,Danilo,1012,18692,Weverton,Passes,Palmeiras,2
+199953,2,80693,Danilo,1012,20232,Dudu,Passes,Palmeiras,3
+199953,2,80693,Danilo,1012,34842,Mayke,Passes,Palmeiras,2
+199953,2,80693,Danilo,1012,43254,Gustavo Gómez,Passes,Palmeiras,5
+199953,2,80693,Danilo,1012,50804,Gustavo Scarpa,Passes,Palmeiras,1
+199953,2,80693,Danilo,1012,51941,Jorge,Passes,Palmeiras,1
+199953,2,80693,Danilo,1012,56954,Raphael Veiga,Passes,Palmeiras,3
+199953,2,80693,Danilo,1012,61887,Murilo,Passes,Palmeiras,8
+199953,2,80693,Danilo,1012,69745,Eduard Atuesta,Passes,Palmeiras,3
+199953,2,80693,Danilo,1012,85989,Giovani,Passes,Palmeiras,1
+199953,2,85989,Giovani,1012,16658,Rony,Passes,Palmeiras,2
+199953,2,85989,Giovani,1012,34842,Mayke,Passes,Palmeiras,2
+199953,2,85989,Giovani,1012,77241,Rafael Navarro,Passes,Palmeiras,1
+199953,2,85989,Giovani,1012,80693,Danilo,Passes,Palmeiras,1
+199953,4,80693,Danilo,1012,56954,Raphael Veiga,Dribles,Palmeiras,1
+199953,5,10617,Marcos Rocha,1012,20232,Dudu,Desarmes,Palmeiras,1
+199953,5,34842,Mayke,1012,69745,Eduard Atuesta,Desarmes,Palmeiras,1
+199953,5,56954,Raphael Veiga,1012,39038,Zé Rafael,Desarmes,Palmeiras,1
+199953,5,80693,Danilo,1012,61887,Murilo,Desarmes,Palmeiras,1
+199953,5,80693,Danilo,1012,69745,Eduard Atuesta,Desarmes,Palmeiras,1
+199953,14,10617,Marcos Rocha,1012,16658,Rony,Cruzamentos,Palmeiras,1
+199953,14,50804,Gustavo Scarpa,1012,20232,Dudu,Cruzamentos,Palmeiras,1
+199953,14,50804,Gustavo Scarpa,1012,56954,Raphael Veiga,Cruzamentos,Palmeiras,1
+199953,14,50804,Gustavo Scarpa,1012,61887,Murilo,Cruzamentos,Palmeiras,2
+199953,14,50804,Gustavo Scarpa,1012,69745,Eduard Atuesta,Cruzamentos,Palmeiras,1
+199953,14,69745,Eduard Atuesta,1012,16658,Rony,Cruzamentos,Palmeiras,1
+199953,14,69745,Eduard Atuesta,1012,43254,Gustavo Gómez,Cruzamentos,Palmeiras,1
+199953,19,10617,Marcos Rocha,1012,16658,Rony,Rebatidas,Palmeiras,1
+199953,19,10617,Marcos Rocha,1012,18692,Weverton,Rebatidas,Palmeiras,1
+199953,19,10617,Marcos Rocha,1012,50804,Gustavo Scarpa,Rebatidas,Palmeiras,1
+199953,19,16658,Rony,1012,43254,Gustavo Gómez,Rebatidas,Palmeiras,1
+199953,19,18692,Weverton,1012,10617,Marcos Rocha,Rebatidas,Palmeiras,1
+199953,19,18692,Weverton,1012,50804,Gustavo Scarpa,Rebatidas,Palmeiras,1
+199953,19,34842,Mayke,1012,16658,Rony,Rebatidas,Palmeiras,1
+199953,19,34842,Mayke,1012,85989,Giovani,Rebatidas,Palmeiras,1
+199953,19,39038,Zé Rafael,1012,43254,Gustavo Gómez,Rebatidas,Palmeiras,1
+199953,19,43254,Gustavo Gómez,1012,10617,Marcos Rocha,Rebatidas,Palmeiras,2
+199953,19,43254,Gustavo Gómez,1012,16658,Rony,Rebatidas,Palmeiras,1
+199953,19,43254,Gustavo Gómez,1012,18692,Weverton,Rebatidas,Palmeiras,5
+199953,19,43254,Gustavo Gómez,1012,39038,Zé Rafael,Rebatidas,Palmeiras,1
+199953,19,43254,Gustavo Gómez,1012,50804,Gustavo Scarpa,Rebatidas,Palmeiras,1
+199953,19,43254,Gustavo Gómez,1012,51941,Jorge,Rebatidas,Palmeiras,1
+199953,19,43254,Gustavo Gómez,1012,56954,Raphael Veiga,Rebatidas,Palmeiras,2
+199953,19,43254,Gustavo Gómez,1012,80693,Danilo,Rebatidas,Palmeiras,5
+199953,19,51941,Jorge,1012,10617,Marcos Rocha,Rebatidas,Palmeiras,1
+199953,19,51941,Jorge,1012,43254,Gustavo Gómez,Rebatidas,Palmeiras,1
+199953,19,51941,Jorge,1012,80693,Danilo,Rebatidas,Palmeiras,1
+199953,19,61887,Murilo,1012,10617,Marcos Rocha,Rebatidas,Palmeiras,1
+199953,19,61887,Murilo,1012,18692,Weverton,Rebatidas,Palmeiras,1
+199953,19,61887,Murilo,1012,34842,Mayke,Rebatidas,Palmeiras,1
+199953,19,61887,Murilo,1012,80693,Danilo,Rebatidas,Palmeiras,2
+199953,19,80693,Danilo,1012,10617,Marcos Rocha,Rebatidas,Palmeiras,1
+199953,19,80693,Danilo,1012,39038,Zé Rafael,Rebatidas,Palmeiras,1
+199953,19,80693,Danilo,1012,51941,Jorge,Rebatidas,Palmeiras,1
+199953,22,39038,Zé Rafael,1012,56954,Raphael Veiga,Viradas de jogo,Palmeiras,1
+199953,22,50804,Gustavo Scarpa,1012,10617,Marcos Rocha,Viradas de jogo,Palmeiras,1
+199953,22,50804,Gustavo Scarpa,1012,80693,Danilo,Viradas de jogo,Palmeiras,1
+199953,22,56954,Raphael Veiga,1012,50804,Gustavo Scarpa,Viradas de jogo,Palmeiras,1
+199953,22,80693,Danilo,1012,75281,Gabriel Veron,Viradas de jogo,Palmeiras,1
+199953,24,50804,Gustavo Scarpa,1012,18692,Weverton,Interceptações,Palmeiras,1
+199953,24,56954,Raphael Veiga,1012,43254,Gustavo Gómez,Interceptações,Palmeiras,1
+199953,24,61887,Murilo,1012,18692,Weverton,Interceptações,Palmeiras,1
+199953,24,80693,Danilo,1012,61887,Murilo,Interceptações,Palmeiras,1
+200005,1,10138,Rafinha,1007,48981,Jonathan Calleri,Lançamentos,São Paulo,1
+200005,1,37715,Alisson,1007,80073,Wellington,Lançamentos,São Paulo,1
+200005,1,39309,Luciano  ,1007,80076,Talles Costa,Lançamentos,São Paulo,2
+200005,1,50801,Léo,1007,48981,Jonathan Calleri,Lançamentos,São Paulo,2
+200005,1,50801,Léo,1007,57635,Éder,Lançamentos,São Paulo,2
+200005,1,56626,Jandrei,1007,10138,Rafinha,Lançamentos,São Paulo,2
+200005,1,56626,Jandrei,1007,31933,Nikão,Lançamentos,São Paulo,1
+200005,1,56626,Jandrei,1007,48981,Jonathan Calleri,Lançamentos,São Paulo,1
+200005,1,56626,Jandrei,1007,80073,Wellington,Lançamentos,São Paulo,2
+200005,1,72472,Diego,1007,37715,Alisson,Lançamentos,São Paulo,1
+200005,1,72472,Diego,1007,48981,Jonathan Calleri,Lançamentos,São Paulo,1
+200005,1,72472,Diego,1007,71324,Igor Gomes,Lançamentos,São Paulo,1
+200005,1,72472,Diego,1007,71680,Toró,Lançamentos,São Paulo,1
+200005,1,72472,Diego,1007,80073,Wellington,Lançamentos,São Paulo,1
+200005,1,87320,Pablo Maia,1007,48981,Jonathan Calleri,Lançamentos,São Paulo,1
+200005,2,10138,Rafinha,1007,31933,Nikão,Passes,São Paulo,20
+200005,2,10138,Rafinha,1007,39309,Luciano  ,Passes,São Paulo,3
+200005,2,10138,Rafinha,1007,48382,Emiliano Rigoni,Passes,São Paulo,1
+200005,2,10138,Rafinha,1007,48981,Jonathan Calleri,Passes,São Paulo,2
+200005,2,10138,Rafinha,1007,50801,Léo,Passes,São Paulo,1
+200005,2,10138,Rafinha,1007,56626,Jandrei,Passes,São Paulo,1
+200005,2,10138,Rafinha,1007,71324,Igor Gomes,Passes,São Paulo,6
+200005,2,10138,Rafinha,1007,71680,Toró,Passes,São Paulo,2
+200005,2,10138,Rafinha,1007,72472,Diego,Passes,São Paulo,13
+200005,2,10138,Rafinha,1007,80076,Talles Costa,Passes,São Paulo,1
+200005,2,10138,Rafinha,1007,87320,Pablo Maia,Passes,São Paulo,16
+200005,2,31933,Nikão,1007,10138,Rafinha,Passes,São Paulo,10
+200005,2,31933,Nikão,1007,37715,Alisson,Passes,São Paulo,1
+200005,2,31933,Nikão,1007,50801,Léo,Passes,São Paulo,3
+200005,2,31933,Nikão,1007,57635,Éder,Passes,São Paulo,1
+200005,2,31933,Nikão,1007,71324,Igor Gomes,Passes,São Paulo,3
+200005,2,31933,Nikão,1007,72472,Diego,Passes,São Paulo,3
+200005,2,31933,Nikão,1007,87320,Pablo Maia,Passes,São Paulo,8
+200005,2,37715,Alisson,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,37715,Alisson,1007,48981,Jonathan Calleri,Passes,São Paulo,2
+200005,2,37715,Alisson,1007,50801,Léo,Passes,São Paulo,4
+200005,2,37715,Alisson,1007,57635,Éder,Passes,São Paulo,3
+200005,2,37715,Alisson,1007,71324,Igor Gomes,Passes,São Paulo,6
+200005,2,37715,Alisson,1007,72472,Diego,Passes,São Paulo,1
+200005,2,37715,Alisson,1007,80073,Wellington,Passes,São Paulo,6
+200005,2,37715,Alisson,1007,87320,Pablo Maia,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,10138,Rafinha,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,37715,Alisson,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,48981,Jonathan Calleri,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,50801,Léo,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,71680,Toró,Passes,São Paulo,4
+200005,2,39309,Luciano  ,1007,80073,Wellington,Passes,São Paulo,1
+200005,2,39309,Luciano  ,1007,87320,Pablo Maia,Passes,São Paulo,2
+200005,2,39309,Luciano  ,1007,90806,Andrés Colorado ,Passes,São Paulo,1
+200005,2,48382,Emiliano Rigoni,1007,80076,Talles Costa,Passes,São Paulo,1
+200005,2,48382,Emiliano Rigoni,1007,87320,Pablo Maia,Passes,São Paulo,2
+200005,2,48981,Jonathan Calleri,1007,31933,Nikão,Passes,São Paulo,2
+200005,2,48981,Jonathan Calleri,1007,37715,Alisson,Passes,São Paulo,2
+200005,2,48981,Jonathan Calleri,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,48981,Jonathan Calleri,1007,57635,Éder,Passes,São Paulo,1
+200005,2,48981,Jonathan Calleri,1007,71324,Igor Gomes,Passes,São Paulo,1
+200005,2,48981,Jonathan Calleri,1007,71680,Toró,Passes,São Paulo,1
+200005,2,48981,Jonathan Calleri,1007,80073,Wellington,Passes,São Paulo,3
+200005,2,50801,Léo,1007,10138,Rafinha,Passes,São Paulo,2
+200005,2,50801,Léo,1007,37715,Alisson,Passes,São Paulo,3
+200005,2,50801,Léo,1007,56626,Jandrei,Passes,São Paulo,9
+200005,2,50801,Léo,1007,57635,Éder,Passes,São Paulo,2
+200005,2,50801,Léo,1007,71680,Toró,Passes,São Paulo,3
+200005,2,50801,Léo,1007,72472,Diego,Passes,São Paulo,9
+200005,2,50801,Léo,1007,80073,Wellington,Passes,São Paulo,15
+200005,2,50801,Léo,1007,87320,Pablo Maia,Passes,São Paulo,5
+200005,2,56626,Jandrei,1007,10138,Rafinha,Passes,São Paulo,2
+200005,2,56626,Jandrei,1007,37715,Alisson,Passes,São Paulo,1
+200005,2,56626,Jandrei,1007,50801,Léo,Passes,São Paulo,10
+200005,2,56626,Jandrei,1007,71324,Igor Gomes,Passes,São Paulo,1
+200005,2,56626,Jandrei,1007,72472,Diego,Passes,São Paulo,16
+200005,2,56626,Jandrei,1007,87320,Pablo Maia,Passes,São Paulo,5
+200005,2,57635,Éder,1007,10138,Rafinha,Passes,São Paulo,1
+200005,2,57635,Éder,1007,31933,Nikão,Passes,São Paulo,3
+200005,2,57635,Éder,1007,37715,Alisson,Passes,São Paulo,2
+200005,2,57635,Éder,1007,48981,Jonathan Calleri,Passes,São Paulo,2
+200005,2,57635,Éder,1007,50801,Léo,Passes,São Paulo,1
+200005,2,57635,Éder,1007,72472,Diego,Passes,São Paulo,1
+200005,2,57635,Éder,1007,80073,Wellington,Passes,São Paulo,3
+200005,2,57635,Éder,1007,87320,Pablo Maia,Passes,São Paulo,1
+200005,2,71324,Igor Gomes,1007,10138,Rafinha,Passes,São Paulo,4
+200005,2,71324,Igor Gomes,1007,31933,Nikão,Passes,São Paulo,5
+200005,2,71324,Igor Gomes,1007,37715,Alisson,Passes,São Paulo,1
+200005,2,71324,Igor Gomes,1007,39309,Luciano  ,Passes,São Paulo,3
+200005,2,71324,Igor Gomes,1007,48981,Jonathan Calleri,Passes,São Paulo,4
+200005,2,71324,Igor Gomes,1007,50801,Léo,Passes,São Paulo,2
+200005,2,71324,Igor Gomes,1007,57635,Éder,Passes,São Paulo,1
+200005,2,71324,Igor Gomes,1007,71680,Toró,Passes,São Paulo,1
+200005,2,71324,Igor Gomes,1007,72472,Diego,Passes,São Paulo,1
+200005,2,71324,Igor Gomes,1007,80073,Wellington,Passes,São Paulo,3
+200005,2,71324,Igor Gomes,1007,87320,Pablo Maia,Passes,São Paulo,3
+200005,2,71680,Toró,1007,10138,Rafinha,Passes,São Paulo,2
+200005,2,71680,Toró,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,71680,Toró,1007,48382,Emiliano Rigoni,Passes,São Paulo,1
+200005,2,71680,Toró,1007,48981,Jonathan Calleri,Passes,São Paulo,1
+200005,2,71680,Toró,1007,80076,Talles Costa,Passes,São Paulo,1
+200005,2,71680,Toró,1007,87320,Pablo Maia,Passes,São Paulo,2
+200005,2,72472,Diego,1007,10138,Rafinha,Passes,São Paulo,21
+200005,2,72472,Diego,1007,31933,Nikão,Passes,São Paulo,1
+200005,2,72472,Diego,1007,48981,Jonathan Calleri,Passes,São Paulo,1
+200005,2,72472,Diego,1007,50801,Léo,Passes,São Paulo,4
+200005,2,72472,Diego,1007,56626,Jandrei,Passes,São Paulo,21
+200005,2,72472,Diego,1007,80073,Wellington,Passes,São Paulo,1
+200005,2,72472,Diego,1007,87320,Pablo Maia,Passes,São Paulo,4
+200005,2,72472,Diego,1007,90806,Andrés Colorado ,Passes,São Paulo,1
+200005,2,80073,Wellington,1007,37715,Alisson,Passes,São Paulo,9
+200005,2,80073,Wellington,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,80073,Wellington,1007,48981,Jonathan Calleri,Passes,São Paulo,1
+200005,2,80073,Wellington,1007,50801,Léo,Passes,São Paulo,11
+200005,2,80073,Wellington,1007,56626,Jandrei,Passes,São Paulo,3
+200005,2,80073,Wellington,1007,57635,Éder,Passes,São Paulo,3
+200005,2,80073,Wellington,1007,71324,Igor Gomes,Passes,São Paulo,6
+200005,2,80073,Wellington,1007,72472,Diego,Passes,São Paulo,1
+200005,2,80073,Wellington,1007,87320,Pablo Maia,Passes,São Paulo,6
+200005,2,80076,Talles Costa,1007,10138,Rafinha,Passes,São Paulo,2
+200005,2,80076,Talles Costa,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,80076,Talles Costa,1007,87320,Pablo Maia,Passes,São Paulo,2
+200005,2,80076,Talles Costa,1007,90806,Andrés Colorado ,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,10138,Rafinha,Passes,São Paulo,12
+200005,2,87320,Pablo Maia,1007,31933,Nikão,Passes,São Paulo,4
+200005,2,87320,Pablo Maia,1007,37715,Alisson,Passes,São Paulo,9
+200005,2,87320,Pablo Maia,1007,39309,Luciano  ,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,48382,Emiliano Rigoni,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,48981,Jonathan Calleri,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,50801,Léo,Passes,São Paulo,12
+200005,2,87320,Pablo Maia,1007,56626,Jandrei,Passes,São Paulo,3
+200005,2,87320,Pablo Maia,1007,57635,Éder,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,71324,Igor Gomes,Passes,São Paulo,6
+200005,2,87320,Pablo Maia,1007,71680,Toró,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,72472,Diego,Passes,São Paulo,9
+200005,2,87320,Pablo Maia,1007,80073,Wellington,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,80076,Talles Costa,Passes,São Paulo,1
+200005,2,87320,Pablo Maia,1007,90806,Andrés Colorado ,Passes,São Paulo,3
+200005,2,90806,Andrés Colorado ,1007,10138,Rafinha,Passes,São Paulo,1
+200005,2,90806,Andrés Colorado ,1007,39309,Luciano  ,Passes,São Paulo,2
+200005,2,90806,Andrés Colorado ,1007,72472,Diego,Passes,São Paulo,1
+200005,2,90806,Andrés Colorado ,1007,80076,Talles Costa,Passes,São Paulo,1
+200005,2,90806,Andrés Colorado ,1007,87320,Pablo Maia,Passes,São Paulo,1
+200005,5,37715,Alisson,1007,80073,Wellington,Desarmes,São Paulo,1
+200005,5,37715,Alisson,1007,87320,Pablo Maia,Desarmes,São Paulo,1
+200005,5,57635,Éder,1007,71324,Igor Gomes,Desarmes,São Paulo,1
+200005,5,57635,Éder,1007,80073,Wellington,Desarmes,São Paulo,1
+200005,5,57635,Éder,1007,87320,Pablo Maia,Desarmes,São Paulo,1
+200005,5,71324,Igor Gomes,1007,10138,Rafinha,Desarmes,São Paulo,1
+200005,5,71680,Toró,1007,87320,Pablo Maia,Desarmes,São Paulo,1
+200005,5,72472,Diego,1007,87320,Pablo Maia,Desarmes,São Paulo,1
+200005,5,72472,Diego,1007,90806,Andrés Colorado ,Desarmes,São Paulo,1
+200005,5,80076,Talles Costa,1007,10138,Rafinha,Desarmes,São Paulo,1
+200005,5,80076,Talles Costa,1007,39309,Luciano  ,Desarmes,São Paulo,1
+200005,5,87320,Pablo Maia,1007,71324,Igor Gomes,Desarmes,São Paulo,1
+200005,14,10138,Rafinha,1007,71324,Igor Gomes,Cruzamentos,São Paulo,1
+200005,14,31933,Nikão,1007,71324,Igor Gomes,Cruzamentos,São Paulo,1
+200005,14,37715,Alisson,1007,72472,Diego,Cruzamentos,São Paulo,1
+200005,14,71324,Igor Gomes,1007,39309,Luciano  ,Cruzamentos,São Paulo,1
+200005,14,71680,Toró,1007,39309,Luciano  ,Cruzamentos,São Paulo,1
+200005,14,80073,Wellington,1007,48981,Jonathan Calleri,Cruzamentos,São Paulo,1
+200005,19,10138,Rafinha,1007,57635,Éder,Rebatidas,São Paulo,1
+200005,19,10138,Rafinha,1007,72472,Diego,Rebatidas,São Paulo,1
+200005,19,10138,Rafinha,1007,87320,Pablo Maia,Rebatidas,São Paulo,1
+200005,19,37715,Alisson,1007,72472,Diego,Rebatidas,São Paulo,1
+200005,19,48382,Emiliano Rigoni,1007,10138,Rafinha,Rebatidas,São Paulo,1
+200005,19,48981,Jonathan Calleri,1007,80073,Wellington,Rebatidas,São Paulo,1
+200005,19,50801,Léo,1007,87320,Pablo Maia,Rebatidas,São Paulo,1
+200005,19,56626,Jandrei,1007,72472,Diego,Rebatidas,São Paulo,1
+200005,19,72472,Diego,1007,10138,Rafinha,Rebatidas,São Paulo,1
+200005,19,72472,Diego,1007,57635,Éder,Rebatidas,São Paulo,1
+200005,19,80073,Wellington,1007,48981,Jonathan Calleri,Rebatidas,São Paulo,1
+200005,22,10138,Rafinha,1007,50801,Léo,Viradas de jogo,São Paulo,1
+200005,22,31933,Nikão,1007,80073,Wellington,Viradas de jogo,São Paulo,1
+200005,24,10138,Rafinha,1007,72472,Diego,Interceptações,São Paulo,1
+200005,24,48382,Emiliano Rigoni,1007,80076,Talles Costa,Interceptações,São Paulo,1
+200005,24,71324,Igor Gomes,1007,48981,Jonathan Calleri,Interceptações,São Paulo,1
+200005,24,87320,Pablo Maia,1007,57635,Éder,Interceptações,São Paulo,1

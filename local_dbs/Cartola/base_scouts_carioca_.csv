@@ -17572,3 +17572,3211 @@ fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_na
 192724,25,Cartões amarelos,Kawan,1003,1,0,Botafogo
 192724,25,Cartões amarelos,Kayque,1003,1,0,Botafogo
 192724,25,Cartões amarelos,Vitor Marinho ,1003,1,0,Botafogo
+192725,2,Passes,Barreto,1003,22,3,Botafogo
+192725,2,Passes,Breno,1003,1,0,Botafogo
+192725,2,Passes,Chay,1003,15,4,Botafogo
+192725,2,Passes,Daniel Borges,1003,29,3,Botafogo
+192725,2,Passes,Diego Loureiro,1003,10,0,Botafogo
+192725,2,Passes,Fabinho,1003,3,1,Botafogo
+192725,2,Passes,Hugo Neto,1003,3,0,Botafogo
+192725,2,Passes,Jonathan Silva,1003,26,3,Botafogo
+192725,2,Passes,Kanu,1003,25,5,Botafogo
+192725,2,Passes,Kayque,1003,22,1,Botafogo
+192725,2,Passes,Luiz Fernando,1003,7,6,Botafogo
+192725,2,Passes,Matheus Nascimento,1003,7,0,Botafogo
+192725,2,Passes,Philipe Sampaio,1003,31,5,Botafogo
+192725,2,Passes,Rikelmi,1003,16,2,Botafogo
+192725,2,Passes,Vinícius Lopes,1003,1,1,Botafogo
+192725,2,Passes,André Trindade,1006,41,3,Fluminense
+192725,2,Passes,Calegari,1006,30,7,Fluminense
+192725,2,Passes,Cano,1006,7,1,Fluminense
+192725,2,Passes,Cristiano,1006,2,0,Fluminense
+192725,2,Passes,David Braz,1006,29,4,Fluminense
+192725,2,Passes,Ganso,1006,20,0,Fluminense
+192725,2,Passes,Jhon Arias,1006,19,1,Fluminense
+192725,2,Passes,Manoel,1006,44,1,Fluminense
+192725,2,Passes,Marcos Felipe,1006,11,0,Fluminense
+192725,2,Passes,Mario Pineida,1006,35,5,Fluminense
+192725,2,Passes,Martinelli,1006,25,5,Fluminense
+192725,2,Passes,Matheus Martins,1006,4,0,Fluminense
+192725,2,Passes,Nino,1006,52,3,Fluminense
+192725,2,Passes,Nonato,1006,12,0,Fluminense
+192725,2,Passes,Willian,1006,11,2,Fluminense
+192725,2,Passes,Yago Felipe,1006,11,2,Fluminense
+192725,3,Finalizações,Chay,1003,0,2,Botafogo
+192725,3,Finalizações,Erison,1003,2,0,Botafogo
+192725,3,Finalizações,Kanu,1003,0,1,Botafogo
+192725,3,Finalizações,Matheus Nascimento,1003,0,2,Botafogo
+192725,3,Finalizações,Rikelmi,1003,1,1,Botafogo
+192725,3,Finalizações,André Trindade,1006,1,1,Fluminense
+192725,3,Finalizações,Jhon Arias,1006,1,1,Fluminense
+192725,3,Finalizações,Manoel,1006,0,1,Fluminense
+192725,3,Finalizações,Matheus Martins,1006,1,0,Fluminense
+192725,3,Finalizações,Nonato,1006,1,0,Fluminense
+192725,5,Desarmes,Barreto,1003,4,0,Botafogo
+192725,5,Desarmes,Daniel Borges,1003,4,0,Botafogo
+192725,5,Desarmes,Erison,1003,0,1,Botafogo
+192725,5,Desarmes,Fabinho,1003,2,0,Botafogo
+192725,5,Desarmes,Hugo Neto,1003,1,1,Botafogo
+192725,5,Desarmes,Jonathan Silva,1003,4,0,Botafogo
+192725,5,Desarmes,Kayque,1003,3,0,Botafogo
+192725,5,Desarmes,Luiz Fernando,1003,1,0,Botafogo
+192725,5,Desarmes,Matheus Nascimento,1003,2,0,Botafogo
+192725,5,Desarmes,Rikelmi,1003,1,0,Botafogo
+192725,5,Desarmes,André Trindade,1006,4,0,Fluminense
+192725,5,Desarmes,Calegari,1006,2,0,Fluminense
+192725,5,Desarmes,Ganso,1006,1,0,Fluminense
+192725,5,Desarmes,Jhon Arias,1006,3,0,Fluminense
+192725,5,Desarmes,Manoel,1006,3,0,Fluminense
+192725,5,Desarmes,Mario Pineida,1006,1,0,Fluminense
+192725,5,Desarmes,Martinelli,1006,2,0,Fluminense
+192725,5,Desarmes,Willian,1006,1,0,Fluminense
+192725,5,Desarmes,Yago Felipe,1006,2,0,Fluminense
+192725,14,Cruzamentos,Chay,1003,2,3,Botafogo
+192725,14,Cruzamentos,Daniel Borges,1003,1,4,Botafogo
+192725,14,Cruzamentos,Luiz Fernando,1003,0,1,Botafogo
+192725,14,Cruzamentos,Matheus Nascimento,1003,0,1,Botafogo
+192725,14,Cruzamentos,Rikelmi,1003,1,1,Botafogo
+192725,14,Cruzamentos,Calegari,1006,1,2,Fluminense
+192725,14,Cruzamentos,Cano,1006,0,1,Fluminense
+192725,14,Cruzamentos,Ganso,1006,0,1,Fluminense
+192725,14,Cruzamentos,Jhon Arias,1006,1,3,Fluminense
+192725,14,Cruzamentos,Mario Pineida,1006,1,1,Fluminense
+192725,14,Cruzamentos,Martinelli,1006,0,1,Fluminense
+192725,14,Cruzamentos,Nonato,1006,0,1,Fluminense
+192725,14,Cruzamentos,Willian,1006,0,2,Fluminense
+192725,14,Cruzamentos,Yago Felipe,1006,2,1,Fluminense
+192725,1,Lançamentos,Barreto,1003,1,0,Botafogo
+192725,1,Lançamentos,Chay,1003,1,2,Botafogo
+192725,1,Lançamentos,Daniel Borges,1003,2,5,Botafogo
+192725,1,Lançamentos,Diego Loureiro,1003,4,5,Botafogo
+192725,1,Lançamentos,Jonathan Silva,1003,1,0,Botafogo
+192725,1,Lançamentos,Kanu,1003,0,4,Botafogo
+192725,1,Lançamentos,Philipe Sampaio,1003,0,2,Botafogo
+192725,1,Lançamentos,André Trindade,1006,2,1,Fluminense
+192725,1,Lançamentos,Cano,1006,1,0,Fluminense
+192725,1,Lançamentos,David Braz,1006,1,4,Fluminense
+192725,1,Lançamentos,Ganso,1006,1,0,Fluminense
+192725,1,Lançamentos,Manoel,1006,1,3,Fluminense
+192725,1,Lançamentos,Marcos Felipe,1006,1,10,Fluminense
+192725,1,Lançamentos,Martinelli,1006,1,1,Fluminense
+192725,1,Lançamentos,Nino,1006,2,1,Fluminense
+192725,1,Lançamentos,Nonato,1006,0,1,Fluminense
+192725,24,Interceptações,Daniel Borges,1003,1,0,Botafogo
+192725,24,Interceptações,Luiz Fernando,1003,1,0,Botafogo
+192725,24,Interceptações,Rikelmi,1003,2,0,Botafogo
+192725,24,Interceptações,André Trindade,1006,0,1,Fluminense
+192725,24,Interceptações,Calegari,1006,0,1,Fluminense
+192725,4,Dribles,Chay,1003,1,0,Botafogo
+192725,4,Dribles,Kanu,1003,0,1,Botafogo
+192725,4,Dribles,Cano,1006,1,0,Fluminense
+192725,4,Dribles,Nino,1006,1,0,Fluminense
+192725,22,Viradas de jogo,Chay,1003,0,1,Botafogo
+192725,22,Viradas de jogo,Daniel Borges,1003,1,0,Botafogo
+192725,22,Viradas de jogo,Kayque,1003,1,0,Botafogo
+192725,22,Viradas de jogo,Philipe Sampaio,1003,1,0,Botafogo
+192725,22,Viradas de jogo,Cano,1006,1,0,Fluminense
+192725,22,Viradas de jogo,David Braz,1006,1,0,Fluminense
+192725,22,Viradas de jogo,Ganso,1006,1,0,Fluminense
+192725,22,Viradas de jogo,Martinelli,1006,1,0,Fluminense
+192725,22,Viradas de jogo,Nino,1006,1,0,Fluminense
+192725,20,Posse de bola,Barreto,1003,73,0,Botafogo
+192725,20,Posse de bola,Breno,1003,8,0,Botafogo
+192725,20,Posse de bola,Chay,1003,96,0,Botafogo
+192725,20,Posse de bola,Daniel Borges,1003,123,0,Botafogo
+192725,20,Posse de bola,Diego Loureiro,1003,63,0,Botafogo
+192725,20,Posse de bola,Erison,1003,17,0,Botafogo
+192725,20,Posse de bola,Fabinho,1003,16,0,Botafogo
+192725,20,Posse de bola,Hugo Neto,1003,14,0,Botafogo
+192725,20,Posse de bola,Jonathan Silva,1003,84,0,Botafogo
+192725,20,Posse de bola,Kanu,1003,95,0,Botafogo
+192725,20,Posse de bola,Kayque,1003,70,0,Botafogo
+192725,20,Posse de bola,Luiz Fernando,1003,62,0,Botafogo
+192725,20,Posse de bola,Matheus Nascimento,1003,34,0,Botafogo
+192725,20,Posse de bola,Philipe Sampaio,1003,110,0,Botafogo
+192725,20,Posse de bola,Rikelmi,1003,78,0,Botafogo
+192725,20,Posse de bola,Vinícius Lopes,1003,10,0,Botafogo
+192725,20,Posse de bola,André Trindade,1006,134,0,Fluminense
+192725,20,Posse de bola,Calegari,1006,114,0,Fluminense
+192725,20,Posse de bola,Cano,1006,58,0,Fluminense
+192725,20,Posse de bola,Cristiano,1006,4,0,Fluminense
+192725,20,Posse de bola,David Braz,1006,117,0,Fluminense
+192725,20,Posse de bola,Ganso,1006,60,0,Fluminense
+192725,20,Posse de bola,Jhon Arias,1006,110,0,Fluminense
+192725,20,Posse de bola,Manoel,1006,150,0,Fluminense
+192725,20,Posse de bola,Marcos Felipe,1006,63,0,Fluminense
+192725,20,Posse de bola,Mario Pineida,1006,113,0,Fluminense
+192725,20,Posse de bola,Martinelli,1006,80,0,Fluminense
+192725,20,Posse de bola,Matheus Martins,1006,26,0,Fluminense
+192725,20,Posse de bola,Nino,1006,183,0,Fluminense
+192725,20,Posse de bola,Nonato,1006,40,0,Fluminense
+192725,20,Posse de bola,Willian,1006,52,0,Fluminense
+192725,20,Posse de bola,Yago Felipe,1006,45,0,Fluminense
+192725,20,Posse de bola,Barreto,1003,73,0,Botafogo
+192725,20,Posse de bola,Breno,1003,8,0,Botafogo
+192725,20,Posse de bola,Chay,1003,96,0,Botafogo
+192725,20,Posse de bola,Daniel Borges,1003,123,0,Botafogo
+192725,20,Posse de bola,Diego Loureiro,1003,63,0,Botafogo
+192725,20,Posse de bola,Erison,1003,17,0,Botafogo
+192725,20,Posse de bola,Fabinho,1003,16,0,Botafogo
+192725,20,Posse de bola,Hugo Neto,1003,14,0,Botafogo
+192725,20,Posse de bola,Jonathan Silva,1003,84,0,Botafogo
+192725,20,Posse de bola,Kanu,1003,95,0,Botafogo
+192725,20,Posse de bola,Kayque,1003,70,0,Botafogo
+192725,20,Posse de bola,Luiz Fernando,1003,62,0,Botafogo
+192725,20,Posse de bola,Matheus Nascimento,1003,34,0,Botafogo
+192725,20,Posse de bola,Philipe Sampaio,1003,110,0,Botafogo
+192725,20,Posse de bola,Rikelmi,1003,78,0,Botafogo
+192725,20,Posse de bola,Vinícius Lopes,1003,10,0,Botafogo
+192725,20,Posse de bola,André Trindade,1006,134,0,Fluminense
+192725,20,Posse de bola,Calegari,1006,114,0,Fluminense
+192725,20,Posse de bola,Cano,1006,58,0,Fluminense
+192725,20,Posse de bola,Cristiano,1006,4,0,Fluminense
+192725,20,Posse de bola,David Braz,1006,117,0,Fluminense
+192725,20,Posse de bola,Ganso,1006,60,0,Fluminense
+192725,20,Posse de bola,Jhon Arias,1006,110,0,Fluminense
+192725,20,Posse de bola,Manoel,1006,150,0,Fluminense
+192725,20,Posse de bola,Marcos Felipe,1006,63,0,Fluminense
+192725,20,Posse de bola,Mario Pineida,1006,113,0,Fluminense
+192725,20,Posse de bola,Martinelli,1006,80,0,Fluminense
+192725,20,Posse de bola,Matheus Martins,1006,26,0,Fluminense
+192725,20,Posse de bola,Nino,1006,183,0,Fluminense
+192725,20,Posse de bola,Nonato,1006,40,0,Fluminense
+192725,20,Posse de bola,Willian,1006,52,0,Fluminense
+192725,20,Posse de bola,Yago Felipe,1006,45,0,Fluminense
+192725,8,Gols,Jhon Arias,1006,1,0,Fluminense
+192725,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+192725,28,Assistências para finalização,Daniel Borges,1003,2,0,Botafogo
+192725,28,Assistências para finalização,Kayque,1003,1,0,Botafogo
+192725,28,Assistências para finalização,Luiz Fernando,1003,1,0,Botafogo
+192725,28,Assistências para finalização,Calegari,1006,1,0,Fluminense
+192725,28,Assistências para finalização,Ganso,1006,2,0,Fluminense
+192725,28,Assistências para finalização,Yago Felipe,1006,1,0,Fluminense
+192725,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+192725,28,Assistências para finalização,Daniel Borges,1003,2,0,Botafogo
+192725,28,Assistências para finalização,Kayque,1003,1,0,Botafogo
+192725,28,Assistências para finalização,Luiz Fernando,1003,1,0,Botafogo
+192725,28,Assistências para finalização,Calegari,1006,1,0,Fluminense
+192725,28,Assistências para finalização,Ganso,1006,2,0,Fluminense
+192725,28,Assistências para finalização,Yago Felipe,1006,1,0,Fluminense
+192725,27,Assistências,Yago Felipe,1006,1,0,Fluminense
+192725,15,Defesas,Daniel Borges,1003,1,0,Botafogo
+192725,15,Defesas,Diego Loureiro,1003,2,0,Botafogo
+192725,15,Defesas,Kanu,1003,2,0,Botafogo
+192725,15,Defesas,David Braz,1006,1,0,Fluminense
+192725,15,Defesas,Marcos Felipe,1006,1,0,Fluminense
+192725,23,Defesas difíceis,Diego Loureiro,1003,1,0,Botafogo
+192725,23,Defesas difíceis,Marcos Felipe,1006,2,0,Fluminense
+192725,19,Rebatidas,Breno,1003,1,0,Botafogo
+192725,19,Rebatidas,Chay,1003,2,0,Botafogo
+192725,19,Rebatidas,Daniel Borges,1003,2,0,Botafogo
+192725,19,Rebatidas,Kanu,1003,3,0,Botafogo
+192725,19,Rebatidas,Kayque,1003,2,0,Botafogo
+192725,19,Rebatidas,Luiz Fernando,1003,2,0,Botafogo
+192725,19,Rebatidas,Philipe Sampaio,1003,6,0,Botafogo
+192725,19,Rebatidas,Rikelmi,1003,2,0,Botafogo
+192725,19,Rebatidas,André Trindade,1006,1,0,Fluminense
+192725,19,Rebatidas,David Braz,1006,3,0,Fluminense
+192725,19,Rebatidas,Manoel,1006,6,0,Fluminense
+192725,19,Rebatidas,Marcos Felipe,1006,2,0,Fluminense
+192725,19,Rebatidas,Mario Pineida,1006,3,0,Fluminense
+192725,19,Rebatidas,Martinelli,1006,1,0,Fluminense
+192725,19,Rebatidas,Nino,1006,5,0,Fluminense
+192725,19,Rebatidas,Nonato,1006,1,0,Fluminense
+192725,6,Faltas cometidas,Barreto,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Breno,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Chay,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Erison,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Fabinho,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Hugo Neto,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Jonathan Silva,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Kanu,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Kayque,1003,1,0,Botafogo
+192725,6,Faltas cometidas,Luiz Fernando,1003,2,0,Botafogo
+192725,6,Faltas cometidas,Matheus Nascimento,1003,2,0,Botafogo
+192725,6,Faltas cometidas,Philipe Sampaio,1003,5,0,Botafogo
+192725,6,Faltas cometidas,André Trindade,1006,3,0,Fluminense
+192725,6,Faltas cometidas,Calegari,1006,2,0,Fluminense
+192725,6,Faltas cometidas,Cano,1006,2,0,Fluminense
+192725,6,Faltas cometidas,Jhon Arias,1006,4,0,Fluminense
+192725,6,Faltas cometidas,Manoel,1006,2,0,Fluminense
+192725,6,Faltas cometidas,Mario Pineida,1006,2,0,Fluminense
+192725,6,Faltas cometidas,Nino,1006,1,0,Fluminense
+192725,6,Faltas cometidas,Nonato,1006,1,0,Fluminense
+192725,6,Faltas cometidas,Willian,1006,1,0,Fluminense
+192725,6,Faltas cometidas,Yago Felipe,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Barreto,1003,1,0,Botafogo
+192725,7,Faltas sofridas,Chay,1003,5,0,Botafogo
+192725,7,Faltas sofridas,Daniel Borges,1003,1,0,Botafogo
+192725,7,Faltas sofridas,Erison,1003,1,0,Botafogo
+192725,7,Faltas sofridas,Jonathan Silva,1003,3,0,Botafogo
+192725,7,Faltas sofridas,Kayque,1003,1,0,Botafogo
+192725,7,Faltas sofridas,Luiz Fernando,1003,3,0,Botafogo
+192725,7,Faltas sofridas,Matheus Nascimento,1003,1,0,Botafogo
+192725,7,Faltas sofridas,Rikelmi,1003,2,0,Botafogo
+192725,7,Faltas sofridas,Vinícius Lopes,1003,1,0,Botafogo
+192725,7,Faltas sofridas,André Trindade,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Calegari,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Cano,1006,2,0,Fluminense
+192725,7,Faltas sofridas,David Braz,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Ganso,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Jhon Arias,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Manoel,1006,3,0,Fluminense
+192725,7,Faltas sofridas,Martinelli,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Matheus Martins,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Nino,1006,2,0,Fluminense
+192725,7,Faltas sofridas,Nonato,1006,1,0,Fluminense
+192725,7,Faltas sofridas,Willian,1006,2,0,Fluminense
+192725,9,Impedimentos,Kanu,1003,1,0,Botafogo
+192725,9,Impedimentos,Philipe Sampaio,1003,1,0,Botafogo
+192725,9,Impedimentos,David Braz,1006,1,0,Fluminense
+192725,12,Perda da posse de bola,Barreto,1003,1,0,Botafogo
+192725,12,Perda da posse de bola,Breno,1003,1,0,Botafogo
+192725,12,Perda da posse de bola,Chay,1003,6,0,Botafogo
+192725,12,Perda da posse de bola,Daniel Borges,1003,3,0,Botafogo
+192725,12,Perda da posse de bola,Hugo Neto,1003,1,0,Botafogo
+192725,12,Perda da posse de bola,Kanu,1003,2,0,Botafogo
+192725,12,Perda da posse de bola,Kayque,1003,2,0,Botafogo
+192725,12,Perda da posse de bola,Luiz Fernando,1003,4,0,Botafogo
+192725,12,Perda da posse de bola,Matheus Nascimento,1003,1,0,Botafogo
+192725,12,Perda da posse de bola,Rikelmi,1003,3,0,Botafogo
+192725,12,Perda da posse de bola,Vinícius Lopes,1003,2,0,Botafogo
+192725,12,Perda da posse de bola,André Trindade,1006,3,0,Fluminense
+192725,12,Perda da posse de bola,Calegari,1006,2,0,Fluminense
+192725,12,Perda da posse de bola,Cano,1006,5,0,Fluminense
+192725,12,Perda da posse de bola,David Braz,1006,1,0,Fluminense
+192725,12,Perda da posse de bola,Ganso,1006,2,0,Fluminense
+192725,12,Perda da posse de bola,Jhon Arias,1006,3,0,Fluminense
+192725,12,Perda da posse de bola,Mario Pineida,1006,2,0,Fluminense
+192725,12,Perda da posse de bola,Martinelli,1006,1,0,Fluminense
+192725,12,Perda da posse de bola,Matheus Martins,1006,5,0,Fluminense
+192725,12,Perda da posse de bola,Nino,1006,3,0,Fluminense
+192725,12,Perda da posse de bola,Nonato,1006,2,0,Fluminense
+192725,12,Perda da posse de bola,Willian,1006,4,0,Fluminense
+192725,25,Cartões amarelos,Barreto,1003,1,0,Botafogo
+192725,25,Cartões amarelos,Kanu,1003,1,0,Botafogo
+192725,25,Cartões amarelos,Kayque,1003,1,0,Botafogo
+192725,25,Cartões amarelos,André Trindade,1006,1,0,Fluminense
+192726,2,Passes,Anderson Conceição,1015,32,2,Vasco
+192726,2,Passes,Bruno Nazário,1015,4,2,Vasco
+192726,2,Passes,Edimar,1015,24,1,Vasco
+192726,2,Passes,Gabriel Pec,1015,7,1,Vasco
+192726,2,Passes,Juninho,1015,13,4,Vasco
+192726,2,Passes,Léo Matos,1015,35,4,Vasco
+192726,2,Passes,Lucas Figueiredo,1015,7,3,Vasco
+192726,2,Passes,Luiz Henrique,1015,6,1,Vasco
+192726,2,Passes,Nenê,1015,12,4,Vasco
+192726,2,Passes,Quintero,1015,38,2,Vasco
+192726,2,Passes,Raniel,1015,7,4,Vasco
+192726,2,Passes,Thiago Rodrigues,1015,16,2,Vasco
+192726,2,Passes,Vitinho,1015,6,0,Vasco
+192726,2,Passes,Weverton Silva,1015,5,3,Vasco
+192726,2,Passes,Yuri Lara,1015,6,0,Vasco
+192726,2,Passes,Zé Gabriel,1015,17,1,Vasco
+192726,2,Passes,Andreas Pereira,1005,37,4,Flamengo
+192726,2,Passes,Arrascaeta,1005,33,5,Flamengo
+192726,2,Passes,Bruno Henrique,1005,10,1,Flamengo
+192726,2,Passes,David Luiz,1005,44,0,Flamengo
+192726,2,Passes,Everton Ribeiro,1005,28,6,Flamengo
+192726,2,Passes,Fabrício Bruno,1005,37,2,Flamengo
+192726,2,Passes,Filipe Luís,1005,79,2,Flamengo
+192726,2,Passes,Gabriel,1005,19,4,Flamengo
+192726,2,Passes,Gomes,1005,15,0,Flamengo
+192726,2,Passes,Hugo Souza,1005,14,0,Flamengo
+192726,2,Passes,Lázaro,1005,12,1,Flamengo
+192726,2,Passes,Marinho,1005,5,1,Flamengo
+192726,2,Passes,Matheuzinho,1005,30,2,Flamengo
+192726,2,Passes,Pedro,1005,1,0,Flamengo
+192726,2,Passes,Rodinei,1005,11,0,Flamengo
+192726,2,Passes,Willian Arão,1005,41,4,Flamengo
+192726,3,Finalizações,Anderson Conceição,1015,0,1,Vasco
+192726,3,Finalizações,Bruno Nazário,1015,1,0,Vasco
+192726,3,Finalizações,Lucas Figueiredo,1015,2,1,Vasco
+192726,3,Finalizações,Nenê,1015,1,0,Vasco
+192726,3,Finalizações,Raniel,1015,1,2,Vasco
+192726,3,Finalizações,Arrascaeta,1005,1,1,Flamengo
+192726,3,Finalizações,Everton Ribeiro,1005,0,1,Flamengo
+192726,3,Finalizações,Gabriel,1005,2,1,Flamengo
+192726,3,Finalizações,Gomes,1005,0,1,Flamengo
+192726,3,Finalizações,Lázaro,1005,0,1,Flamengo
+192726,3,Finalizações,Marinho,1005,0,1,Flamengo
+192726,3,Finalizações,Matheuzinho,1005,0,1,Flamengo
+192726,5,Desarmes,Edimar,1015,1,0,Vasco
+192726,5,Desarmes,Juninho,1015,1,1,Vasco
+192726,5,Desarmes,Léo Matos,1015,1,0,Vasco
+192726,5,Desarmes,Lucas Figueiredo,1015,1,0,Vasco
+192726,5,Desarmes,Quintero,1015,2,0,Vasco
+192726,5,Desarmes,Raniel,1015,2,1,Vasco
+192726,5,Desarmes,Yuri Lara,1015,1,0,Vasco
+192726,5,Desarmes,Zé Gabriel,1015,3,0,Vasco
+192726,5,Desarmes,Andreas Pereira,1005,1,0,Flamengo
+192726,5,Desarmes,Arrascaeta,1005,1,0,Flamengo
+192726,5,Desarmes,David Luiz,1005,1,0,Flamengo
+192726,5,Desarmes,Everton Ribeiro,1005,1,0,Flamengo
+192726,5,Desarmes,Fabrício Bruno,1005,1,0,Flamengo
+192726,5,Desarmes,Filipe Luís,1005,3,3,Flamengo
+192726,5,Desarmes,Gomes,1005,1,0,Flamengo
+192726,5,Desarmes,Lázaro,1005,1,0,Flamengo
+192726,5,Desarmes,Matheuzinho,1005,1,1,Flamengo
+192726,5,Desarmes,Rodinei,1005,2,0,Flamengo
+192726,5,Desarmes,Willian Arão,1005,1,0,Flamengo
+192726,14,Cruzamentos,Bruno Nazário,1015,0,2,Vasco
+192726,14,Cruzamentos,Gabriel Pec,1015,1,1,Vasco
+192726,14,Cruzamentos,Léo Matos,1015,1,0,Vasco
+192726,14,Cruzamentos,Nenê,1015,1,2,Vasco
+192726,14,Cruzamentos,Yuri Lara,1015,1,0,Vasco
+192726,14,Cruzamentos,Andreas Pereira,1005,0,1,Flamengo
+192726,14,Cruzamentos,Arrascaeta,1005,0,11,Flamengo
+192726,14,Cruzamentos,Bruno Henrique,1005,0,1,Flamengo
+192726,14,Cruzamentos,Everton Ribeiro,1005,0,3,Flamengo
+192726,14,Cruzamentos,Fabrício Bruno,1005,0,1,Flamengo
+192726,14,Cruzamentos,Filipe Luís,1005,0,1,Flamengo
+192726,14,Cruzamentos,Gabriel,1005,0,4,Flamengo
+192726,14,Cruzamentos,Lázaro,1005,0,1,Flamengo
+192726,14,Cruzamentos,Marinho,1005,0,2,Flamengo
+192726,14,Cruzamentos,Matheuzinho,1005,0,2,Flamengo
+192726,14,Cruzamentos,Rodinei,1005,0,2,Flamengo
+192726,14,Cruzamentos,Willian Arão,1005,0,1,Flamengo
+192726,1,Lançamentos,Anderson Conceição,1015,2,1,Vasco
+192726,1,Lançamentos,Léo Matos,1015,1,3,Vasco
+192726,1,Lançamentos,Nenê,1015,0,3,Vasco
+192726,1,Lançamentos,Quintero,1015,0,1,Vasco
+192726,1,Lançamentos,Thiago Rodrigues,1015,6,7,Vasco
+192726,1,Lançamentos,Zé Gabriel,1015,0,1,Vasco
+192726,1,Lançamentos,Andreas Pereira,1005,1,0,Flamengo
+192726,1,Lançamentos,Arrascaeta,1005,1,1,Flamengo
+192726,1,Lançamentos,David Luiz,1005,3,6,Flamengo
+192726,1,Lançamentos,Fabrício Bruno,1005,1,2,Flamengo
+192726,1,Lançamentos,Hugo Souza,1005,2,11,Flamengo
+192726,24,Interceptações,Anderson Conceição,1015,2,0,Vasco
+192726,24,Interceptações,Léo Matos,1015,2,1,Vasco
+192726,24,Interceptações,Lucas Figueiredo,1015,0,1,Vasco
+192726,24,Interceptações,Quintero,1015,0,1,Vasco
+192726,24,Interceptações,Andreas Pereira,1005,1,0,Flamengo
+192726,4,Dribles,Gabriel Pec,1015,0,2,Vasco
+192726,4,Dribles,Léo Matos,1015,1,0,Vasco
+192726,4,Dribles,Lucas Figueiredo,1015,0,1,Vasco
+192726,4,Dribles,Nenê,1015,1,0,Vasco
+192726,4,Dribles,Raniel,1015,0,1,Vasco
+192726,4,Dribles,Zé Gabriel,1015,1,2,Vasco
+192726,4,Dribles,Andreas Pereira,1005,1,0,Flamengo
+192726,4,Dribles,David Luiz,1005,1,0,Flamengo
+192726,4,Dribles,Marinho,1005,1,0,Flamengo
+192726,22,Viradas de jogo,Anderson Conceição,1015,0,1,Vasco
+192726,22,Viradas de jogo,Nenê,1015,0,1,Vasco
+192726,22,Viradas de jogo,Andreas Pereira,1005,1,0,Flamengo
+192726,22,Viradas de jogo,Filipe Luís,1005,1,0,Flamengo
+192726,20,Posse de bola,Anderson Conceição,1015,116,0,Vasco
+192726,20,Posse de bola,Bruno Nazário,1015,20,0,Vasco
+192726,20,Posse de bola,Edimar,1015,64,0,Vasco
+192726,20,Posse de bola,Gabriel Pec,1015,55,0,Vasco
+192726,20,Posse de bola,Juninho,1015,82,0,Vasco
+192726,20,Posse de bola,Léo Matos,1015,148,0,Vasco
+192726,20,Posse de bola,Lucas Figueiredo,1015,50,0,Vasco
+192726,20,Posse de bola,Luiz Henrique,1015,19,0,Vasco
+192726,20,Posse de bola,Nenê,1015,67,0,Vasco
+192726,20,Posse de bola,Quintero,1015,138,0,Vasco
+192726,20,Posse de bola,Raniel,1015,61,0,Vasco
+192726,20,Posse de bola,Thiago Rodrigues,1015,121,0,Vasco
+192726,20,Posse de bola,Vitinho,1015,18,0,Vasco
+192726,20,Posse de bola,Weverton Silva,1015,30,0,Vasco
+192726,20,Posse de bola,Yuri Lara,1015,27,0,Vasco
+192726,20,Posse de bola,Zé Gabriel,1015,77,0,Vasco
+192726,20,Posse de bola,Andreas Pereira,1005,124,0,Flamengo
+192726,20,Posse de bola,Arrascaeta,1005,139,0,Flamengo
+192726,20,Posse de bola,Bruno Henrique,1005,49,0,Flamengo
+192726,20,Posse de bola,David Luiz,1005,168,0,Flamengo
+192726,20,Posse de bola,Everton Ribeiro,1005,111,0,Flamengo
+192726,20,Posse de bola,Fabrício Bruno,1005,136,0,Flamengo
+192726,20,Posse de bola,Filipe Luís,1005,246,0,Flamengo
+192726,20,Posse de bola,Gabriel,1005,80,0,Flamengo
+192726,20,Posse de bola,Gomes,1005,48,0,Flamengo
+192726,20,Posse de bola,Hugo Souza,1005,117,0,Flamengo
+192726,20,Posse de bola,Lázaro,1005,57,0,Flamengo
+192726,20,Posse de bola,Marinho,1005,29,0,Flamengo
+192726,20,Posse de bola,Matheuzinho,1005,88,0,Flamengo
+192726,20,Posse de bola,Pedro,1005,4,0,Flamengo
+192726,20,Posse de bola,Rodinei,1005,45,0,Flamengo
+192726,20,Posse de bola,Willian Arão,1005,111,0,Flamengo
+192726,20,Posse de bola,Anderson Conceição,1015,116,0,Vasco
+192726,20,Posse de bola,Bruno Nazário,1015,20,0,Vasco
+192726,20,Posse de bola,Edimar,1015,64,0,Vasco
+192726,20,Posse de bola,Gabriel Pec,1015,55,0,Vasco
+192726,20,Posse de bola,Juninho,1015,82,0,Vasco
+192726,20,Posse de bola,Léo Matos,1015,148,0,Vasco
+192726,20,Posse de bola,Lucas Figueiredo,1015,50,0,Vasco
+192726,20,Posse de bola,Luiz Henrique,1015,19,0,Vasco
+192726,20,Posse de bola,Nenê,1015,67,0,Vasco
+192726,20,Posse de bola,Quintero,1015,138,0,Vasco
+192726,20,Posse de bola,Raniel,1015,61,0,Vasco
+192726,20,Posse de bola,Thiago Rodrigues,1015,121,0,Vasco
+192726,20,Posse de bola,Vitinho,1015,18,0,Vasco
+192726,20,Posse de bola,Weverton Silva,1015,30,0,Vasco
+192726,20,Posse de bola,Yuri Lara,1015,27,0,Vasco
+192726,20,Posse de bola,Zé Gabriel,1015,77,0,Vasco
+192726,20,Posse de bola,Andreas Pereira,1005,124,0,Flamengo
+192726,20,Posse de bola,Arrascaeta,1005,139,0,Flamengo
+192726,20,Posse de bola,Bruno Henrique,1005,49,0,Flamengo
+192726,20,Posse de bola,David Luiz,1005,168,0,Flamengo
+192726,20,Posse de bola,Everton Ribeiro,1005,111,0,Flamengo
+192726,20,Posse de bola,Fabrício Bruno,1005,136,0,Flamengo
+192726,20,Posse de bola,Filipe Luís,1005,246,0,Flamengo
+192726,20,Posse de bola,Gabriel,1005,80,0,Flamengo
+192726,20,Posse de bola,Gomes,1005,48,0,Flamengo
+192726,20,Posse de bola,Hugo Souza,1005,117,0,Flamengo
+192726,20,Posse de bola,Lázaro,1005,57,0,Flamengo
+192726,20,Posse de bola,Marinho,1005,29,0,Flamengo
+192726,20,Posse de bola,Matheuzinho,1005,88,0,Flamengo
+192726,20,Posse de bola,Pedro,1005,4,0,Flamengo
+192726,20,Posse de bola,Rodinei,1005,45,0,Flamengo
+192726,20,Posse de bola,Willian Arão,1005,111,0,Flamengo
+192726,8,Gols,Gabriel,1005,1,0,Flamengo
+192726,28,Assistências para finalização,Edimar,1015,1,0,Vasco
+192726,28,Assistências para finalização,Gabriel Pec,1015,1,0,Vasco
+192726,28,Assistências para finalização,Léo Matos,1015,1,0,Vasco
+192726,28,Assistências para finalização,Lucas Figueiredo,1015,1,0,Vasco
+192726,28,Assistências para finalização,Raniel,1015,1,0,Vasco
+192726,28,Assistências para finalização,Yuri Lara,1015,1,0,Vasco
+192726,28,Assistências para finalização,Arrascaeta,1005,1,0,Flamengo
+192726,28,Assistências para finalização,Bruno Henrique,1005,1,0,Flamengo
+192726,28,Assistências para finalização,Everton Ribeiro,1005,1,0,Flamengo
+192726,28,Assistências para finalização,Lázaro,1005,2,0,Flamengo
+192726,15,Defesas,Anderson Conceição,1015,1,0,Vasco
+192726,15,Defesas,Quintero,1015,1,0,Vasco
+192726,15,Defesas,Thiago Rodrigues,1015,1,0,Vasco
+192726,15,Defesas,Yuri Lara,1015,1,0,Vasco
+192726,15,Defesas,Hugo Souza,1005,4,0,Flamengo
+192726,23,Defesas difíceis,Thiago Rodrigues,1015,1,0,Vasco
+192726,23,Defesas difíceis,Hugo Souza,1005,1,0,Flamengo
+192726,19,Rebatidas,Anderson Conceição,1015,10,0,Vasco
+192726,19,Rebatidas,Edimar,1015,3,0,Vasco
+192726,19,Rebatidas,Juninho,1015,1,0,Vasco
+192726,19,Rebatidas,Léo Matos,1015,7,0,Vasco
+192726,19,Rebatidas,Lucas Figueiredo,1015,2,0,Vasco
+192726,19,Rebatidas,Quintero,1015,4,0,Vasco
+192726,19,Rebatidas,Raniel,1015,1,0,Vasco
+192726,19,Rebatidas,Thiago Rodrigues,1015,2,0,Vasco
+192726,19,Rebatidas,Weverton Silva,1015,2,0,Vasco
+192726,19,Rebatidas,Yuri Lara,1015,1,0,Vasco
+192726,19,Rebatidas,Zé Gabriel,1015,2,0,Vasco
+192726,19,Rebatidas,David Luiz,1005,4,0,Flamengo
+192726,19,Rebatidas,Fabrício Bruno,1005,6,0,Flamengo
+192726,19,Rebatidas,Filipe Luís,1005,5,0,Flamengo
+192726,19,Rebatidas,Hugo Souza,1005,1,0,Flamengo
+192726,19,Rebatidas,Matheuzinho,1005,3,0,Flamengo
+192726,19,Rebatidas,Rodinei,1005,3,0,Flamengo
+192726,19,Rebatidas,Willian Arão,1005,1,0,Flamengo
+192726,6,Faltas cometidas,Edimar,1015,2,0,Vasco
+192726,6,Faltas cometidas,Gabriel Pec,1015,1,0,Vasco
+192726,6,Faltas cometidas,Juninho,1015,3,0,Vasco
+192726,6,Faltas cometidas,Léo Matos,1015,4,0,Vasco
+192726,6,Faltas cometidas,Lucas Figueiredo,1015,2,0,Vasco
+192726,6,Faltas cometidas,Luiz Henrique,1015,1,0,Vasco
+192726,6,Faltas cometidas,Raniel,1015,2,0,Vasco
+192726,6,Faltas cometidas,Weverton Silva,1015,2,0,Vasco
+192726,6,Faltas cometidas,Zé Gabriel,1015,2,0,Vasco
+192726,6,Faltas cometidas,Andreas Pereira,1005,2,0,Flamengo
+192726,6,Faltas cometidas,Arrascaeta,1005,1,0,Flamengo
+192726,6,Faltas cometidas,David Luiz,1005,1,0,Flamengo
+192726,6,Faltas cometidas,Everton Ribeiro,1005,1,0,Flamengo
+192726,6,Faltas cometidas,Filipe Luís,1005,3,0,Flamengo
+192726,6,Faltas cometidas,Gomes,1005,2,0,Flamengo
+192726,6,Faltas cometidas,Lázaro,1005,2,0,Flamengo
+192726,6,Faltas cometidas,Matheuzinho,1005,2,0,Flamengo
+192726,6,Faltas cometidas,Willian Arão,1005,2,0,Flamengo
+192726,7,Faltas sofridas,Gabriel Pec,1015,4,0,Vasco
+192726,7,Faltas sofridas,Juninho,1015,1,0,Vasco
+192726,7,Faltas sofridas,Léo Matos,1015,2,0,Vasco
+192726,7,Faltas sofridas,Lucas Figueiredo,1015,1,0,Vasco
+192726,7,Faltas sofridas,Nenê,1015,1,0,Vasco
+192726,7,Faltas sofridas,Raniel,1015,2,0,Vasco
+192726,7,Faltas sofridas,Weverton Silva,1015,1,0,Vasco
+192726,7,Faltas sofridas,Yuri Lara,1015,2,0,Vasco
+192726,7,Faltas sofridas,Zé Gabriel,1015,2,0,Vasco
+192726,7,Faltas sofridas,Andreas Pereira,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Arrascaeta,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Bruno Henrique,1005,1,0,Flamengo
+192726,7,Faltas sofridas,David Luiz,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Everton Ribeiro,1005,2,0,Flamengo
+192726,7,Faltas sofridas,Fabrício Bruno,1005,2,0,Flamengo
+192726,7,Faltas sofridas,Filipe Luís,1005,2,0,Flamengo
+192726,7,Faltas sofridas,Gabriel,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Gomes,1005,2,0,Flamengo
+192726,7,Faltas sofridas,Lázaro,1005,3,0,Flamengo
+192726,7,Faltas sofridas,Marinho,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Rodinei,1005,1,0,Flamengo
+192726,7,Faltas sofridas,Willian Arão,1005,1,0,Flamengo
+192726,9,Impedimentos,Gabriel Pec,1015,1,0,Vasco
+192726,9,Impedimentos,Raniel,1015,1,0,Vasco
+192726,9,Impedimentos,Vitinho,1015,1,0,Vasco
+192726,9,Impedimentos,Bruno Henrique,1005,2,0,Flamengo
+192726,9,Impedimentos,Pedro,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Bruno Nazário,1015,1,0,Vasco
+192726,12,Perda da posse de bola,Edimar,1015,1,0,Vasco
+192726,12,Perda da posse de bola,Gabriel Pec,1015,3,0,Vasco
+192726,12,Perda da posse de bola,Juninho,1015,5,0,Vasco
+192726,12,Perda da posse de bola,Lucas Figueiredo,1015,1,0,Vasco
+192726,12,Perda da posse de bola,Nenê,1015,4,0,Vasco
+192726,12,Perda da posse de bola,Raniel,1015,4,0,Vasco
+192726,12,Perda da posse de bola,Vitinho,1015,2,0,Vasco
+192726,12,Perda da posse de bola,Weverton Silva,1015,2,0,Vasco
+192726,12,Perda da posse de bola,Zé Gabriel,1015,2,0,Vasco
+192726,12,Perda da posse de bola,Andreas Pereira,1005,3,0,Flamengo
+192726,12,Perda da posse de bola,Arrascaeta,1005,6,0,Flamengo
+192726,12,Perda da posse de bola,Bruno Henrique,1005,4,0,Flamengo
+192726,12,Perda da posse de bola,Everton Ribeiro,1005,3,0,Flamengo
+192726,12,Perda da posse de bola,Fabrício Bruno,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Gabriel,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Marinho,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Matheuzinho,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Rodinei,1005,1,0,Flamengo
+192726,12,Perda da posse de bola,Willian Arão,1005,1,0,Flamengo
+192726,25,Cartões amarelos,Juninho,1015,1,0,Vasco
+192726,25,Cartões amarelos,Léo Matos,1015,1,0,Vasco
+192726,25,Cartões amarelos,Lucas Figueiredo,1015,1,0,Vasco
+192726,25,Cartões amarelos,Andreas Pereira,1005,1,0,Flamengo
+192726,25,Cartões amarelos,Matheuzinho,1005,1,0,Flamengo
+192727,2,Passes,André Trindade,1006,52,4,Fluminense
+192727,2,Passes,Calegari,1006,30,6,Fluminense
+192727,2,Passes,Cano,1006,14,3,Fluminense
+192727,2,Passes,Cristiano,1006,11,0,Fluminense
+192727,2,Passes,David Braz,1006,44,4,Fluminense
+192727,2,Passes,Fred,1006,2,0,Fluminense
+192727,2,Passes,Ganso,1006,26,5,Fluminense
+192727,2,Passes,Jhon Arias,1006,11,3,Fluminense
+192727,2,Passes,Luccas Claro,1006,32,0,Fluminense
+192727,2,Passes,Manoel,1006,20,1,Fluminense
+192727,2,Passes,Marcos Felipe,1006,11,1,Fluminense
+192727,2,Passes,Mario Pineida,1006,21,3,Fluminense
+192727,2,Passes,Martinelli,1006,22,2,Fluminense
+192727,2,Passes,Nonato,1006,18,4,Fluminense
+192727,2,Passes,Willian,1006,19,3,Fluminense
+192727,2,Passes,Yago Felipe,1006,13,1,Fluminense
+192727,2,Passes,Barreto,1003,8,3,Botafogo
+192727,2,Passes,Chay,1003,28,3,Botafogo
+192727,2,Passes,Daniel Borges,1003,33,8,Botafogo
+192727,2,Passes,Douglas Borges,1003,9,0,Botafogo
+192727,2,Passes,Erison,1003,7,7,Botafogo
+192727,2,Passes,Gabriel Conceição ,1003,7,0,Botafogo
+192727,2,Passes,Hugo Neto,1003,3,0,Botafogo
+192727,2,Passes,Jonathan Silva,1003,18,3,Botafogo
+192727,2,Passes,Juninho Tosta,1003,6,0,Botafogo
+192727,2,Passes,Kanu,1003,28,2,Botafogo
+192727,2,Passes,Kayque,1003,22,4,Botafogo
+192727,2,Passes,Luiz Fernando,1003,11,2,Botafogo
+192727,2,Passes,Philipe Sampaio,1003,29,0,Botafogo
+192727,2,Passes,Rikelmi,1003,7,1,Botafogo
+192727,2,Passes,Romildo,1003,22,2,Botafogo
+192727,2,Passes,Vinícius Lopes,1003,8,1,Botafogo
+192727,3,Finalizações,André Trindade,1006,0,1,Fluminense
+192727,3,Finalizações,Cano,1006,2,2,Fluminense
+192727,3,Finalizações,Cristiano,1006,0,1,Fluminense
+192727,3,Finalizações,Ganso,1006,1,1,Fluminense
+192727,3,Finalizações,Jhon Arias,1006,0,1,Fluminense
+192727,3,Finalizações,Luccas Claro,1006,0,1,Fluminense
+192727,3,Finalizações,Willian,1006,0,3,Fluminense
+192727,3,Finalizações,Yago Felipe,1006,0,1,Fluminense
+192727,3,Finalizações,Chay,1003,0,3,Botafogo
+192727,3,Finalizações,Daniel Borges,1003,0,1,Botafogo
+192727,3,Finalizações,Erison,1003,2,4,Botafogo
+192727,3,Finalizações,Kayque,1003,1,0,Botafogo
+192727,3,Finalizações,Romildo,1003,0,1,Botafogo
+192727,5,Desarmes,André Trindade,1006,1,1,Fluminense
+192727,5,Desarmes,Calegari,1006,4,0,Fluminense
+192727,5,Desarmes,David Braz,1006,3,0,Fluminense
+192727,5,Desarmes,Ganso,1006,1,0,Fluminense
+192727,5,Desarmes,Luccas Claro,1006,2,0,Fluminense
+192727,5,Desarmes,Manoel,1006,1,0,Fluminense
+192727,5,Desarmes,Martinelli,1006,1,0,Fluminense
+192727,5,Desarmes,Nonato,1006,1,1,Fluminense
+192727,5,Desarmes,Yago Felipe,1006,1,0,Fluminense
+192727,5,Desarmes,Barreto,1003,1,0,Botafogo
+192727,5,Desarmes,Kanu,1003,1,2,Botafogo
+192727,5,Desarmes,Kayque,1003,1,0,Botafogo
+192727,5,Desarmes,Luiz Fernando,1003,1,0,Botafogo
+192727,5,Desarmes,Romildo,1003,1,0,Botafogo
+192727,5,Desarmes,Vinícius Lopes,1003,2,0,Botafogo
+192727,14,Cruzamentos,Calegari,1006,0,5,Fluminense
+192727,14,Cruzamentos,Cano,1006,0,1,Fluminense
+192727,14,Cruzamentos,Cristiano,1006,0,3,Fluminense
+192727,14,Cruzamentos,Jhon Arias,1006,1,0,Fluminense
+192727,14,Cruzamentos,Mario Pineida,1006,1,1,Fluminense
+192727,14,Cruzamentos,Martinelli,1006,0,1,Fluminense
+192727,14,Cruzamentos,Nonato,1006,2,0,Fluminense
+192727,14,Cruzamentos,Chay,1003,2,6,Botafogo
+192727,14,Cruzamentos,Daniel Borges,1003,1,3,Botafogo
+192727,14,Cruzamentos,Jonathan Silva,1003,1,0,Botafogo
+192727,14,Cruzamentos,Juninho Tosta,1003,1,0,Botafogo
+192727,14,Cruzamentos,Luiz Fernando,1003,0,1,Botafogo
+192727,14,Cruzamentos,Vinícius Lopes,1003,0,1,Botafogo
+192727,1,Lançamentos,André Trindade,1006,3,0,Fluminense
+192727,1,Lançamentos,Calegari,1006,0,1,Fluminense
+192727,1,Lançamentos,Cano,1006,0,1,Fluminense
+192727,1,Lançamentos,Cristiano,1006,0,3,Fluminense
+192727,1,Lançamentos,David Braz,1006,4,3,Fluminense
+192727,1,Lançamentos,Luccas Claro,1006,3,5,Fluminense
+192727,1,Lançamentos,Manoel,1006,5,0,Fluminense
+192727,1,Lançamentos,Marcos Felipe,1006,5,9,Fluminense
+192727,1,Lançamentos,Mario Pineida,1006,0,1,Fluminense
+192727,1,Lançamentos,Martinelli,1006,0,1,Fluminense
+192727,1,Lançamentos,Nonato,1006,1,0,Fluminense
+192727,1,Lançamentos,Willian,1006,1,0,Fluminense
+192727,1,Lançamentos,Yago Felipe,1006,3,0,Fluminense
+192727,1,Lançamentos,Barreto,1003,0,1,Botafogo
+192727,1,Lançamentos,Chay,1003,0,2,Botafogo
+192727,1,Lançamentos,Daniel Borges,1003,0,3,Botafogo
+192727,1,Lançamentos,Douglas Borges,1003,1,12,Botafogo
+192727,1,Lançamentos,Kayque,1003,1,0,Botafogo
+192727,1,Lançamentos,Philipe Sampaio,1003,1,1,Botafogo
+192727,1,Lançamentos,Romildo,1003,2,0,Botafogo
+192727,24,Interceptações,André Trindade,1006,1,0,Fluminense
+192727,24,Interceptações,Manoel,1006,1,0,Fluminense
+192727,24,Interceptações,Nonato,1006,1,0,Fluminense
+192727,24,Interceptações,Willian,1006,1,0,Fluminense
+192727,24,Interceptações,Barreto,1003,1,0,Botafogo
+192727,24,Interceptações,Daniel Borges,1003,2,0,Botafogo
+192727,24,Interceptações,Juninho Tosta,1003,1,0,Botafogo
+192727,24,Interceptações,Kanu,1003,1,0,Botafogo
+192727,24,Interceptações,Romildo,1003,1,0,Botafogo
+192727,24,Interceptações,Vinícius Lopes,1003,1,0,Botafogo
+192727,4,Dribles,André Trindade,1006,1,0,Fluminense
+192727,4,Dribles,Cristiano,1006,1,0,Fluminense
+192727,4,Dribles,Jhon Arias,1006,0,1,Fluminense
+192727,4,Dribles,Chay,1003,1,1,Botafogo
+192727,4,Dribles,Daniel Borges,1003,1,0,Botafogo
+192727,4,Dribles,Erison,1003,2,1,Botafogo
+192727,4,Dribles,Gabriel Conceição ,1003,0,1,Botafogo
+192727,4,Dribles,Juninho Tosta,1003,1,0,Botafogo
+192727,4,Dribles,Luiz Fernando,1003,1,1,Botafogo
+192727,4,Dribles,Rikelmi,1003,0,1,Botafogo
+192727,4,Dribles,Vinícius Lopes,1003,2,0,Botafogo
+192727,22,Viradas de jogo,Cano,1006,1,0,Fluminense
+192727,22,Viradas de jogo,Willian,1006,1,0,Fluminense
+192727,22,Viradas de jogo,Daniel Borges,1003,2,0,Botafogo
+192727,20,Posse de bola,André Trindade,1006,161,0,Fluminense
+192727,20,Posse de bola,Calegari,1006,132,0,Fluminense
+192727,20,Posse de bola,Cano,1006,61,0,Fluminense
+192727,20,Posse de bola,Cristiano,1006,52,0,Fluminense
+192727,20,Posse de bola,David Braz,1006,135,0,Fluminense
+192727,20,Posse de bola,Fred,1006,10,0,Fluminense
+192727,20,Posse de bola,Ganso,1006,84,0,Fluminense
+192727,20,Posse de bola,Jhon Arias,1006,42,0,Fluminense
+192727,20,Posse de bola,Luccas Claro,1006,123,0,Fluminense
+192727,20,Posse de bola,Manoel,1006,66,0,Fluminense
+192727,20,Posse de bola,Marcos Felipe,1006,113,0,Fluminense
+192727,20,Posse de bola,Mario Pineida,1006,84,0,Fluminense
+192727,20,Posse de bola,Martinelli,1006,72,0,Fluminense
+192727,20,Posse de bola,Nonato,1006,70,0,Fluminense
+192727,20,Posse de bola,Willian,1006,91,0,Fluminense
+192727,20,Posse de bola,Yago Felipe,1006,46,0,Fluminense
+192727,20,Posse de bola,Barreto,1003,37,0,Botafogo
+192727,20,Posse de bola,Chay,1003,145,0,Botafogo
+192727,20,Posse de bola,Daniel Borges,1003,167,0,Botafogo
+192727,20,Posse de bola,Douglas Borges,1003,65,0,Botafogo
+192727,20,Posse de bola,Erison,1003,64,0,Botafogo
+192727,20,Posse de bola,Gabriel Conceição ,1003,33,0,Botafogo
+192727,20,Posse de bola,Hugo Neto,1003,12,0,Botafogo
+192727,20,Posse de bola,Jonathan Silva,1003,89,0,Botafogo
+192727,20,Posse de bola,Juninho Tosta,1003,23,0,Botafogo
+192727,20,Posse de bola,Kanu,1003,119,0,Botafogo
+192727,20,Posse de bola,Kayque,1003,86,0,Botafogo
+192727,20,Posse de bola,Luiz Fernando,1003,52,0,Botafogo
+192727,20,Posse de bola,Philipe Sampaio,1003,109,0,Botafogo
+192727,20,Posse de bola,Rikelmi,1003,42,0,Botafogo
+192727,20,Posse de bola,Romildo,1003,82,0,Botafogo
+192727,20,Posse de bola,Vinícius Lopes,1003,59,0,Botafogo
+192727,8,Gols,Cano,1006,1,0,Fluminense
+192727,8,Gols,Erison,1003,2,0,Botafogo
+192727,28,Assistências para finalização,Ganso,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Jhon Arias,1006,1,0,Fluminense
+192727,28,Assistências para finalização,Mario Pineida,1006,1,0,Fluminense
+192727,28,Assistências para finalização,Martinelli,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Nonato,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+192727,28,Assistências para finalização,Jonathan Silva,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Juninho Tosta,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Kayque,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Romildo,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Vinícius Lopes,1003,2,0,Botafogo
+192727,28,Assistências para finalização,Ganso,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Jhon Arias,1006,1,0,Fluminense
+192727,28,Assistências para finalização,Mario Pineida,1006,1,0,Fluminense
+192727,28,Assistências para finalização,Martinelli,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Nonato,1006,2,0,Fluminense
+192727,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+192727,28,Assistências para finalização,Jonathan Silva,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Juninho Tosta,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Kayque,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Romildo,1003,1,0,Botafogo
+192727,28,Assistências para finalização,Vinícius Lopes,1003,2,0,Botafogo
+192727,27,Assistências,Chay,1003,2,0,Botafogo
+192727,15,Defesas,Calegari,1006,1,0,Fluminense
+192727,15,Defesas,Luccas Claro,1006,1,0,Fluminense
+192727,15,Defesas,Marcos Felipe,1006,1,0,Fluminense
+192727,15,Defesas,Douglas Borges,1003,1,0,Botafogo
+192727,15,Defesas,Jonathan Silva,1003,1,0,Botafogo
+192727,15,Defesas,Philipe Sampaio,1003,3,0,Botafogo
+192727,19,Rebatidas,Calegari,1006,2,0,Fluminense
+192727,19,Rebatidas,David Braz,1006,6,0,Fluminense
+192727,19,Rebatidas,Luccas Claro,1006,5,0,Fluminense
+192727,19,Rebatidas,Manoel,1006,2,0,Fluminense
+192727,19,Rebatidas,Marcos Felipe,1006,1,0,Fluminense
+192727,19,Rebatidas,Mario Pineida,1006,2,0,Fluminense
+192727,19,Rebatidas,Martinelli,1006,1,0,Fluminense
+192727,19,Rebatidas,Daniel Borges,1003,4,0,Botafogo
+192727,19,Rebatidas,Gabriel Conceição ,1003,1,0,Botafogo
+192727,19,Rebatidas,Jonathan Silva,1003,7,0,Botafogo
+192727,19,Rebatidas,Kanu,1003,9,0,Botafogo
+192727,19,Rebatidas,Luiz Fernando,1003,1,0,Botafogo
+192727,19,Rebatidas,Philipe Sampaio,1003,9,0,Botafogo
+192727,19,Rebatidas,Romildo,1003,4,0,Botafogo
+192727,6,Faltas cometidas,André Trindade,1006,5,0,Fluminense
+192727,6,Faltas cometidas,Cano,1006,1,0,Fluminense
+192727,6,Faltas cometidas,Cristiano,1006,1,0,Fluminense
+192727,6,Faltas cometidas,David Braz,1006,1,0,Fluminense
+192727,6,Faltas cometidas,Fred,1006,2,0,Fluminense
+192727,6,Faltas cometidas,Ganso,1006,1,0,Fluminense
+192727,6,Faltas cometidas,Luccas Claro,1006,2,0,Fluminense
+192727,6,Faltas cometidas,Mario Pineida,1006,1,0,Fluminense
+192727,6,Faltas cometidas,Martinelli,1006,2,0,Fluminense
+192727,6,Faltas cometidas,Nonato,1006,2,0,Fluminense
+192727,6,Faltas cometidas,Willian,1006,4,0,Fluminense
+192727,6,Faltas cometidas,Chay,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Daniel Borges,1003,1,0,Botafogo
+192727,6,Faltas cometidas,Jonathan Silva,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Kanu,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Kayque,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Luiz Fernando,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Philipe Sampaio,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Rikelmi,1003,2,0,Botafogo
+192727,6,Faltas cometidas,Vinícius Lopes,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Calegari,1006,6,0,Fluminense
+192727,7,Faltas sofridas,Cano,1006,1,0,Fluminense
+192727,7,Faltas sofridas,Fred,1006,1,0,Fluminense
+192727,7,Faltas sofridas,Ganso,1006,3,0,Fluminense
+192727,7,Faltas sofridas,Mario Pineida,1006,2,0,Fluminense
+192727,7,Faltas sofridas,Martinelli,1006,1,0,Fluminense
+192727,7,Faltas sofridas,Willian,1006,2,0,Fluminense
+192727,7,Faltas sofridas,Barreto,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Chay,1003,3,0,Botafogo
+192727,7,Faltas sofridas,Daniel Borges,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Erison,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Gabriel Conceição ,1003,2,0,Botafogo
+192727,7,Faltas sofridas,Hugo Neto,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Kanu,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Kayque,1003,3,0,Botafogo
+192727,7,Faltas sofridas,Luiz Fernando,1003,2,0,Botafogo
+192727,7,Faltas sofridas,Philipe Sampaio,1003,1,0,Botafogo
+192727,7,Faltas sofridas,Romildo,1003,3,0,Botafogo
+192727,7,Faltas sofridas,Vinícius Lopes,1003,3,0,Botafogo
+192727,9,Impedimentos,Martinelli,1006,1,0,Fluminense
+192727,9,Impedimentos,Willian,1006,1,0,Fluminense
+192727,9,Impedimentos,Erison,1003,2,0,Botafogo
+192727,9,Impedimentos,Philipe Sampaio,1003,1,0,Botafogo
+192727,12,Perda da posse de bola,André Trindade,1006,2,0,Fluminense
+192727,12,Perda da posse de bola,Calegari,1006,5,0,Fluminense
+192727,12,Perda da posse de bola,Cano,1006,1,0,Fluminense
+192727,12,Perda da posse de bola,Ganso,1006,1,0,Fluminense
+192727,12,Perda da posse de bola,Jhon Arias,1006,2,0,Fluminense
+192727,12,Perda da posse de bola,Luccas Claro,1006,1,0,Fluminense
+192727,12,Perda da posse de bola,Mario Pineida,1006,2,0,Fluminense
+192727,12,Perda da posse de bola,Martinelli,1006,2,0,Fluminense
+192727,12,Perda da posse de bola,Nonato,1006,1,0,Fluminense
+192727,12,Perda da posse de bola,Willian,1006,5,0,Fluminense
+192727,12,Perda da posse de bola,Yago Felipe,1006,2,0,Fluminense
+192727,12,Perda da posse de bola,Barreto,1003,1,0,Botafogo
+192727,12,Perda da posse de bola,Chay,1003,3,0,Botafogo
+192727,12,Perda da posse de bola,Daniel Borges,1003,2,0,Botafogo
+192727,12,Perda da posse de bola,Erison,1003,3,0,Botafogo
+192727,12,Perda da posse de bola,Gabriel Conceição ,1003,2,0,Botafogo
+192727,12,Perda da posse de bola,Jonathan Silva,1003,1,0,Botafogo
+192727,12,Perda da posse de bola,Juninho Tosta,1003,1,0,Botafogo
+192727,12,Perda da posse de bola,Kayque,1003,3,0,Botafogo
+192727,12,Perda da posse de bola,Rikelmi,1003,4,0,Botafogo
+192727,12,Perda da posse de bola,Romildo,1003,1,0,Botafogo
+192727,12,Perda da posse de bola,Vinícius Lopes,1003,1,0,Botafogo
+192727,25,Cartões amarelos,André Trindade,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Cano,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Fred,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Nonato,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Yago Felipe,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Erison,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Kayque,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Luiz Fernando,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Rikelmi,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Vinícius Lopes,1003,1,0,Botafogo
+192727,25,Cartões amarelos,André Trindade,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Cano,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Fred,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Nonato,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Yago Felipe,1006,1,0,Fluminense
+192727,25,Cartões amarelos,Erison,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Kayque,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Luiz Fernando,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Rikelmi,1003,1,0,Botafogo
+192727,25,Cartões amarelos,Vinícius Lopes,1003,1,0,Botafogo
+192727,26,Cartões vermelhos,Barreto,1003,1,0,Botafogo
+192728,2,Passes,Arrascaeta,1005,33,3,Flamengo
+192728,2,Passes,David Luiz,1005,21,0,Flamengo
+192728,2,Passes,Everton Ribeiro,1005,6,0,Flamengo
+192728,2,Passes,Fabrício Bruno,1005,34,2,Flamengo
+192728,2,Passes,Filipe Luís,1005,66,4,Flamengo
+192728,2,Passes,Gabriel,1005,28,4,Flamengo
+192728,2,Passes,Gomes,1005,33,5,Flamengo
+192728,2,Passes,Hugo Souza,1005,11,0,Flamengo
+192728,2,Passes,Lázaro,1005,24,7,Flamengo
+192728,2,Passes,Léo Pereira,1005,13,0,Flamengo
+192728,2,Passes,Marinho,1005,10,0,Flamengo
+192728,2,Passes,Matheuzinho,1005,20,4,Flamengo
+192728,2,Passes,Pedro,1005,5,0,Flamengo
+192728,2,Passes,Rodinei,1005,22,1,Flamengo
+192728,2,Passes,Vitinho,1005,15,0,Flamengo
+192728,2,Passes,Willian Arão,1005,48,1,Flamengo
+192728,2,Passes,Anderson Conceição,1015,30,2,Vasco
+192728,2,Passes,Bruno Nazário,1015,5,1,Vasco
+192728,2,Passes,Edimar,1015,33,1,Vasco
+192728,2,Passes,Gabriel Pec,1015,7,1,Vasco
+192728,2,Passes,Juninho,1015,16,0,Vasco
+192728,2,Passes,Léo Matos,1015,8,1,Vasco
+192728,2,Passes,Lucas Figueiredo,1015,11,5,Vasco
+192728,2,Passes,Luiz Henrique,1015,4,1,Vasco
+192728,2,Passes,Nenê,1015,25,6,Vasco
+192728,2,Passes,Quintero,1015,32,1,Vasco
+192728,2,Passes,Raniel,1015,9,0,Vasco
+192728,2,Passes,Thiago Rodrigues,1015,22,0,Vasco
+192728,2,Passes,Vitinho,1015,2,0,Vasco
+192728,2,Passes,Weverton Silva,1015,16,5,Vasco
+192728,2,Passes,Yuri Lara,1015,10,0,Vasco
+192728,2,Passes,Zé Gabriel,1015,16,0,Vasco
+192728,3,Finalizações,David Luiz,1005,0,1,Flamengo
+192728,3,Finalizações,Everton Ribeiro,1005,1,0,Flamengo
+192728,3,Finalizações,Filipe Luís,1005,0,1,Flamengo
+192728,3,Finalizações,Gabriel,1005,0,3,Flamengo
+192728,3,Finalizações,Gomes,1005,0,3,Flamengo
+192728,3,Finalizações,Marinho,1005,2,3,Flamengo
+192728,3,Finalizações,Pedro,1005,2,1,Flamengo
+192728,3,Finalizações,Vitinho,1005,0,2,Flamengo
+192728,3,Finalizações,Willian Arão,1005,1,1,Flamengo
+192728,3,Finalizações,Edimar,1015,1,1,Vasco
+192728,3,Finalizações,Gabriel Pec,1015,0,1,Vasco
+192728,3,Finalizações,Lucas Figueiredo,1015,1,2,Vasco
+192728,3,Finalizações,Nenê,1015,2,2,Vasco
+192728,3,Finalizações,Raniel,1015,0,1,Vasco
+192728,5,Desarmes,Arrascaeta,1005,1,0,Flamengo
+192728,5,Desarmes,Everton Ribeiro,1005,1,0,Flamengo
+192728,5,Desarmes,Fabrício Bruno,1005,1,0,Flamengo
+192728,5,Desarmes,Filipe Luís,1005,3,0,Flamengo
+192728,5,Desarmes,Gomes,1005,3,0,Flamengo
+192728,5,Desarmes,Lázaro,1005,3,0,Flamengo
+192728,5,Desarmes,Matheuzinho,1005,2,0,Flamengo
+192728,5,Desarmes,Willian Arão,1005,3,0,Flamengo
+192728,5,Desarmes,Bruno Nazário,1015,1,0,Vasco
+192728,5,Desarmes,Gabriel Pec,1015,0,1,Vasco
+192728,5,Desarmes,Juninho,1015,1,0,Vasco
+192728,5,Desarmes,Léo Matos,1015,1,0,Vasco
+192728,5,Desarmes,Lucas Figueiredo,1015,2,1,Vasco
+192728,5,Desarmes,Nenê,1015,1,1,Vasco
+192728,5,Desarmes,Quintero,1015,2,0,Vasco
+192728,5,Desarmes,Weverton Silva,1015,2,1,Vasco
+192728,5,Desarmes,Yuri Lara,1015,1,1,Vasco
+192728,5,Desarmes,Zé Gabriel,1015,1,0,Vasco
+192728,14,Cruzamentos,Arrascaeta,1005,4,6,Flamengo
+192728,14,Cruzamentos,Everton Ribeiro,1005,0,2,Flamengo
+192728,14,Cruzamentos,Gabriel,1005,0,1,Flamengo
+192728,14,Cruzamentos,Lázaro,1005,0,2,Flamengo
+192728,14,Cruzamentos,Marinho,1005,0,2,Flamengo
+192728,14,Cruzamentos,Rodinei,1005,1,1,Flamengo
+192728,14,Cruzamentos,Vitinho,1005,0,1,Flamengo
+192728,14,Cruzamentos,Edimar,1015,2,2,Vasco
+192728,14,Cruzamentos,Juninho,1015,0,1,Vasco
+192728,14,Cruzamentos,Léo Matos,1015,0,1,Vasco
+192728,14,Cruzamentos,Lucas Figueiredo,1015,0,1,Vasco
+192728,14,Cruzamentos,Luiz Henrique,1015,0,1,Vasco
+192728,14,Cruzamentos,Nenê,1015,2,4,Vasco
+192728,14,Cruzamentos,Raniel,1015,1,0,Vasco
+192728,1,Lançamentos,Arrascaeta,1005,1,2,Flamengo
+192728,1,Lançamentos,David Luiz,1005,3,6,Flamengo
+192728,1,Lançamentos,Fabrício Bruno,1005,1,0,Flamengo
+192728,1,Lançamentos,Hugo Souza,1005,1,6,Flamengo
+192728,1,Lançamentos,Léo Pereira,1005,1,1,Flamengo
+192728,1,Lançamentos,Matheuzinho,1005,0,1,Flamengo
+192728,1,Lançamentos,Willian Arão,1005,0,1,Flamengo
+192728,1,Lançamentos,Anderson Conceição,1015,5,2,Vasco
+192728,1,Lançamentos,Edimar,1015,0,1,Vasco
+192728,1,Lançamentos,Juninho,1015,0,1,Vasco
+192728,1,Lançamentos,Lucas Figueiredo,1015,1,3,Vasco
+192728,1,Lançamentos,Nenê,1015,1,3,Vasco
+192728,1,Lançamentos,Quintero,1015,1,2,Vasco
+192728,1,Lançamentos,Thiago Rodrigues,1015,5,8,Vasco
+192728,1,Lançamentos,Vitinho,1015,0,1,Vasco
+192728,1,Lançamentos,Weverton Silva,1015,0,1,Vasco
+192728,1,Lançamentos,Yuri Lara,1015,0,1,Vasco
+192728,1,Lançamentos,Zé Gabriel,1015,1,2,Vasco
+192728,24,Interceptações,Fabrício Bruno,1005,0,1,Flamengo
+192728,24,Interceptações,Gomes,1005,2,0,Flamengo
+192728,24,Interceptações,Willian Arão,1005,1,1,Flamengo
+192728,24,Interceptações,Edimar,1015,1,0,Vasco
+192728,24,Interceptações,Lucas Figueiredo,1015,1,0,Vasco
+192728,24,Interceptações,Quintero,1015,1,0,Vasco
+192728,24,Interceptações,Weverton Silva,1015,0,1,Vasco
+192728,4,Dribles,Arrascaeta,1005,1,0,Flamengo
+192728,4,Dribles,David Luiz,1005,1,0,Flamengo
+192728,4,Dribles,Everton Ribeiro,1005,1,0,Flamengo
+192728,4,Dribles,Filipe Luís,1005,1,0,Flamengo
+192728,4,Dribles,Gabriel,1005,1,0,Flamengo
+192728,4,Dribles,Gomes,1005,2,0,Flamengo
+192728,4,Dribles,Marinho,1005,2,0,Flamengo
+192728,4,Dribles,Pedro,1005,0,1,Flamengo
+192728,4,Dribles,Rodinei,1005,1,1,Flamengo
+192728,4,Dribles,Vitinho,1005,3,0,Flamengo
+192728,4,Dribles,Gabriel Pec,1015,1,1,Vasco
+192728,4,Dribles,Juninho,1015,1,0,Vasco
+192728,4,Dribles,Raniel,1015,1,0,Vasco
+192728,4,Dribles,Thiago Rodrigues,1015,1,0,Vasco
+192728,4,Dribles,Weverton Silva,1015,1,0,Vasco
+192728,4,Dribles,Zé Gabriel,1015,2,0,Vasco
+192728,22,Viradas de jogo,Arrascaeta,1005,2,0,Flamengo
+192728,22,Viradas de jogo,Fabrício Bruno,1005,1,0,Flamengo
+192728,22,Viradas de jogo,Gomes,1005,1,0,Flamengo
+192728,22,Viradas de jogo,Marinho,1005,1,0,Flamengo
+192728,22,Viradas de jogo,Edimar,1015,1,0,Vasco
+192728,22,Viradas de jogo,Lucas Figueiredo,1015,1,0,Vasco
+192728,20,Posse de bola,Arrascaeta,1005,133,0,Flamengo
+192728,20,Posse de bola,David Luiz,1005,96,0,Flamengo
+192728,20,Posse de bola,Everton Ribeiro,1005,32,0,Flamengo
+192728,20,Posse de bola,Fabrício Bruno,1005,117,0,Flamengo
+192728,20,Posse de bola,Filipe Luís,1005,187,0,Flamengo
+192728,20,Posse de bola,Gabriel,1005,105,0,Flamengo
+192728,20,Posse de bola,Gomes,1005,130,0,Flamengo
+192728,20,Posse de bola,Hugo Souza,1005,78,0,Flamengo
+192728,20,Posse de bola,Lázaro,1005,115,0,Flamengo
+192728,20,Posse de bola,Léo Pereira,1005,40,0,Flamengo
+192728,20,Posse de bola,Marinho,1005,73,0,Flamengo
+192728,20,Posse de bola,Matheuzinho,1005,66,0,Flamengo
+192728,20,Posse de bola,Pedro,1005,22,0,Flamengo
+192728,20,Posse de bola,Rodinei,1005,75,0,Flamengo
+192728,20,Posse de bola,Vitinho,1005,72,0,Flamengo
+192728,20,Posse de bola,Willian Arão,1005,132,0,Flamengo
+192728,20,Posse de bola,Anderson Conceição,1015,115,0,Vasco
+192728,20,Posse de bola,Bruno Nazário,1015,29,0,Vasco
+192728,20,Posse de bola,Edimar,1015,117,0,Vasco
+192728,20,Posse de bola,Gabriel Pec,1015,43,0,Vasco
+192728,20,Posse de bola,Juninho,1015,62,0,Vasco
+192728,20,Posse de bola,Léo Matos,1015,35,0,Vasco
+192728,20,Posse de bola,Lucas Figueiredo,1015,75,0,Vasco
+192728,20,Posse de bola,Luiz Henrique,1015,14,0,Vasco
+192728,20,Posse de bola,Nenê,1015,123,0,Vasco
+192728,20,Posse de bola,Quintero,1015,121,0,Vasco
+192728,20,Posse de bola,Raniel,1015,44,0,Vasco
+192728,20,Posse de bola,Thiago Rodrigues,1015,119,0,Vasco
+192728,20,Posse de bola,Vitinho,1015,12,0,Vasco
+192728,20,Posse de bola,Weverton Silva,1015,68,0,Vasco
+192728,20,Posse de bola,Yuri Lara,1015,30,0,Vasco
+192728,20,Posse de bola,Zé Gabriel,1015,50,0,Vasco
+192728,8,Gols,Willian Arão,1005,1,0,Flamengo
+192728,28,Assistências para finalização,Arrascaeta,1005,4,0,Flamengo
+192728,28,Assistências para finalização,Everton Ribeiro,1005,2,0,Flamengo
+192728,28,Assistências para finalização,Gabriel,1005,1,0,Flamengo
+192728,28,Assistências para finalização,Gomes,1005,1,0,Flamengo
+192728,28,Assistências para finalização,Lázaro,1005,3,0,Flamengo
+192728,28,Assistências para finalização,Pedro,1005,1,0,Flamengo
+192728,28,Assistências para finalização,Vitinho,1005,2,0,Flamengo
+192728,28,Assistências para finalização,Edimar,1015,1,0,Vasco
+192728,28,Assistências para finalização,Gabriel Pec,1015,2,0,Vasco
+192728,28,Assistências para finalização,Juninho,1015,2,0,Vasco
+192728,28,Assistências para finalização,Lucas Figueiredo,1015,1,0,Vasco
+192728,28,Assistências para finalização,Nenê,1015,3,0,Vasco
+192728,28,Assistências para finalização,Raniel,1015,1,0,Vasco
+192728,15,Defesas,Hugo Souza,1005,3,0,Flamengo
+192728,15,Defesas,Léo Pereira,1005,1,0,Flamengo
+192728,15,Defesas,Edimar,1015,1,0,Vasco
+192728,15,Defesas,Thiago Rodrigues,1015,4,0,Vasco
+192728,15,Defesas,Yuri Lara,1015,1,0,Vasco
+192728,15,Defesas,Zé Gabriel,1015,1,0,Vasco
+192728,23,Defesas difíceis,Hugo Souza,1005,2,0,Flamengo
+192728,23,Defesas difíceis,Thiago Rodrigues,1015,1,0,Vasco
+192728,19,Rebatidas,David Luiz,1005,4,0,Flamengo
+192728,19,Rebatidas,Fabrício Bruno,1005,9,0,Flamengo
+192728,19,Rebatidas,Filipe Luís,1005,4,0,Flamengo
+192728,19,Rebatidas,Gomes,1005,1,0,Flamengo
+192728,19,Rebatidas,Hugo Souza,1005,1,0,Flamengo
+192728,19,Rebatidas,Matheuzinho,1005,1,0,Flamengo
+192728,19,Rebatidas,Rodinei,1005,1,0,Flamengo
+192728,19,Rebatidas,Vitinho,1005,1,0,Flamengo
+192728,19,Rebatidas,Willian Arão,1005,2,0,Flamengo
+192728,19,Rebatidas,Anderson Conceição,1015,7,0,Vasco
+192728,19,Rebatidas,Edimar,1015,7,0,Vasco
+192728,19,Rebatidas,Juninho,1015,1,0,Vasco
+192728,19,Rebatidas,Léo Matos,1015,2,0,Vasco
+192728,19,Rebatidas,Lucas Figueiredo,1015,2,0,Vasco
+192728,19,Rebatidas,Quintero,1015,9,0,Vasco
+192728,19,Rebatidas,Weverton Silva,1015,3,0,Vasco
+192728,19,Rebatidas,Zé Gabriel,1015,1,0,Vasco
+192728,6,Faltas cometidas,Fabrício Bruno,1005,2,0,Flamengo
+192728,6,Faltas cometidas,Filipe Luís,1005,1,0,Flamengo
+192728,6,Faltas cometidas,Gabriel,1005,1,0,Flamengo
+192728,6,Faltas cometidas,Gomes,1005,4,0,Flamengo
+192728,6,Faltas cometidas,Léo Pereira,1005,2,0,Flamengo
+192728,6,Faltas cometidas,Matheuzinho,1005,1,0,Flamengo
+192728,6,Faltas cometidas,Pedro,1005,1,0,Flamengo
+192728,6,Faltas cometidas,Rodinei,1005,2,0,Flamengo
+192728,6,Faltas cometidas,Willian Arão,1005,1,0,Flamengo
+192728,6,Faltas cometidas,Anderson Conceição,1015,1,0,Vasco
+192728,6,Faltas cometidas,Bruno Nazário,1015,3,0,Vasco
+192728,6,Faltas cometidas,Edimar,1015,2,0,Vasco
+192728,6,Faltas cometidas,Juninho,1015,2,0,Vasco
+192728,6,Faltas cometidas,Léo Matos,1015,2,0,Vasco
+192728,6,Faltas cometidas,Lucas Figueiredo,1015,1,0,Vasco
+192728,6,Faltas cometidas,Nenê,1015,3,0,Vasco
+192728,6,Faltas cometidas,Raniel,1015,1,0,Vasco
+192728,6,Faltas cometidas,Weverton Silva,1015,1,0,Vasco
+192728,6,Faltas cometidas,Yuri Lara,1015,1,0,Vasco
+192728,7,Faltas sofridas,Arrascaeta,1005,3,0,Flamengo
+192728,7,Faltas sofridas,Everton Ribeiro,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Gabriel,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Gomes,1005,3,0,Flamengo
+192728,7,Faltas sofridas,Hugo Souza,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Lázaro,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Marinho,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Pedro,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Vitinho,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Willian Arão,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Bruno Nazário,1015,1,0,Vasco
+192728,7,Faltas sofridas,Gabriel Pec,1015,3,0,Vasco
+192728,7,Faltas sofridas,Juninho,1015,1,0,Vasco
+192728,7,Faltas sofridas,Lucas Figueiredo,1015,3,0,Vasco
+192728,7,Faltas sofridas,Luiz Henrique,1015,1,0,Vasco
+192728,7,Faltas sofridas,Nenê,1015,1,0,Vasco
+192728,7,Faltas sofridas,Quintero,1015,1,0,Vasco
+192728,7,Faltas sofridas,Raniel,1015,2,0,Vasco
+192728,7,Faltas sofridas,Zé Gabriel,1015,1,0,Vasco
+192728,7,Faltas sofridas,Arrascaeta,1005,3,0,Flamengo
+192728,7,Faltas sofridas,Everton Ribeiro,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Gabriel,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Gomes,1005,3,0,Flamengo
+192728,7,Faltas sofridas,Hugo Souza,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Lázaro,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Marinho,1005,2,0,Flamengo
+192728,7,Faltas sofridas,Pedro,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Vitinho,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Willian Arão,1005,1,0,Flamengo
+192728,7,Faltas sofridas,Bruno Nazário,1015,1,0,Vasco
+192728,7,Faltas sofridas,Gabriel Pec,1015,3,0,Vasco
+192728,7,Faltas sofridas,Juninho,1015,1,0,Vasco
+192728,7,Faltas sofridas,Lucas Figueiredo,1015,3,0,Vasco
+192728,7,Faltas sofridas,Luiz Henrique,1015,1,0,Vasco
+192728,7,Faltas sofridas,Nenê,1015,1,0,Vasco
+192728,7,Faltas sofridas,Quintero,1015,1,0,Vasco
+192728,7,Faltas sofridas,Raniel,1015,2,0,Vasco
+192728,7,Faltas sofridas,Zé Gabriel,1015,1,0,Vasco
+192728,9,Impedimentos,Anderson Conceição,1015,1,0,Vasco
+192728,9,Impedimentos,Gabriel Pec,1015,1,0,Vasco
+192728,9,Impedimentos,Raniel,1015,1,0,Vasco
+192728,12,Perda da posse de bola,Arrascaeta,1005,2,0,Flamengo
+192728,12,Perda da posse de bola,David Luiz,1005,1,0,Flamengo
+192728,12,Perda da posse de bola,Gabriel,1005,5,0,Flamengo
+192728,12,Perda da posse de bola,Gomes,1005,4,0,Flamengo
+192728,12,Perda da posse de bola,Lázaro,1005,5,0,Flamengo
+192728,12,Perda da posse de bola,Marinho,1005,1,0,Flamengo
+192728,12,Perda da posse de bola,Matheuzinho,1005,1,0,Flamengo
+192728,12,Perda da posse de bola,Rodinei,1005,3,0,Flamengo
+192728,12,Perda da posse de bola,Vitinho,1005,1,0,Flamengo
+192728,12,Perda da posse de bola,Willian Arão,1005,1,0,Flamengo
+192728,12,Perda da posse de bola,Bruno Nazário,1015,2,0,Vasco
+192728,12,Perda da posse de bola,Gabriel Pec,1015,1,0,Vasco
+192728,12,Perda da posse de bola,Juninho,1015,2,0,Vasco
+192728,12,Perda da posse de bola,Nenê,1015,5,0,Vasco
+192728,12,Perda da posse de bola,Raniel,1015,5,0,Vasco
+192728,12,Perda da posse de bola,Vitinho,1015,3,0,Vasco
+192728,12,Perda da posse de bola,Weverton Silva,1015,1,0,Vasco
+192728,25,Cartões amarelos,Gabriel,1005,1,0,Flamengo
+192728,25,Cartões amarelos,Gomes,1005,1,0,Flamengo
+192728,25,Cartões amarelos,Gabriel Pec,1015,1,0,Vasco
+192728,25,Cartões amarelos,Luiz Henrique,1015,1,0,Vasco
+192728,25,Cartões amarelos,Nenê,1015,1,0,Vasco
+192729,2,Passes,Anderson Lessa,2346,6,1,Audax
+192729,2,Passes,Braian,2346,12,4,Audax
+192729,2,Passes,Fabinho,2346,8,0,Audax
+192729,2,Passes,Fernando Medeiros,2346,31,4,Audax
+192729,2,Passes,Fidel,2346,5,3,Audax
+192729,2,Passes,Gabriel Soares,2346,27,2,Audax
+192729,2,Passes,Hugo Sanches,2346,12,3,Audax
+192729,2,Passes,João Victor,2346,7,0,Audax
+192729,2,Passes,Julinho,2346,44,4,Audax
+192729,2,Passes,Léo Bueno,2346,20,4,Audax
+192729,2,Passes,Lucão,2346,30,4,Audax
+192729,2,Passes,Max,2346,8,0,Audax
+192729,2,Passes,Maxwell,2346,14,2,Audax
+192729,2,Passes,Thiago Aperibé,2346,2,1,Audax
+192729,2,Passes,Thomás Kayck,2346,27,2,Audax
+192729,2,Passes,Vinícius Soares,2346,4,1,Audax
+192729,2,Passes,André Santos,1067,3,0,Nova Iguaçu
+192729,2,Passes,Andrey,1067,14,3,Nova Iguaçu
+192729,2,Passes,Digão,1067,25,6,Nova Iguaçu
+192729,2,Passes,Ewerton Ronaldinho,1067,5,0,Nova Iguaçu
+192729,2,Passes,Gabriel Canela,1067,2,0,Nova Iguaçu
+192729,2,Passes,Gabriel Pinheiro,1067,40,3,Nova Iguaçu
+192729,2,Passes,Gabriel Santana,1067,3,0,Nova Iguaçu
+192729,2,Passes,Juan,1067,16,0,Nova Iguaçu
+192729,2,Passes,Luã Lucio,1067,7,1,Nova Iguaçu
+192729,2,Passes,Luís Henrique,1067,28,0,Nova Iguaçu
+192729,2,Passes,Nathan,1067,57,0,Nova Iguaçu
+192729,2,Passes,Rafinha,1067,48,5,Nova Iguaçu
+192729,2,Passes,Samuel Granada,1067,10,2,Nova Iguaçu
+192729,2,Passes,Vandinho,1067,34,4,Nova Iguaçu
+192729,2,Passes,Vinícius Matheus,1067,30,3,Nova Iguaçu
+192729,2,Passes,Yan Everton,1067,21,4,Nova Iguaçu
+192729,3,Finalizações,Anderson Lessa,2346,2,1,Audax
+192729,3,Finalizações,Hugo Sanches,2346,0,2,Audax
+192729,3,Finalizações,Léo Bueno,2346,1,1,Audax
+192729,3,Finalizações,Thiago Aperibé,2346,1,0,Audax
+192729,3,Finalizações,Andrey,1067,0,1,Nova Iguaçu
+192729,3,Finalizações,Gabriel Canela,1067,0,1,Nova Iguaçu
+192729,3,Finalizações,Juan,1067,0,1,Nova Iguaçu
+192729,3,Finalizações,Luã Lucio,1067,0,1,Nova Iguaçu
+192729,3,Finalizações,Samuel Granada,1067,3,3,Nova Iguaçu
+192729,3,Finalizações,Yan Everton,1067,0,2,Nova Iguaçu
+192729,5,Desarmes,Anderson Lessa,2346,1,0,Audax
+192729,5,Desarmes,Fernando Medeiros,2346,1,0,Audax
+192729,5,Desarmes,Fidel,2346,1,0,Audax
+192729,5,Desarmes,Hugo Sanches,2346,1,0,Audax
+192729,5,Desarmes,João Victor,2346,1,0,Audax
+192729,5,Desarmes,Julinho,2346,1,0,Audax
+192729,5,Desarmes,Léo Bueno,2346,2,0,Audax
+192729,5,Desarmes,Maxwell,2346,3,0,Audax
+192729,5,Desarmes,Thomás Kayck,2346,1,0,Audax
+192729,5,Desarmes,Digão,1067,2,0,Nova Iguaçu
+192729,5,Desarmes,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192729,5,Desarmes,Luã Lucio,1067,1,0,Nova Iguaçu
+192729,14,Cruzamentos,Anderson Lessa,2346,0,1,Audax
+192729,14,Cruzamentos,Fabinho,2346,0,1,Audax
+192729,14,Cruzamentos,Fernando Medeiros,2346,0,1,Audax
+192729,14,Cruzamentos,Fidel,2346,0,1,Audax
+192729,14,Cruzamentos,Hugo Sanches,2346,0,1,Audax
+192729,14,Cruzamentos,João Victor,2346,0,1,Audax
+192729,14,Cruzamentos,Julinho,2346,1,4,Audax
+192729,14,Cruzamentos,Thiago Aperibé,2346,0,3,Audax
+192729,14,Cruzamentos,Vinícius Soares,2346,0,1,Audax
+192729,14,Cruzamentos,Andrey,1067,1,2,Nova Iguaçu
+192729,14,Cruzamentos,Digão,1067,0,4,Nova Iguaçu
+192729,14,Cruzamentos,Juan,1067,0,1,Nova Iguaçu
+192729,14,Cruzamentos,Rafinha,1067,1,5,Nova Iguaçu
+192729,14,Cruzamentos,Vandinho,1067,0,1,Nova Iguaçu
+192729,14,Cruzamentos,Yan Everton,1067,1,1,Nova Iguaçu
+192729,1,Lançamentos,Braian,2346,0,1,Audax
+192729,1,Lançamentos,Fabinho,2346,0,2,Audax
+192729,1,Lançamentos,Fernando Medeiros,2346,0,5,Audax
+192729,1,Lançamentos,Gabriel Soares,2346,0,1,Audax
+192729,1,Lançamentos,João Victor,2346,0,1,Audax
+192729,1,Lançamentos,Julinho,2346,2,2,Audax
+192729,1,Lançamentos,Léo Bueno,2346,1,1,Audax
+192729,1,Lançamentos,Lucão,2346,0,1,Audax
+192729,1,Lançamentos,Max,2346,0,4,Audax
+192729,1,Lançamentos,Thomás Kayck,2346,1,6,Audax
+192729,1,Lançamentos,André Santos,1067,0,3,Nova Iguaçu
+192729,1,Lançamentos,Digão,1067,0,2,Nova Iguaçu
+192729,1,Lançamentos,Gabriel Pinheiro,1067,2,5,Nova Iguaçu
+192729,1,Lançamentos,Luís Henrique,1067,4,8,Nova Iguaçu
+192729,1,Lançamentos,Vandinho,1067,1,0,Nova Iguaçu
+192729,1,Lançamentos,Vinícius Matheus,1067,2,1,Nova Iguaçu
+192729,24,Interceptações,Braian,2346,1,0,Audax
+192729,24,Interceptações,Gabriel Soares,2346,1,0,Audax
+192729,24,Interceptações,Léo Bueno,2346,1,0,Audax
+192729,24,Interceptações,Lucão,2346,4,0,Audax
+192729,4,Dribles,Hugo Sanches,2346,1,0,Audax
+192729,4,Dribles,Andrey,1067,1,0,Nova Iguaçu
+192729,4,Dribles,Digão,1067,1,0,Nova Iguaçu
+192729,4,Dribles,Juan,1067,1,0,Nova Iguaçu
+192729,22,Viradas de jogo,Gabriel Soares,2346,1,0,Audax
+192729,22,Viradas de jogo,Thomás Kayck,2346,1,0,Audax
+192729,22,Viradas de jogo,Digão,1067,1,0,Nova Iguaçu
+192729,22,Viradas de jogo,Vandinho,1067,1,0,Nova Iguaçu
+192729,22,Viradas de jogo,Yan Everton,1067,1,0,Nova Iguaçu
+192729,20,Posse de bola,Anderson Lessa,2346,26,0,Audax
+192729,20,Posse de bola,Braian,2346,48,0,Audax
+192729,20,Posse de bola,Fabinho,2346,27,0,Audax
+192729,20,Posse de bola,Fernando Medeiros,2346,98,0,Audax
+192729,20,Posse de bola,Fidel,2346,37,0,Audax
+192729,20,Posse de bola,Gabriel Soares,2346,87,0,Audax
+192729,20,Posse de bola,Hugo Sanches,2346,54,0,Audax
+192729,20,Posse de bola,João Victor,2346,30,0,Audax
+192729,20,Posse de bola,Julinho,2346,138,0,Audax
+192729,20,Posse de bola,Léo Bueno,2346,82,0,Audax
+192729,20,Posse de bola,Lucão,2346,93,0,Audax
+192729,20,Posse de bola,Max,2346,44,0,Audax
+192729,20,Posse de bola,Maxwell,2346,44,0,Audax
+192729,20,Posse de bola,Thiago Aperibé,2346,22,0,Audax
+192729,20,Posse de bola,Thomás Kayck,2346,116,0,Audax
+192729,20,Posse de bola,Vinícius Soares,2346,18,0,Audax
+192729,20,Posse de bola,André Santos,1067,16,0,Nova Iguaçu
+192729,20,Posse de bola,Andrey,1067,71,0,Nova Iguaçu
+192729,20,Posse de bola,Digão,1067,115,0,Nova Iguaçu
+192729,20,Posse de bola,Ewerton Ronaldinho,1067,14,0,Nova Iguaçu
+192729,20,Posse de bola,Gabriel Canela,1067,10,0,Nova Iguaçu
+192729,20,Posse de bola,Gabriel Pinheiro,1067,151,0,Nova Iguaçu
+192729,20,Posse de bola,Gabriel Santana,1067,8,0,Nova Iguaçu
+192729,20,Posse de bola,Juan,1067,50,0,Nova Iguaçu
+192729,20,Posse de bola,Luã Lucio,1067,32,0,Nova Iguaçu
+192729,20,Posse de bola,Luís Henrique,1067,107,0,Nova Iguaçu
+192729,20,Posse de bola,Nathan,1067,154,0,Nova Iguaçu
+192729,20,Posse de bola,Rafinha,1067,138,0,Nova Iguaçu
+192729,20,Posse de bola,Samuel Granada,1067,54,0,Nova Iguaçu
+192729,20,Posse de bola,Vandinho,1067,106,0,Nova Iguaçu
+192729,20,Posse de bola,Vinícius Matheus,1067,90,0,Nova Iguaçu
+192729,20,Posse de bola,Yan Everton,1067,76,0,Nova Iguaçu
+192729,8,Gols,Anderson Lessa,2346,1,0,Audax
+192729,8,Gols,Samuel Granada,1067,2,0,Nova Iguaçu
+192729,28,Assistências para finalização,Fabinho,2346,1,0,Audax
+192729,28,Assistências para finalização,Fernando Medeiros,2346,2,0,Audax
+192729,28,Assistências para finalização,Fidel,2346,1,0,Audax
+192729,28,Assistências para finalização,Andrey,1067,1,0,Nova Iguaçu
+192729,28,Assistências para finalização,Digão,1067,1,0,Nova Iguaçu
+192729,28,Assistências para finalização,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192729,28,Assistências para finalização,Rafinha,1067,1,0,Nova Iguaçu
+192729,28,Assistências para finalização,Samuel Granada,1067,1,0,Nova Iguaçu
+192729,28,Assistências para finalização,Vandinho,1067,3,0,Nova Iguaçu
+192729,28,Assistências para finalização,Yan Everton,1067,2,0,Nova Iguaçu
+192729,27,Assistências,Julinho,2346,1,0,Audax
+192729,27,Assistências,Andrey,1067,2,0,Nova Iguaçu
+192729,15,Defesas,Julinho,2346,1,0,Audax
+192729,15,Defesas,Lucão,2346,1,0,Audax
+192729,15,Defesas,Max,2346,1,0,Audax
+192729,15,Defesas,Maxwell,2346,1,0,Audax
+192729,15,Defesas,Thomás Kayck,2346,2,0,Audax
+192729,15,Defesas,André Santos,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Luís Henrique,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Rafinha,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Julinho,2346,1,0,Audax
+192729,15,Defesas,Lucão,2346,1,0,Audax
+192729,15,Defesas,Max,2346,1,0,Audax
+192729,15,Defesas,Maxwell,2346,1,0,Audax
+192729,15,Defesas,Thomás Kayck,2346,2,0,Audax
+192729,15,Defesas,André Santos,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Luís Henrique,1067,1,0,Nova Iguaçu
+192729,15,Defesas,Rafinha,1067,1,0,Nova Iguaçu
+192729,23,Defesas difíceis,Luís Henrique,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Braian,2346,2,0,Audax
+192729,19,Rebatidas,Hugo Sanches,2346,1,0,Audax
+192729,19,Rebatidas,Lucão,2346,2,0,Audax
+192729,19,Rebatidas,Thomás Kayck,2346,9,0,Audax
+192729,19,Rebatidas,André Santos,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Andrey,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Digão,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Gabriel Pinheiro,1067,4,0,Nova Iguaçu
+192729,19,Rebatidas,Gabriel Santana,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Luís Henrique,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Nathan,1067,4,0,Nova Iguaçu
+192729,19,Rebatidas,Rafinha,1067,2,0,Nova Iguaçu
+192729,19,Rebatidas,Samuel Granada,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Vandinho,1067,1,0,Nova Iguaçu
+192729,19,Rebatidas,Vinícius Matheus,1067,4,0,Nova Iguaçu
+192729,6,Faltas cometidas,Braian,2346,1,0,Audax
+192729,6,Faltas cometidas,Fernando Medeiros,2346,3,0,Audax
+192729,6,Faltas cometidas,Gabriel Soares,2346,1,0,Audax
+192729,6,Faltas cometidas,Hugo Sanches,2346,2,0,Audax
+192729,6,Faltas cometidas,João Victor,2346,3,0,Audax
+192729,6,Faltas cometidas,Julinho,2346,2,0,Audax
+192729,6,Faltas cometidas,Léo Bueno,2346,6,0,Audax
+192729,6,Faltas cometidas,Lucão,2346,1,0,Audax
+192729,6,Faltas cometidas,Thiago Aperibé,2346,1,0,Audax
+192729,6,Faltas cometidas,Andrey,1067,2,0,Nova Iguaçu
+192729,6,Faltas cometidas,Digão,1067,3,0,Nova Iguaçu
+192729,6,Faltas cometidas,Gabriel Canela,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Juan,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Nathan,1067,2,0,Nova Iguaçu
+192729,6,Faltas cometidas,Rafinha,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Samuel Granada,1067,2,0,Nova Iguaçu
+192729,6,Faltas cometidas,Vandinho,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192729,6,Faltas cometidas,Yan Everton,1067,1,0,Nova Iguaçu
+192729,7,Faltas sofridas,Braian,2346,1,0,Audax
+192729,7,Faltas sofridas,Fernando Medeiros,2346,1,0,Audax
+192729,7,Faltas sofridas,Fidel,2346,2,0,Audax
+192729,7,Faltas sofridas,Gabriel Soares,2346,3,0,Audax
+192729,7,Faltas sofridas,João Victor,2346,1,0,Audax
+192729,7,Faltas sofridas,Julinho,2346,1,0,Audax
+192729,7,Faltas sofridas,Lucão,2346,1,0,Audax
+192729,7,Faltas sofridas,Maxwell,2346,2,0,Audax
+192729,7,Faltas sofridas,Thomás Kayck,2346,3,0,Audax
+192729,7,Faltas sofridas,Vinícius Soares,2346,1,0,Audax
+192729,7,Faltas sofridas,Andrey,1067,4,0,Nova Iguaçu
+192729,7,Faltas sofridas,Digão,1067,1,0,Nova Iguaçu
+192729,7,Faltas sofridas,Juan,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Luã Lucio,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Nathan,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Rafinha,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Samuel Granada,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Vandinho,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Vinícius Matheus,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Braian,2346,1,0,Audax
+192729,7,Faltas sofridas,Fernando Medeiros,2346,1,0,Audax
+192729,7,Faltas sofridas,Fidel,2346,2,0,Audax
+192729,7,Faltas sofridas,Gabriel Soares,2346,3,0,Audax
+192729,7,Faltas sofridas,João Victor,2346,1,0,Audax
+192729,7,Faltas sofridas,Julinho,2346,1,0,Audax
+192729,7,Faltas sofridas,Lucão,2346,1,0,Audax
+192729,7,Faltas sofridas,Maxwell,2346,2,0,Audax
+192729,7,Faltas sofridas,Thomás Kayck,2346,3,0,Audax
+192729,7,Faltas sofridas,Vinícius Soares,2346,1,0,Audax
+192729,7,Faltas sofridas,Andrey,1067,4,0,Nova Iguaçu
+192729,7,Faltas sofridas,Digão,1067,1,0,Nova Iguaçu
+192729,7,Faltas sofridas,Juan,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Luã Lucio,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Nathan,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Rafinha,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Samuel Granada,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Vandinho,1067,2,0,Nova Iguaçu
+192729,7,Faltas sofridas,Vinícius Matheus,1067,2,0,Nova Iguaçu
+192729,9,Impedimentos,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192729,9,Impedimentos,Samuel Granada,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Braian,2346,1,0,Audax
+192729,12,Perda da posse de bola,Fabinho,2346,1,0,Audax
+192729,12,Perda da posse de bola,Fernando Medeiros,2346,1,0,Audax
+192729,12,Perda da posse de bola,Fidel,2346,2,0,Audax
+192729,12,Perda da posse de bola,Gabriel Soares,2346,2,0,Audax
+192729,12,Perda da posse de bola,Hugo Sanches,2346,3,0,Audax
+192729,12,Perda da posse de bola,João Victor,2346,1,0,Audax
+192729,12,Perda da posse de bola,Julinho,2346,2,0,Audax
+192729,12,Perda da posse de bola,Léo Bueno,2346,2,0,Audax
+192729,12,Perda da posse de bola,Lucão,2346,1,0,Audax
+192729,12,Perda da posse de bola,Thiago Aperibé,2346,3,0,Audax
+192729,12,Perda da posse de bola,Vinícius Soares,2346,2,0,Audax
+192729,12,Perda da posse de bola,Andrey,1067,2,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Gabriel Canela,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Juan,1067,3,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Luã Lucio,1067,2,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Nathan,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Rafinha,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Samuel Granada,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Vandinho,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192729,12,Perda da posse de bola,Yan Everton,1067,1,0,Nova Iguaçu
+192729,25,Cartões amarelos,Gabriel Soares,2346,1,0,Audax
+192729,25,Cartões amarelos,João Victor,2346,1,0,Audax
+192729,25,Cartões amarelos,Gabriel Santana,1067,1,0,Nova Iguaçu
+192729,25,Cartões amarelos,Juan,1067,1,0,Nova Iguaçu
+192730,2,Passes,Bismarck ,1334,1,0,Resende
+192730,2,Passes,Brendon,1334,8,2,Resende
+192730,2,Passes,Douglas,1334,46,2,Resende
+192730,2,Passes,Édson Juninho,1334,43,7,Resende
+192730,2,Passes,Emanuel Biancucchi,1334,28,9,Resende
+192730,2,Passes,Felipe Souza,1334,9,1,Resende
+192730,2,Passes,Heitor,1334,28,1,Resende
+192730,2,Passes,Igor Bolt,1334,31,6,Resende
+192730,2,Passes,Jefferson,1334,16,0,Resende
+192730,2,Passes,Jeffinho,1334,13,6,Resende
+192730,2,Passes,Joanderson,1334,35,2,Resende
+192730,2,Passes,João Felipe,1334,33,2,Resende
+192730,2,Passes,Raphael Macena,1334,18,7,Resende
+192730,2,Passes,Zizu,1334,20,1,Resende
+192730,2,Passes,André Silva,1072,3,0,Portuguesa
+192730,2,Passes,Carlão,1072,12,0,Portuguesa
+192730,2,Passes,Guilherme,1072,25,5,Portuguesa
+192730,2,Passes,Jhonnatan,1072,29,5,Portuguesa
+192730,2,Passes,João Paulo,1072,19,6,Portuguesa
+192730,2,Passes,Joazi,1072,1,0,Portuguesa
+192730,2,Passes,Júnior Pirambu,1072,17,7,Portuguesa
+192730,2,Passes,Leandro Amaro,1072,13,0,Portuguesa
+192730,2,Passes,Marcão,1072,7,0,Portuguesa
+192730,2,Passes,Miller,1072,21,2,Portuguesa
+192730,2,Passes,Patrick Valverde,1072,4,0,Portuguesa
+192730,2,Passes,Rafael Pernão,1072,12,7,Portuguesa
+192730,2,Passes,Sidney,1072,23,4,Portuguesa
+192730,2,Passes,Victor Paraíba,1072,2,0,Portuguesa
+192730,2,Passes,Watson,1072,20,6,Portuguesa
+192730,2,Passes,Wellington César,1072,12,2,Portuguesa
+192730,3,Finalizações,Bismarck ,1334,1,0,Resende
+192730,3,Finalizações,Brendon,1334,1,0,Resende
+192730,3,Finalizações,Douglas,1334,1,1,Resende
+192730,3,Finalizações,Emanuel Biancucchi,1334,0,1,Resende
+192730,3,Finalizações,Igor Bolt,1334,0,1,Resende
+192730,3,Finalizações,Jeffinho,1334,0,2,Resende
+192730,3,Finalizações,Joanderson,1334,2,0,Resende
+192730,3,Finalizações,Raphael Macena,1334,3,1,Resende
+192730,3,Finalizações,Zizu,1334,0,2,Resende
+192730,3,Finalizações,Jhonnatan,1072,0,2,Portuguesa
+192730,3,Finalizações,João Paulo,1072,0,3,Portuguesa
+192730,3,Finalizações,Júnior Pirambu,1072,1,1,Portuguesa
+192730,3,Finalizações,Miller,1072,1,2,Portuguesa
+192730,3,Finalizações,Sidney,1072,0,1,Portuguesa
+192730,3,Finalizações,Watson,1072,0,1,Portuguesa
+192730,3,Finalizações,Wellington César,1072,0,2,Portuguesa
+192730,5,Desarmes,Douglas,1334,2,0,Resende
+192730,5,Desarmes,Édson Juninho,1334,0,1,Resende
+192730,5,Desarmes,Felipe Souza,1334,1,0,Resende
+192730,5,Desarmes,Igor Bolt,1334,2,1,Resende
+192730,5,Desarmes,Jeffinho,1334,1,0,Resende
+192730,5,Desarmes,Joanderson,1334,2,1,Resende
+192730,5,Desarmes,João Felipe,1334,1,0,Resende
+192730,5,Desarmes,Raphael Macena,1334,1,0,Resende
+192730,5,Desarmes,Zizu,1334,2,0,Resende
+192730,5,Desarmes,Guilherme,1072,2,1,Portuguesa
+192730,5,Desarmes,João Paulo,1072,3,0,Portuguesa
+192730,5,Desarmes,Júnior Pirambu,1072,1,0,Portuguesa
+192730,5,Desarmes,Leandro Amaro,1072,2,1,Portuguesa
+192730,5,Desarmes,Miller,1072,2,1,Portuguesa
+192730,5,Desarmes,Rafael Pernão,1072,1,0,Portuguesa
+192730,5,Desarmes,Sidney,1072,4,0,Portuguesa
+192730,5,Desarmes,Victor Paraíba,1072,1,0,Portuguesa
+192730,5,Desarmes,Watson,1072,5,1,Portuguesa
+192730,14,Cruzamentos,Brendon,1334,0,3,Resende
+192730,14,Cruzamentos,Douglas,1334,0,5,Resende
+192730,14,Cruzamentos,Édson Juninho,1334,1,1,Resende
+192730,14,Cruzamentos,Emanuel Biancucchi,1334,5,6,Resende
+192730,14,Cruzamentos,Felipe Souza,1334,1,0,Resende
+192730,14,Cruzamentos,Igor Bolt,1334,0,2,Resende
+192730,14,Cruzamentos,Jeffinho,1334,1,1,Resende
+192730,14,Cruzamentos,Raphael Macena,1334,0,3,Resende
+192730,14,Cruzamentos,Zizu,1334,0,1,Resende
+192730,14,Cruzamentos,Guilherme,1072,1,3,Portuguesa
+192730,14,Cruzamentos,Jhonnatan,1072,0,1,Portuguesa
+192730,14,Cruzamentos,João Paulo,1072,2,0,Portuguesa
+192730,14,Cruzamentos,Miller,1072,0,5,Portuguesa
+192730,14,Cruzamentos,Patrick Valverde,1072,0,1,Portuguesa
+192730,14,Cruzamentos,Watson,1072,0,2,Portuguesa
+192730,1,Lançamentos,Brendon,1334,0,2,Resende
+192730,1,Lançamentos,Douglas,1334,1,1,Resende
+192730,1,Lançamentos,Emanuel Biancucchi,1334,2,0,Resende
+192730,1,Lançamentos,Heitor,1334,1,2,Resende
+192730,1,Lançamentos,Igor Bolt,1334,0,1,Resende
+192730,1,Lançamentos,Jefferson,1334,4,2,Resende
+192730,1,Lançamentos,Joanderson,1334,1,0,Resende
+192730,1,Lançamentos,Zizu,1334,1,0,Resende
+192730,1,Lançamentos,Carlão,1072,10,8,Portuguesa
+192730,1,Lançamentos,Guilherme,1072,1,0,Portuguesa
+192730,1,Lançamentos,Jhonnatan,1072,2,2,Portuguesa
+192730,1,Lançamentos,Leandro Amaro,1072,0,1,Portuguesa
+192730,1,Lançamentos,Marcão,1072,0,1,Portuguesa
+192730,1,Lançamentos,Miller,1072,0,1,Portuguesa
+192730,1,Lançamentos,Sidney,1072,1,2,Portuguesa
+192730,1,Lançamentos,Watson,1072,0,1,Portuguesa
+192730,1,Lançamentos,Wellington César,1072,1,1,Portuguesa
+192730,24,Interceptações,Jeffinho,1334,1,0,Resende
+192730,24,Interceptações,João Felipe,1334,1,0,Resende
+192730,24,Interceptações,Zizu,1334,1,0,Resende
+192730,24,Interceptações,Guilherme,1072,0,2,Portuguesa
+192730,24,Interceptações,Jhonnatan,1072,1,0,Portuguesa
+192730,24,Interceptações,Júnior Pirambu,1072,1,0,Portuguesa
+192730,24,Interceptações,Leandro Amaro,1072,3,0,Portuguesa
+192730,24,Interceptações,Marcão,1072,0,1,Portuguesa
+192730,24,Interceptações,Sidney,1072,2,0,Portuguesa
+192730,24,Interceptações,Victor Paraíba,1072,1,0,Portuguesa
+192730,24,Interceptações,Watson,1072,1,0,Portuguesa
+192730,4,Dribles,Brendon,1334,2,0,Resende
+192730,4,Dribles,Douglas,1334,1,0,Resende
+192730,4,Dribles,Jeffinho,1334,3,0,Resende
+192730,4,Dribles,Jhonnatan,1072,0,1,Portuguesa
+192730,4,Dribles,João Paulo,1072,0,1,Portuguesa
+192730,4,Dribles,Júnior Pirambu,1072,0,1,Portuguesa
+192730,4,Dribles,Miller,1072,1,0,Portuguesa
+192730,4,Dribles,Watson,1072,0,1,Portuguesa
+192730,22,Viradas de jogo,Emanuel Biancucchi,1334,1,0,Resende
+192730,22,Viradas de jogo,Zizu,1334,1,0,Resende
+192730,22,Viradas de jogo,Jhonnatan,1072,2,1,Portuguesa
+192730,20,Posse de bola,Bismarck ,1334,8,0,Resende
+192730,20,Posse de bola,Brendon,1334,53,0,Resende
+192730,20,Posse de bola,Douglas,1334,181,0,Resende
+192730,20,Posse de bola,Édson Juninho,1334,139,0,Resende
+192730,20,Posse de bola,Emanuel Biancucchi,1334,159,0,Resende
+192730,20,Posse de bola,Felipe Souza,1334,37,0,Resende
+192730,20,Posse de bola,Heitor,1334,86,0,Resende
+192730,20,Posse de bola,Igor Bolt,1334,122,0,Resende
+192730,20,Posse de bola,Jefferson,1334,69,0,Resende
+192730,20,Posse de bola,Jeffinho,1334,119,0,Resende
+192730,20,Posse de bola,Joanderson,1334,102,0,Resende
+192730,20,Posse de bola,João Felipe,1334,99,0,Resende
+192730,20,Posse de bola,Raphael Macena,1334,76,0,Resende
+192730,20,Posse de bola,Zizu,1334,72,0,Resende
+192730,20,Posse de bola,André Silva,1072,15,0,Portuguesa
+192730,20,Posse de bola,Carlão,1072,133,0,Portuguesa
+192730,20,Posse de bola,Guilherme,1072,115,0,Portuguesa
+192730,20,Posse de bola,Jhonnatan,1072,119,0,Portuguesa
+192730,20,Posse de bola,João Paulo,1072,90,0,Portuguesa
+192730,20,Posse de bola,Joazi,1072,4,0,Portuguesa
+192730,20,Posse de bola,Júnior Pirambu,1072,68,0,Portuguesa
+192730,20,Posse de bola,Leandro Amaro,1072,48,0,Portuguesa
+192730,20,Posse de bola,Marcão,1072,28,0,Portuguesa
+192730,20,Posse de bola,Miller,1072,88,0,Portuguesa
+192730,20,Posse de bola,Patrick Valverde,1072,21,0,Portuguesa
+192730,20,Posse de bola,Rafael Pernão,1072,61,0,Portuguesa
+192730,20,Posse de bola,Sidney,1072,100,0,Portuguesa
+192730,20,Posse de bola,Victor Paraíba,1072,12,0,Portuguesa
+192730,20,Posse de bola,Watson,1072,113,0,Portuguesa
+192730,20,Posse de bola,Wellington César,1072,50,0,Portuguesa
+192730,8,Gols,Douglas,1334,1,0,Resende
+192730,28,Assistências para finalização,Douglas,1334,1,0,Resende
+192730,28,Assistências para finalização,Édson Juninho,1334,1,0,Resende
+192730,28,Assistências para finalização,Emanuel Biancucchi,1334,4,0,Resende
+192730,28,Assistências para finalização,Felipe Souza,1334,2,0,Resende
+192730,28,Assistências para finalização,Igor Bolt,1334,1,0,Resende
+192730,28,Assistências para finalização,Jeffinho,1334,1,0,Resende
+192730,28,Assistências para finalização,Carlão,1072,1,0,Portuguesa
+192730,28,Assistências para finalização,Guilherme,1072,2,0,Portuguesa
+192730,28,Assistências para finalização,Jhonnatan,1072,1,0,Portuguesa
+192730,28,Assistências para finalização,João Paulo,1072,3,0,Portuguesa
+192730,28,Assistências para finalização,Miller,1072,2,0,Portuguesa
+192730,28,Assistências para finalização,Wellington César,1072,1,0,Portuguesa
+192730,27,Assistências,Jeffinho,1334,1,0,Resende
+192730,15,Defesas,Douglas,1334,1,0,Resende
+192730,15,Defesas,Jefferson,1334,1,0,Resende
+192730,15,Defesas,Raphael Macena,1334,1,0,Resende
+192730,15,Defesas,Carlão,1072,3,0,Portuguesa
+192730,23,Defesas difíceis,Jefferson,1334,1,0,Resende
+192730,23,Defesas difíceis,Carlão,1072,4,0,Portuguesa
+192730,19,Rebatidas,Douglas,1334,6,0,Resende
+192730,19,Rebatidas,Édson Juninho,1334,4,0,Resende
+192730,19,Rebatidas,Heitor,1334,3,0,Resende
+192730,19,Rebatidas,Jefferson,1334,2,0,Resende
+192730,19,Rebatidas,Joanderson,1334,3,0,Resende
+192730,19,Rebatidas,João Felipe,1334,1,0,Resende
+192730,19,Rebatidas,Zizu,1334,1,0,Resende
+192730,19,Rebatidas,Jhonnatan,1072,4,0,Portuguesa
+192730,19,Rebatidas,Leandro Amaro,1072,3,0,Portuguesa
+192730,19,Rebatidas,Marcão,1072,4,0,Portuguesa
+192730,19,Rebatidas,Sidney,1072,2,0,Portuguesa
+192730,19,Rebatidas,Watson,1072,4,0,Portuguesa
+192730,19,Rebatidas,Wellington César,1072,1,0,Portuguesa
+192730,6,Faltas cometidas,Bismarck ,1334,2,0,Resende
+192730,6,Faltas cometidas,Douglas,1334,2,0,Resende
+192730,6,Faltas cometidas,Édson Juninho,1334,2,0,Resende
+192730,6,Faltas cometidas,Emanuel Biancucchi,1334,2,0,Resende
+192730,6,Faltas cometidas,Heitor,1334,1,0,Resende
+192730,6,Faltas cometidas,Jeffinho,1334,1,0,Resende
+192730,6,Faltas cometidas,Joanderson,1334,1,0,Resende
+192730,6,Faltas cometidas,João Felipe,1334,2,0,Resende
+192730,6,Faltas cometidas,Raphael Macena,1334,1,0,Resende
+192730,6,Faltas cometidas,Zizu,1334,3,0,Resende
+192730,6,Faltas cometidas,Guilherme,1072,2,0,Portuguesa
+192730,6,Faltas cometidas,Jhonnatan,1072,3,0,Portuguesa
+192730,6,Faltas cometidas,João Paulo,1072,1,0,Portuguesa
+192730,6,Faltas cometidas,Júnior Pirambu,1072,1,0,Portuguesa
+192730,6,Faltas cometidas,Marcão,1072,1,0,Portuguesa
+192730,6,Faltas cometidas,Rafael Pernão,1072,2,0,Portuguesa
+192730,6,Faltas cometidas,Sidney,1072,2,0,Portuguesa
+192730,6,Faltas cometidas,Victor Paraíba,1072,1,0,Portuguesa
+192730,6,Faltas cometidas,Wellington César,1072,5,0,Portuguesa
+192730,7,Faltas sofridas,Brendon,1334,1,0,Resende
+192730,7,Faltas sofridas,Douglas,1334,4,0,Resende
+192730,7,Faltas sofridas,Édson Juninho,1334,1,0,Resende
+192730,7,Faltas sofridas,Emanuel Biancucchi,1334,1,0,Resende
+192730,7,Faltas sofridas,Felipe Souza,1334,1,0,Resende
+192730,7,Faltas sofridas,Igor Bolt,1334,2,0,Resende
+192730,7,Faltas sofridas,Jeffinho,1334,5,0,Resende
+192730,7,Faltas sofridas,Joanderson,1334,1,0,Resende
+192730,7,Faltas sofridas,João Felipe,1334,1,0,Resende
+192730,7,Faltas sofridas,Carlão,1072,2,0,Portuguesa
+192730,7,Faltas sofridas,Guilherme,1072,5,0,Portuguesa
+192730,7,Faltas sofridas,Jhonnatan,1072,1,0,Portuguesa
+192730,7,Faltas sofridas,João Paulo,1072,2,0,Portuguesa
+192730,7,Faltas sofridas,Joazi,1072,1,0,Portuguesa
+192730,7,Faltas sofridas,Leandro Amaro,1072,1,0,Portuguesa
+192730,7,Faltas sofridas,Miller,1072,2,0,Portuguesa
+192730,7,Faltas sofridas,Sidney,1072,1,0,Portuguesa
+192730,7,Faltas sofridas,Watson,1072,1,0,Portuguesa
+192730,7,Faltas sofridas,Wellington César,1072,1,0,Portuguesa
+192730,9,Impedimentos,Jeffinho,1334,1,0,Resende
+192730,12,Perda da posse de bola,Brendon,1334,3,0,Resende
+192730,12,Perda da posse de bola,Douglas,1334,4,0,Resende
+192730,12,Perda da posse de bola,Édson Juninho,1334,2,0,Resende
+192730,12,Perda da posse de bola,Emanuel Biancucchi,1334,4,0,Resende
+192730,12,Perda da posse de bola,Felipe Souza,1334,2,0,Resende
+192730,12,Perda da posse de bola,Heitor,1334,1,0,Resende
+192730,12,Perda da posse de bola,Igor Bolt,1334,5,0,Resende
+192730,12,Perda da posse de bola,Jeffinho,1334,4,0,Resende
+192730,12,Perda da posse de bola,Joanderson,1334,1,0,Resende
+192730,12,Perda da posse de bola,João Felipe,1334,1,0,Resende
+192730,12,Perda da posse de bola,Raphael Macena,1334,3,0,Resende
+192730,12,Perda da posse de bola,André Silva,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Guilherme,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Jhonnatan,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,João Paulo,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Júnior Pirambu,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Miller,1072,5,0,Portuguesa
+192730,12,Perda da posse de bola,Patrick Valverde,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Rafael Pernão,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Victor Paraíba,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Watson,1072,6,0,Portuguesa
+192730,12,Perda da posse de bola,Brendon,1334,3,0,Resende
+192730,12,Perda da posse de bola,Douglas,1334,4,0,Resende
+192730,12,Perda da posse de bola,Édson Juninho,1334,2,0,Resende
+192730,12,Perda da posse de bola,Emanuel Biancucchi,1334,4,0,Resende
+192730,12,Perda da posse de bola,Felipe Souza,1334,2,0,Resende
+192730,12,Perda da posse de bola,Heitor,1334,1,0,Resende
+192730,12,Perda da posse de bola,Igor Bolt,1334,5,0,Resende
+192730,12,Perda da posse de bola,Jeffinho,1334,4,0,Resende
+192730,12,Perda da posse de bola,Joanderson,1334,1,0,Resende
+192730,12,Perda da posse de bola,João Felipe,1334,1,0,Resende
+192730,12,Perda da posse de bola,Raphael Macena,1334,3,0,Resende
+192730,12,Perda da posse de bola,André Silva,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Guilherme,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Jhonnatan,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,João Paulo,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Júnior Pirambu,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Miller,1072,5,0,Portuguesa
+192730,12,Perda da posse de bola,Patrick Valverde,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Rafael Pernão,1072,2,0,Portuguesa
+192730,12,Perda da posse de bola,Victor Paraíba,1072,1,0,Portuguesa
+192730,12,Perda da posse de bola,Watson,1072,6,0,Portuguesa
+192730,25,Cartões amarelos,João Paulo,1072,1,0,Portuguesa
+192730,25,Cartões amarelos,Sidney,1072,1,0,Portuguesa
+192730,25,Cartões amarelos,Victor Paraíba,1072,1,0,Portuguesa
+192730,25,Cartões amarelos,Watson,1072,1,0,Portuguesa
+192731,2,Passes,Abuda,1067,8,1,Nova Iguaçu
+192731,2,Passes,Andrey,1067,6,2,Nova Iguaçu
+192731,2,Passes,Digão,1067,9,3,Nova Iguaçu
+192731,2,Passes,Ewerton Ronaldinho,1067,1,2,Nova Iguaçu
+192731,2,Passes,Gabriel Pinheiro,1067,23,2,Nova Iguaçu
+192731,2,Passes,Gabriel Santana,1067,4,0,Nova Iguaçu
+192731,2,Passes,Juan,1067,8,1,Nova Iguaçu
+192731,2,Passes,Luã Lucio,1067,9,1,Nova Iguaçu
+192731,2,Passes,Luís Henrique,1067,27,0,Nova Iguaçu
+192731,2,Passes,Nathan,1067,29,2,Nova Iguaçu
+192731,2,Passes,Rafinha,1067,40,4,Nova Iguaçu
+192731,2,Passes,Samuel Granada,1067,7,3,Nova Iguaçu
+192731,2,Passes,Vandinho,1067,25,0,Nova Iguaçu
+192731,2,Passes,Vinícius Matheus,1067,15,2,Nova Iguaçu
+192731,2,Passes,Yan Everton,1067,12,4,Nova Iguaçu
+192731,2,Passes,Anderson Lessa,2346,2,0,Audax
+192731,2,Passes,Carlinhos,2346,14,4,Audax
+192731,2,Passes,Fabinho,2346,11,0,Audax
+192731,2,Passes,Fernando Medeiros,2346,41,3,Audax
+192731,2,Passes,Fidel,2346,15,3,Audax
+192731,2,Passes,Gabriel Soares,2346,30,3,Audax
+192731,2,Passes,Grafite,2346,15,1,Audax
+192731,2,Passes,Hugo Sanches,2346,23,2,Audax
+192731,2,Passes,João Victor,2346,14,0,Audax
+192731,2,Passes,Julinho,2346,41,4,Audax
+192731,2,Passes,Lucas Mota,2346,38,3,Audax
+192731,2,Passes,Max,2346,9,0,Audax
+192731,2,Passes,Romarinho,2346,30,2,Audax
+192731,2,Passes,Thiagão,2346,40,1,Audax
+192731,2,Passes,Thiago Aperibé,2346,1,1,Audax
+192731,2,Passes,Thomás Kayck,2346,42,3,Audax
+192731,3,Finalizações,Digão,1067,1,0,Nova Iguaçu
+192731,3,Finalizações,João Pedro,1067,1,0,Nova Iguaçu
+192731,3,Finalizações,Juan,1067,0,2,Nova Iguaçu
+192731,3,Finalizações,Luã Lucio,1067,0,1,Nova Iguaçu
+192731,3,Finalizações,Yan Everton,1067,1,0,Nova Iguaçu
+192731,3,Finalizações,Anderson Lessa,2346,0,1,Audax
+192731,3,Finalizações,Carlinhos,2346,3,2,Audax
+192731,3,Finalizações,Fernando Medeiros,2346,1,2,Audax
+192731,3,Finalizações,Fidel,2346,1,2,Audax
+192731,3,Finalizações,Hugo Sanches,2346,2,1,Audax
+192731,3,Finalizações,Romarinho,2346,0,4,Audax
+192731,3,Finalizações,Thomás Kayck,2346,1,0,Audax
+192731,5,Desarmes,Abuda,1067,2,0,Nova Iguaçu
+192731,5,Desarmes,Digão,1067,0,1,Nova Iguaçu
+192731,5,Desarmes,Gabriel Pinheiro,1067,2,0,Nova Iguaçu
+192731,5,Desarmes,Nathan,1067,1,0,Nova Iguaçu
+192731,5,Desarmes,Rafinha,1067,2,0,Nova Iguaçu
+192731,5,Desarmes,Vandinho,1067,1,1,Nova Iguaçu
+192731,5,Desarmes,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192731,5,Desarmes,Yan Everton,1067,3,0,Nova Iguaçu
+192731,5,Desarmes,Anderson Lessa,2346,1,0,Audax
+192731,5,Desarmes,Fernando Medeiros,2346,1,0,Audax
+192731,5,Desarmes,Fidel,2346,1,0,Audax
+192731,5,Desarmes,João Victor,2346,1,0,Audax
+192731,5,Desarmes,Julinho,2346,1,0,Audax
+192731,5,Desarmes,Romarinho,2346,0,1,Audax
+192731,5,Desarmes,Thomás Kayck,2346,1,1,Audax
+192731,14,Cruzamentos,Rafinha,1067,1,0,Nova Iguaçu
+192731,14,Cruzamentos,Yan Everton,1067,0,1,Nova Iguaçu
+192731,14,Cruzamentos,Anderson Lessa,2346,1,0,Audax
+192731,14,Cruzamentos,Fabinho,2346,1,4,Audax
+192731,14,Cruzamentos,Fernando Medeiros,2346,0,2,Audax
+192731,14,Cruzamentos,Grafite,2346,1,0,Audax
+192731,14,Cruzamentos,Hugo Sanches,2346,0,2,Audax
+192731,14,Cruzamentos,João Victor,2346,3,1,Audax
+192731,14,Cruzamentos,Julinho,2346,0,3,Audax
+192731,14,Cruzamentos,Lucas Mota,2346,0,3,Audax
+192731,14,Cruzamentos,Romarinho,2346,0,3,Audax
+192731,1,Lançamentos,Digão,1067,1,1,Nova Iguaçu
+192731,1,Lançamentos,Gabriel Pinheiro,1067,1,4,Nova Iguaçu
+192731,1,Lançamentos,Juan,1067,0,1,Nova Iguaçu
+192731,1,Lançamentos,Luã Lucio,1067,0,1,Nova Iguaçu
+192731,1,Lançamentos,Luís Henrique,1067,7,3,Nova Iguaçu
+192731,1,Lançamentos,Rafinha,1067,1,3,Nova Iguaçu
+192731,1,Lançamentos,Samuel Granada,1067,0,1,Nova Iguaçu
+192731,1,Lançamentos,Fabinho,2346,1,1,Audax
+192731,1,Lançamentos,Gabriel Soares,2346,1,1,Audax
+192731,1,Lançamentos,Julinho,2346,0,2,Audax
+192731,1,Lançamentos,Lucas Mota,2346,0,3,Audax
+192731,1,Lançamentos,Max,2346,0,2,Audax
+192731,1,Lançamentos,Romarinho,2346,2,0,Audax
+192731,1,Lançamentos,Thiagão,2346,0,2,Audax
+192731,1,Lançamentos,Thomás Kayck,2346,3,1,Audax
+192731,24,Interceptações,Vandinho,1067,1,0,Nova Iguaçu
+192731,24,Interceptações,Romarinho,2346,0,1,Audax
+192731,4,Dribles,Abuda,1067,1,0,Nova Iguaçu
+192731,4,Dribles,Luã Lucio,1067,0,1,Nova Iguaçu
+192731,4,Dribles,Rafinha,1067,2,0,Nova Iguaçu
+192731,4,Dribles,Samuel Granada,1067,0,1,Nova Iguaçu
+192731,4,Dribles,Yan Everton,1067,1,0,Nova Iguaçu
+192731,4,Dribles,Carlinhos,2346,1,0,Audax
+192731,4,Dribles,Fernando Medeiros,2346,0,1,Audax
+192731,4,Dribles,Fidel,2346,2,0,Audax
+192731,4,Dribles,Grafite,2346,2,0,Audax
+192731,4,Dribles,Julinho,2346,1,0,Audax
+192731,4,Dribles,Thiagão,2346,1,0,Audax
+192731,22,Viradas de jogo,Rafinha,1067,0,1,Nova Iguaçu
+192731,20,Posse de bola,Abuda,1067,38,0,Nova Iguaçu
+192731,20,Posse de bola,Andrey,1067,40,0,Nova Iguaçu
+192731,20,Posse de bola,Digão,1067,58,0,Nova Iguaçu
+192731,20,Posse de bola,Ewerton Ronaldinho,1067,14,0,Nova Iguaçu
+192731,20,Posse de bola,Gabriel Pinheiro,1067,123,0,Nova Iguaçu
+192731,20,Posse de bola,Gabriel Santana,1067,24,0,Nova Iguaçu
+192731,20,Posse de bola,João Pedro,1067,2,0,Nova Iguaçu
+192731,20,Posse de bola,Juan,1067,40,0,Nova Iguaçu
+192731,20,Posse de bola,Luã Lucio,1067,43,0,Nova Iguaçu
+192731,20,Posse de bola,Luís Henrique,1067,132,0,Nova Iguaçu
+192731,20,Posse de bola,Nathan,1067,87,0,Nova Iguaçu
+192731,20,Posse de bola,Rafinha,1067,126,0,Nova Iguaçu
+192731,20,Posse de bola,Samuel Granada,1067,40,0,Nova Iguaçu
+192731,20,Posse de bola,Vandinho,1067,68,0,Nova Iguaçu
+192731,20,Posse de bola,Vinícius Matheus,1067,54,0,Nova Iguaçu
+192731,20,Posse de bola,Yan Everton,1067,79,0,Nova Iguaçu
+192731,20,Posse de bola,Anderson Lessa,2346,14,0,Audax
+192731,20,Posse de bola,Carlinhos,2346,78,0,Audax
+192731,20,Posse de bola,Fabinho,2346,57,0,Audax
+192731,20,Posse de bola,Fernando Medeiros,2346,122,0,Audax
+192731,20,Posse de bola,Fidel,2346,107,0,Audax
+192731,20,Posse de bola,Gabriel Soares,2346,85,0,Audax
+192731,20,Posse de bola,Grafite,2346,67,0,Audax
+192731,20,Posse de bola,Hugo Sanches,2346,69,0,Audax
+192731,20,Posse de bola,João Victor,2346,61,0,Audax
+192731,20,Posse de bola,Julinho,2346,156,0,Audax
+192731,20,Posse de bola,Lucas Mota,2346,143,0,Audax
+192731,20,Posse de bola,Max,2346,35,0,Audax
+192731,20,Posse de bola,Romarinho,2346,103,0,Audax
+192731,20,Posse de bola,Thiagão,2346,127,0,Audax
+192731,20,Posse de bola,Thiago Aperibé,2346,26,0,Audax
+192731,20,Posse de bola,Thomás Kayck,2346,163,0,Audax
+192731,8,Gols,João Pedro,1067,1,0,Nova Iguaçu
+192731,8,Gols,Yan Everton,1067,1,0,Nova Iguaçu
+192731,8,Gols,Fidel,2346,1,0,Audax
+192731,28,Assistências para finalização,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192731,28,Assistências para finalização,Rafinha,1067,1,0,Nova Iguaçu
+192731,28,Assistências para finalização,Yan Everton,1067,1,0,Nova Iguaçu
+192731,28,Assistências para finalização,Anderson Lessa,2346,1,0,Audax
+192731,28,Assistências para finalização,Carlinhos,2346,2,0,Audax
+192731,28,Assistências para finalização,Fabinho,2346,1,0,Audax
+192731,28,Assistências para finalização,Fernando Medeiros,2346,3,0,Audax
+192731,28,Assistências para finalização,Gabriel Soares,2346,2,0,Audax
+192731,28,Assistências para finalização,Hugo Sanches,2346,1,0,Audax
+192731,28,Assistências para finalização,João Victor,2346,2,0,Audax
+192731,28,Assistências para finalização,Romarinho,2346,2,0,Audax
+192731,27,Assistências,Luã Lucio,1067,1,0,Nova Iguaçu
+192731,27,Assistências,Samuel Granada,1067,1,0,Nova Iguaçu
+192731,27,Assistências,Carlinhos,2346,1,0,Audax
+192731,15,Defesas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192731,15,Defesas,Luís Henrique,1067,3,0,Nova Iguaçu
+192731,15,Defesas,Nathan,1067,2,0,Nova Iguaçu
+192731,15,Defesas,Fabinho,2346,1,0,Audax
+192731,15,Defesas,Max,2346,1,0,Audax
+192731,23,Defesas difíceis,Luís Henrique,1067,1,0,Nova Iguaçu
+192731,19,Rebatidas,Abuda,1067,3,0,Nova Iguaçu
+192731,19,Rebatidas,Gabriel Pinheiro,1067,6,0,Nova Iguaçu
+192731,19,Rebatidas,Gabriel Santana,1067,3,0,Nova Iguaçu
+192731,19,Rebatidas,Luís Henrique,1067,2,0,Nova Iguaçu
+192731,19,Rebatidas,Nathan,1067,5,0,Nova Iguaçu
+192731,19,Rebatidas,Rafinha,1067,1,0,Nova Iguaçu
+192731,19,Rebatidas,Vandinho,1067,1,0,Nova Iguaçu
+192731,19,Rebatidas,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192731,19,Rebatidas,Julinho,2346,2,0,Audax
+192731,19,Rebatidas,Lucas Mota,2346,1,0,Audax
+192731,19,Rebatidas,Thiagão,2346,1,0,Audax
+192731,19,Rebatidas,Thomás Kayck,2346,4,0,Audax
+192731,6,Faltas cometidas,Abuda,1067,2,0,Nova Iguaçu
+192731,6,Faltas cometidas,Andrey,1067,1,0,Nova Iguaçu
+192731,6,Faltas cometidas,Gabriel Pinheiro,1067,2,0,Nova Iguaçu
+192731,6,Faltas cometidas,Gabriel Santana,1067,2,0,Nova Iguaçu
+192731,6,Faltas cometidas,Juan,1067,1,0,Nova Iguaçu
+192731,6,Faltas cometidas,Luã Lucio,1067,1,0,Nova Iguaçu
+192731,6,Faltas cometidas,Nathan,1067,2,0,Nova Iguaçu
+192731,6,Faltas cometidas,Rafinha,1067,1,0,Nova Iguaçu
+192731,6,Faltas cometidas,Samuel Granada,1067,2,0,Nova Iguaçu
+192731,6,Faltas cometidas,Vandinho,1067,3,0,Nova Iguaçu
+192731,6,Faltas cometidas,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192731,6,Faltas cometidas,Anderson Lessa,2346,1,0,Audax
+192731,6,Faltas cometidas,Carlinhos,2346,1,0,Audax
+192731,6,Faltas cometidas,Fernando Medeiros,2346,2,0,Audax
+192731,6,Faltas cometidas,Fidel,2346,3,0,Audax
+192731,6,Faltas cometidas,Gabriel Soares,2346,1,0,Audax
+192731,6,Faltas cometidas,João Victor,2346,1,0,Audax
+192731,6,Faltas cometidas,Julinho,2346,1,0,Audax
+192731,6,Faltas cometidas,Lucas Mota,2346,2,0,Audax
+192731,6,Faltas cometidas,Romarinho,2346,2,0,Audax
+192731,6,Faltas cometidas,Thiagão,2346,3,0,Audax
+192731,7,Faltas sofridas,Abuda,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Andrey,1067,3,0,Nova Iguaçu
+192731,7,Faltas sofridas,Digão,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Ewerton Ronaldinho,1067,3,0,Nova Iguaçu
+192731,7,Faltas sofridas,Juan,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Luã Lucio,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Nathan,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Samuel Granada,1067,2,0,Nova Iguaçu
+192731,7,Faltas sofridas,Vandinho,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192731,7,Faltas sofridas,Yan Everton,1067,2,0,Nova Iguaçu
+192731,7,Faltas sofridas,Carlinhos,2346,6,0,Audax
+192731,7,Faltas sofridas,Fabinho,2346,1,0,Audax
+192731,7,Faltas sofridas,Fidel,2346,3,0,Audax
+192731,7,Faltas sofridas,Gabriel Soares,2346,1,0,Audax
+192731,7,Faltas sofridas,Grafite,2346,1,0,Audax
+192731,7,Faltas sofridas,Hugo Sanches,2346,1,0,Audax
+192731,7,Faltas sofridas,João Victor,2346,1,0,Audax
+192731,7,Faltas sofridas,Julinho,2346,1,0,Audax
+192731,7,Faltas sofridas,Romarinho,2346,2,0,Audax
+192731,7,Faltas sofridas,Thomás Kayck,2346,3,0,Audax
+192731,9,Impedimentos,Yan Everton,1067,2,0,Nova Iguaçu
+192731,9,Impedimentos,Carlinhos,2346,2,0,Audax
+192731,12,Perda da posse de bola,Abuda,1067,1,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Andrey,1067,8,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Digão,1067,1,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Gabriel Santana,1067,2,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Juan,1067,4,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Luã Lucio,1067,1,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Rafinha,1067,2,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Samuel Granada,1067,4,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Vandinho,1067,1,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Yan Everton,1067,8,0,Nova Iguaçu
+192731,12,Perda da posse de bola,Anderson Lessa,2346,1,0,Audax
+192731,12,Perda da posse de bola,Carlinhos,2346,5,0,Audax
+192731,12,Perda da posse de bola,Fabinho,2346,1,0,Audax
+192731,12,Perda da posse de bola,Fernando Medeiros,2346,3,0,Audax
+192731,12,Perda da posse de bola,Fidel,2346,3,0,Audax
+192731,12,Perda da posse de bola,Gabriel Soares,2346,1,0,Audax
+192731,12,Perda da posse de bola,Grafite,2346,3,0,Audax
+192731,12,Perda da posse de bola,Hugo Sanches,2346,2,0,Audax
+192731,12,Perda da posse de bola,João Victor,2346,1,0,Audax
+192731,12,Perda da posse de bola,Julinho,2346,2,0,Audax
+192731,12,Perda da posse de bola,Lucas Mota,2346,1,0,Audax
+192731,12,Perda da posse de bola,Romarinho,2346,1,0,Audax
+192731,25,Cartões amarelos,Abuda,1067,1,0,Nova Iguaçu
+192731,25,Cartões amarelos,Gabriel Santana,1067,1,0,Nova Iguaçu
+192731,25,Cartões amarelos,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192731,25,Cartões amarelos,Carlinhos,2346,1,0,Audax
+192731,25,Cartões amarelos,Fernando Medeiros,2346,1,0,Audax
+192731,25,Cartões amarelos,Gabriel Soares,2346,1,0,Audax
+192731,25,Cartões amarelos,Julinho,2346,1,0,Audax
+192731,25,Cartões amarelos,Romarinho,2346,1,0,Audax
+192731,25,Cartões amarelos,Thiagão,2346,1,0,Audax
+192732,2,Passes,André Silva,1072,18,0,Portuguesa
+192732,2,Passes,Cafu,1072,4,1,Portuguesa
+192732,2,Passes,Carlão,1072,7,0,Portuguesa
+192732,2,Passes,Guilherme,1072,19,2,Portuguesa
+192732,2,Passes,João Paulo,1072,27,7,Portuguesa
+192732,2,Passes,Joazi,1072,16,3,Portuguesa
+192732,2,Passes,Júnior Pirambu,1072,5,6,Portuguesa
+192732,2,Passes,Leandro Amaro,1072,25,3,Portuguesa
+192732,2,Passes,Marcão,1072,28,2,Portuguesa
+192732,2,Passes,Miller,1072,5,0,Portuguesa
+192732,2,Passes,Netinho,1072,38,3,Portuguesa
+192732,2,Passes,Patrick Valverde,1072,17,1,Portuguesa
+192732,2,Passes,Rafael Pernão,1072,21,3,Portuguesa
+192732,2,Passes,Sidney,1072,27,2,Portuguesa
+192732,2,Passes,Watson,1072,25,0,Portuguesa
+192732,2,Passes,Brendon,1334,14,1,Resende
+192732,2,Passes,Douglas,1334,36,3,Resende
+192732,2,Passes,Édson Juninho,1334,44,10,Resende
+192732,2,Passes,Emanuel Biancucchi,1334,25,4,Resende
+192732,2,Passes,Felipe Souza,1334,1,1,Resende
+192732,2,Passes,Heitor,1334,26,0,Resende
+192732,2,Passes,Igor Bolt,1334,22,9,Resende
+192732,2,Passes,Ingro,1334,3,0,Resende
+192732,2,Passes,Jefferson,1334,20,0,Resende
+192732,2,Passes,Jeffinho,1334,16,3,Resende
+192732,2,Passes,Joanderson,1334,24,0,Resende
+192732,2,Passes,João Felipe,1334,26,3,Resende
+192732,2,Passes,Pedro Medina,1334,3,2,Resende
+192732,2,Passes,Raphael Macena,1334,9,6,Resende
+192732,2,Passes,Zizu,1334,20,5,Resende
+192732,3,Finalizações,André Silva,1072,2,1,Portuguesa
+192732,3,Finalizações,Cafu,1072,0,1,Portuguesa
+192732,3,Finalizações,Guilherme,1072,0,1,Portuguesa
+192732,3,Finalizações,João Paulo,1072,1,2,Portuguesa
+192732,3,Finalizações,Joazi,1072,0,1,Portuguesa
+192732,3,Finalizações,Júnior Pirambu,1072,1,1,Portuguesa
+192732,3,Finalizações,Leandro Amaro,1072,2,1,Portuguesa
+192732,3,Finalizações,Netinho,1072,1,1,Portuguesa
+192732,3,Finalizações,Rafael Pernão,1072,2,2,Portuguesa
+192732,3,Finalizações,Watson,1072,0,1,Portuguesa
+192732,3,Finalizações,Brendon,1334,0,1,Resende
+192732,3,Finalizações,Douglas,1334,0,1,Resende
+192732,3,Finalizações,Emanuel Biancucchi,1334,1,3,Resende
+192732,3,Finalizações,Heitor,1334,0,1,Resende
+192732,3,Finalizações,Igor Bolt,1334,0,1,Resende
+192732,3,Finalizações,Jeffinho,1334,3,1,Resende
+192732,3,Finalizações,João Felipe,1334,0,2,Resende
+192732,3,Finalizações,Raphael Macena,1334,1,1,Resende
+192732,5,Desarmes,Leandro Amaro,1072,2,0,Portuguesa
+192732,5,Desarmes,Marcão,1072,0,1,Portuguesa
+192732,5,Desarmes,Netinho,1072,1,0,Portuguesa
+192732,5,Desarmes,Rafael Pernão,1072,1,0,Portuguesa
+192732,5,Desarmes,Sidney,1072,1,0,Portuguesa
+192732,5,Desarmes,Douglas,1334,1,0,Resende
+192732,5,Desarmes,Édson Juninho,1334,2,1,Resende
+192732,5,Desarmes,Emanuel Biancucchi,1334,1,1,Resende
+192732,5,Desarmes,Heitor,1334,1,0,Resende
+192732,5,Desarmes,Igor Bolt,1334,3,0,Resende
+192732,5,Desarmes,Jeffinho,1334,1,0,Resende
+192732,5,Desarmes,Joanderson,1334,2,0,Resende
+192732,5,Desarmes,João Felipe,1334,2,0,Resende
+192732,5,Desarmes,Pedro Medina,1334,0,1,Resende
+192732,5,Desarmes,Zizu,1334,3,0,Resende
+192732,14,Cruzamentos,André Silva,1072,5,6,Portuguesa
+192732,14,Cruzamentos,Guilherme,1072,0,2,Portuguesa
+192732,14,Cruzamentos,João Paulo,1072,0,3,Portuguesa
+192732,14,Cruzamentos,Joazi,1072,1,2,Portuguesa
+192732,14,Cruzamentos,Marcão,1072,1,2,Portuguesa
+192732,14,Cruzamentos,Miller,1072,1,2,Portuguesa
+192732,14,Cruzamentos,Patrick Valverde,1072,1,0,Portuguesa
+192732,14,Cruzamentos,Rafael Pernão,1072,1,1,Portuguesa
+192732,14,Cruzamentos,Watson,1072,2,2,Portuguesa
+192732,14,Cruzamentos,Douglas,1334,2,3,Resende
+192732,14,Cruzamentos,Édson Juninho,1334,0,3,Resende
+192732,14,Cruzamentos,Emanuel Biancucchi,1334,1,1,Resende
+192732,14,Cruzamentos,Igor Bolt,1334,1,0,Resende
+192732,14,Cruzamentos,Jeffinho,1334,1,0,Resende
+192732,14,Cruzamentos,Raphael Macena,1334,2,3,Resende
+192732,14,Cruzamentos,Zizu,1334,1,2,Resende
+192732,1,Lançamentos,André Silva,1072,1,1,Portuguesa
+192732,1,Lançamentos,Carlão,1072,4,9,Portuguesa
+192732,1,Lançamentos,João Paulo,1072,0,1,Portuguesa
+192732,1,Lançamentos,Leandro Amaro,1072,1,1,Portuguesa
+192732,1,Lançamentos,Marcão,1072,0,1,Portuguesa
+192732,1,Lançamentos,Miller,1072,0,1,Portuguesa
+192732,1,Lançamentos,Netinho,1072,1,1,Portuguesa
+192732,1,Lançamentos,Patrick Valverde,1072,0,2,Portuguesa
+192732,1,Lançamentos,Sidney,1072,0,1,Portuguesa
+192732,1,Lançamentos,Édson Juninho,1334,3,2,Resende
+192732,1,Lançamentos,Emanuel Biancucchi,1334,2,1,Resende
+192732,1,Lançamentos,Heitor,1334,0,7,Resende
+192732,1,Lançamentos,Jefferson,1334,0,13,Resende
+192732,1,Lançamentos,Joanderson,1334,2,2,Resende
+192732,1,Lançamentos,João Felipe,1334,1,1,Resende
+192732,24,Interceptações,Leandro Amaro,1072,1,0,Portuguesa
+192732,24,Interceptações,Marcão,1072,0,1,Portuguesa
+192732,24,Interceptações,Netinho,1072,2,0,Portuguesa
+192732,24,Interceptações,Rafael Pernão,1072,1,0,Portuguesa
+192732,24,Interceptações,Brendon,1334,1,0,Resende
+192732,24,Interceptações,Douglas,1334,2,0,Resende
+192732,24,Interceptações,Joanderson,1334,0,1,Resende
+192732,4,Dribles,André Silva,1072,3,1,Portuguesa
+192732,4,Dribles,Júnior Pirambu,1072,0,1,Portuguesa
+192732,4,Dribles,Netinho,1072,2,0,Portuguesa
+192732,4,Dribles,Rafael Pernão,1072,2,1,Portuguesa
+192732,4,Dribles,Brendon,1334,2,0,Resende
+192732,4,Dribles,Douglas,1334,1,2,Resende
+192732,4,Dribles,Édson Juninho,1334,3,0,Resende
+192732,4,Dribles,Emanuel Biancucchi,1334,1,1,Resende
+192732,4,Dribles,Igor Bolt,1334,1,0,Resende
+192732,4,Dribles,Ingro,1334,2,0,Resende
+192732,4,Dribles,Jeffinho,1334,2,3,Resende
+192732,22,Viradas de jogo,João Paulo,1072,2,0,Portuguesa
+192732,22,Viradas de jogo,Sidney,1072,1,0,Portuguesa
+192732,22,Viradas de jogo,Douglas,1334,1,0,Resende
+192732,22,Viradas de jogo,Édson Juninho,1334,1,0,Resende
+192732,22,Viradas de jogo,Emanuel Biancucchi,1334,1,0,Resende
+192732,22,Viradas de jogo,Igor Bolt,1334,1,0,Resende
+192732,20,Posse de bola,André Silva,1072,111,0,Portuguesa
+192732,20,Posse de bola,Cafu,1072,12,0,Portuguesa
+192732,20,Posse de bola,Carlão,1072,90,0,Portuguesa
+192732,20,Posse de bola,Guilherme,1072,79,0,Portuguesa
+192732,20,Posse de bola,João Paulo,1072,132,0,Portuguesa
+192732,20,Posse de bola,Joazi,1072,89,0,Portuguesa
+192732,20,Posse de bola,Júnior Pirambu,1072,35,0,Portuguesa
+192732,20,Posse de bola,Leandro Amaro,1072,126,0,Portuguesa
+192732,20,Posse de bola,Marcão,1072,117,0,Portuguesa
+192732,20,Posse de bola,Miller,1072,37,0,Portuguesa
+192732,20,Posse de bola,Netinho,1072,125,0,Portuguesa
+192732,20,Posse de bola,Patrick Valverde,1072,55,0,Portuguesa
+192732,20,Posse de bola,Rafael Pernão,1072,112,0,Portuguesa
+192732,20,Posse de bola,Raphael Carioca,1072,4,0,Portuguesa
+192732,20,Posse de bola,Sidney,1072,76,0,Portuguesa
+192732,20,Posse de bola,Watson,1072,109,0,Portuguesa
+192732,20,Posse de bola,Brendon,1334,50,0,Resende
+192732,20,Posse de bola,Douglas,1334,133,0,Resende
+192732,20,Posse de bola,Édson Juninho,1334,171,0,Resende
+192732,20,Posse de bola,Emanuel Biancucchi,1334,98,0,Resende
+192732,20,Posse de bola,Felipe Souza,1334,4,0,Resende
+192732,20,Posse de bola,Heitor,1334,98,0,Resende
+192732,20,Posse de bola,Igor Bolt,1334,106,0,Resende
+192732,20,Posse de bola,Ingro,1334,18,0,Resende
+192732,20,Posse de bola,Jefferson,1334,164,0,Resende
+192732,20,Posse de bola,Jeffinho,1334,89,0,Resende
+192732,20,Posse de bola,Joanderson,1334,95,0,Resende
+192732,20,Posse de bola,João Felipe,1334,90,0,Resende
+192732,20,Posse de bola,Pedro Medina,1334,16,0,Resende
+192732,20,Posse de bola,Raphael Macena,1334,82,0,Resende
+192732,20,Posse de bola,Zizu,1334,79,0,Resende
+192732,8,Gols,Júnior Pirambu,1072,1,0,Portuguesa
+192732,8,Gols,Leandro Amaro,1072,1,0,Portuguesa
+192732,8,Gols,Emanuel Biancucchi,1334,1,0,Resende
+192732,8,Gols,Raphael Macena,1334,1,0,Resende
+192732,28,Assistências para finalização,André Silva,1072,4,0,Portuguesa
+192732,28,Assistências para finalização,Cafu,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,João Paulo,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Joazi,1072,2,0,Portuguesa
+192732,28,Assistências para finalização,Leandro Amaro,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Miller,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Netinho,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Patrick Valverde,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Rafael Pernão,1072,2,0,Portuguesa
+192732,28,Assistências para finalização,Sidney,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Watson,1072,1,0,Portuguesa
+192732,28,Assistências para finalização,Douglas,1334,1,0,Resende
+192732,28,Assistências para finalização,Édson Juninho,1334,1,0,Resende
+192732,28,Assistências para finalização,Emanuel Biancucchi,1334,2,0,Resende
+192732,28,Assistências para finalização,Igor Bolt,1334,2,0,Resende
+192732,28,Assistências para finalização,Jeffinho,1334,1,0,Resende
+192732,28,Assistências para finalização,Raphael Macena,1334,1,0,Resende
+192732,28,Assistências para finalização,Zizu,1334,1,0,Resende
+192732,27,Assistências,André Silva,1072,2,0,Portuguesa
+192732,27,Assistências,Brendon,1334,1,0,Resende
+192732,27,Assistências,Douglas,1334,1,0,Resende
+192732,15,Defesas,Carlão,1072,1,0,Portuguesa
+192732,15,Defesas,Leandro Amaro,1072,3,0,Portuguesa
+192732,15,Defesas,Édson Juninho,1334,1,0,Resende
+192732,15,Defesas,Jefferson,1334,3,0,Resende
+192732,15,Defesas,Joanderson,1334,3,0,Resende
+192732,23,Defesas difíceis,Carlão,1072,2,0,Portuguesa
+192732,23,Defesas difíceis,Jefferson,1334,3,0,Resende
+192732,19,Rebatidas,Carlão,1072,2,0,Portuguesa
+192732,19,Rebatidas,Guilherme,1072,1,0,Portuguesa
+192732,19,Rebatidas,Joazi,1072,3,0,Portuguesa
+192732,19,Rebatidas,Leandro Amaro,1072,13,0,Portuguesa
+192732,19,Rebatidas,Marcão,1072,10,0,Portuguesa
+192732,19,Rebatidas,Netinho,1072,1,0,Portuguesa
+192732,19,Rebatidas,Rafael Pernão,1072,1,0,Portuguesa
+192732,19,Rebatidas,Sidney,1072,1,0,Portuguesa
+192732,19,Rebatidas,Watson,1072,4,0,Portuguesa
+192732,19,Rebatidas,Brendon,1334,1,0,Resende
+192732,19,Rebatidas,Douglas,1334,6,0,Resende
+192732,19,Rebatidas,Édson Juninho,1334,3,0,Resende
+192732,19,Rebatidas,Emanuel Biancucchi,1334,2,0,Resende
+192732,19,Rebatidas,Heitor,1334,4,0,Resende
+192732,19,Rebatidas,Igor Bolt,1334,2,0,Resende
+192732,19,Rebatidas,Jefferson,1334,2,0,Resende
+192732,19,Rebatidas,Jeffinho,1334,1,0,Resende
+192732,19,Rebatidas,Joanderson,1334,4,0,Resende
+192732,19,Rebatidas,João Felipe,1334,3,0,Resende
+192732,19,Rebatidas,Pedro Medina,1334,1,0,Resende
+192732,19,Rebatidas,Raphael Macena,1334,3,0,Resende
+192732,6,Faltas cometidas,Guilherme,1072,2,0,Portuguesa
+192732,6,Faltas cometidas,João Paulo,1072,2,0,Portuguesa
+192732,6,Faltas cometidas,Leandro Amaro,1072,3,0,Portuguesa
+192732,6,Faltas cometidas,Marcão,1072,1,0,Portuguesa
+192732,6,Faltas cometidas,Miller,1072,2,0,Portuguesa
+192732,6,Faltas cometidas,Netinho,1072,1,0,Portuguesa
+192732,6,Faltas cometidas,Rafael Pernão,1072,3,0,Portuguesa
+192732,6,Faltas cometidas,Sidney,1072,1,0,Portuguesa
+192732,6,Faltas cometidas,Watson,1072,4,0,Portuguesa
+192732,6,Faltas cometidas,Brendon,1334,2,0,Resende
+192732,6,Faltas cometidas,Douglas,1334,2,0,Resende
+192732,6,Faltas cometidas,Édson Juninho,1334,1,0,Resende
+192732,6,Faltas cometidas,Heitor,1334,2,0,Resende
+192732,6,Faltas cometidas,Igor Bolt,1334,3,0,Resende
+192732,6,Faltas cometidas,Ingro,1334,1,0,Resende
+192732,6,Faltas cometidas,Jeffinho,1334,3,0,Resende
+192732,6,Faltas cometidas,Joanderson,1334,1,0,Resende
+192732,6,Faltas cometidas,João Felipe,1334,4,0,Resende
+192732,6,Faltas cometidas,Raphael Macena,1334,2,0,Resende
+192732,7,Faltas sofridas,André Silva,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Guilherme,1072,2,0,Portuguesa
+192732,7,Faltas sofridas,João Paulo,1072,4,0,Portuguesa
+192732,7,Faltas sofridas,Joazi,1072,3,0,Portuguesa
+192732,7,Faltas sofridas,Júnior Pirambu,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Leandro Amaro,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Marcão,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Netinho,1072,2,0,Portuguesa
+192732,7,Faltas sofridas,Patrick Valverde,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Rafael Pernão,1072,2,0,Portuguesa
+192732,7,Faltas sofridas,Raphael Carioca,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Sidney,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Watson,1072,1,0,Portuguesa
+192732,7,Faltas sofridas,Douglas,1334,3,0,Resende
+192732,7,Faltas sofridas,Édson Juninho,1334,2,0,Resende
+192732,7,Faltas sofridas,Emanuel Biancucchi,1334,3,0,Resende
+192732,7,Faltas sofridas,Igor Bolt,1334,1,0,Resende
+192732,7,Faltas sofridas,Ingro,1334,1,0,Resende
+192732,7,Faltas sofridas,Jefferson,1334,1,0,Resende
+192732,7,Faltas sofridas,Jeffinho,1334,4,0,Resende
+192732,7,Faltas sofridas,Joanderson,1334,1,0,Resende
+192732,7,Faltas sofridas,João Felipe,1334,1,0,Resende
+192732,7,Faltas sofridas,Zizu,1334,2,0,Resende
+192732,9,Impedimentos,André Silva,1072,1,0,Portuguesa
+192732,9,Impedimentos,Júnior Pirambu,1072,1,0,Portuguesa
+192732,9,Impedimentos,Raphael Macena,1334,1,0,Resende
+192732,9,Impedimentos,Zizu,1334,1,0,Resende
+192732,12,Perda da posse de bola,André Silva,1072,1,0,Portuguesa
+192732,12,Perda da posse de bola,Guilherme,1072,4,0,Portuguesa
+192732,12,Perda da posse de bola,João Paulo,1072,1,0,Portuguesa
+192732,12,Perda da posse de bola,Joazi,1072,1,0,Portuguesa
+192732,12,Perda da posse de bola,Leandro Amaro,1072,1,0,Portuguesa
+192732,12,Perda da posse de bola,Miller,1072,4,0,Portuguesa
+192732,12,Perda da posse de bola,Netinho,1072,2,0,Portuguesa
+192732,12,Perda da posse de bola,Patrick Valverde,1072,1,0,Portuguesa
+192732,12,Perda da posse de bola,Rafael Pernão,1072,3,0,Portuguesa
+192732,12,Perda da posse de bola,Watson,1072,2,0,Portuguesa
+192732,12,Perda da posse de bola,Brendon,1334,2,0,Resende
+192732,12,Perda da posse de bola,Douglas,1334,1,0,Resende
+192732,12,Perda da posse de bola,Édson Juninho,1334,5,0,Resende
+192732,12,Perda da posse de bola,Emanuel Biancucchi,1334,1,0,Resende
+192732,12,Perda da posse de bola,Igor Bolt,1334,2,0,Resende
+192732,12,Perda da posse de bola,Jeffinho,1334,3,0,Resende
+192732,12,Perda da posse de bola,Joanderson,1334,1,0,Resende
+192732,12,Perda da posse de bola,João Felipe,1334,1,0,Resende
+192732,12,Perda da posse de bola,Pedro Medina,1334,1,0,Resende
+192732,12,Perda da posse de bola,Raphael Macena,1334,8,0,Resende
+192732,12,Perda da posse de bola,Zizu,1334,2,0,Resende
+192732,25,Cartões amarelos,Rafael Pernão,1072,1,0,Portuguesa
+192732,25,Cartões amarelos,Heitor,1334,1,0,Resende
+192732,25,Cartões amarelos,Igor Bolt,1334,1,0,Resende
+192732,25,Cartões amarelos,Jefferson,1334,1,0,Resende
+192732,25,Cartões amarelos,João Felipe,1334,1,0,Resende
+192735,2,Passes,Bismarck ,1334,3,0,Resende
+192735,2,Passes,Brendon,1334,7,1,Resende
+192735,2,Passes,Douglas,1334,30,4,Resende
+192735,2,Passes,Édson Juninho,1334,31,5,Resende
+192735,2,Passes,Emanuel Biancucchi,1334,20,0,Resende
+192735,2,Passes,Heitor,1334,27,1,Resende
+192735,2,Passes,Igor Bolt,1334,17,5,Resende
+192735,2,Passes,Ingro,1334,9,1,Resende
+192735,2,Passes,Jefferson,1334,17,0,Resende
+192735,2,Passes,Jeffinho,1334,13,3,Resende
+192735,2,Passes,Joanderson,1334,29,3,Resende
+192735,2,Passes,João Felipe,1334,14,3,Resende
+192735,2,Passes,Pedro Medina,1334,15,1,Resende
+192735,2,Passes,Raphael Macena,1334,10,3,Resende
+192735,2,Passes,Zizu,1334,10,3,Resende
+192735,2,Passes,André Santos,1067,14,1,Nova Iguaçu
+192735,2,Passes,Carlos Henrique,1067,8,1,Nova Iguaçu
+192735,2,Passes,Gabriel Canela,1067,15,1,Nova Iguaçu
+192735,2,Passes,Gabriel Pinheiro,1067,31,1,Nova Iguaçu
+192735,2,Passes,Gabriel Santana,1067,12,5,Nova Iguaçu
+192735,2,Passes,Juan,1067,20,1,Nova Iguaçu
+192735,2,Passes,Luã Lucio,1067,8,2,Nova Iguaçu
+192735,2,Passes,Luís Henrique,1067,24,0,Nova Iguaçu
+192735,2,Passes,Nathan,1067,10,0,Nova Iguaçu
+192735,2,Passes,Rafinha,1067,41,5,Nova Iguaçu
+192735,2,Passes,Samuel Granada,1067,5,0,Nova Iguaçu
+192735,2,Passes,Vandinho,1067,32,2,Nova Iguaçu
+192735,2,Passes,Vinícius Matheus,1067,46,7,Nova Iguaçu
+192735,2,Passes,Yan Everton,1067,19,1,Nova Iguaçu
+192735,3,Finalizações,Douglas,1334,0,1,Resende
+192735,3,Finalizações,Igor Bolt,1334,0,2,Resende
+192735,3,Finalizações,Ingro,1334,0,1,Resende
+192735,3,Finalizações,Jeffinho,1334,0,2,Resende
+192735,3,Finalizações,Joanderson,1334,0,1,Resende
+192735,3,Finalizações,Raphael Macena,1334,2,1,Resende
+192735,3,Finalizações,Zizu,1334,0,2,Resende
+192735,3,Finalizações,Gabriel Canela,1067,1,1,Nova Iguaçu
+192735,3,Finalizações,Nathan,1067,1,0,Nova Iguaçu
+192735,3,Finalizações,Samuel Granada,1067,1,0,Nova Iguaçu
+192735,3,Finalizações,Vandinho,1067,1,2,Nova Iguaçu
+192735,3,Finalizações,Vinícius Matheus,1067,0,1,Nova Iguaçu
+192735,3,Finalizações,Yan Everton,1067,0,2,Nova Iguaçu
+192735,5,Desarmes,Douglas,1334,1,0,Resende
+192735,5,Desarmes,Emanuel Biancucchi,1334,1,0,Resende
+192735,5,Desarmes,Heitor,1334,2,0,Resende
+192735,5,Desarmes,Igor Bolt,1334,1,0,Resende
+192735,5,Desarmes,João Felipe,1334,2,0,Resende
+192735,5,Desarmes,Zizu,1334,1,0,Resende
+192735,5,Desarmes,Ewerton Ronaldinho,1067,0,1,Nova Iguaçu
+192735,5,Desarmes,Gabriel Canela,1067,1,0,Nova Iguaçu
+192735,5,Desarmes,Gabriel Pinheiro,1067,4,0,Nova Iguaçu
+192735,5,Desarmes,Gabriel Santana,1067,1,0,Nova Iguaçu
+192735,5,Desarmes,Juan,1067,1,0,Nova Iguaçu
+192735,5,Desarmes,Vandinho,1067,1,0,Nova Iguaçu
+192735,14,Cruzamentos,Bismarck ,1334,0,1,Resende
+192735,14,Cruzamentos,Brendon,1334,1,1,Resende
+192735,14,Cruzamentos,Douglas,1334,0,2,Resende
+192735,14,Cruzamentos,Emanuel Biancucchi,1334,0,3,Resende
+192735,14,Cruzamentos,Ingro,1334,1,0,Resende
+192735,14,Cruzamentos,Jeffinho,1334,0,1,Resende
+192735,14,Cruzamentos,Raphael Macena,1334,0,2,Resende
+192735,14,Cruzamentos,Juan,1067,1,0,Nova Iguaçu
+192735,14,Cruzamentos,Luã Lucio,1067,0,1,Nova Iguaçu
+192735,14,Cruzamentos,Rafinha,1067,0,2,Nova Iguaçu
+192735,14,Cruzamentos,Vandinho,1067,2,3,Nova Iguaçu
+192735,14,Cruzamentos,Vinícius Matheus,1067,1,1,Nova Iguaçu
+192735,14,Cruzamentos,Yan Everton,1067,0,1,Nova Iguaçu
+192735,1,Lançamentos,Douglas,1334,0,1,Resende
+192735,1,Lançamentos,Édson Juninho,1334,0,2,Resende
+192735,1,Lançamentos,Emanuel Biancucchi,1334,1,0,Resende
+192735,1,Lançamentos,Felipe Souza,1334,0,1,Resende
+192735,1,Lançamentos,Heitor,1334,1,2,Resende
+192735,1,Lançamentos,Igor Bolt,1334,1,0,Resende
+192735,1,Lançamentos,Jefferson,1334,2,1,Resende
+192735,1,Lançamentos,Jeffinho,1334,0,1,Resende
+192735,1,Lançamentos,Joanderson,1334,0,3,Resende
+192735,1,Lançamentos,João Felipe,1334,0,1,Resende
+192735,1,Lançamentos,André Santos,1067,0,1,Nova Iguaçu
+192735,1,Lançamentos,Gabriel Pinheiro,1067,0,2,Nova Iguaçu
+192735,1,Lançamentos,Juan,1067,1,0,Nova Iguaçu
+192735,1,Lançamentos,Luís Henrique,1067,4,12,Nova Iguaçu
+192735,1,Lançamentos,Rafinha,1067,0,2,Nova Iguaçu
+192735,1,Lançamentos,Vandinho,1067,0,2,Nova Iguaçu
+192735,1,Lançamentos,Vinícius Matheus,1067,0,1,Nova Iguaçu
+192735,24,Interceptações,Douglas,1334,1,0,Resende
+192735,24,Interceptações,André Santos,1067,1,0,Nova Iguaçu
+192735,24,Interceptações,Gabriel Canela,1067,1,0,Nova Iguaçu
+192735,24,Interceptações,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192735,24,Interceptações,Rafinha,1067,1,0,Nova Iguaçu
+192735,24,Interceptações,Vandinho,1067,1,0,Nova Iguaçu
+192735,24,Interceptações,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192735,4,Dribles,Édson Juninho,1334,1,0,Resende
+192735,4,Dribles,Jeffinho,1334,1,0,Resende
+192735,4,Dribles,Raphael Macena,1334,1,0,Resende
+192735,4,Dribles,Carlos Henrique,1067,1,0,Nova Iguaçu
+192735,4,Dribles,Gabriel Canela,1067,0,1,Nova Iguaçu
+192735,4,Dribles,Rafinha,1067,2,1,Nova Iguaçu
+192735,4,Dribles,Yan Everton,1067,2,0,Nova Iguaçu
+192735,4,Dribles,Édson Juninho,1334,1,0,Resende
+192735,4,Dribles,Jeffinho,1334,1,0,Resende
+192735,4,Dribles,Raphael Macena,1334,1,0,Resende
+192735,4,Dribles,Carlos Henrique,1067,1,0,Nova Iguaçu
+192735,4,Dribles,Gabriel Canela,1067,0,1,Nova Iguaçu
+192735,4,Dribles,Rafinha,1067,2,1,Nova Iguaçu
+192735,4,Dribles,Yan Everton,1067,2,0,Nova Iguaçu
+192735,22,Viradas de jogo,André Santos,1067,1,0,Nova Iguaçu
+192735,22,Viradas de jogo,Rafinha,1067,1,0,Nova Iguaçu
+192735,22,Viradas de jogo,Vandinho,1067,1,0,Nova Iguaçu
+192735,20,Posse de bola,Bismarck ,1334,11,0,Resende
+192735,20,Posse de bola,Brendon,1334,39,0,Resende
+192735,20,Posse de bola,Douglas,1334,106,0,Resende
+192735,20,Posse de bola,Édson Juninho,1334,97,0,Resende
+192735,20,Posse de bola,Emanuel Biancucchi,1334,66,0,Resende
+192735,20,Posse de bola,Felipe Souza,1334,4,0,Resende
+192735,20,Posse de bola,Heitor,1334,87,0,Resende
+192735,20,Posse de bola,Igor Bolt,1334,74,0,Resende
+192735,20,Posse de bola,Ingro,1334,49,0,Resende
+192735,20,Posse de bola,Jefferson,1334,73,0,Resende
+192735,20,Posse de bola,Jeffinho,1334,83,0,Resende
+192735,20,Posse de bola,Joanderson,1334,102,0,Resende
+192735,20,Posse de bola,João Felipe,1334,48,0,Resende
+192735,20,Posse de bola,Pedro Medina,1334,37,0,Resende
+192735,20,Posse de bola,Raphael Macena,1334,60,0,Resende
+192735,20,Posse de bola,Zizu,1334,44,0,Resende
+192735,20,Posse de bola,André Santos,1067,54,0,Nova Iguaçu
+192735,20,Posse de bola,Carlos Henrique,1067,30,0,Nova Iguaçu
+192735,20,Posse de bola,Ewerton Ronaldinho,1067,9,0,Nova Iguaçu
+192735,20,Posse de bola,Gabriel Canela,1067,70,0,Nova Iguaçu
+192735,20,Posse de bola,Gabriel Pinheiro,1067,97,0,Nova Iguaçu
+192735,20,Posse de bola,Gabriel Santana,1067,54,0,Nova Iguaçu
+192735,20,Posse de bola,João Pedro,1067,2,0,Nova Iguaçu
+192735,20,Posse de bola,Juan,1067,65,0,Nova Iguaçu
+192735,20,Posse de bola,Luã Lucio,1067,44,0,Nova Iguaçu
+192735,20,Posse de bola,Luís Henrique,1067,122,0,Nova Iguaçu
+192735,20,Posse de bola,Nathan,1067,24,0,Nova Iguaçu
+192735,20,Posse de bola,Rafinha,1067,135,0,Nova Iguaçu
+192735,20,Posse de bola,Samuel Granada,1067,18,0,Nova Iguaçu
+192735,20,Posse de bola,Vandinho,1067,116,0,Nova Iguaçu
+192735,20,Posse de bola,Vinícius Matheus,1067,147,0,Nova Iguaçu
+192735,20,Posse de bola,Yan Everton,1067,88,0,Nova Iguaçu
+192735,8,Gols,Raphael Macena,1334,1,0,Resende
+192735,8,Gols,Samuel Granada,1067,1,0,Nova Iguaçu
+192735,28,Assistências para finalização,Brendon,1334,1,0,Resende
+192735,28,Assistências para finalização,Emanuel Biancucchi,1334,2,0,Resende
+192735,28,Assistências para finalização,Heitor,1334,1,0,Resende
+192735,28,Assistências para finalização,Igor Bolt,1334,2,0,Resende
+192735,28,Assistências para finalização,João Felipe,1334,2,0,Resende
+192735,28,Assistências para finalização,Raphael Macena,1334,1,0,Resende
+192735,28,Assistências para finalização,Gabriel Canela,1067,1,0,Nova Iguaçu
+192735,28,Assistências para finalização,Luís Henrique,1067,1,0,Nova Iguaçu
+192735,28,Assistências para finalização,Vandinho,1067,1,0,Nova Iguaçu
+192735,28,Assistências para finalização,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192735,28,Assistências para finalização,Yan Everton,1067,2,0,Nova Iguaçu
+192735,27,Assistências,Jeffinho,1334,1,0,Resende
+192735,27,Assistências,André Santos,1067,1,0,Nova Iguaçu
+192735,15,Defesas,Jefferson,1334,4,0,Resende
+192735,15,Defesas,Joanderson,1334,1,0,Resende
+192735,15,Defesas,Gabriel Pinheiro,1067,3,0,Nova Iguaçu
+192735,15,Defesas,Vandinho,1067,1,0,Nova Iguaçu
+192735,15,Defesas,Jefferson,1334,4,0,Resende
+192735,15,Defesas,Joanderson,1334,1,0,Resende
+192735,15,Defesas,Gabriel Pinheiro,1067,3,0,Nova Iguaçu
+192735,15,Defesas,Vandinho,1067,1,0,Nova Iguaçu
+192735,23,Defesas difíceis,Luís Henrique,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,Douglas,1334,3,0,Resende
+192735,19,Rebatidas,Édson Juninho,1334,4,0,Resende
+192735,19,Rebatidas,Heitor,1334,4,0,Resende
+192735,19,Rebatidas,Igor Bolt,1334,1,0,Resende
+192735,19,Rebatidas,Jefferson,1334,1,0,Resende
+192735,19,Rebatidas,Joanderson,1334,3,0,Resende
+192735,19,Rebatidas,Raphael Macena,1334,1,0,Resende
+192735,19,Rebatidas,Zizu,1334,1,0,Resende
+192735,19,Rebatidas,André Santos,1067,4,0,Nova Iguaçu
+192735,19,Rebatidas,Gabriel Pinheiro,1067,2,0,Nova Iguaçu
+192735,19,Rebatidas,Gabriel Santana,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,João Pedro,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,Luís Henrique,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,Nathan,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,Rafinha,1067,2,0,Nova Iguaçu
+192735,19,Rebatidas,Samuel Granada,1067,1,0,Nova Iguaçu
+192735,19,Rebatidas,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192735,6,Faltas cometidas,Douglas,1334,2,0,Resende
+192735,6,Faltas cometidas,Édson Juninho,1334,1,0,Resende
+192735,6,Faltas cometidas,Emanuel Biancucchi,1334,2,0,Resende
+192735,6,Faltas cometidas,Igor Bolt,1334,3,0,Resende
+192735,6,Faltas cometidas,Jeffinho,1334,4,0,Resende
+192735,6,Faltas cometidas,Joanderson,1334,1,0,Resende
+192735,6,Faltas cometidas,João Felipe,1334,3,0,Resende
+192735,6,Faltas cometidas,Raphael Macena,1334,2,0,Resende
+192735,6,Faltas cometidas,Carlos Henrique,1067,3,0,Nova Iguaçu
+192735,6,Faltas cometidas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192735,6,Faltas cometidas,Gabriel Santana,1067,4,0,Nova Iguaçu
+192735,6,Faltas cometidas,Juan,1067,1,0,Nova Iguaçu
+192735,6,Faltas cometidas,Samuel Granada,1067,1,0,Nova Iguaçu
+192735,6,Faltas cometidas,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192735,6,Faltas cometidas,Yan Everton,1067,1,0,Nova Iguaçu
+192735,7,Faltas sofridas,Brendon,1334,3,0,Resende
+192735,7,Faltas sofridas,Heitor,1334,1,0,Resende
+192735,7,Faltas sofridas,Igor Bolt,1334,2,0,Resende
+192735,7,Faltas sofridas,Ingro,1334,1,0,Resende
+192735,7,Faltas sofridas,Jeffinho,1334,5,0,Resende
+192735,7,Faltas sofridas,Joanderson,1334,1,0,Resende
+192735,7,Faltas sofridas,Raphael Macena,1334,1,0,Resende
+192735,7,Faltas sofridas,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192735,7,Faltas sofridas,Gabriel Canela,1067,5,0,Nova Iguaçu
+192735,7,Faltas sofridas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192735,7,Faltas sofridas,Gabriel Santana,1067,2,0,Nova Iguaçu
+192735,7,Faltas sofridas,Juan,1067,3,0,Nova Iguaçu
+192735,7,Faltas sofridas,Luís Henrique,1067,1,0,Nova Iguaçu
+192735,7,Faltas sofridas,Vandinho,1067,2,0,Nova Iguaçu
+192735,7,Faltas sofridas,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192735,7,Faltas sofridas,Yan Everton,1067,2,0,Nova Iguaçu
+192735,9,Impedimentos,Brendon,1334,1,0,Resende
+192735,9,Impedimentos,Raphael Macena,1334,1,0,Resende
+192735,9,Impedimentos,Vinícius Matheus,1067,2,0,Nova Iguaçu
+192735,9,Impedimentos,Yan Everton,1067,3,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Brendon,1334,1,0,Resende
+192735,12,Perda da posse de bola,Douglas,1334,1,0,Resende
+192735,12,Perda da posse de bola,Emanuel Biancucchi,1334,2,0,Resende
+192735,12,Perda da posse de bola,Igor Bolt,1334,3,0,Resende
+192735,12,Perda da posse de bola,Ingro,1334,2,0,Resende
+192735,12,Perda da posse de bola,Jeffinho,1334,7,0,Resende
+192735,12,Perda da posse de bola,Raphael Macena,1334,1,0,Resende
+192735,12,Perda da posse de bola,Zizu,1334,1,0,Resende
+192735,12,Perda da posse de bola,Carlos Henrique,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Ewerton Ronaldinho,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Gabriel Canela,1067,4,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Gabriel Santana,1067,2,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Juan,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Luã Lucio,1067,5,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Rafinha,1067,2,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Samuel Granada,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Vandinho,1067,1,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Vinícius Matheus,1067,3,0,Nova Iguaçu
+192735,12,Perda da posse de bola,Yan Everton,1067,3,0,Nova Iguaçu
+192735,25,Cartões amarelos,Emanuel Biancucchi,1334,1,0,Resende
+192735,25,Cartões amarelos,João Felipe,1334,1,0,Resende
+192735,25,Cartões amarelos,Luís Henrique,1067,1,0,Nova Iguaçu
+192735,25,Cartões amarelos,Vandinho,1067,1,0,Nova Iguaçu
+192736,2,Passes,Abuda,1067,13,1,Nova Iguaçu
+192736,2,Passes,André Santos,1067,24,1,Nova Iguaçu
+192736,2,Passes,Ewerton Ronaldinho,1067,5,0,Nova Iguaçu
+192736,2,Passes,Gabriel Canela,1067,9,2,Nova Iguaçu
+192736,2,Passes,Gabriel Pinheiro,1067,40,1,Nova Iguaçu
+192736,2,Passes,Gabriel Santana,1067,8,2,Nova Iguaçu
+192736,2,Passes,João Pedro,1067,2,0,Nova Iguaçu
+192736,2,Passes,Juan,1067,23,3,Nova Iguaçu
+192736,2,Passes,Luã Lucio,1067,8,4,Nova Iguaçu
+192736,2,Passes,Luís Henrique,1067,22,0,Nova Iguaçu
+192736,2,Passes,Matheus Alves,1067,6,0,Nova Iguaçu
+192736,2,Passes,Nathan,1067,35,2,Nova Iguaçu
+192736,2,Passes,Rafinha,1067,30,3,Nova Iguaçu
+192736,2,Passes,Samuel Granada,1067,13,0,Nova Iguaçu
+192736,2,Passes,Vandinho,1067,16,4,Nova Iguaçu
+192736,2,Passes,Vinícius Matheus,1067,10,0,Nova Iguaçu
+192736,2,Passes,Yan Everton,1067,10,4,Nova Iguaçu
+192736,2,Passes,Bismarck ,1334,1,0,Resende
+192736,2,Passes,Brendon,1334,11,0,Resende
+192736,2,Passes,Douglas,1334,32,3,Resende
+192736,2,Passes,Édson Juninho,1334,43,3,Resende
+192736,2,Passes,Emanuel Biancucchi,1334,23,1,Resende
+192736,2,Passes,Heitor,1334,54,1,Resende
+192736,2,Passes,Igor Bolt,1334,17,2,Resende
+192736,2,Passes,Ingro,1334,7,2,Resende
+192736,2,Passes,Jefferson,1334,31,1,Resende
+192736,2,Passes,Jeffinho,1334,8,4,Resende
+192736,2,Passes,Joanderson,1334,60,2,Resende
+192736,2,Passes,João Felipe,1334,12,0,Resende
+192736,2,Passes,Paulo Victor,1334,6,1,Resende
+192736,2,Passes,Pedro Medina,1334,13,1,Resende
+192736,2,Passes,Raphael Macena,1334,7,3,Resende
+192736,2,Passes,Zizu,1334,16,1,Resende
+192736,3,Finalizações,Abuda,1067,0,1,Nova Iguaçu
+192736,3,Finalizações,Gabriel Canela,1067,1,2,Nova Iguaçu
+192736,3,Finalizações,Juan,1067,1,0,Nova Iguaçu
+192736,3,Finalizações,Luã Lucio,1067,0,3,Nova Iguaçu
+192736,3,Finalizações,Samuel Granada,1067,0,1,Nova Iguaçu
+192736,3,Finalizações,Vandinho,1067,0,1,Nova Iguaçu
+192736,3,Finalizações,Yan Everton,1067,0,3,Nova Iguaçu
+192736,3,Finalizações,Heitor,1334,0,1,Resende
+192736,3,Finalizações,Jeffinho,1334,0,1,Resende
+192736,3,Finalizações,Joanderson,1334,0,1,Resende
+192736,3,Finalizações,Paulo Victor,1334,1,0,Resende
+192736,5,Desarmes,Abuda,1067,1,0,Nova Iguaçu
+192736,5,Desarmes,Gabriel Canela,1067,1,0,Nova Iguaçu
+192736,5,Desarmes,Matheus Alves,1067,1,0,Nova Iguaçu
+192736,5,Desarmes,Rafinha,1067,1,0,Nova Iguaçu
+192736,5,Desarmes,Vandinho,1067,1,0,Nova Iguaçu
+192736,5,Desarmes,Yan Everton,1067,2,0,Nova Iguaçu
+192736,5,Desarmes,Douglas,1334,3,0,Resende
+192736,5,Desarmes,Édson Juninho,1334,1,1,Resende
+192736,5,Desarmes,Heitor,1334,3,0,Resende
+192736,5,Desarmes,Igor Bolt,1334,1,0,Resende
+192736,5,Desarmes,Jeffinho,1334,1,0,Resende
+192736,5,Desarmes,Joanderson,1334,4,0,Resende
+192736,5,Desarmes,João Felipe,1334,1,0,Resende
+192736,5,Desarmes,Pedro Medina,1334,1,0,Resende
+192736,14,Cruzamentos,Gabriel Canela,1067,0,1,Nova Iguaçu
+192736,14,Cruzamentos,Gabriel Pinheiro,1067,0,1,Nova Iguaçu
+192736,14,Cruzamentos,Juan,1067,1,0,Nova Iguaçu
+192736,14,Cruzamentos,Rafinha,1067,1,4,Nova Iguaçu
+192736,14,Cruzamentos,Vandinho,1067,0,3,Nova Iguaçu
+192736,14,Cruzamentos,Yan Everton,1067,0,1,Nova Iguaçu
+192736,14,Cruzamentos,Brendon,1334,0,3,Resende
+192736,14,Cruzamentos,Douglas,1334,0,2,Resende
+192736,14,Cruzamentos,Édson Juninho,1334,0,3,Resende
+192736,14,Cruzamentos,Emanuel Biancucchi,1334,1,1,Resende
+192736,14,Cruzamentos,Igor Bolt,1334,0,1,Resende
+192736,14,Cruzamentos,Jeffinho,1334,0,3,Resende
+192736,14,Cruzamentos,Raphael Macena,1334,0,2,Resende
+192736,14,Cruzamentos,Zizu,1334,1,0,Resende
+192736,1,Lançamentos,André Santos,1067,1,1,Nova Iguaçu
+192736,1,Lançamentos,Gabriel Canela,1067,1,0,Nova Iguaçu
+192736,1,Lançamentos,Gabriel Pinheiro,1067,1,1,Nova Iguaçu
+192736,1,Lançamentos,Gabriel Santana,1067,0,1,Nova Iguaçu
+192736,1,Lançamentos,Luã Lucio,1067,0,1,Nova Iguaçu
+192736,1,Lançamentos,Luís Henrique,1067,3,1,Nova Iguaçu
+192736,1,Lançamentos,Rafinha,1067,3,1,Nova Iguaçu
+192736,1,Lançamentos,Vandinho,1067,0,2,Nova Iguaçu
+192736,1,Lançamentos,Brendon,1334,1,0,Resende
+192736,1,Lançamentos,Douglas,1334,1,1,Resende
+192736,1,Lançamentos,Édson Juninho,1334,0,1,Resende
+192736,1,Lançamentos,Emanuel Biancucchi,1334,1,0,Resende
+192736,1,Lançamentos,Heitor,1334,1,2,Resende
+192736,1,Lançamentos,Igor Bolt,1334,2,0,Resende
+192736,1,Lançamentos,Ingro,1334,0,1,Resende
+192736,1,Lançamentos,Jefferson,1334,2,2,Resende
+192736,1,Lançamentos,Pedro Medina,1334,1,0,Resende
+192736,24,Interceptações,Vandinho,1067,1,0,Nova Iguaçu
+192736,24,Interceptações,Vandinho,1067,1,0,Nova Iguaçu
+192736,4,Dribles,Brendon,1334,2,0,Resende
+192736,4,Dribles,Igor Bolt,1334,1,1,Resende
+192736,4,Dribles,Jeffinho,1334,1,1,Resende
+192736,4,Dribles,João Felipe,1334,1,0,Resende
+192736,22,Viradas de jogo,Gabriel Pinheiro,1067,0,1,Nova Iguaçu
+192736,22,Viradas de jogo,Yan Everton,1067,1,0,Nova Iguaçu
+192736,22,Viradas de jogo,Zizu,1334,1,0,Resende
+192736,20,Posse de bola,Abuda,1067,38,0,Nova Iguaçu
+192736,20,Posse de bola,André Santos,1067,71,0,Nova Iguaçu
+192736,20,Posse de bola,Ewerton Ronaldinho,1067,19,0,Nova Iguaçu
+192736,20,Posse de bola,Gabriel Canela,1067,65,0,Nova Iguaçu
+192736,20,Posse de bola,Gabriel Pinheiro,1067,141,0,Nova Iguaçu
+192736,20,Posse de bola,Gabriel Santana,1067,38,0,Nova Iguaçu
+192736,20,Posse de bola,João Pedro,1067,4,0,Nova Iguaçu
+192736,20,Posse de bola,Juan,1067,70,0,Nova Iguaçu
+192736,20,Posse de bola,Luã Lucio,1067,53,0,Nova Iguaçu
+192736,20,Posse de bola,Luís Henrique,1067,82,0,Nova Iguaçu
+192736,20,Posse de bola,Matheus Alves,1067,20,0,Nova Iguaçu
+192736,20,Posse de bola,Nathan,1067,101,0,Nova Iguaçu
+192736,20,Posse de bola,Rafinha,1067,126,0,Nova Iguaçu
+192736,20,Posse de bola,Samuel Granada,1067,58,0,Nova Iguaçu
+192736,20,Posse de bola,Vandinho,1067,68,0,Nova Iguaçu
+192736,20,Posse de bola,Vinícius Matheus,1067,32,0,Nova Iguaçu
+192736,20,Posse de bola,Yan Everton,1067,77,0,Nova Iguaçu
+192736,20,Posse de bola,Bismarck ,1334,2,0,Resende
+192736,20,Posse de bola,Brendon,1334,47,0,Resende
+192736,20,Posse de bola,Douglas,1334,177,0,Resende
+192736,20,Posse de bola,Édson Juninho,1334,161,0,Resende
+192736,20,Posse de bola,Emanuel Biancucchi,1334,79,0,Resende
+192736,20,Posse de bola,Heitor,1334,178,0,Resende
+192736,20,Posse de bola,Igor Bolt,1334,86,0,Resende
+192736,20,Posse de bola,Ingro,1334,26,0,Resende
+192736,20,Posse de bola,Jefferson,1334,110,0,Resende
+192736,20,Posse de bola,Jeffinho,1334,71,0,Resende
+192736,20,Posse de bola,Joanderson,1334,182,0,Resende
+192736,20,Posse de bola,João Felipe,1334,44,0,Resende
+192736,20,Posse de bola,Paulo Victor,1334,18,0,Resende
+192736,20,Posse de bola,Pedro Medina,1334,42,0,Resende
+192736,20,Posse de bola,Raphael Macena,1334,38,0,Resende
+192736,20,Posse de bola,Zizu,1334,45,0,Resende
+192736,28,Assistências para finalização,Ewerton Ronaldinho,1067,2,0,Nova Iguaçu
+192736,28,Assistências para finalização,Juan,1067,1,0,Nova Iguaçu
+192736,28,Assistências para finalização,Luã Lucio,1067,1,0,Nova Iguaçu
+192736,28,Assistências para finalização,Rafinha,1067,2,0,Nova Iguaçu
+192736,28,Assistências para finalização,Samuel Granada,1067,1,0,Nova Iguaçu
+192736,28,Assistências para finalização,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192736,28,Assistências para finalização,Brendon,1334,2,0,Resende
+192736,28,Assistências para finalização,Emanuel Biancucchi,1334,1,0,Resende
+192736,28,Assistências para finalização,Zizu,1334,1,0,Resende
+192736,15,Defesas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192736,15,Defesas,Douglas,1334,1,0,Resende
+192736,15,Defesas,Heitor,1334,3,0,Resende
+192736,15,Defesas,Jefferson,1334,2,0,Resende
+192736,19,Rebatidas,Abuda,1067,1,0,Nova Iguaçu
+192736,19,Rebatidas,André Santos,1067,1,0,Nova Iguaçu
+192736,19,Rebatidas,Gabriel Pinheiro,1067,4,0,Nova Iguaçu
+192736,19,Rebatidas,Gabriel Santana,1067,1,0,Nova Iguaçu
+192736,19,Rebatidas,Luís Henrique,1067,1,0,Nova Iguaçu
+192736,19,Rebatidas,Nathan,1067,4,0,Nova Iguaçu
+192736,19,Rebatidas,Rafinha,1067,4,0,Nova Iguaçu
+192736,19,Rebatidas,Vandinho,1067,2,0,Nova Iguaçu
+192736,19,Rebatidas,Douglas,1334,6,0,Resende
+192736,19,Rebatidas,Édson Juninho,1334,1,0,Resende
+192736,19,Rebatidas,Heitor,1334,1,0,Resende
+192736,19,Rebatidas,Igor Bolt,1334,4,0,Resende
+192736,19,Rebatidas,Joanderson,1334,2,0,Resende
+192736,19,Rebatidas,João Felipe,1334,2,0,Resende
+192736,19,Rebatidas,Pedro Medina,1334,1,0,Resende
+192736,19,Rebatidas,Raphael Macena,1334,1,0,Resende
+192736,6,Faltas cometidas,Abuda,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,André Santos,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Gabriel Canela,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Gabriel Santana,1067,4,0,Nova Iguaçu
+192736,6,Faltas cometidas,Juan,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Luã Lucio,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Nathan,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Rafinha,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Samuel Granada,1067,3,0,Nova Iguaçu
+192736,6,Faltas cometidas,Vandinho,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Yan Everton,1067,1,0,Nova Iguaçu
+192736,6,Faltas cometidas,Douglas,1334,3,0,Resende
+192736,6,Faltas cometidas,Édson Juninho,1334,3,0,Resende
+192736,6,Faltas cometidas,Emanuel Biancucchi,1334,1,0,Resende
+192736,6,Faltas cometidas,Igor Bolt,1334,1,0,Resende
+192736,6,Faltas cometidas,Ingro,1334,1,0,Resende
+192736,6,Faltas cometidas,Jeffinho,1334,3,0,Resende
+192736,6,Faltas cometidas,Joanderson,1334,3,0,Resende
+192736,6,Faltas cometidas,João Felipe,1334,2,0,Resende
+192736,6,Faltas cometidas,Paulo Victor,1334,1,0,Resende
+192736,6,Faltas cometidas,Pedro Medina,1334,3,0,Resende
+192736,6,Faltas cometidas,Raphael Macena,1334,4,0,Resende
+192736,7,Faltas sofridas,Abuda,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Canela,1067,3,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Pinheiro,1067,3,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Santana,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Juan,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Luã Lucio,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Luís Henrique,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Matheus Alves,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Nathan,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Rafinha,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Samuel Granada,1067,4,0,Nova Iguaçu
+192736,7,Faltas sofridas,Vandinho,1067,2,0,Nova Iguaçu
+192736,7,Faltas sofridas,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Yan Everton,1067,4,0,Nova Iguaçu
+192736,7,Faltas sofridas,Brendon,1334,2,0,Resende
+192736,7,Faltas sofridas,Douglas,1334,1,0,Resende
+192736,7,Faltas sofridas,Emanuel Biancucchi,1334,1,0,Resende
+192736,7,Faltas sofridas,Igor Bolt,1334,6,0,Resende
+192736,7,Faltas sofridas,Jeffinho,1334,4,0,Resende
+192736,7,Faltas sofridas,João Felipe,1334,2,0,Resende
+192736,7,Faltas sofridas,Abuda,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Canela,1067,3,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Pinheiro,1067,3,0,Nova Iguaçu
+192736,7,Faltas sofridas,Gabriel Santana,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Juan,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Luã Lucio,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Luís Henrique,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Matheus Alves,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Nathan,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Rafinha,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Samuel Granada,1067,4,0,Nova Iguaçu
+192736,7,Faltas sofridas,Vandinho,1067,2,0,Nova Iguaçu
+192736,7,Faltas sofridas,Vinícius Matheus,1067,1,0,Nova Iguaçu
+192736,7,Faltas sofridas,Yan Everton,1067,4,0,Nova Iguaçu
+192736,7,Faltas sofridas,Brendon,1334,2,0,Resende
+192736,7,Faltas sofridas,Douglas,1334,1,0,Resende
+192736,7,Faltas sofridas,Emanuel Biancucchi,1334,1,0,Resende
+192736,7,Faltas sofridas,Igor Bolt,1334,6,0,Resende
+192736,7,Faltas sofridas,Jeffinho,1334,4,0,Resende
+192736,7,Faltas sofridas,João Felipe,1334,2,0,Resende
+192736,9,Impedimentos,Jeffinho,1334,1,0,Resende
+192736,12,Perda da posse de bola,Gabriel Canela,1067,3,0,Nova Iguaçu
+192736,12,Perda da posse de bola,Juan,1067,4,0,Nova Iguaçu
+192736,12,Perda da posse de bola,Luã Lucio,1067,5,0,Nova Iguaçu
+192736,12,Perda da posse de bola,Samuel Granada,1067,4,0,Nova Iguaçu
+192736,12,Perda da posse de bola,Yan Everton,1067,1,0,Nova Iguaçu
+192736,12,Perda da posse de bola,Brendon,1334,1,0,Resende
+192736,12,Perda da posse de bola,Douglas,1334,2,0,Resende
+192736,12,Perda da posse de bola,Édson Juninho,1334,3,0,Resende
+192736,12,Perda da posse de bola,Emanuel Biancucchi,1334,1,0,Resende
+192736,12,Perda da posse de bola,Igor Bolt,1334,1,0,Resende
+192736,12,Perda da posse de bola,Jeffinho,1334,1,0,Resende
+192736,12,Perda da posse de bola,Pedro Medina,1334,1,0,Resende
+192736,12,Perda da posse de bola,Raphael Macena,1334,2,0,Resende
+192736,12,Perda da posse de bola,Zizu,1334,1,0,Resende
+192736,25,Cartões amarelos,Gabriel Pinheiro,1067,1,0,Nova Iguaçu
+192736,25,Cartões amarelos,Nathan,1067,1,0,Nova Iguaçu
+192736,25,Cartões amarelos,Édson Juninho,1334,1,0,Resende
+192736,25,Cartões amarelos,Heitor,1334,1,0,Resende
+192736,25,Cartões amarelos,Joanderson,1334,1,0,Resende
+192736,25,Cartões amarelos,Pedro Medina,1334,1,0,Resende
+192733,2,Passes,Arrascaeta,1005,9,4,Flamengo
+192733,2,Passes,Bruno Henrique,1005,7,3,Flamengo
+192733,2,Passes,David Luiz,1005,39,2,Flamengo
+192733,2,Passes,Everton Ribeiro,1005,13,5,Flamengo
+192733,2,Passes,Fabrício Bruno,1005,35,2,Flamengo
+192733,2,Passes,Filipe Luís,1005,55,4,Flamengo
+192733,2,Passes,Gabriel,1005,15,4,Flamengo
+192733,2,Passes,Gomes,1005,34,4,Flamengo
+192733,2,Passes,Hugo Souza,1005,16,0,Flamengo
+192733,2,Passes,Lázaro,1005,9,2,Flamengo
+192733,2,Passes,Léo Pereira,1005,6,0,Flamengo
+192733,2,Passes,Marinho,1005,15,3,Flamengo
+192733,2,Passes,Matheuzinho,1005,43,2,Flamengo
+192733,2,Passes,Pedro,1005,1,0,Flamengo
+192733,2,Passes,Vitinho,1005,7,2,Flamengo
+192733,2,Passes,Willian Arão,1005,35,2,Flamengo
+192733,2,Passes,André Trindade,1006,35,2,Fluminense
+192733,2,Passes,Calegari,1006,23,3,Fluminense
+192733,2,Passes,Cano,1006,11,3,Fluminense
+192733,2,Passes,Cristiano,1006,17,5,Fluminense
+192733,2,Passes,David Braz,1006,27,3,Fluminense
+192733,2,Passes,Fábio,1006,12,0,Fluminense
+192733,2,Passes,Felipe Melo,1006,17,0,Fluminense
+192733,2,Passes,Ganso,1006,37,4,Fluminense
+192733,2,Passes,Jhon Arias,1006,6,3,Fluminense
+192733,2,Passes,Luccas Claro,1006,3,1,Fluminense
+192733,2,Passes,Manoel,1006,21,1,Fluminense
+192733,2,Passes,Martinelli,1006,1,0,Fluminense
+192733,2,Passes,Nonato,1006,1,1,Fluminense
+192733,2,Passes,Willian,1006,10,1,Fluminense
+192733,2,Passes,Yago Felipe,1006,25,3,Fluminense
+192733,3,Finalizações,Arrascaeta,1005,1,0,Flamengo
+192733,3,Finalizações,David Luiz,1005,1,2,Flamengo
+192733,3,Finalizações,Fabrício Bruno,1005,0,1,Flamengo
+192733,3,Finalizações,Gabriel,1005,0,3,Flamengo
+192733,3,Finalizações,Gomes,1005,0,1,Flamengo
+192733,3,Finalizações,Marinho,1005,0,2,Flamengo
+192733,3,Finalizações,Pedro,1005,1,0,Flamengo
+192733,3,Finalizações,Vitinho,1005,0,1,Flamengo
+192733,3,Finalizações,Cano,1006,3,0,Fluminense
+192733,3,Finalizações,Jhon Arias,1006,1,0,Fluminense
+192733,3,Finalizações,Yago Felipe,1006,0,1,Fluminense
+192733,5,Desarmes,Arrascaeta,1005,1,0,Flamengo
+192733,5,Desarmes,Bruno Henrique,1005,1,0,Flamengo
+192733,5,Desarmes,Fabrício Bruno,1005,4,0,Flamengo
+192733,5,Desarmes,Filipe Luís,1005,1,1,Flamengo
+192733,5,Desarmes,Gomes,1005,6,0,Flamengo
+192733,5,Desarmes,Marinho,1005,1,0,Flamengo
+192733,5,Desarmes,Matheuzinho,1005,1,0,Flamengo
+192733,5,Desarmes,Willian Arão,1005,4,1,Flamengo
+192733,5,Desarmes,André Trindade,1006,4,0,Fluminense
+192733,5,Desarmes,Calegari,1006,3,0,Fluminense
+192733,5,Desarmes,Cano,1006,2,0,Fluminense
+192733,5,Desarmes,Cristiano,1006,5,0,Fluminense
+192733,5,Desarmes,Felipe Melo,1006,1,0,Fluminense
+192733,5,Desarmes,Ganso,1006,2,0,Fluminense
+192733,5,Desarmes,Jhon Arias,1006,1,0,Fluminense
+192733,5,Desarmes,Manoel,1006,2,0,Fluminense
+192733,5,Desarmes,Martinelli,1006,1,0,Fluminense
+192733,5,Desarmes,Willian,1006,1,0,Fluminense
+192733,5,Desarmes,Yago Felipe,1006,3,0,Fluminense
+192733,14,Cruzamentos,Arrascaeta,1005,1,9,Flamengo
+192733,14,Cruzamentos,David Luiz,1005,1,1,Flamengo
+192733,14,Cruzamentos,Everton Ribeiro,1005,2,1,Flamengo
+192733,14,Cruzamentos,Gomes,1005,0,1,Flamengo
+192733,14,Cruzamentos,Léo Pereira,1005,0,1,Flamengo
+192733,14,Cruzamentos,Marinho,1005,0,2,Flamengo
+192733,14,Cruzamentos,Matheuzinho,1005,1,2,Flamengo
+192733,14,Cruzamentos,Pedro,1005,0,1,Flamengo
+192733,14,Cruzamentos,Vitinho,1005,1,1,Flamengo
+192733,14,Cruzamentos,Willian Arão,1005,0,1,Flamengo
+192733,14,Cruzamentos,Cristiano,1006,0,1,Fluminense
+192733,14,Cruzamentos,Jhon Arias,1006,0,1,Fluminense
+192733,14,Cruzamentos,Manoel,1006,0,1,Fluminense
+192733,14,Cruzamentos,Yago Felipe,1006,0,2,Fluminense
+192733,1,Lançamentos,Arrascaeta,1005,1,0,Flamengo
+192733,1,Lançamentos,David Luiz,1005,2,4,Flamengo
+192733,1,Lançamentos,Everton Ribeiro,1005,0,1,Flamengo
+192733,1,Lançamentos,Fabrício Bruno,1005,3,1,Flamengo
+192733,1,Lançamentos,Filipe Luís,1005,2,0,Flamengo
+192733,1,Lançamentos,Gabriel,1005,0,1,Flamengo
+192733,1,Lançamentos,Hugo Souza,1005,2,1,Flamengo
+192733,1,Lançamentos,Lázaro,1005,0,1,Flamengo
+192733,1,Lançamentos,Marinho,1005,0,1,Flamengo
+192733,1,Lançamentos,Matheuzinho,1005,0,1,Flamengo
+192733,1,Lançamentos,Willian Arão,1005,0,1,Flamengo
+192733,1,Lançamentos,André Trindade,1006,1,0,Fluminense
+192733,1,Lançamentos,Cristiano,1006,0,3,Fluminense
+192733,1,Lançamentos,David Braz,1006,2,2,Fluminense
+192733,1,Lançamentos,Fábio,1006,2,8,Fluminense
+192733,1,Lançamentos,Felipe Melo,1006,5,2,Fluminense
+192733,1,Lançamentos,Manoel,1006,1,2,Fluminense
+192733,24,Interceptações,Gomes,1005,1,0,Flamengo
+192733,24,Interceptações,Marinho,1005,1,0,Flamengo
+192733,24,Interceptações,Willian Arão,1005,1,0,Flamengo
+192733,24,Interceptações,David Braz,1006,1,0,Fluminense
+192733,24,Interceptações,Manoel,1006,0,1,Fluminense
+192733,4,Dribles,Marinho,1005,1,0,Flamengo
+192733,4,Dribles,Matheuzinho,1005,1,0,Flamengo
+192733,4,Dribles,André Trindade,1006,2,0,Fluminense
+192733,4,Dribles,Calegari,1006,2,0,Fluminense
+192733,4,Dribles,Cano,1006,0,1,Fluminense
+192733,4,Dribles,Cristiano,1006,1,0,Fluminense
+192733,4,Dribles,David Braz,1006,1,0,Fluminense
+192733,4,Dribles,Ganso,1006,1,0,Fluminense
+192733,4,Dribles,Manoel,1006,1,0,Fluminense
+192733,22,Viradas de jogo,David Luiz,1005,1,0,Flamengo
+192733,22,Viradas de jogo,Filipe Luís,1005,1,0,Flamengo
+192733,22,Viradas de jogo,André Trindade,1006,0,1,Fluminense
+192733,22,Viradas de jogo,Felipe Melo,1006,2,1,Fluminense
+192733,22,Viradas de jogo,Manoel,1006,1,0,Fluminense
+192733,22,Viradas de jogo,Willian,1006,1,0,Fluminense
+192733,20,Posse de bola,Arrascaeta,1005,66,0,Flamengo
+192733,20,Posse de bola,Bruno Henrique,1005,30,0,Flamengo
+192733,20,Posse de bola,David Luiz,1005,174,0,Flamengo
+192733,20,Posse de bola,Everton Ribeiro,1005,79,0,Flamengo
+192733,20,Posse de bola,Fabrício Bruno,1005,121,0,Flamengo
+192733,20,Posse de bola,Filipe Luís,1005,148,0,Flamengo
+192733,20,Posse de bola,Gabriel,1005,68,0,Flamengo
+192733,20,Posse de bola,Gomes,1005,110,0,Flamengo
+192733,20,Posse de bola,Hugo Souza,1005,56,0,Flamengo
+192733,20,Posse de bola,Lázaro,1005,30,0,Flamengo
+192733,20,Posse de bola,Léo Pereira,1005,22,0,Flamengo
+192733,20,Posse de bola,Marinho,1005,74,0,Flamengo
+192733,20,Posse de bola,Matheuzinho,1005,125,0,Flamengo
+192733,20,Posse de bola,Pedro,1005,10,0,Flamengo
+192733,20,Posse de bola,Vitinho,1005,36,0,Flamengo
+192733,20,Posse de bola,Willian Arão,1005,92,0,Flamengo
+192733,20,Posse de bola,André Trindade,1006,125,0,Fluminense
+192733,20,Posse de bola,Calegari,1006,90,0,Fluminense
+192733,20,Posse de bola,Cano,1006,54,0,Fluminense
+192733,20,Posse de bola,Cristiano,1006,86,0,Fluminense
+192733,20,Posse de bola,David Braz,1006,103,0,Fluminense
+192733,20,Posse de bola,Fábio,1006,163,0,Fluminense
+192733,20,Posse de bola,Felipe Melo,1006,95,0,Fluminense
+192733,20,Posse de bola,Ganso,1006,110,0,Fluminense
+192733,20,Posse de bola,Jhon Arias,1006,40,0,Fluminense
+192733,20,Posse de bola,Luccas Claro,1006,19,0,Fluminense
+192733,20,Posse de bola,Manoel,1006,89,0,Fluminense
+192733,20,Posse de bola,Martinelli,1006,14,0,Fluminense
+192733,20,Posse de bola,Nonato,1006,4,0,Fluminense
+192733,20,Posse de bola,Willian,1006,47,0,Fluminense
+192733,20,Posse de bola,Yago Felipe,1006,97,0,Fluminense
+192733,20,Posse de bola,Arrascaeta,1005,66,0,Flamengo
+192733,20,Posse de bola,Bruno Henrique,1005,30,0,Flamengo
+192733,20,Posse de bola,David Luiz,1005,174,0,Flamengo
+192733,20,Posse de bola,Everton Ribeiro,1005,79,0,Flamengo
+192733,20,Posse de bola,Fabrício Bruno,1005,121,0,Flamengo
+192733,20,Posse de bola,Filipe Luís,1005,148,0,Flamengo
+192733,20,Posse de bola,Gabriel,1005,68,0,Flamengo
+192733,20,Posse de bola,Gomes,1005,110,0,Flamengo
+192733,20,Posse de bola,Hugo Souza,1005,56,0,Flamengo
+192733,20,Posse de bola,Lázaro,1005,30,0,Flamengo
+192733,20,Posse de bola,Léo Pereira,1005,22,0,Flamengo
+192733,20,Posse de bola,Marinho,1005,74,0,Flamengo
+192733,20,Posse de bola,Matheuzinho,1005,125,0,Flamengo
+192733,20,Posse de bola,Pedro,1005,10,0,Flamengo
+192733,20,Posse de bola,Vitinho,1005,36,0,Flamengo
+192733,20,Posse de bola,Willian Arão,1005,92,0,Flamengo
+192733,20,Posse de bola,André Trindade,1006,125,0,Fluminense
+192733,20,Posse de bola,Calegari,1006,90,0,Fluminense
+192733,20,Posse de bola,Cano,1006,54,0,Fluminense
+192733,20,Posse de bola,Cristiano,1006,86,0,Fluminense
+192733,20,Posse de bola,David Braz,1006,103,0,Fluminense
+192733,20,Posse de bola,Fábio,1006,163,0,Fluminense
+192733,20,Posse de bola,Felipe Melo,1006,95,0,Fluminense
+192733,20,Posse de bola,Ganso,1006,110,0,Fluminense
+192733,20,Posse de bola,Jhon Arias,1006,40,0,Fluminense
+192733,20,Posse de bola,Luccas Claro,1006,19,0,Fluminense
+192733,20,Posse de bola,Manoel,1006,89,0,Fluminense
+192733,20,Posse de bola,Martinelli,1006,14,0,Fluminense
+192733,20,Posse de bola,Nonato,1006,4,0,Fluminense
+192733,20,Posse de bola,Willian,1006,47,0,Fluminense
+192733,20,Posse de bola,Yago Felipe,1006,97,0,Fluminense
+192733,8,Gols,Cano,1006,2,0,Fluminense
+192733,28,Assistências para finalização,Arrascaeta,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Everton Ribeiro,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Filipe Luís,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Gabriel,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Matheuzinho,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Vitinho,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Manoel,1006,1,0,Fluminense
+192733,28,Assistências para finalização,Arrascaeta,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Everton Ribeiro,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Filipe Luís,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Gabriel,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Matheuzinho,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Vitinho,1005,1,0,Flamengo
+192733,28,Assistências para finalização,Manoel,1006,1,0,Fluminense
+192733,27,Assistências,Calegari,1006,1,0,Fluminense
+192733,15,Defesas,Hugo Souza,1005,2,0,Flamengo
+192733,15,Defesas,David Braz,1006,2,0,Fluminense
+192733,15,Defesas,Fábio,1006,1,0,Fluminense
+192733,15,Defesas,Felipe Melo,1006,1,0,Fluminense
+192733,15,Defesas,Hugo Souza,1005,2,0,Flamengo
+192733,15,Defesas,David Braz,1006,2,0,Fluminense
+192733,15,Defesas,Fábio,1006,1,0,Fluminense
+192733,15,Defesas,Felipe Melo,1006,1,0,Fluminense
+192733,23,Defesas difíceis,Fábio,1006,2,0,Fluminense
+192733,19,Rebatidas,Hugo Souza,1005,2,0,Flamengo
+192733,19,Rebatidas,Léo Pereira,1005,1,0,Flamengo
+192733,19,Rebatidas,Marinho,1005,3,0,Flamengo
+192733,19,Rebatidas,Matheuzinho,1005,1,0,Flamengo
+192733,19,Rebatidas,André Trindade,1006,3,0,Fluminense
+192733,19,Rebatidas,Calegari,1006,3,0,Fluminense
+192733,19,Rebatidas,Cano,1006,1,0,Fluminense
+192733,19,Rebatidas,Cristiano,1006,4,0,Fluminense
+192733,19,Rebatidas,David Braz,1006,11,0,Fluminense
+192733,19,Rebatidas,Fábio,1006,4,0,Fluminense
+192733,19,Rebatidas,Felipe Melo,1006,7,0,Fluminense
+192733,19,Rebatidas,Luccas Claro,1006,4,0,Fluminense
+192733,19,Rebatidas,Manoel,1006,7,0,Fluminense
+192733,19,Rebatidas,Martinelli,1006,1,0,Fluminense
+192733,19,Rebatidas,Willian,1006,1,0,Fluminense
+192733,19,Rebatidas,Yago Felipe,1006,1,0,Fluminense
+192733,6,Faltas cometidas,Bruno Henrique,1005,1,0,Flamengo
+192733,6,Faltas cometidas,David Luiz,1005,2,0,Flamengo
+192733,6,Faltas cometidas,Everton Ribeiro,1005,3,0,Flamengo
+192733,6,Faltas cometidas,Fabrício Bruno,1005,1,0,Flamengo
+192733,6,Faltas cometidas,Gabriel,1005,1,0,Flamengo
+192733,6,Faltas cometidas,Gomes,1005,1,0,Flamengo
+192733,6,Faltas cometidas,Lázaro,1005,2,0,Flamengo
+192733,6,Faltas cometidas,Marinho,1005,1,0,Flamengo
+192733,6,Faltas cometidas,Vitinho,1005,1,0,Flamengo
+192733,6,Faltas cometidas,André Trindade,1006,2,0,Fluminense
+192733,6,Faltas cometidas,Calegari,1006,2,0,Fluminense
+192733,6,Faltas cometidas,Cano,1006,1,0,Fluminense
+192733,6,Faltas cometidas,Cristiano,1006,2,0,Fluminense
+192733,6,Faltas cometidas,Ganso,1006,3,0,Fluminense
+192733,6,Faltas cometidas,Jhon Arias,1006,3,0,Fluminense
+192733,6,Faltas cometidas,Manoel,1006,1,0,Fluminense
+192733,6,Faltas cometidas,Martinelli,1006,1,0,Fluminense
+192733,6,Faltas cometidas,Willian,1006,1,0,Fluminense
+192733,6,Faltas cometidas,Yago Felipe,1006,3,0,Fluminense
+192733,7,Faltas sofridas,Arrascaeta,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Bruno Henrique,1005,1,0,Flamengo
+192733,7,Faltas sofridas,David Luiz,1005,3,0,Flamengo
+192733,7,Faltas sofridas,Everton Ribeiro,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Fabrício Bruno,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Filipe Luís,1005,2,0,Flamengo
+192733,7,Faltas sofridas,Gabriel,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Gomes,1005,2,0,Flamengo
+192733,7,Faltas sofridas,Léo Pereira,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Marinho,1005,2,0,Flamengo
+192733,7,Faltas sofridas,Matheuzinho,1005,1,0,Flamengo
+192733,7,Faltas sofridas,Vitinho,1005,1,0,Flamengo
+192733,7,Faltas sofridas,André Trindade,1006,2,0,Fluminense
+192733,7,Faltas sofridas,Calegari,1006,1,0,Fluminense
+192733,7,Faltas sofridas,Cristiano,1006,2,0,Fluminense
+192733,7,Faltas sofridas,Ganso,1006,4,0,Fluminense
+192733,7,Faltas sofridas,Manoel,1006,1,0,Fluminense
+192733,7,Faltas sofridas,Martinelli,1006,1,0,Fluminense
+192733,7,Faltas sofridas,Yago Felipe,1006,2,0,Fluminense
+192733,9,Impedimentos,Gabriel,1005,1,0,Flamengo
+192733,9,Impedimentos,Marinho,1005,1,0,Flamengo
+192733,9,Impedimentos,Cano,1006,1,0,Fluminense
+192733,9,Impedimentos,Cristiano,1006,1,0,Fluminense
+192733,12,Perda da posse de bola,Arrascaeta,1005,4,0,Flamengo
+192733,12,Perda da posse de bola,David Luiz,1005,3,0,Flamengo
+192733,12,Perda da posse de bola,Everton Ribeiro,1005,5,0,Flamengo
+192733,12,Perda da posse de bola,Fabrício Bruno,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Filipe Luís,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Gabriel,1005,5,0,Flamengo
+192733,12,Perda da posse de bola,Gomes,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Lázaro,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Léo Pereira,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Marinho,1005,3,0,Flamengo
+192733,12,Perda da posse de bola,Matheuzinho,1005,4,0,Flamengo
+192733,12,Perda da posse de bola,Pedro,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,Vitinho,1005,3,0,Flamengo
+192733,12,Perda da posse de bola,Willian Arão,1005,1,0,Flamengo
+192733,12,Perda da posse de bola,André Trindade,1006,3,0,Fluminense
+192733,12,Perda da posse de bola,Calegari,1006,3,0,Fluminense
+192733,12,Perda da posse de bola,Cano,1006,3,0,Fluminense
+192733,12,Perda da posse de bola,Cristiano,1006,1,0,Fluminense
+192733,12,Perda da posse de bola,Ganso,1006,1,0,Fluminense
+192733,12,Perda da posse de bola,Jhon Arias,1006,3,0,Fluminense
+192733,12,Perda da posse de bola,Martinelli,1006,2,0,Fluminense
+192733,12,Perda da posse de bola,Willian,1006,5,0,Fluminense
+192733,12,Perda da posse de bola,Yago Felipe,1006,6,0,Fluminense
+192733,25,Cartões amarelos,David Luiz,1005,1,0,Flamengo
+192733,25,Cartões amarelos,Everton Ribeiro,1005,1,0,Flamengo
+192733,25,Cartões amarelos,Gomes,1005,1,0,Flamengo
+192733,25,Cartões amarelos,Marinho,1005,1,0,Flamengo
+192733,25,Cartões amarelos,Vitinho,1005,1,0,Flamengo
+192733,25,Cartões amarelos,Cristiano,1006,1,0,Fluminense
+192733,25,Cartões amarelos,Felipe Melo,1006,1,0,Fluminense
+192733,25,Cartões amarelos,Ganso,1006,1,0,Fluminense
+192733,25,Cartões amarelos,Jhon Arias,1006,1,0,Fluminense
+192733,25,Cartões amarelos,Martinelli,1006,1,0,Fluminense
+192734,2,Passes,André Trindade,1006,38,0,Fluminense
+192734,2,Passes,Calegari,1006,20,7,Fluminense
+192734,2,Passes,Cano,1006,18,3,Fluminense
+192734,2,Passes,Cristiano,1006,27,3,Fluminense
+192734,2,Passes,David Braz,1006,12,3,Fluminense
+192734,2,Passes,David Duarte,1006,1,0,Fluminense
+192734,2,Passes,Fábio,1006,14,0,Fluminense
+192734,2,Passes,Fred,1006,2,0,Fluminense
+192734,2,Passes,Ganso,1006,38,5,Fluminense
+192734,2,Passes,Jhon Arias,1006,26,3,Fluminense
+192734,2,Passes,Luiz Henrique,1006,1,1,Fluminense
+192734,2,Passes,Manoel,1006,13,1,Fluminense
+192734,2,Passes,Martinelli,1006,1,0,Fluminense
+192734,2,Passes,Nino,1006,20,1,Fluminense
+192734,2,Passes,Nonato,1006,2,1,Fluminense
+192734,2,Passes,Yago Felipe,1006,29,2,Fluminense
+192734,2,Passes,Andreas Pereira,1005,9,2,Flamengo
+192734,2,Passes,Arrascaeta,1005,22,3,Flamengo
+192734,2,Passes,Bruno Henrique,1005,14,2,Flamengo
+192734,2,Passes,David Luiz,1005,24,2,Flamengo
+192734,2,Passes,Everton Ribeiro,1005,19,2,Flamengo
+192734,2,Passes,Filipe Luís,1005,43,1,Flamengo
+192734,2,Passes,Gabriel,1005,14,1,Flamengo
+192734,2,Passes,Gomes,1005,24,5,Flamengo
+192734,2,Passes,Gustavo Henrique,1005,24,0,Flamengo
+192734,2,Passes,Hugo Souza,1005,9,0,Flamengo
+192734,2,Passes,Lázaro,1005,17,4,Flamengo
+192734,2,Passes,Matheuzinho,1005,22,1,Flamengo
+192734,2,Passes,Pedro,1005,4,0,Flamengo
+192734,2,Passes,Rodinei,1005,25,3,Flamengo
+192734,2,Passes,Willian Arão,1005,12,0,Flamengo
+192734,3,Finalizações,Cano,1006,2,3,Fluminense
+192734,3,Finalizações,Cristiano,1006,0,1,Fluminense
+192734,3,Finalizações,David Braz,1006,1,1,Fluminense
+192734,3,Finalizações,Ganso,1006,0,1,Fluminense
+192734,3,Finalizações,Manoel,1006,0,1,Fluminense
+192734,3,Finalizações,Yago Felipe,1006,0,1,Fluminense
+192734,3,Finalizações,Andreas Pereira,1005,0,1,Flamengo
+192734,3,Finalizações,Arrascaeta,1005,0,4,Flamengo
+192734,3,Finalizações,David Luiz,1005,0,2,Flamengo
+192734,3,Finalizações,Everton Ribeiro,1005,0,2,Flamengo
+192734,3,Finalizações,Filipe Luís,1005,1,0,Flamengo
+192734,3,Finalizações,Gabriel,1005,1,0,Flamengo
+192734,3,Finalizações,Gomes,1005,0,1,Flamengo
+192734,3,Finalizações,Gustavo Henrique,1005,0,1,Flamengo
+192734,3,Finalizações,Lázaro,1005,0,1,Flamengo
+192734,3,Finalizações,Pedro,1005,1,1,Flamengo
+192734,5,Desarmes,Calegari,1006,2,0,Fluminense
+192734,5,Desarmes,Cristiano,1006,2,0,Fluminense
+192734,5,Desarmes,David Braz,1006,2,1,Fluminense
+192734,5,Desarmes,Manoel,1006,2,1,Fluminense
+192734,5,Desarmes,Nino,1006,2,0,Fluminense
+192734,5,Desarmes,Nonato,1006,1,0,Fluminense
+192734,5,Desarmes,Yago Felipe,1006,4,0,Fluminense
+192734,5,Desarmes,Everton Ribeiro,1005,2,0,Flamengo
+192734,5,Desarmes,Filipe Luís,1005,1,2,Flamengo
+192734,5,Desarmes,Gomes,1005,2,0,Flamengo
+192734,5,Desarmes,Gustavo Henrique,1005,2,0,Flamengo
+192734,5,Desarmes,Lázaro,1005,1,0,Flamengo
+192734,5,Desarmes,Matheuzinho,1005,1,0,Flamengo
+192734,5,Desarmes,Rodinei,1005,1,0,Flamengo
+192734,5,Desarmes,Willian Arão,1005,2,0,Flamengo
+192734,14,Cruzamentos,Cano,1006,0,2,Fluminense
+192734,14,Cruzamentos,Cristiano,1006,1,3,Fluminense
+192734,14,Cruzamentos,Fred,1006,0,1,Fluminense
+192734,14,Cruzamentos,Ganso,1006,1,3,Fluminense
+192734,14,Cruzamentos,Jhon Arias,1006,1,2,Fluminense
+192734,14,Cruzamentos,Nonato,1006,0,2,Fluminense
+192734,14,Cruzamentos,Yago Felipe,1006,2,0,Fluminense
+192734,14,Cruzamentos,Andreas Pereira,1005,0,1,Flamengo
+192734,14,Cruzamentos,Arrascaeta,1005,3,4,Flamengo
+192734,14,Cruzamentos,Bruno Henrique,1005,0,1,Flamengo
+192734,14,Cruzamentos,David Luiz,1005,0,1,Flamengo
+192734,14,Cruzamentos,Everton Ribeiro,1005,0,3,Flamengo
+192734,14,Cruzamentos,Filipe Luís,1005,0,1,Flamengo
+192734,14,Cruzamentos,Gabriel,1005,0,4,Flamengo
+192734,14,Cruzamentos,Gomes,1005,1,0,Flamengo
+192734,14,Cruzamentos,Lázaro,1005,0,2,Flamengo
+192734,14,Cruzamentos,Matheuzinho,1005,0,3,Flamengo
+192734,14,Cruzamentos,Rodinei,1005,0,1,Flamengo
+192734,14,Cruzamentos,Willian Arão,1005,0,1,Flamengo
+192734,1,Lançamentos,André Trindade,1006,0,1,Fluminense
+192734,1,Lançamentos,Calegari,1006,0,1,Fluminense
+192734,1,Lançamentos,David Braz,1006,2,2,Fluminense
+192734,1,Lançamentos,Fábio,1006,5,13,Fluminense
+192734,1,Lançamentos,Manoel,1006,5,5,Fluminense
+192734,1,Lançamentos,Nino,1006,0,4,Fluminense
+192734,1,Lançamentos,Andreas Pereira,1005,0,1,Flamengo
+192734,1,Lançamentos,Arrascaeta,1005,1,1,Flamengo
+192734,1,Lançamentos,David Luiz,1005,8,6,Flamengo
+192734,1,Lançamentos,Everton Ribeiro,1005,0,1,Flamengo
+192734,1,Lançamentos,Filipe Luís,1005,0,1,Flamengo
+192734,1,Lançamentos,Gabriel,1005,0,1,Flamengo
+192734,1,Lançamentos,Gomes,1005,1,1,Flamengo
+192734,1,Lançamentos,Gustavo Henrique,1005,1,2,Flamengo
+192734,1,Lançamentos,Hugo Souza,1005,1,3,Flamengo
+192734,1,Lançamentos,Matheuzinho,1005,1,0,Flamengo
+192734,1,Lançamentos,Willian Arão,1005,2,0,Flamengo
+192734,24,Interceptações,André Trindade,1006,1,0,Fluminense
+192734,24,Interceptações,Calegari,1006,2,1,Fluminense
+192734,24,Interceptações,Cristiano,1006,1,0,Fluminense
+192734,24,Interceptações,David Braz,1006,1,1,Fluminense
+192734,24,Interceptações,Manoel,1006,0,1,Fluminense
+192734,24,Interceptações,Nino,1006,1,0,Fluminense
+192734,24,Interceptações,David Luiz,1005,1,0,Flamengo
+192734,24,Interceptações,Everton Ribeiro,1005,1,0,Flamengo
+192734,24,Interceptações,Gomes,1005,1,0,Flamengo
+192734,24,Interceptações,Rodinei,1005,1,0,Flamengo
+192734,4,Dribles,André Trindade,1006,1,0,Fluminense
+192734,4,Dribles,Cano,1006,2,1,Fluminense
+192734,4,Dribles,Ganso,1006,1,0,Fluminense
+192734,4,Dribles,Luiz Henrique,1006,1,0,Fluminense
+192734,4,Dribles,Martinelli,1006,0,1,Fluminense
+192734,4,Dribles,Yago Felipe,1006,1,0,Fluminense
+192734,4,Dribles,Arrascaeta,1005,4,0,Flamengo
+192734,4,Dribles,Bruno Henrique,1005,1,0,Flamengo
+192734,4,Dribles,Everton Ribeiro,1005,1,0,Flamengo
+192734,4,Dribles,Gabriel,1005,0,1,Flamengo
+192734,4,Dribles,Lázaro,1005,1,0,Flamengo
+192734,4,Dribles,Rodinei,1005,1,0,Flamengo
+192734,22,Viradas de jogo,David Braz,1006,1,0,Fluminense
+192734,22,Viradas de jogo,Nino,1006,1,0,Fluminense
+192734,22,Viradas de jogo,David Luiz,1005,1,0,Flamengo
+192734,20,Posse de bola,André Trindade,1006,112,0,Fluminense
+192734,20,Posse de bola,Calegari,1006,86,0,Fluminense
+192734,20,Posse de bola,Cano,1006,77,0,Fluminense
+192734,20,Posse de bola,Cristiano,1006,117,0,Fluminense
+192734,20,Posse de bola,David Braz,1006,89,0,Fluminense
+192734,20,Posse de bola,David Duarte,1006,12,0,Fluminense
+192734,20,Posse de bola,Fábio,1006,185,0,Fluminense
+192734,20,Posse de bola,Fred,1006,16,0,Fluminense
+192734,20,Posse de bola,Ganso,1006,102,0,Fluminense
+192734,20,Posse de bola,Jhon Arias,1006,93,0,Fluminense
+192734,20,Posse de bola,Luiz Henrique,1006,20,0,Fluminense
+192734,20,Posse de bola,Manoel,1006,112,0,Fluminense
+192734,20,Posse de bola,Martinelli,1006,16,0,Fluminense
+192734,20,Posse de bola,Nino,1006,81,0,Fluminense
+192734,20,Posse de bola,Nonato,1006,22,0,Fluminense
+192734,20,Posse de bola,Yago Felipe,1006,117,0,Fluminense
+192734,20,Posse de bola,Andreas Pereira,1005,36,0,Flamengo
+192734,20,Posse de bola,Arrascaeta,1005,101,0,Flamengo
+192734,20,Posse de bola,Bruno Henrique,1005,66,0,Flamengo
+192734,20,Posse de bola,David Luiz,1005,158,0,Flamengo
+192734,20,Posse de bola,Everton Ribeiro,1005,86,0,Flamengo
+192734,20,Posse de bola,Filipe Luís,1005,125,0,Flamengo
+192734,20,Posse de bola,Gabriel,1005,63,0,Flamengo
+192734,20,Posse de bola,Gomes,1005,105,0,Flamengo
+192734,20,Posse de bola,Gustavo Henrique,1005,78,0,Flamengo
+192734,20,Posse de bola,Hugo Souza,1005,59,0,Flamengo
+192734,20,Posse de bola,Lázaro,1005,75,0,Flamengo
+192734,20,Posse de bola,Matheuzinho,1005,62,0,Flamengo
+192734,20,Posse de bola,Pedro,1005,22,0,Flamengo
+192734,20,Posse de bola,Rodinei,1005,88,0,Flamengo
+192734,20,Posse de bola,Willian Arão,1005,46,0,Flamengo
+192734,8,Gols,Cano,1006,1,0,Fluminense
+192734,8,Gols,Gabriel,1005,1,0,Flamengo
+192734,28,Assistências para finalização,Cano,1006,1,0,Fluminense
+192734,28,Assistências para finalização,Cristiano,1006,1,0,Fluminense
+192734,28,Assistências para finalização,Ganso,1006,2,0,Fluminense
+192734,28,Assistências para finalização,Nino,1006,1,0,Fluminense
+192734,28,Assistências para finalização,Yago Felipe,1006,1,0,Fluminense
+192734,28,Assistências para finalização,Arrascaeta,1005,3,0,Flamengo
+192734,28,Assistências para finalização,Bruno Henrique,1005,2,0,Flamengo
+192734,28,Assistências para finalização,Everton Ribeiro,1005,1,0,Flamengo
+192734,28,Assistências para finalização,Gabriel,1005,1,0,Flamengo
+192734,28,Assistências para finalização,Gomes,1005,3,0,Flamengo
+192734,28,Assistências para finalização,Matheuzinho,1005,1,0,Flamengo
+192734,27,Assistências,Jhon Arias,1006,1,0,Fluminense
+192734,27,Assistências,Arrascaeta,1005,1,0,Flamengo
+192734,15,Defesas,Fábio,1006,1,0,Fluminense
+192734,15,Defesas,Manoel,1006,2,0,Fluminense
+192734,15,Defesas,Filipe Luís,1005,1,0,Flamengo
+192734,15,Defesas,Gomes,1005,1,0,Flamengo
+192734,15,Defesas,Gustavo Henrique,1005,2,0,Flamengo
+192734,15,Defesas,Hugo Souza,1005,1,0,Flamengo
+192734,19,Rebatidas,André Trindade,1006,1,0,Fluminense
+192734,19,Rebatidas,Calegari,1006,5,0,Fluminense
+192734,19,Rebatidas,Cristiano,1006,2,0,Fluminense
+192734,19,Rebatidas,David Braz,1006,7,0,Fluminense
+192734,19,Rebatidas,David Duarte,1006,4,0,Fluminense
+192734,19,Rebatidas,Fábio,1006,2,0,Fluminense
+192734,19,Rebatidas,Luiz Henrique,1006,2,0,Fluminense
+192734,19,Rebatidas,Manoel,1006,6,0,Fluminense
+192734,19,Rebatidas,Nino,1006,7,0,Fluminense
+192734,19,Rebatidas,Nonato,1006,1,0,Fluminense
+192734,19,Rebatidas,Yago Felipe,1006,1,0,Fluminense
+192734,19,Rebatidas,Andreas Pereira,1005,1,0,Flamengo
+192734,19,Rebatidas,Bruno Henrique,1005,2,0,Flamengo
+192734,19,Rebatidas,David Luiz,1005,6,0,Flamengo
+192734,19,Rebatidas,Gomes,1005,1,0,Flamengo
+192734,19,Rebatidas,Gustavo Henrique,1005,4,0,Flamengo
+192734,19,Rebatidas,Hugo Souza,1005,2,0,Flamengo
+192734,19,Rebatidas,Matheuzinho,1005,1,0,Flamengo
+192734,19,Rebatidas,Rodinei,1005,2,0,Flamengo
+192734,19,Rebatidas,Willian Arão,1005,1,0,Flamengo
+192734,6,Faltas cometidas,André Trindade,1006,4,0,Fluminense
+192734,6,Faltas cometidas,Calegari,1006,1,0,Fluminense
+192734,6,Faltas cometidas,Cristiano,1006,1,0,Fluminense
+192734,6,Faltas cometidas,David Braz,1006,1,0,Fluminense
+192734,6,Faltas cometidas,David Duarte,1006,1,0,Fluminense
+192734,6,Faltas cometidas,Fred,1006,1,0,Fluminense
+192734,6,Faltas cometidas,Jhon Arias,1006,5,0,Fluminense
+192734,6,Faltas cometidas,Luiz Henrique,1006,2,0,Fluminense
+192734,6,Faltas cometidas,Martinelli,1006,1,0,Fluminense
+192734,6,Faltas cometidas,Nonato,1006,1,0,Fluminense
+192734,6,Faltas cometidas,Yago Felipe,1006,3,0,Fluminense
+192734,6,Faltas cometidas,David Luiz,1005,3,0,Flamengo
+192734,6,Faltas cometidas,Filipe Luís,1005,3,0,Flamengo
+192734,6,Faltas cometidas,Gabriel,1005,1,0,Flamengo
+192734,6,Faltas cometidas,Gomes,1005,2,0,Flamengo
+192734,6,Faltas cometidas,Lázaro,1005,1,0,Flamengo
+192734,6,Faltas cometidas,Pedro,1005,2,0,Flamengo
+192734,6,Faltas cometidas,Rodinei,1005,2,0,Flamengo
+192734,6,Faltas cometidas,Willian Arão,1005,1,0,Flamengo
+192734,7,Faltas sofridas,André Trindade,1006,4,0,Fluminense
+192734,7,Faltas sofridas,Calegari,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Cano,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Cristiano,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Fred,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Jhon Arias,1006,2,0,Fluminense
+192734,7,Faltas sofridas,Luiz Henrique,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Nonato,1006,1,0,Fluminense
+192734,7,Faltas sofridas,Yago Felipe,1006,3,0,Fluminense
+192734,7,Faltas sofridas,Bruno Henrique,1005,2,0,Flamengo
+192734,7,Faltas sofridas,Everton Ribeiro,1005,3,0,Flamengo
+192734,7,Faltas sofridas,Filipe Luís,1005,2,0,Flamengo
+192734,7,Faltas sofridas,Gomes,1005,7,0,Flamengo
+192734,7,Faltas sofridas,Lázaro,1005,1,0,Flamengo
+192734,7,Faltas sofridas,Matheuzinho,1005,1,0,Flamengo
+192734,7,Faltas sofridas,Rodinei,1005,2,0,Flamengo
+192734,7,Faltas sofridas,Willian Arão,1005,1,0,Flamengo
+192734,9,Impedimentos,Cano,1006,1,0,Fluminense
+192734,9,Impedimentos,Cristiano,1006,1,0,Fluminense
+192734,9,Impedimentos,Yago Felipe,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,André Trindade,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Calegari,1006,2,0,Fluminense
+192734,12,Perda da posse de bola,Cano,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Cristiano,1006,3,0,Fluminense
+192734,12,Perda da posse de bola,David Braz,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Fred,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Ganso,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Jhon Arias,1006,4,0,Fluminense
+192734,12,Perda da posse de bola,Luiz Henrique,1006,2,0,Fluminense
+192734,12,Perda da posse de bola,Martinelli,1006,1,0,Fluminense
+192734,12,Perda da posse de bola,Nonato,1006,2,0,Fluminense
+192734,12,Perda da posse de bola,Yago Felipe,1006,2,0,Fluminense
+192734,12,Perda da posse de bola,Andreas Pereira,1005,3,0,Flamengo
+192734,12,Perda da posse de bola,Arrascaeta,1005,3,0,Flamengo
+192734,12,Perda da posse de bola,Bruno Henrique,1005,6,0,Flamengo
+192734,12,Perda da posse de bola,David Luiz,1005,1,0,Flamengo
+192734,12,Perda da posse de bola,Everton Ribeiro,1005,3,0,Flamengo
+192734,12,Perda da posse de bola,Gabriel,1005,3,0,Flamengo
+192734,12,Perda da posse de bola,Lázaro,1005,5,0,Flamengo
+192734,12,Perda da posse de bola,Pedro,1005,3,0,Flamengo
+192734,12,Perda da posse de bola,Rodinei,1005,3,0,Flamengo
+192734,25,Cartões amarelos,André Trindade,1006,1,0,Fluminense
+192734,25,Cartões amarelos,Cristiano,1006,1,0,Fluminense
+192734,25,Cartões amarelos,David Braz,1006,1,0,Fluminense
+192734,25,Cartões amarelos,Luiz Henrique,1006,1,0,Fluminense
+192734,25,Cartões amarelos,David Luiz,1005,1,0,Flamengo
+192734,25,Cartões amarelos,Filipe Luís,1005,1,0,Flamengo
+192734,25,Cartões amarelos,Gabriel,1005,1,0,Flamengo
+192734,25,Cartões amarelos,Gomes,1005,1,0,Flamengo
+192734,25,Cartões amarelos,Pedro,1005,1,0,Flamengo
+192734,26,Cartões vermelhos,Fred,1006,1,0,Fluminense
+192734,26,Cartões vermelhos,Bruno Henrique,1005,1,0,Flamengo

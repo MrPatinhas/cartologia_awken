@@ -1,0 +1,2692 @@
+fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_name
+199690,2,Passes,Baralhas,1361,34,3,Atlético-GO
+199690,2,Passes,Churín,1361,5,0,Atlético-GO
+199690,2,Passes,Dudu,1361,48,7,Atlético-GO
+199690,2,Passes,Edson,1361,41,1,Atlético-GO
+199690,2,Passes,Jefferson,1361,39,2,Atlético-GO
+199690,2,Passes,Jorginho,1361,16,2,Atlético-GO
+199690,2,Passes,Léo Pereira,1361,7,3,Atlético-GO
+199690,2,Passes,Luan Polli,1361,26,0,Atlético-GO
+199690,2,Passes,Marlon Freitas,1361,39,7,Atlético-GO
+199690,2,Passes,Rickson,1361,2,0,Atlético-GO
+199690,2,Passes,Shaylon,1361,22,3,Atlético-GO
+199690,2,Passes,Wanderson,1361,43,0,Atlético-GO
+199690,2,Passes,Wellington Rato,1361,12,2,Atlético-GO
+199690,2,Passes,Andreas Pereira,1005,25,6,
+199690,2,Passes,Arrascaeta,1005,19,7,
+199690,2,Passes,Bruno Henrique,1005,35,4,
+199690,2,Passes,David Luiz,1005,65,2,
+199690,2,Passes,Diego,1005,3,0,
+199690,2,Passes,Everton Ribeiro,1005,13,2,
+199690,2,Passes,Gabriel,1005,17,4,
+199690,2,Passes,Gomes,1005,45,2,
+199690,2,Passes,Hugo Souza,1005,11,0,
+199690,2,Passes,Lázaro,1005,9,1,
+199690,2,Passes,Léo Pereira,1005,71,5,
+199690,2,Passes,Matheuzinho,1005,35,3,
+199690,2,Passes,Pedro,1005,2,0,
+199690,2,Passes,Thiago Maia,1005,26,4,
+199690,2,Passes,Willian Arão,1005,68,1,
+199690,3,Finalizações,Baralhas,1361,0,1,Atlético-GO
+199690,3,Finalizações,Dudu,1361,0,2,Atlético-GO
+199690,3,Finalizações,Jorginho,1361,1,1,Atlético-GO
+199690,3,Finalizações,Léo Pereira,1361,1,0,Atlético-GO
+199690,3,Finalizações,Marlon Freitas,1361,1,1,Atlético-GO
+199690,3,Finalizações,Rickson,1361,0,1,Atlético-GO
+199690,3,Finalizações,Shaylon,1361,0,1,Atlético-GO
+199690,3,Finalizações,Wellington Rato,1361,1,1,Atlético-GO
+199690,3,Finalizações,Andreas Pereira,1005,0,1,
+199690,3,Finalizações,Arrascaeta,1005,0,3,
+199690,3,Finalizações,Bruno Henrique,1005,3,1,
+199690,3,Finalizações,Gabriel,1005,0,1,
+199690,3,Finalizações,Lázaro,1005,1,0,
+199690,3,Finalizações,Matheuzinho,1005,0,1,
+199690,3,Finalizações,Pedro,1005,1,1,
+199690,3,Finalizações,Thiago Maia,1005,0,1,
+199690,5,Desarmes,Baralhas,1361,2,1,Atlético-GO
+199690,5,Desarmes,Churín,1361,1,0,Atlético-GO
+199690,5,Desarmes,Dudu,1361,1,0,Atlético-GO
+199690,5,Desarmes,Edson,1361,1,0,Atlético-GO
+199690,5,Desarmes,Jefferson,1361,1,0,Atlético-GO
+199690,5,Desarmes,Léo Pereira,1361,2,0,Atlético-GO
+199690,5,Desarmes,Rickson,1361,1,0,Atlético-GO
+199690,5,Desarmes,Shaylon,1361,1,0,Atlético-GO
+199690,5,Desarmes,Wanderson,1361,1,0,Atlético-GO
+199690,5,Desarmes,Wellington Rato,1361,1,0,Atlético-GO
+199690,5,Desarmes,Andreas Pereira,1005,1,1,
+199690,5,Desarmes,Arrascaeta,1005,2,0,
+199690,5,Desarmes,Everton Ribeiro,1005,1,1,
+199690,5,Desarmes,Gomes,1005,4,2,
+199690,5,Desarmes,Hugo Souza,1005,1,0,
+199690,5,Desarmes,Léo Pereira,1005,2,1,
+199690,5,Desarmes,Matheuzinho,1005,3,0,
+199690,5,Desarmes,Thiago Maia,1005,2,1,
+199690,5,Desarmes,Willian Arão,1005,1,1,
+199690,14,Cruzamentos,Dudu,1361,1,2,Atlético-GO
+199690,14,Cruzamentos,Hayner,1361,0,1,Atlético-GO
+199690,14,Cruzamentos,Jefferson,1361,0,1,Atlético-GO
+199690,14,Cruzamentos,Léo Pereira,1361,0,2,Atlético-GO
+199690,14,Cruzamentos,Shaylon,1361,0,1,Atlético-GO
+199690,14,Cruzamentos,Wellington Rato,1361,0,2,Atlético-GO
+199690,14,Cruzamentos,Andreas Pereira,1005,1,4,
+199690,14,Cruzamentos,Arrascaeta,1005,5,10,
+199690,14,Cruzamentos,Bruno Henrique,1005,0,4,
+199690,14,Cruzamentos,Everton Ribeiro,1005,1,1,
+199690,14,Cruzamentos,Gabriel,1005,1,1,
+199690,14,Cruzamentos,Léo Pereira,1005,0,1,
+199690,14,Cruzamentos,Matheuzinho,1005,0,2,
+199690,1,Lançamentos,Baralhas,1361,1,0,Atlético-GO
+199690,1,Lançamentos,Dudu,1361,1,1,Atlético-GO
+199690,1,Lançamentos,Jefferson,1361,1,3,Atlético-GO
+199690,1,Lançamentos,Jorginho,1361,0,1,Atlético-GO
+199690,1,Lançamentos,Léo Pereira,1361,0,1,Atlético-GO
+199690,1,Lançamentos,Luan Polli,1361,2,8,Atlético-GO
+199690,1,Lançamentos,Marlon Freitas,1361,4,1,Atlético-GO
+199690,1,Lançamentos,Rickson,1361,1,0,Atlético-GO
+199690,1,Lançamentos,Shaylon,1361,0,2,Atlético-GO
+199690,1,Lançamentos,Wanderson,1361,0,2,Atlético-GO
+199690,1,Lançamentos,Wellington Rato,1361,0,1,Atlético-GO
+199690,1,Lançamentos,Andreas Pereira,1005,1,2,
+199690,1,Lançamentos,Arrascaeta,1005,1,0,
+199690,1,Lançamentos,David Luiz,1005,3,2,
+199690,1,Lançamentos,Everton Ribeiro,1005,0,1,
+199690,1,Lançamentos,Gabriel,1005,0,1,
+199690,1,Lançamentos,Gomes,1005,3,1,
+199690,1,Lançamentos,Hugo Souza,1005,0,2,
+199690,1,Lançamentos,Léo Pereira,1005,0,3,
+199690,1,Lançamentos,Matheuzinho,1005,1,1,
+199690,1,Lançamentos,Thiago Maia,1005,0,1,
+199690,1,Lançamentos,Willian Arão,1005,1,1,
+199690,24,Interceptações,Dudu,1361,2,0,Atlético-GO
+199690,24,Interceptações,Edson,1361,1,1,Atlético-GO
+199690,24,Interceptações,Bruno Henrique,1005,1,0,
+199690,24,Interceptações,David Luiz,1005,3,0,
+199690,24,Interceptações,Gomes,1005,2,0,
+199690,24,Interceptações,Matheuzinho,1005,1,0,
+199690,24,Interceptações,Willian Arão,1005,1,0,
+199690,4,Dribles,Dudu,1361,1,0,Atlético-GO
+199690,4,Dribles,Jorginho,1361,2,1,Atlético-GO
+199690,4,Dribles,Léo Pereira,1361,1,0,Atlético-GO
+199690,4,Dribles,Shaylon,1361,1,0,Atlético-GO
+199690,4,Dribles,Gabriel,1005,1,0,
+199690,4,Dribles,Léo Pereira,1005,0,1,
+199690,22,Viradas de jogo,Dudu,1361,1,0,Atlético-GO
+199690,22,Viradas de jogo,Jefferson,1361,1,0,Atlético-GO
+199690,22,Viradas de jogo,Jorginho,1361,1,0,Atlético-GO
+199690,22,Viradas de jogo,Wanderson,1361,2,0,Atlético-GO
+199690,22,Viradas de jogo,Wellington Rato,1361,1,0,Atlético-GO
+199690,22,Viradas de jogo,Willian Arão,1005,2,0,
+199690,20,Posse de bola,Baralhas,1361,94,0,Atlético-GO
+199690,20,Posse de bola,Churín,1361,20,0,Atlético-GO
+199690,20,Posse de bola,Dudu,1361,200,0,Atlético-GO
+199690,20,Posse de bola,Edson,1361,117,0,Atlético-GO
+199690,20,Posse de bola,Hayner,1361,6,0,Atlético-GO
+199690,20,Posse de bola,Jefferson,1361,140,0,Atlético-GO
+199690,20,Posse de bola,Jorginho,1361,72,0,Atlético-GO
+199690,20,Posse de bola,Léo Pereira,1361,68,0,Atlético-GO
+199690,20,Posse de bola,Luan Polli,1361,121,0,Atlético-GO
+199690,20,Posse de bola,Marlon Freitas,1361,129,0,Atlético-GO
+199690,20,Posse de bola,Rickson,1361,10,0,Atlético-GO
+199690,20,Posse de bola,Shaylon,1361,97,0,Atlético-GO
+199690,20,Posse de bola,Wanderson,1361,141,0,Atlético-GO
+199690,20,Posse de bola,Wellington Rato,1361,76,0,Atlético-GO
+199690,20,Posse de bola,Andreas Pereira,1005,106,0,
+199690,20,Posse de bola,Arrascaeta,1005,136,0,
+199690,20,Posse de bola,Bruno Henrique,1005,142,0,
+199690,20,Posse de bola,David Luiz,1005,203,0,
+199690,20,Posse de bola,Diego,1005,10,0,
+199690,20,Posse de bola,Everton Ribeiro,1005,66,0,
+199690,20,Posse de bola,Gabriel,1005,64,0,
+199690,20,Posse de bola,Gomes,1005,145,0,
+199690,20,Posse de bola,Hugo Souza,1005,59,0,
+199690,20,Posse de bola,Lázaro,1005,33,0,
+199690,20,Posse de bola,Léo Pereira,1005,218,0,
+199690,20,Posse de bola,Matheuzinho,1005,116,0,
+199690,20,Posse de bola,Pedro,1005,8,0,
+199690,20,Posse de bola,Thiago Maia,1005,74,0,
+199690,20,Posse de bola,Willian Arão,1005,175,0,
+199690,8,Gols,Wellington Rato,1361,1,0,Atlético-GO
+199690,8,Gols,Bruno Henrique,1005,1,0,
+199690,28,Assistências para finalização,Dudu,1361,3,0,Atlético-GO
+199690,28,Assistências para finalização,Marlon Freitas,1361,1,0,Atlético-GO
+199690,28,Assistências para finalização,Rickson,1361,1,0,Atlético-GO
+199690,28,Assistências para finalização,Shaylon,1361,2,0,Atlético-GO
+199690,28,Assistências para finalização,Wellington Rato,1361,2,0,Atlético-GO
+199690,28,Assistências para finalização,Arrascaeta,1005,1,0,
+199690,28,Assistências para finalização,David Luiz,1005,1,0,
+199690,28,Assistências para finalização,Everton Ribeiro,1005,2,0,
+199690,28,Assistências para finalização,Gabriel,1005,3,0,
+199690,28,Assistências para finalização,Lázaro,1005,1,0,
+199690,28,Assistências para finalização,Matheuzinho,1005,2,0,
+199690,27,Assistências,Dudu,1361,1,0,Atlético-GO
+199690,27,Assistências,Arrascaeta,1005,1,0,
+199690,15,Defesas,Dudu,1361,1,0,Atlético-GO
+199690,15,Defesas,Edson,1361,1,0,Atlético-GO
+199690,15,Defesas,Jefferson,1361,1,0,Atlético-GO
+199690,15,Defesas,Luan Polli,1361,2,0,Atlético-GO
+199690,15,Defesas,Wanderson,1361,1,0,Atlético-GO
+199690,15,Defesas,Bruno Henrique,1005,1,0,
+199690,15,Defesas,David Luiz,1005,1,0,
+199690,15,Defesas,Hugo Souza,1005,2,0,
+199690,15,Defesas,Matheuzinho,1005,2,0,
+199690,15,Defesas,Willian Arão,1005,2,0,
+199690,23,Defesas difíceis,Luan Polli,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Baralhas,1361,1,0,Atlético-GO
+199690,19,Rebatidas,Churín,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Dudu,1361,6,0,Atlético-GO
+199690,19,Rebatidas,Edson,1361,8,0,Atlético-GO
+199690,19,Rebatidas,Jefferson,1361,8,0,Atlético-GO
+199690,19,Rebatidas,Léo Pereira,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Luan Polli,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Marlon Freitas,1361,1,0,Atlético-GO
+199690,19,Rebatidas,Shaylon,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Wanderson,1361,4,0,Atlético-GO
+199690,19,Rebatidas,Wellington Rato,1361,2,0,Atlético-GO
+199690,19,Rebatidas,Andreas Pereira,1005,2,0,
+199690,19,Rebatidas,David Luiz,1005,1,0,
+199690,19,Rebatidas,Hugo Souza,1005,1,0,
+199690,19,Rebatidas,Lázaro,1005,1,0,
+199690,19,Rebatidas,Léo Pereira,1005,3,0,
+199690,19,Rebatidas,Matheuzinho,1005,1,0,
+199690,19,Rebatidas,Willian Arão,1005,3,0,
+199690,6,Faltas cometidas,Dudu,1361,1,0,Atlético-GO
+199690,6,Faltas cometidas,Jefferson,1361,1,0,Atlético-GO
+199690,6,Faltas cometidas,Jorginho,1361,1,0,Atlético-GO
+199690,6,Faltas cometidas,Léo Pereira,1361,1,0,Atlético-GO
+199690,6,Faltas cometidas,Marlon Freitas,1361,2,0,Atlético-GO
+199690,6,Faltas cometidas,Wellington Rato,1361,1,0,Atlético-GO
+199690,6,Faltas cometidas,Andreas Pereira,1005,1,0,
+199690,6,Faltas cometidas,Bruno Henrique,1005,1,0,
+199690,6,Faltas cometidas,David Luiz,1005,2,0,
+199690,6,Faltas cometidas,Everton Ribeiro,1005,1,0,
+199690,6,Faltas cometidas,Gomes,1005,1,0,
+199690,6,Faltas cometidas,Léo Pereira,1005,3,0,
+199690,6,Faltas cometidas,Matheuzinho,1005,2,0,
+199690,7,Faltas sofridas,Churín,1361,1,0,Atlético-GO
+199690,7,Faltas sofridas,Dudu,1361,1,0,Atlético-GO
+199690,7,Faltas sofridas,Edson,1361,1,0,Atlético-GO
+199690,7,Faltas sofridas,Hayner,1361,1,0,Atlético-GO
+199690,7,Faltas sofridas,Jorginho,1361,3,0,Atlético-GO
+199690,7,Faltas sofridas,Léo Pereira,1361,1,0,Atlético-GO
+199690,7,Faltas sofridas,Wellington Rato,1361,3,0,Atlético-GO
+199690,7,Faltas sofridas,Arrascaeta,1005,2,0,
+199690,7,Faltas sofridas,Everton Ribeiro,1005,1,0,
+199690,7,Faltas sofridas,Gabriel,1005,1,0,
+199690,7,Faltas sofridas,Gomes,1005,3,0,
+199690,9,Impedimentos,Shaylon,1361,1,0,Atlético-GO
+199690,9,Impedimentos,Arrascaeta,1005,1,0,
+199690,9,Impedimentos,Bruno Henrique,1005,1,0,
+199690,12,Perda da posse de bola,Baralhas,1361,3,0,Atlético-GO
+199690,12,Perda da posse de bola,Churín,1361,1,0,Atlético-GO
+199690,12,Perda da posse de bola,Dudu,1361,3,0,Atlético-GO
+199690,12,Perda da posse de bola,Hayner,1361,1,0,Atlético-GO
+199690,12,Perda da posse de bola,Jefferson,1361,1,0,Atlético-GO
+199690,12,Perda da posse de bola,Jorginho,1361,2,0,Atlético-GO
+199690,12,Perda da posse de bola,Léo Pereira,1361,6,0,Atlético-GO
+199690,12,Perda da posse de bola,Marlon Freitas,1361,3,0,Atlético-GO
+199690,12,Perda da posse de bola,Shaylon,1361,4,0,Atlético-GO
+199690,12,Perda da posse de bola,Wellington Rato,1361,2,0,Atlético-GO
+199690,12,Perda da posse de bola,Andreas Pereira,1005,2,0,
+199690,12,Perda da posse de bola,Arrascaeta,1005,7,0,
+199690,12,Perda da posse de bola,Bruno Henrique,1005,4,0,
+199690,12,Perda da posse de bola,David Luiz,1005,2,0,
+199690,12,Perda da posse de bola,Everton Ribeiro,1005,1,0,
+199690,12,Perda da posse de bola,Gabriel,1005,2,0,
+199690,12,Perda da posse de bola,Gomes,1005,1,0,
+199690,12,Perda da posse de bola,Lázaro,1005,1,0,
+199690,12,Perda da posse de bola,Matheuzinho,1005,1,0,
+199690,12,Perda da posse de bola,Thiago Maia,1005,1,0,
+199690,25,Cartões amarelos,Jorginho,1361,1,0,Atlético-GO
+199690,25,Cartões amarelos,Léo Pereira,1361,1,0,Atlético-GO
+199690,25,Cartões amarelos,Marlon Freitas,1361,1,0,Atlético-GO
+199690,25,Cartões amarelos,David Luiz,1005,1,0,
+199690,25,Cartões amarelos,Marinho,1005,1,0,
+199713,2,Passes,Ademir,1009,14,1,Atlético-MG
+199713,2,Passes,Allan,1009,53,1,Atlético-MG
+199713,2,Passes,Eduardo Sasha,1009,10,1,Atlético-MG
+199713,2,Passes,Eduardo Vargas,1009,8,1,Atlético-MG
+199713,2,Passes,Everson,1009,28,0,Atlético-MG
+199713,2,Passes,Federico Zaracho,1009,16,1,Atlético-MG
+199713,2,Passes,Guga,1009,45,3,Atlético-MG
+199713,2,Passes,Guilherme Arana,1009,65,3,Atlético-MG
+199713,2,Passes,Hulk,1009,23,2,Atlético-MG
+199713,2,Passes,Jair,1009,14,4,Atlético-MG
+199713,2,Passes,Júnior Alonso,1009,63,3,Atlético-MG
+199713,2,Passes,Keno,1009,18,2,Atlético-MG
+199713,2,Passes,Nathan Silva,1009,64,2,Atlético-MG
+199713,2,Passes,Otávio,1009,54,1,Atlético-MG
+199713,2,Passes,Savarino,1009,5,1,Atlético-MG
+199713,2,Passes,Alexandre Alemão,1018,1,0,
+199713,2,Passes,Boschilia ,1018,13,0,
+199713,2,Passes,Bruno Méndez,1018,41,0,
+199713,2,Passes,Caio,1018,1,0,
+199713,2,Passes,Carlos de Pena,1018,25,5,
+199713,2,Passes,Daniel,1018,16,0,
+199713,2,Passes,Edenílson,1018,32,1,
+199713,2,Passes,Fabricio Bustos,1018,35,6,
+199713,2,Passes,Gabriel,1018,53,5,
+199713,2,Passes,Gabriel Mercado,1018,24,0,
+199713,2,Passes,Kaique Rocha,1018,41,3,
+199713,2,Passes,Liziero,1018,47,7,
+199713,2,Passes,Mauricio,1018,10,6,
+199713,2,Passes,Taison,1018,36,4,
+199713,2,Passes,Wesley,1018,6,3,
+199713,3,Finalizações,Ademir,1009,1,1,Atlético-MG
+199713,3,Finalizações,Eduardo Sasha,1009,1,0,Atlético-MG
+199713,3,Finalizações,Eduardo Vargas,1009,1,0,Atlético-MG
+199713,3,Finalizações,Guga,1009,0,3,Atlético-MG
+199713,3,Finalizações,Guilherme Arana,1009,0,1,Atlético-MG
+199713,3,Finalizações,Hulk,1009,2,2,Atlético-MG
+199713,3,Finalizações,Jair,1009,0,1,Atlético-MG
+199713,3,Finalizações,Keno,1009,0,2,Atlético-MG
+199713,3,Finalizações,Savarino,1009,1,0,Atlético-MG
+199713,3,Finalizações,Carlos de Pena,1018,1,1,
+199713,3,Finalizações,Edenílson,1018,2,1,
+199713,3,Finalizações,Gabriel,1018,0,1,
+199713,5,Desarmes,Ademir,1009,2,0,Atlético-MG
+199713,5,Desarmes,Allan,1009,1,0,Atlético-MG
+199713,5,Desarmes,Federico Zaracho,1009,2,0,Atlético-MG
+199713,5,Desarmes,Guilherme Arana,1009,1,0,Atlético-MG
+199713,5,Desarmes,Jair,1009,2,1,Atlético-MG
+199713,5,Desarmes,Júnior Alonso,1009,1,0,Atlético-MG
+199713,5,Desarmes,Keno,1009,3,1,Atlético-MG
+199713,5,Desarmes,Nathan Silva,1009,2,0,Atlético-MG
+199713,5,Desarmes,Otávio,1009,3,0,Atlético-MG
+199713,5,Desarmes,Bruno Méndez,1018,0,1,
+199713,5,Desarmes,Carlos de Pena,1018,0,1,
+199713,5,Desarmes,Edenílson,1018,2,0,
+199713,5,Desarmes,Fabricio Bustos,1018,3,0,
+199713,5,Desarmes,Gabriel Mercado,1018,3,2,
+199713,5,Desarmes,Kaique Rocha,1018,1,1,
+199713,5,Desarmes,Liziero,1018,3,0,
+199713,14,Cruzamentos,Ademir,1009,0,2,Atlético-MG
+199713,14,Cruzamentos,Federico Zaracho,1009,1,1,Atlético-MG
+199713,14,Cruzamentos,Guga,1009,3,2,Atlético-MG
+199713,14,Cruzamentos,Keno,1009,2,1,Atlético-MG
+199713,14,Cruzamentos,Otávio,1009,0,1,Atlético-MG
+199713,14,Cruzamentos,Carlos de Pena,1018,0,4,
+199713,14,Cruzamentos,Edenílson,1018,2,4,
+199713,14,Cruzamentos,Fabricio Bustos,1018,0,3,
+199713,14,Cruzamentos,Kaique Rocha,1018,0,1,
+199713,14,Cruzamentos,Liziero,1018,0,2,
+199713,14,Cruzamentos,Taison,1018,1,1,
+199713,1,Lançamentos,Allan,1009,4,3,Atlético-MG
+199713,1,Lançamentos,Everson,1009,6,7,Atlético-MG
+199713,1,Lançamentos,Guilherme Arana,1009,3,4,Atlético-MG
+199713,1,Lançamentos,Júnior Alonso,1009,1,1,Atlético-MG
+199713,1,Lançamentos,Keno,1009,1,1,Atlético-MG
+199713,1,Lançamentos,Nathan Silva,1009,0,1,Atlético-MG
+199713,1,Lançamentos,Otávio,1009,1,1,Atlético-MG
+199713,1,Lançamentos,Bruno Méndez,1018,1,2,
+199713,1,Lançamentos,Carlos de Pena,1018,0,1,
+199713,1,Lançamentos,Daniel,1018,2,6,
+199713,1,Lançamentos,Fabricio Bustos,1018,0,2,
+199713,1,Lançamentos,Gabriel,1018,1,0,
+199713,1,Lançamentos,Gabriel Mercado,1018,2,0,
+199713,1,Lançamentos,Kaique Rocha,1018,0,1,
+199713,1,Lançamentos,Liziero,1018,0,1,
+199713,24,Interceptações,Federico Zaracho,1009,1,0,Atlético-MG
+199713,24,Interceptações,Guilherme Arana,1009,1,0,Atlético-MG
+199713,24,Interceptações,Bruno Méndez,1018,1,0,
+199713,24,Interceptações,Gabriel,1018,0,1,
+199713,24,Interceptações,Gabriel Mercado,1018,1,0,
+199713,24,Interceptações,Kaique Rocha,1018,2,0,
+199713,24,Interceptações,Mauricio,1018,1,0,
+199713,4,Dribles,Ademir,1009,0,1,Atlético-MG
+199713,4,Dribles,Allan,1009,1,0,Atlético-MG
+199713,4,Dribles,Eduardo Sasha,1009,1,0,Atlético-MG
+199713,4,Dribles,Eduardo Vargas,1009,2,0,Atlético-MG
+199713,4,Dribles,Federico Zaracho,1009,1,0,Atlético-MG
+199713,4,Dribles,Guilherme Arana,1009,1,0,Atlético-MG
+199713,4,Dribles,Hulk,1009,1,1,Atlético-MG
+199713,4,Dribles,Keno,1009,0,2,Atlético-MG
+199713,4,Dribles,Otávio,1009,1,0,Atlético-MG
+199713,4,Dribles,Savarino,1009,1,0,Atlético-MG
+199713,4,Dribles,Alexandre Alemão,1018,1,0,
+199713,4,Dribles,Carlos de Pena,1018,1,0,
+199713,4,Dribles,Kaique Rocha,1018,1,0,
+199713,4,Dribles,Mauricio,1018,0,1,
+199713,4,Dribles,Taison,1018,1,0,
+199713,4,Dribles,Wesley,1018,1,0,
+199713,22,Viradas de jogo,Ademir,1009,1,0,Atlético-MG
+199713,22,Viradas de jogo,Allan,1009,1,0,Atlético-MG
+199713,22,Viradas de jogo,Eduardo Vargas,1009,1,0,Atlético-MG
+199713,22,Viradas de jogo,Keno,1009,1,0,Atlético-MG
+199713,22,Viradas de jogo,Bruno Méndez,1018,1,0,
+199713,22,Viradas de jogo,Edenílson,1018,3,0,
+199713,22,Viradas de jogo,Gabriel,1018,1,0,
+199713,22,Viradas de jogo,Mauricio,1018,1,0,
+199713,22,Viradas de jogo,Taison,1018,1,0,
+199713,20,Posse de bola,Ademir,1009,79,0,Atlético-MG
+199713,20,Posse de bola,Allan,1009,175,0,Atlético-MG
+199713,20,Posse de bola,Eduardo Sasha,1009,41,0,Atlético-MG
+199713,20,Posse de bola,Eduardo Vargas,1009,31,0,Atlético-MG
+199713,20,Posse de bola,Everson,1009,145,0,Atlético-MG
+199713,20,Posse de bola,Federico Zaracho,1009,52,0,Atlético-MG
+199713,20,Posse de bola,Guga,1009,131,0,Atlético-MG
+199713,20,Posse de bola,Guilherme Arana,1009,190,0,Atlético-MG
+199713,20,Posse de bola,Hulk,1009,93,0,Atlético-MG
+199713,20,Posse de bola,Jair,1009,46,0,Atlético-MG
+199713,20,Posse de bola,Júnior Alonso,1009,167,0,Atlético-MG
+199713,20,Posse de bola,Keno,1009,109,0,Atlético-MG
+199713,20,Posse de bola,Nathan Silva,1009,185,0,Atlético-MG
+199713,20,Posse de bola,Otávio,1009,148,0,Atlético-MG
+199713,20,Posse de bola,Savarino,1009,20,0,Atlético-MG
+199713,20,Posse de bola,Alexandre Alemão,1018,14,0,
+199713,20,Posse de bola,Boschilia ,1018,34,0,
+199713,20,Posse de bola,Bruno Méndez,1018,137,0,
+199713,20,Posse de bola,Caio,1018,2,0,
+199713,20,Posse de bola,Carlos de Pena,1018,108,0,
+199713,20,Posse de bola,Daniel,1018,68,0,
+199713,20,Posse de bola,Edenílson,1018,122,0,
+199713,20,Posse de bola,Fabricio Bustos,1018,128,0,
+199713,20,Posse de bola,Gabriel,1018,140,0,
+199713,20,Posse de bola,Gabriel Mercado,1018,77,0,
+199713,20,Posse de bola,Kaique Rocha,1018,128,0,
+199713,20,Posse de bola,Liziero,1018,152,0,
+199713,20,Posse de bola,Mauricio,1018,46,0,
+199713,20,Posse de bola,Taison,1018,118,0,
+199713,20,Posse de bola,Wesley,1018,31,0,
+199713,8,Gols,Hulk,1009,2,0,Atlético-MG
+199713,28,Assistências para finalização,Ademir,1009,1,0,Atlético-MG
+199713,28,Assistências para finalização,Allan,1009,1,0,Atlético-MG
+199713,28,Assistências para finalização,Guga,1009,2,0,Atlético-MG
+199713,28,Assistências para finalização,Hulk,1009,4,0,Atlético-MG
+199713,28,Assistências para finalização,Keno,1009,3,0,Atlético-MG
+199713,28,Assistências para finalização,Fabricio Bustos,1018,1,0,
+199713,28,Assistências para finalização,Gabriel Mercado,1018,1,0,
+199713,28,Assistências para finalização,Taison,1018,2,0,
+199713,28,Assistências para finalização,Wesley,1018,1,0,
+199713,27,Assistências,Federico Zaracho,1009,1,0,Atlético-MG
+199713,27,Assistências,Júnior Alonso,1009,1,0,Atlético-MG
+199713,15,Defesas,Everson,1009,2,0,Atlético-MG
+199713,15,Defesas,Guga,1009,1,0,Atlético-MG
+199713,15,Defesas,Carlos de Pena,1018,1,0,
+199713,15,Defesas,Daniel,1018,2,0,
+199713,15,Defesas,Gabriel Mercado,1018,1,0,
+199713,15,Defesas,Everson,1009,2,0,Atlético-MG
+199713,15,Defesas,Guga,1009,1,0,Atlético-MG
+199713,15,Defesas,Carlos de Pena,1018,1,0,
+199713,15,Defesas,Daniel,1018,2,0,
+199713,15,Defesas,Gabriel Mercado,1018,1,0,
+199713,23,Defesas difíceis,Daniel,1018,1,0,
+199713,19,Rebatidas,Allan,1009,2,0,Atlético-MG
+199713,19,Rebatidas,Everson,1009,1,0,Atlético-MG
+199713,19,Rebatidas,Guga,1009,2,0,Atlético-MG
+199713,19,Rebatidas,Guilherme Arana,1009,3,0,Atlético-MG
+199713,19,Rebatidas,Júnior Alonso,1009,4,0,Atlético-MG
+199713,19,Rebatidas,Nathan Silva,1009,8,0,Atlético-MG
+199713,19,Rebatidas,Otávio,1009,3,0,Atlético-MG
+199713,19,Rebatidas,Boschilia ,1018,1,0,
+199713,19,Rebatidas,Bruno Méndez,1018,5,0,
+199713,19,Rebatidas,Carlos de Pena,1018,4,0,
+199713,19,Rebatidas,Daniel,1018,1,0,
+199713,19,Rebatidas,Edenílson,1018,1,0,
+199713,19,Rebatidas,Fabricio Bustos,1018,6,0,
+199713,19,Rebatidas,Gabriel,1018,1,0,
+199713,19,Rebatidas,Gabriel Mercado,1018,2,0,
+199713,19,Rebatidas,Kaique Rocha,1018,7,0,
+199713,19,Rebatidas,Liziero,1018,3,0,
+199713,6,Faltas cometidas,Allan,1009,3,0,Atlético-MG
+199713,6,Faltas cometidas,Eduardo Sasha,1009,1,0,Atlético-MG
+199713,6,Faltas cometidas,Federico Zaracho,1009,1,0,Atlético-MG
+199713,6,Faltas cometidas,Guilherme Arana,1009,2,0,Atlético-MG
+199713,6,Faltas cometidas,Keno,1009,1,0,Atlético-MG
+199713,6,Faltas cometidas,Nathan Silva,1009,2,0,Atlético-MG
+199713,6,Faltas cometidas,Otávio,1009,2,0,Atlético-MG
+199713,6,Faltas cometidas,Bruno Méndez,1018,2,0,
+199713,6,Faltas cometidas,Carlos de Pena,1018,3,0,
+199713,6,Faltas cometidas,Edenílson,1018,3,0,
+199713,6,Faltas cometidas,Gabriel,1018,4,0,
+199713,6,Faltas cometidas,Liziero,1018,3,0,
+199713,6,Faltas cometidas,Mauricio,1018,1,0,
+199713,6,Faltas cometidas,Taison,1018,1,0,
+199713,6,Faltas cometidas,Wesley,1018,1,0,
+199713,7,Faltas sofridas,Ademir,1009,3,0,Atlético-MG
+199713,7,Faltas sofridas,Eduardo Sasha,1009,3,0,Atlético-MG
+199713,7,Faltas sofridas,Guga,1009,2,0,Atlético-MG
+199713,7,Faltas sofridas,Guilherme Arana,1009,1,0,Atlético-MG
+199713,7,Faltas sofridas,Hulk,1009,5,0,Atlético-MG
+199713,7,Faltas sofridas,Keno,1009,1,0,Atlético-MG
+199713,7,Faltas sofridas,Otávio,1009,1,0,Atlético-MG
+199713,7,Faltas sofridas,Alexandre Alemão,1018,1,0,
+199713,7,Faltas sofridas,Edenílson,1018,3,0,
+199713,7,Faltas sofridas,Fabricio Bustos,1018,1,0,
+199713,7,Faltas sofridas,Gabriel,1018,2,0,
+199713,7,Faltas sofridas,Liziero,1018,1,0,
+199713,7,Faltas sofridas,Mauricio,1018,1,0,
+199713,7,Faltas sofridas,Taison,1018,2,0,
+199713,7,Faltas sofridas,Wesley,1018,1,0,
+199713,9,Impedimentos,Hulk,1009,2,0,Atlético-MG
+199713,12,Perda da posse de bola,Ademir,1009,4,0,Atlético-MG
+199713,12,Perda da posse de bola,Allan,1009,2,0,Atlético-MG
+199713,12,Perda da posse de bola,Eduardo Sasha,1009,2,0,Atlético-MG
+199713,12,Perda da posse de bola,Eduardo Vargas,1009,1,0,Atlético-MG
+199713,12,Perda da posse de bola,Federico Zaracho,1009,1,0,Atlético-MG
+199713,12,Perda da posse de bola,Guga,1009,1,0,Atlético-MG
+199713,12,Perda da posse de bola,Hulk,1009,6,0,Atlético-MG
+199713,12,Perda da posse de bola,Júnior Alonso,1009,2,0,Atlético-MG
+199713,12,Perda da posse de bola,Keno,1009,4,0,Atlético-MG
+199713,12,Perda da posse de bola,Savarino,1009,1,0,Atlético-MG
+199713,12,Perda da posse de bola,Alexandre Alemão,1018,2,0,
+199713,12,Perda da posse de bola,Boschilia ,1018,2,0,
+199713,12,Perda da posse de bola,Bruno Méndez,1018,3,0,
+199713,12,Perda da posse de bola,Carlos de Pena,1018,1,0,
+199713,12,Perda da posse de bola,Kaique Rocha,1018,2,0,
+199713,12,Perda da posse de bola,Liziero,1018,4,0,
+199713,12,Perda da posse de bola,Taison,1018,4,0,
+199713,12,Perda da posse de bola,Wesley,1018,2,0,
+199713,25,Cartões amarelos,Guilherme Arana,1009,1,0,Atlético-MG
+199713,25,Cartões amarelos,Nathan Silva,1009,1,0,Atlético-MG
+199713,25,Cartões amarelos,Carlos de Pena,1018,1,0,
+199713,25,Cartões amarelos,Gabriel,1018,1,0,
+199713,25,Cartões amarelos,Gabriel Mercado,1018,1,0,
+199713,25,Cartões amarelos,Keiller,1018,1,0,
+199719,2,Passes,Arthur Chaves,1256,64,4,Avaí
+199719,2,Passes,Bressan,1256,72,5,Avaí
+199719,2,Passes,Bruno Cortez,1256,56,10,Avaí
+199719,2,Passes,Bruno Silva,1256,48,5,Avaí
+199719,2,Passes,Dentinho,1256,2,1,Avaí
+199719,2,Passes,Douglas Friedrich,1256,16,1,Avaí
+199719,2,Passes,Eduardo,1256,15,1,Avaí
+199719,2,Passes,Guilherme Bissoli,1256,2,0,Avaí
+199719,2,Passes,Jean Cléber,1256,10,2,Avaí
+199719,2,Passes,Jonathan Copete,1256,19,4,Avaí
+199719,2,Passes,Kevin,1256,60,8,Avaí
+199719,2,Passes,Morato,1256,28,7,Avaí
+199719,2,Passes,Muriqui,1256,17,0,Avaí
+199719,2,Passes,Raniele,1256,45,7,Avaí
+199719,2,Passes,Vinícius Leite,1256,19,4,Avaí
+199719,2,Passes,Alê,1085,40,2,
+199719,2,Passes,Carlos Alberto,1085,1,1,
+199719,2,Passes,Everaldo,1085,23,4,
+199719,2,Passes,Felipe Azevedo,1085,8,2,
+199719,2,Passes,Germán Conti,1085,22,2,
+199719,2,Passes,Iago Maidana,1085,25,3,
+199719,2,Passes,Jaílson,1085,5,0,
+199719,2,Passes,João Paulo,1085,10,5,
+199719,2,Passes,Juninho,1085,35,2,
+199719,2,Passes,Lucas Kal,1085,14,1,
+199719,2,Passes,Marlon,1085,18,0,
+199719,2,Passes,Matheusinho,1085,5,2,
+199719,2,Passes,Patric,1085,45,6,
+199719,2,Passes,Paulinho Bóia,1085,6,5,
+199719,2,Passes,Pedrinho,1085,12,3,
+199719,2,Passes,Zé Ricardo,1085,22,2,
+199719,3,Finalizações,Bressan,1256,0,1,Avaí
+199719,3,Finalizações,Bruno Cortez,1256,0,1,Avaí
+199719,3,Finalizações,Bruno Silva,1256,0,1,Avaí
+199719,3,Finalizações,Eduardo,1256,0,1,Avaí
+199719,3,Finalizações,Jonathan Copete,1256,0,1,Avaí
+199719,3,Finalizações,Morato,1256,0,4,Avaí
+199719,3,Finalizações,Muriqui,1256,0,1,Avaí
+199719,3,Finalizações,Raniele,1256,1,0,Avaí
+199719,3,Finalizações,Vinícius Leite,1256,1,0,Avaí
+199719,3,Finalizações,Alê,1085,0,1,
+199719,3,Finalizações,Everaldo,1085,0,1,
+199719,3,Finalizações,Lucas Kal,1085,0,1,
+199719,3,Finalizações,Patric,1085,0,1,
+199719,3,Finalizações,Paulinho Bóia,1085,0,1,
+199719,3,Finalizações,Pedrinho,1085,1,0,
+199719,5,Desarmes,Bressan,1256,1,0,Avaí
+199719,5,Desarmes,Bruno Cortez,1256,2,0,Avaí
+199719,5,Desarmes,Bruno Silva,1256,2,1,Avaí
+199719,5,Desarmes,Dentinho,1256,1,0,Avaí
+199719,5,Desarmes,Jean Cléber,1256,0,1,Avaí
+199719,5,Desarmes,Morato,1256,3,0,Avaí
+199719,5,Desarmes,Raniele,1256,1,0,Avaí
+199719,5,Desarmes,Vinícius Leite,1256,0,1,Avaí
+199719,5,Desarmes,Alê,1085,2,0,
+199719,5,Desarmes,Everaldo,1085,1,0,
+199719,5,Desarmes,Iago Maidana,1085,1,0,
+199719,5,Desarmes,Juninho,1085,2,1,
+199719,5,Desarmes,Paulinho Bóia,1085,1,0,
+199719,5,Desarmes,Pedrinho,1085,2,0,
+199719,5,Desarmes,Zé Ricardo,1085,1,0,
+199719,14,Cruzamentos,Bruno Cortez,1256,2,0,Avaí
+199719,14,Cruzamentos,Jonathan Copete,1256,0,3,Avaí
+199719,14,Cruzamentos,Kevin,1256,1,10,Avaí
+199719,14,Cruzamentos,Muriqui,1256,0,1,Avaí
+199719,14,Cruzamentos,Raniele,1256,0,1,Avaí
+199719,14,Cruzamentos,Vinícius Leite,1256,0,4,Avaí
+199719,14,Cruzamentos,Alê,1085,1,0,
+199719,14,Cruzamentos,Carlos Alberto,1085,0,2,
+199719,14,Cruzamentos,Everaldo,1085,0,2,
+199719,14,Cruzamentos,João Paulo,1085,1,1,
+199719,14,Cruzamentos,Marlon,1085,0,1,
+199719,14,Cruzamentos,Matheusinho,1085,0,3,
+199719,14,Cruzamentos,Paulinho Bóia,1085,0,1,
+199719,14,Cruzamentos,Pedrinho,1085,0,1,
+199719,1,Lançamentos,Arthur Chaves,1256,0,1,Avaí
+199719,1,Lançamentos,Bressan,1256,3,3,Avaí
+199719,1,Lançamentos,Bruno Silva,1256,1,0,Avaí
+199719,1,Lançamentos,Douglas Friedrich,1256,2,5,Avaí
+199719,1,Lançamentos,Jean Cléber,1256,0,1,Avaí
+199719,1,Lançamentos,Kevin,1256,3,1,Avaí
+199719,1,Lançamentos,Raniele,1256,4,1,Avaí
+199719,1,Lançamentos,Alê,1085,1,2,
+199719,1,Lançamentos,Germán Conti,1085,0,4,
+199719,1,Lançamentos,Iago Maidana,1085,0,3,
+199719,1,Lançamentos,Jaílson,1085,5,9,
+199719,1,Lançamentos,Juninho,1085,0,2,
+199719,1,Lançamentos,Lucas Kal,1085,0,4,
+199719,1,Lançamentos,Marlon,1085,0,2,
+199719,1,Lançamentos,Patric,1085,1,3,
+199719,1,Lançamentos,Paulinho Bóia,1085,0,2,
+199719,1,Lançamentos,Pedrinho,1085,0,1,
+199719,1,Lançamentos,Zé Ricardo,1085,0,1,
+199719,24,Interceptações,Jean Cléber,1256,1,0,Avaí
+199719,24,Interceptações,Jonathan Copete,1256,0,1,Avaí
+199719,24,Interceptações,Kevin,1256,1,0,Avaí
+199719,24,Interceptações,Morato,1256,1,0,Avaí
+199719,24,Interceptações,Raniele,1256,0,1,Avaí
+199719,24,Interceptações,Vinícius Leite,1256,3,0,Avaí
+199719,24,Interceptações,Alê,1085,2,0,
+199719,24,Interceptações,Everaldo,1085,2,0,
+199719,24,Interceptações,Germán Conti,1085,0,1,
+199719,24,Interceptações,João Paulo,1085,1,0,
+199719,24,Interceptações,Juninho,1085,1,0,
+199719,24,Interceptações,Patric,1085,1,0,
+199719,4,Dribles,Jonathan Copete,1256,1,0,Avaí
+199719,4,Dribles,Kevin,1256,1,1,Avaí
+199719,4,Dribles,Morato,1256,1,0,Avaí
+199719,4,Dribles,Muriqui,1256,1,1,Avaí
+199719,4,Dribles,Raniele,1256,1,0,Avaí
+199719,4,Dribles,Everaldo,1085,0,1,
+199719,4,Dribles,Felipe Azevedo,1085,1,0,
+199719,4,Dribles,Jaílson,1085,1,0,
+199719,4,Dribles,João Paulo,1085,0,1,
+199719,4,Dribles,Juninho,1085,1,0,
+199719,4,Dribles,Paulinho Bóia,1085,2,1,
+199719,4,Dribles,Pedrinho,1085,2,1,
+199719,22,Viradas de jogo,Arthur Chaves,1256,1,0,Avaí
+199719,22,Viradas de jogo,Bressan,1256,1,0,Avaí
+199719,22,Viradas de jogo,Alê,1085,1,0,
+199719,22,Viradas de jogo,Pedrinho,1085,1,0,
+199719,22,Viradas de jogo,Zé Ricardo,1085,1,0,
+199719,20,Posse de bola,Arthur Chaves,1256,185,0,Avaí
+199719,20,Posse de bola,Bressan,1256,243,0,Avaí
+199719,20,Posse de bola,Bruno Cortez,1256,197,0,Avaí
+199719,20,Posse de bola,Bruno Silva,1256,140,0,Avaí
+199719,20,Posse de bola,Dentinho,1256,16,0,Avaí
+199719,20,Posse de bola,Douglas Friedrich,1256,92,0,Avaí
+199719,20,Posse de bola,Eduardo,1256,44,0,Avaí
+199719,20,Posse de bola,Guilherme Bissoli,1256,10,0,Avaí
+199719,20,Posse de bola,Jean Cléber,1256,43,0,Avaí
+199719,20,Posse de bola,Jonathan Copete,1256,78,0,Avaí
+199719,20,Posse de bola,Kevin,1256,224,0,Avaí
+199719,20,Posse de bola,Morato,1256,126,0,Avaí
+199719,20,Posse de bola,Muriqui,1256,67,0,Avaí
+199719,20,Posse de bola,Raniele,1256,159,0,Avaí
+199719,20,Posse de bola,Vinícius Leite,1256,74,0,Avaí
+199719,20,Posse de bola,Alê,1085,126,0,
+199719,20,Posse de bola,Carlos Alberto,1085,12,0,
+199719,20,Posse de bola,Everaldo,1085,92,0,
+199719,20,Posse de bola,Felipe Azevedo,1085,24,0,
+199719,20,Posse de bola,Germán Conti,1085,93,0,
+199719,20,Posse de bola,Iago Maidana,1085,90,0,
+199719,20,Posse de bola,Jaílson,1085,61,0,
+199719,20,Posse de bola,João Paulo,1085,57,0,
+199719,20,Posse de bola,Juninho,1085,121,0,
+199719,20,Posse de bola,Lucas Kal,1085,47,0,
+199719,20,Posse de bola,Marlon,1085,56,0,
+199719,20,Posse de bola,Matheusinho,1085,26,0,
+199719,20,Posse de bola,Patric,1085,151,0,
+199719,20,Posse de bola,Paulinho Bóia,1085,74,0,
+199719,20,Posse de bola,Pedrinho,1085,67,0,
+199719,20,Posse de bola,Zé Ricardo,1085,68,0,
+199719,8,Gols,Raniele,1256,1,0,Avaí
+199719,28,Assistências para finalização,Bruno Cortez,1256,1,0,Avaí
+199719,28,Assistências para finalização,Bruno Silva,1256,1,0,Avaí
+199719,28,Assistências para finalização,Dentinho,1256,1,0,Avaí
+199719,28,Assistências para finalização,Jean Cléber,1256,1,0,Avaí
+199719,28,Assistências para finalização,Kevin,1256,1,0,Avaí
+199719,28,Assistências para finalização,Raniele,1256,1,0,Avaí
+199719,28,Assistências para finalização,Vinícius Leite,1256,1,0,Avaí
+199719,28,Assistências para finalização,Alê,1085,1,0,
+199719,28,Assistências para finalização,Everaldo,1085,1,0,
+199719,28,Assistências para finalização,João Paulo,1085,1,0,
+199719,28,Assistências para finalização,Paulinho Bóia,1085,2,0,
+199719,28,Assistências para finalização,Pedrinho,1085,1,0,
+199719,15,Defesas,Bressan,1256,1,0,Avaí
+199719,15,Defesas,Douglas Friedrich,1256,1,0,Avaí
+199719,15,Defesas,Raniele,1256,1,0,Avaí
+199719,15,Defesas,Vinícius Leite,1256,1,0,Avaí
+199719,15,Defesas,Germán Conti,1085,2,0,
+199719,15,Defesas,Iago Maidana,1085,1,0,
+199719,15,Defesas,Jaílson,1085,1,0,
+199719,19,Rebatidas,Arthur Chaves,1256,8,0,Avaí
+199719,19,Rebatidas,Bressan,1256,4,0,Avaí
+199719,19,Rebatidas,Bruno Cortez,1256,3,0,Avaí
+199719,19,Rebatidas,Bruno Silva,1256,1,0,Avaí
+199719,19,Rebatidas,Douglas Friedrich,1256,4,0,Avaí
+199719,19,Rebatidas,Jean Cléber,1256,1,0,Avaí
+199719,19,Rebatidas,Kevin,1256,4,0,Avaí
+199719,19,Rebatidas,Muriqui,1256,1,0,Avaí
+199719,19,Rebatidas,Raniele,1256,2,0,Avaí
+199719,19,Rebatidas,Alê,1085,1,0,
+199719,19,Rebatidas,Germán Conti,1085,11,0,
+199719,19,Rebatidas,Iago Maidana,1085,9,0,
+199719,19,Rebatidas,Jaílson,1085,1,0,
+199719,19,Rebatidas,João Paulo,1085,3,0,
+199719,19,Rebatidas,Juninho,1085,3,0,
+199719,19,Rebatidas,Lucas Kal,1085,1,0,
+199719,19,Rebatidas,Marlon,1085,1,0,
+199719,19,Rebatidas,Patric,1085,5,0,
+199719,19,Rebatidas,Paulinho Bóia,1085,1,0,
+199719,19,Rebatidas,Pedrinho,1085,1,0,
+199719,19,Rebatidas,Zé Ricardo,1085,1,0,
+199719,6,Faltas cometidas,Arthur Chaves,1256,2,0,Avaí
+199719,6,Faltas cometidas,Bruno Silva,1256,5,0,Avaí
+199719,6,Faltas cometidas,Dentinho,1256,2,0,Avaí
+199719,6,Faltas cometidas,Eduardo,1256,1,0,Avaí
+199719,6,Faltas cometidas,Guilherme Bissoli,1256,1,0,Avaí
+199719,6,Faltas cometidas,Jean Cléber,1256,1,0,Avaí
+199719,6,Faltas cometidas,Jonathan Copete,1256,2,0,Avaí
+199719,6,Faltas cometidas,Kevin,1256,3,0,Avaí
+199719,6,Faltas cometidas,Morato,1256,2,0,Avaí
+199719,6,Faltas cometidas,Muriqui,1256,1,0,Avaí
+199719,6,Faltas cometidas,Raniele,1256,1,0,Avaí
+199719,6,Faltas cometidas,Alê,1085,1,0,
+199719,6,Faltas cometidas,Germán Conti,1085,1,0,
+199719,6,Faltas cometidas,Iago Maidana,1085,1,0,
+199719,6,Faltas cometidas,João Paulo,1085,1,0,
+199719,6,Faltas cometidas,Juninho,1085,1,0,
+199719,6,Faltas cometidas,Lucas Kal,1085,1,0,
+199719,6,Faltas cometidas,Marlon,1085,3,0,
+199719,6,Faltas cometidas,Matheusinho,1085,3,0,
+199719,6,Faltas cometidas,Paulinho Bóia,1085,3,0,
+199719,6,Faltas cometidas,Pedrinho,1085,2,0,
+199719,6,Faltas cometidas,Zé Ricardo,1085,1,0,
+199719,7,Faltas sofridas,Bruno Cortez,1256,1,0,Avaí
+199719,7,Faltas sofridas,Bruno Silva,1256,2,0,Avaí
+199719,7,Faltas sofridas,Jean Cléber,1256,1,0,Avaí
+199719,7,Faltas sofridas,Jonathan Copete,1256,2,0,Avaí
+199719,7,Faltas sofridas,Morato,1256,7,0,Avaí
+199719,7,Faltas sofridas,Muriqui,1256,4,0,Avaí
+199719,7,Faltas sofridas,Alê,1085,5,0,
+199719,7,Faltas sofridas,Carlos Alberto,1085,1,0,
+199719,7,Faltas sofridas,Everaldo,1085,4,0,
+199719,7,Faltas sofridas,Patric,1085,4,0,
+199719,7,Faltas sofridas,Paulinho Bóia,1085,4,0,
+199719,7,Faltas sofridas,Zé Ricardo,1085,1,0,
+199719,9,Impedimentos,Jonathan Copete,1256,1,0,Avaí
+199719,9,Impedimentos,Morato,1256,1,0,Avaí
+199719,9,Impedimentos,Muriqui,1256,1,0,Avaí
+199719,9,Impedimentos,Everaldo,1085,1,0,
+199719,9,Impedimentos,Paulinho Bóia,1085,1,0,
+199719,12,Perda da posse de bola,Bressan,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Bruno Cortez,1256,3,0,Avaí
+199719,12,Perda da posse de bola,Dentinho,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Eduardo,1256,3,0,Avaí
+199719,12,Perda da posse de bola,Guilherme Bissoli,1256,2,0,Avaí
+199719,12,Perda da posse de bola,Jean Cléber,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Jonathan Copete,1256,3,0,Avaí
+199719,12,Perda da posse de bola,Kevin,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Morato,1256,3,0,Avaí
+199719,12,Perda da posse de bola,Muriqui,1256,3,0,Avaí
+199719,12,Perda da posse de bola,Raniele,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Vinícius Leite,1256,1,0,Avaí
+199719,12,Perda da posse de bola,Alê,1085,1,0,
+199719,12,Perda da posse de bola,Everaldo,1085,3,0,
+199719,12,Perda da posse de bola,João Paulo,1085,1,0,
+199719,12,Perda da posse de bola,Juninho,1085,7,0,
+199719,12,Perda da posse de bola,Marlon,1085,1,0,
+199719,12,Perda da posse de bola,Patric,1085,3,0,
+199719,12,Perda da posse de bola,Paulinho Bóia,1085,6,0,
+199719,12,Perda da posse de bola,Pedrinho,1085,1,0,
+199719,12,Perda da posse de bola,Zé Ricardo,1085,3,0,
+199719,25,Cartões amarelos,Bruno Cortez,1256,1,0,Avaí
+199719,25,Cartões amarelos,Dentinho,1256,1,0,Avaí
+199719,25,Cartões amarelos,Guilherme Bissoli,1256,1,0,Avaí
+199719,25,Cartões amarelos,Iago Maidana,1085,1,0,
+199719,25,Cartões amarelos,Matheusinho,1085,1,0,
+199719,25,Cartões amarelos,Pedrinho,1085,1,0,
+199719,25,Cartões amarelos,Bruno Cortez,1256,1,0,Avaí
+199719,25,Cartões amarelos,Dentinho,1256,1,0,Avaí
+199719,25,Cartões amarelos,Guilherme Bissoli,1256,1,0,Avaí
+199719,25,Cartões amarelos,Iago Maidana,1085,1,0,
+199719,25,Cartões amarelos,Matheusinho,1085,1,0,
+199719,25,Cartões amarelos,Pedrinho,1085,1,0,
+199719,26,Cartões vermelhos,Marlon,1085,1,0,
+199719,26,Cartões vermelhos,Matheusinho,1085,1,0,
+199744,2,Passes,Chay,1003,22,2,Botafogo
+199744,2,Passes,Daniel Borges,1003,9,0,Botafogo
+199744,2,Passes,Diego Gonçalves,1003,15,4,Botafogo
+199744,2,Passes,Erison,1003,5,0,Botafogo
+199744,2,Passes,Gatito Fernández,1003,16,0,Botafogo
+199744,2,Passes,Hugo Neto,1003,27,5,Botafogo
+199744,2,Passes,Jonathan Silva,1003,35,2,Botafogo
+199744,2,Passes,Kanu,1003,64,3,Botafogo
+199744,2,Passes,Lucas Piazon,1003,10,4,Botafogo
+199744,2,Passes,Luís Oyama,1003,21,4,Botafogo
+199744,2,Passes,Matheus Nascimento,1003,3,0,Botafogo
+199744,2,Passes,Patrick de Paula,1003,41,9,Botafogo
+199744,2,Passes,Philipe Sampaio,1003,64,1,Botafogo
+199744,2,Passes,Romildo,1003,6,2,Botafogo
+199744,2,Passes,Saravia,1003,35,3,Botafogo
+199744,2,Passes,Victor Sá,1003,23,5,Botafogo
+199744,2,Passes,Adson,1004,14,2,
+199744,2,Passes,Cássio,1004,10,0,
+199744,2,Passes,Du Queiroz,1004,33,0,
+199744,2,Passes,Giovane Santana,1004,8,1,
+199744,2,Passes,Giuliano,1004,14,2,
+199744,2,Passes,Gustavo Mantuan,1004,14,6,
+199744,2,Passes,Gustavo Mosquito,1004,5,0,
+199744,2,Passes,João Pedro,1004,26,6,
+199744,2,Passes,João Victor,1004,29,0,
+199744,2,Passes,Lucas Piton,1004,48,2,
+199744,2,Passes,Maycon,1004,20,2,
+199744,2,Passes,Paulinho,1004,19,2,
+199744,2,Passes,Raul Gustavo,1004,34,3,
+199744,2,Passes,Roger Guedes,1004,4,0,
+199744,2,Passes,Roni,1004,11,1,
+199744,2,Passes,Willian,1004,10,1,
+199744,3,Finalizações,Chay,1003,1,1,Botafogo
+199744,3,Finalizações,Diego Gonçalves,1003,1,0,Botafogo
+199744,3,Finalizações,Erison,1003,0,1,Botafogo
+199744,3,Finalizações,Jonathan Silva,1003,0,1,Botafogo
+199744,3,Finalizações,Kanu,1003,0,1,Botafogo
+199744,3,Finalizações,Luís Oyama,1003,0,1,Botafogo
+199744,3,Finalizações,Matheus Nascimento,1003,1,1,Botafogo
+199744,3,Finalizações,Patrick de Paula,1003,1,0,Botafogo
+199744,3,Finalizações,Adson,1004,1,1,
+199744,3,Finalizações,Giovane Santana,1004,1,0,
+199744,3,Finalizações,Giuliano,1004,0,1,
+199744,3,Finalizações,Gustavo Mantuan,1004,2,1,
+199744,3,Finalizações,Lucas Piton,1004,1,0,
+199744,3,Finalizações,Paulinho,1004,1,0,
+199744,3,Finalizações,Raul Gustavo,1004,0,1,
+199744,3,Finalizações,Roni,1004,0,1,
+199744,3,Finalizações,Willian,1004,2,0,
+199744,5,Desarmes,Chay,1003,2,0,Botafogo
+199744,5,Desarmes,Hugo Neto,1003,3,1,Botafogo
+199744,5,Desarmes,Jonathan Silva,1003,1,0,Botafogo
+199744,5,Desarmes,Lucas Piazon,1003,1,0,Botafogo
+199744,5,Desarmes,Luís Oyama,1003,1,0,Botafogo
+199744,5,Desarmes,Patrick de Paula,1003,1,1,Botafogo
+199744,5,Desarmes,Romildo,1003,1,0,Botafogo
+199744,5,Desarmes,Victor Sá,1003,1,0,Botafogo
+199744,5,Desarmes,Adson,1004,4,1,
+199744,5,Desarmes,Du Queiroz,1004,3,0,
+199744,5,Desarmes,Giuliano,1004,1,0,
+199744,5,Desarmes,João Pedro,1004,2,1,
+199744,5,Desarmes,João Victor,1004,1,0,
+199744,5,Desarmes,Lucas Piton,1004,2,0,
+199744,5,Desarmes,Maycon,1004,3,1,
+199744,5,Desarmes,Paulinho,1004,1,0,
+199744,5,Desarmes,Raul Gustavo,1004,1,1,
+199744,5,Desarmes,Roni,1004,2,0,
+199744,5,Desarmes,Willian,1004,3,0,
+199744,14,Cruzamentos,Chay,1003,1,3,Botafogo
+199744,14,Cruzamentos,Daniel Borges,1003,0,1,Botafogo
+199744,14,Cruzamentos,Diego Gonçalves,1003,0,3,Botafogo
+199744,14,Cruzamentos,Erison,1003,0,1,Botafogo
+199744,14,Cruzamentos,Hugo Neto,1003,0,1,Botafogo
+199744,14,Cruzamentos,Luís Oyama,1003,1,0,Botafogo
+199744,14,Cruzamentos,Patrick de Paula,1003,0,2,Botafogo
+199744,14,Cruzamentos,Philipe Sampaio,1003,0,1,Botafogo
+199744,14,Cruzamentos,Saravia,1003,0,2,Botafogo
+199744,14,Cruzamentos,Victor Sá,1003,0,3,Botafogo
+199744,14,Cruzamentos,Adson,1004,0,1,
+199744,14,Cruzamentos,Du Queiroz,1004,0,1,
+199744,14,Cruzamentos,Giovane Santana,1004,0,1,
+199744,14,Cruzamentos,Giuliano,1004,0,1,
+199744,14,Cruzamentos,Gustavo Mantuan,1004,0,1,
+199744,14,Cruzamentos,Lucas Piton,1004,0,2,
+199744,14,Cruzamentos,Maycon,1004,3,1,
+199744,14,Cruzamentos,Paulinho,1004,1,0,
+199744,14,Cruzamentos,Willian,1004,1,2,
+199744,1,Lançamentos,Chay,1003,0,3,Botafogo
+199744,1,Lançamentos,Gatito Fernández,1003,6,6,Botafogo
+199744,1,Lançamentos,Hugo Neto,1003,1,3,Botafogo
+199744,1,Lançamentos,Jonathan Silva,1003,0,1,Botafogo
+199744,1,Lançamentos,Kanu,1003,2,2,Botafogo
+199744,1,Lançamentos,Luís Oyama,1003,0,1,Botafogo
+199744,1,Lançamentos,Matheus Nascimento,1003,1,0,Botafogo
+199744,1,Lançamentos,Patrick de Paula,1003,2,3,Botafogo
+199744,1,Lançamentos,Philipe Sampaio,1003,3,1,Botafogo
+199744,1,Lançamentos,Victor Sá,1003,0,1,Botafogo
+199744,1,Lançamentos,Cássio,1004,4,17,
+199744,1,Lançamentos,João Pedro,1004,1,3,
+199744,1,Lançamentos,João Victor,1004,1,2,
+199744,1,Lançamentos,Lucas Piton,1004,0,3,
+199744,1,Lançamentos,Maycon,1004,0,1,
+199744,1,Lançamentos,Raul Gustavo,1004,0,2,
+199744,24,Interceptações,Chay,1003,5,0,Botafogo
+199744,24,Interceptações,Erison,1003,1,0,Botafogo
+199744,24,Interceptações,Hugo Neto,1003,2,0,Botafogo
+199744,24,Interceptações,Victor Sá,1003,2,0,Botafogo
+199744,24,Interceptações,Adson,1004,1,0,
+199744,24,Interceptações,Gustavo Mantuan,1004,1,0,
+199744,24,Interceptações,João Victor,1004,2,0,
+199744,24,Interceptações,Lucas Piton,1004,1,1,
+199744,4,Dribles,Chay,1003,1,0,Botafogo
+199744,4,Dribles,Erison,1003,2,0,Botafogo
+199744,4,Dribles,Hugo Neto,1003,1,0,Botafogo
+199744,4,Dribles,Matheus Nascimento,1003,1,0,Botafogo
+199744,4,Dribles,Saravia,1003,1,3,Botafogo
+199744,4,Dribles,Victor Sá,1003,3,3,Botafogo
+199744,4,Dribles,Adson,1004,2,0,
+199744,4,Dribles,Giuliano,1004,1,0,
+199744,4,Dribles,Gustavo Mantuan,1004,2,1,
+199744,4,Dribles,Paulinho,1004,1,0,
+199744,4,Dribles,Willian,1004,3,0,
+199744,22,Viradas de jogo,Daniel Borges,1003,1,0,Botafogo
+199744,22,Viradas de jogo,Hugo Neto,1003,1,0,Botafogo
+199744,22,Viradas de jogo,Kanu,1003,0,1,Botafogo
+199744,22,Viradas de jogo,Patrick de Paula,1003,2,0,Botafogo
+199744,22,Viradas de jogo,Victor Sá,1003,1,0,Botafogo
+199744,22,Viradas de jogo,Du Queiroz,1004,1,0,
+199744,22,Viradas de jogo,João Victor,1004,1,0,
+199744,22,Viradas de jogo,Lucas Piton,1004,0,1,
+199744,22,Viradas de jogo,Paulinho,1004,1,0,
+199744,22,Viradas de jogo,Raul Gustavo,1004,1,2,
+199744,22,Viradas de jogo,Willian,1004,0,1,
+199744,20,Posse de bola,Chay,1003,122,0,Botafogo
+199744,20,Posse de bola,Daniel Borges,1003,46,0,Botafogo
+199744,20,Posse de bola,Diego Gonçalves,1003,63,0,Botafogo
+199744,20,Posse de bola,Erison,1003,35,0,Botafogo
+199744,20,Posse de bola,Gatito Fernández,1003,142,0,Botafogo
+199744,20,Posse de bola,Hugo Neto,1003,138,0,Botafogo
+199744,20,Posse de bola,Jonathan Silva,1003,107,0,Botafogo
+199744,20,Posse de bola,Kanu,1003,200,0,Botafogo
+199744,20,Posse de bola,Lucas Piazon,1003,39,0,Botafogo
+199744,20,Posse de bola,Luís Oyama,1003,85,0,Botafogo
+199744,20,Posse de bola,Matheus Nascimento,1003,32,0,Botafogo
+199744,20,Posse de bola,Patrick de Paula,1003,169,0,Botafogo
+199744,20,Posse de bola,Philipe Sampaio,1003,262,0,Botafogo
+199744,20,Posse de bola,Romildo,1003,28,0,Botafogo
+199744,20,Posse de bola,Saravia,1003,148,0,Botafogo
+199744,20,Posse de bola,Victor Sá,1003,110,0,Botafogo
+199744,20,Posse de bola,Adson,1004,76,0,
+199744,20,Posse de bola,Cássio,1004,176,0,
+199744,20,Posse de bola,Du Queiroz,1004,109,0,
+199744,20,Posse de bola,Giovane Santana,1004,33,0,
+199744,20,Posse de bola,Giuliano,1004,44,0,
+199744,20,Posse de bola,Gustavo Mantuan,1004,82,0,
+199744,20,Posse de bola,Gustavo Mosquito,1004,10,0,
+199744,20,Posse de bola,João Pedro,1004,112,0,
+199744,20,Posse de bola,João Victor,1004,118,0,
+199744,20,Posse de bola,Lucas Piton,1004,154,0,
+199744,20,Posse de bola,Maycon,1004,72,0,
+199744,20,Posse de bola,Paulinho,1004,70,0,
+199744,20,Posse de bola,Raul Gustavo,1004,134,0,
+199744,20,Posse de bola,Roger Guedes,1004,20,0,
+199744,20,Posse de bola,Roni,1004,40,0,
+199744,20,Posse de bola,Willian,1004,74,0,
+199744,8,Gols,Diego Gonçalves,1003,1,0,Botafogo
+199744,8,Gols,Gustavo Mantuan,1004,1,0,
+199744,8,Gols,Lucas Piton,1004,1,0,
+199744,8,Gols,Paulinho,1004,1,0,
+199744,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+199744,28,Assistências para finalização,Jonathan Silva,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Lucas Piazon,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Luís Oyama,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Patrick de Paula,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Victor Sá,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Giovane Santana,1004,1,0,
+199744,28,Assistências para finalização,Giuliano,1004,1,0,
+199744,28,Assistências para finalização,Gustavo Mantuan,1004,1,0,
+199744,28,Assistências para finalização,Lucas Piton,1004,1,0,
+199744,28,Assistências para finalização,Maycon,1004,1,0,
+199744,28,Assistências para finalização,Paulinho,1004,1,0,
+199744,28,Assistências para finalização,Raul Gustavo,1004,1,0,
+199744,28,Assistências para finalização,Willian,1004,1,0,
+199744,28,Assistências para finalização,Chay,1003,2,0,Botafogo
+199744,28,Assistências para finalização,Jonathan Silva,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Lucas Piazon,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Luís Oyama,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Patrick de Paula,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Victor Sá,1003,1,0,Botafogo
+199744,28,Assistências para finalização,Giovane Santana,1004,1,0,
+199744,28,Assistências para finalização,Giuliano,1004,1,0,
+199744,28,Assistências para finalização,Gustavo Mantuan,1004,1,0,
+199744,28,Assistências para finalização,Lucas Piton,1004,1,0,
+199744,28,Assistências para finalização,Maycon,1004,1,0,
+199744,28,Assistências para finalização,Paulinho,1004,1,0,
+199744,28,Assistências para finalização,Raul Gustavo,1004,1,0,
+199744,28,Assistências para finalização,Willian,1004,1,0,
+199744,27,Assistências,Roger Guedes,1004,1,0,
+199744,27,Assistências,Willian,1004,2,0,
+199744,15,Defesas,Gatito Fernández,1003,3,0,Botafogo
+199744,15,Defesas,Philipe Sampaio,1003,2,0,Botafogo
+199744,15,Defesas,Cássio,1004,3,0,
+199744,15,Defesas,Paulinho,1004,1,0,
+199744,23,Defesas difíceis,Gatito Fernández,1003,2,0,Botafogo
+199744,19,Rebatidas,Gatito Fernández,1003,1,0,Botafogo
+199744,19,Rebatidas,Hugo Neto,1003,4,0,Botafogo
+199744,19,Rebatidas,Kanu,1003,5,0,Botafogo
+199744,19,Rebatidas,Patrick de Paula,1003,3,0,Botafogo
+199744,19,Rebatidas,Philipe Sampaio,1003,5,0,Botafogo
+199744,19,Rebatidas,Romildo,1003,2,0,Botafogo
+199744,19,Rebatidas,Saravia,1003,1,0,Botafogo
+199744,19,Rebatidas,Adson,1004,1,0,
+199744,19,Rebatidas,Cássio,1004,2,0,
+199744,19,Rebatidas,Du Queiroz,1004,6,0,
+199744,19,Rebatidas,Gustavo Mantuan,1004,1,0,
+199744,19,Rebatidas,João Pedro,1004,7,0,
+199744,19,Rebatidas,João Victor,1004,12,0,
+199744,19,Rebatidas,Lucas Piton,1004,6,0,
+199744,19,Rebatidas,Maycon,1004,2,0,
+199744,19,Rebatidas,Paulinho,1004,1,0,
+199744,19,Rebatidas,Raul Gustavo,1004,12,0,
+199744,19,Rebatidas,Roger Guedes,1004,1,0,
+199744,19,Rebatidas,Willian,1004,1,0,
+199744,6,Faltas cometidas,Jonathan Silva,1003,1,0,Botafogo
+199744,6,Faltas cometidas,Kanu,1003,1,0,Botafogo
+199744,6,Faltas cometidas,Luís Oyama,1003,1,0,Botafogo
+199744,6,Faltas cometidas,Patrick de Paula,1003,1,0,Botafogo
+199744,6,Faltas cometidas,Romildo,1003,2,0,Botafogo
+199744,6,Faltas cometidas,Adson,1004,1,0,
+199744,6,Faltas cometidas,Du Queiroz,1004,5,0,
+199744,6,Faltas cometidas,Giovane Santana,1004,2,0,
+199744,6,Faltas cometidas,Gustavo Mantuan,1004,1,0,
+199744,6,Faltas cometidas,João Pedro,1004,1,0,
+199744,6,Faltas cometidas,João Victor,1004,2,0,
+199744,6,Faltas cometidas,Lucas Piton,1004,1,0,
+199744,6,Faltas cometidas,Maycon,1004,2,0,
+199744,6,Faltas cometidas,Raul Gustavo,1004,1,0,
+199744,6,Faltas cometidas,Roni,1004,1,0,
+199744,7,Faltas sofridas,Chay,1003,3,0,Botafogo
+199744,7,Faltas sofridas,Diego Gonçalves,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Erison,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Lucas Piazon,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Luís Oyama,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Matheus Nascimento,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Patrick de Paula,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Philipe Sampaio,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Victor Sá,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Du Queiroz,1004,1,0,
+199744,7,Faltas sofridas,Giovane Santana,1004,1,0,
+199744,7,Faltas sofridas,Gustavo Mantuan,1004,1,0,
+199744,7,Faltas sofridas,Roger Guedes,1004,1,0,
+199744,7,Faltas sofridas,Roni,1004,1,0,
+199744,7,Faltas sofridas,Willian,1004,1,0,
+199744,7,Faltas sofridas,Chay,1003,3,0,Botafogo
+199744,7,Faltas sofridas,Diego Gonçalves,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Erison,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Lucas Piazon,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Luís Oyama,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Matheus Nascimento,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Patrick de Paula,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Philipe Sampaio,1003,2,0,Botafogo
+199744,7,Faltas sofridas,Victor Sá,1003,1,0,Botafogo
+199744,7,Faltas sofridas,Du Queiroz,1004,1,0,
+199744,7,Faltas sofridas,Giovane Santana,1004,1,0,
+199744,7,Faltas sofridas,Gustavo Mantuan,1004,1,0,
+199744,7,Faltas sofridas,Roger Guedes,1004,1,0,
+199744,7,Faltas sofridas,Roni,1004,1,0,
+199744,7,Faltas sofridas,Willian,1004,1,0,
+199744,9,Impedimentos,Gustavo Mantuan,1004,1,0,
+199744,11,Pênaltis,Matheus Nascimento,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Chay,1003,9,0,Botafogo
+199744,12,Perda da posse de bola,Daniel Borges,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Diego Gonçalves,1003,3,0,Botafogo
+199744,12,Perda da posse de bola,Erison,1003,3,0,Botafogo
+199744,12,Perda da posse de bola,Hugo Neto,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Jonathan Silva,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Kanu,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Lucas Piazon,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Luís Oyama,1003,3,0,Botafogo
+199744,12,Perda da posse de bola,Matheus Nascimento,1003,5,0,Botafogo
+199744,12,Perda da posse de bola,Patrick de Paula,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Philipe Sampaio,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Romildo,1003,1,0,Botafogo
+199744,12,Perda da posse de bola,Saravia,1003,9,0,Botafogo
+199744,12,Perda da posse de bola,Victor Sá,1003,2,0,Botafogo
+199744,12,Perda da posse de bola,Adson,1004,3,0,
+199744,12,Perda da posse de bola,Du Queiroz,1004,2,0,
+199744,12,Perda da posse de bola,Giovane Santana,1004,1,0,
+199744,12,Perda da posse de bola,Giuliano,1004,1,0,
+199744,12,Perda da posse de bola,Gustavo Mantuan,1004,3,0,
+199744,12,Perda da posse de bola,João Pedro,1004,2,0,
+199744,12,Perda da posse de bola,João Victor,1004,1,0,
+199744,12,Perda da posse de bola,Lucas Piton,1004,3,0,
+199744,12,Perda da posse de bola,Maycon,1004,1,0,
+199744,12,Perda da posse de bola,Paulinho,1004,1,0,
+199744,12,Perda da posse de bola,Roger Guedes,1004,4,0,
+199744,12,Perda da posse de bola,Roni,1004,1,0,
+199744,12,Perda da posse de bola,Willian,1004,1,0,
+199744,25,Cartões amarelos,Kanu,1003,1,0,Botafogo
+199744,25,Cartões amarelos,João Pedro,1004,1,0,
+199744,25,Cartões amarelos,João Victor,1004,1,0,
+199744,25,Cartões amarelos,Raul Gustavo,1004,1,0,
+199744,25,Cartões amarelos,Roni,1004,1,0,
+199807,2,Passes,Alef Manga,1008,17,2,Coritiba
+199807,2,Passes,Alex Muralha,1008,15,0,Coritiba
+199807,2,Passes,Andrey,1008,58,2,Coritiba
+199807,2,Passes,Egídio,1008,39,3,Coritiba
+199807,2,Passes,Fabrício Daniel,1008,0,1,Coritiba
+199807,2,Passes,Guillermo de los Santos,1008,3,0,Coritiba
+199807,2,Passes,Henrique,1008,34,1,Coritiba
+199807,2,Passes,Igor Paixão,1008,19,3,Coritiba
+199807,2,Passes,Léo Gamalho,1008,13,2,Coritiba
+199807,2,Passes,Luciano Castan,1008,39,0,Coritiba
+199807,2,Passes,Matheus Alexandre,1008,22,2,Coritiba
+199807,2,Passes,Régis,1008,6,0,Coritiba
+199807,2,Passes,Thonny Anderson,1008,42,6,Coritiba
+199807,2,Passes,Val,1008,9,0,Coritiba
+199807,2,Passes,Warley,1008,13,1,Coritiba
+199807,2,Passes,Willian Farias,1008,48,0,Coritiba
+199807,2,Passes,Apodi,1014,13,5,
+199807,2,Passes,Auremir,1014,3,0,
+199807,2,Passes,Caio Vinícius,1014,45,4,
+199807,2,Passes,Da Silva,1014,43,1,
+199807,2,Passes,Danilo Barcelos,1014,11,5,
+199807,2,Passes,Dieguinho,1014,34,3,
+199807,2,Passes,Elvis,1014,45,4,
+199807,2,Passes,Fellipe Bastos,1014,34,3,
+199807,2,Passes,Hugo,1014,35,9,
+199807,2,Passes,Luiz Filipe,1014,4,1,
+199807,2,Passes,Maguinho,1014,18,0,
+199807,2,Passes,Renato,1014,12,5,
+199807,2,Passes,Reynaldo,1014,38,0,
+199807,2,Passes,Tadeu,1014,20,0,
+199807,3,Finalizações,Alef Manga,1008,1,0,Coritiba
+199807,3,Finalizações,Andrey,1008,2,2,Coritiba
+199807,3,Finalizações,Egídio,1008,1,1,Coritiba
+199807,3,Finalizações,Igor Paixão,1008,1,5,Coritiba
+199807,3,Finalizações,Léo Gamalho,1008,2,0,Coritiba
+199807,3,Finalizações,Régis,1008,1,0,Coritiba
+199807,3,Finalizações,Thonny Anderson,1008,0,1,Coritiba
+199807,3,Finalizações,Da Silva,1014,0,1,
+199807,3,Finalizações,Danilo Barcelos,1014,0,2,
+199807,3,Finalizações,Fellipe Bastos,1014,0,1,
+199807,3,Finalizações,Hugo,1014,0,1,
+199807,3,Finalizações,Maguinho,1014,0,1,
+199807,5,Desarmes,Alef Manga,1008,1,0,Coritiba
+199807,5,Desarmes,Andrey,1008,4,0,Coritiba
+199807,5,Desarmes,Egídio,1008,2,0,Coritiba
+199807,5,Desarmes,Fabrício Daniel,1008,1,0,Coritiba
+199807,5,Desarmes,Igor Paixão,1008,2,0,Coritiba
+199807,5,Desarmes,Matheus Alexandre,1008,1,0,Coritiba
+199807,5,Desarmes,Régis,1008,1,0,Coritiba
+199807,5,Desarmes,Willian Farias,1008,4,0,Coritiba
+199807,5,Desarmes,Auremir,1014,0,1,
+199807,5,Desarmes,Caio Vinícius,1014,2,0,
+199807,5,Desarmes,Danilo Barcelos,1014,1,0,
+199807,5,Desarmes,Dieguinho,1014,2,0,
+199807,5,Desarmes,Elvis,1014,1,1,
+199807,5,Desarmes,Hugo,1014,3,1,
+199807,5,Desarmes,Luiz Filipe,1014,1,0,
+199807,5,Desarmes,Maguinho,1014,1,0,
+199807,5,Desarmes,Renato,1014,1,0,
+199807,5,Desarmes,Reynaldo,1014,0,1,
+199807,14,Cruzamentos,Alef Manga,1008,0,3,Coritiba
+199807,14,Cruzamentos,Andrey,1008,0,1,Coritiba
+199807,14,Cruzamentos,Egídio,1008,3,7,Coritiba
+199807,14,Cruzamentos,Igor Paixão,1008,1,4,Coritiba
+199807,14,Cruzamentos,Matheus Alexandre,1008,0,1,Coritiba
+199807,14,Cruzamentos,Régis,1008,0,1,Coritiba
+199807,14,Cruzamentos,Thonny Anderson,1008,0,2,Coritiba
+199807,14,Cruzamentos,Warley,1008,0,2,Coritiba
+199807,14,Cruzamentos,Apodi,1014,0,1,
+199807,14,Cruzamentos,Danilo Barcelos,1014,0,2,
+199807,14,Cruzamentos,Elvis,1014,1,2,
+199807,14,Cruzamentos,Hugo,1014,0,4,
+199807,14,Cruzamentos,Luiz Filipe,1014,0,1,
+199807,14,Cruzamentos,Maguinho,1014,0,3,
+199807,1,Lançamentos,Alex Muralha,1008,4,9,Coritiba
+199807,1,Lançamentos,Andrey,1008,2,1,Coritiba
+199807,1,Lançamentos,Henrique,1008,3,5,Coritiba
+199807,1,Lançamentos,Luciano Castan,1008,3,1,Coritiba
+199807,1,Lançamentos,Thonny Anderson,1008,1,1,Coritiba
+199807,1,Lançamentos,Val,1008,0,1,Coritiba
+199807,1,Lançamentos,Warley,1008,0,5,Coritiba
+199807,1,Lançamentos,Willian Farias,1008,2,0,Coritiba
+199807,1,Lançamentos,Da Silva,1014,3,0,
+199807,1,Lançamentos,Dieguinho,1014,0,1,
+199807,1,Lançamentos,Elvis,1014,8,7,
+199807,1,Lançamentos,Fellipe Bastos,1014,2,1,
+199807,1,Lançamentos,Hugo,1014,0,3,
+199807,1,Lançamentos,Reynaldo,1014,1,2,
+199807,1,Lançamentos,Tadeu,1014,3,4,
+199807,24,Interceptações,Andrey,1008,1,0,Coritiba
+199807,24,Interceptações,Egídio,1008,2,1,Coritiba
+199807,24,Interceptações,Henrique,1008,1,0,Coritiba
+199807,24,Interceptações,Caio Vinícius,1014,0,1,
+199807,24,Interceptações,Dieguinho,1014,2,0,
+199807,24,Interceptações,Reynaldo,1014,1,0,
+199807,4,Dribles,Alef Manga,1008,0,2,Coritiba
+199807,4,Dribles,Andrey,1008,1,1,Coritiba
+199807,4,Dribles,Fabrício Daniel,1008,1,0,Coritiba
+199807,4,Dribles,Igor Paixão,1008,1,0,Coritiba
+199807,4,Dribles,Thonny Anderson,1008,0,1,Coritiba
+199807,4,Dribles,Dieguinho,1014,1,1,
+199807,22,Viradas de jogo,Andrey,1008,1,0,Coritiba
+199807,22,Viradas de jogo,Henrique,1008,2,0,Coritiba
+199807,22,Viradas de jogo,Léo Gamalho,1008,1,0,Coritiba
+199807,22,Viradas de jogo,Willian Farias,1008,1,0,Coritiba
+199807,22,Viradas de jogo,Elvis,1014,1,0,
+199807,20,Posse de bola,Alef Manga,1008,71,0,Coritiba
+199807,20,Posse de bola,Alex Muralha,1008,151,0,Coritiba
+199807,20,Posse de bola,Andrey,1008,184,0,Coritiba
+199807,20,Posse de bola,Egídio,1008,161,0,Coritiba
+199807,20,Posse de bola,Fabrício Daniel,1008,23,0,Coritiba
+199807,20,Posse de bola,Guillermo de los Santos,1008,10,0,Coritiba
+199807,20,Posse de bola,Henrique,1008,170,0,Coritiba
+199807,20,Posse de bola,Igor Paixão,1008,125,0,Coritiba
+199807,20,Posse de bola,Léo Gamalho,1008,54,0,Coritiba
+199807,20,Posse de bola,Luciano Castan,1008,161,0,Coritiba
+199807,20,Posse de bola,Matheus Alexandre,1008,71,0,Coritiba
+199807,20,Posse de bola,Régis,1008,23,0,Coritiba
+199807,20,Posse de bola,Thonny Anderson,1008,152,0,Coritiba
+199807,20,Posse de bola,Val,1008,20,0,Coritiba
+199807,20,Posse de bola,Warley,1008,66,0,Coritiba
+199807,20,Posse de bola,Willian Farias,1008,147,0,Coritiba
+199807,20,Posse de bola,Apodi,1014,45,0,
+199807,20,Posse de bola,Auremir,1014,12,0,
+199807,20,Posse de bola,Caio Vinícius,1014,139,0,
+199807,20,Posse de bola,Da Silva,1014,174,0,
+199807,20,Posse de bola,Danilo Barcelos,1014,60,0,
+199807,20,Posse de bola,Dieguinho,1014,122,0,
+199807,20,Posse de bola,Elvis,1014,204,0,
+199807,20,Posse de bola,Fellipe Bastos,1014,114,0,
+199807,20,Posse de bola,Hugo,1014,144,0,
+199807,20,Posse de bola,Luiz Filipe,1014,34,0,
+199807,20,Posse de bola,Maguinho,1014,58,0,
+199807,20,Posse de bola,Renato,1014,52,0,
+199807,20,Posse de bola,Reynaldo,1014,122,0,
+199807,20,Posse de bola,Tadeu,1014,126,0,
+199807,8,Gols,Alef Manga,1008,1,0,Coritiba
+199807,8,Gols,Andrey,1008,1,0,Coritiba
+199807,8,Gols,Léo Gamalho,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Alef Manga,1008,2,0,Coritiba
+199807,28,Assistências para finalização,Andrey,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Egídio,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Igor Paixão,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Léo Gamalho,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Thonny Anderson,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Willian Farias,1008,1,0,Coritiba
+199807,28,Assistências para finalização,Caio Vinícius,1014,1,0,
+199807,28,Assistências para finalização,Elvis,1014,1,0,
+199807,28,Assistências para finalização,Fellipe Bastos,1014,1,0,
+199807,28,Assistências para finalização,Renato,1014,1,0,
+199807,27,Assistências,Egídio,1008,1,0,Coritiba
+199807,27,Assistências,Igor Paixão,1008,1,0,Coritiba
+199807,15,Defesas,Guillermo de los Santos,1008,1,0,Coritiba
+199807,15,Defesas,Igor Paixão,1008,1,0,Coritiba
+199807,15,Defesas,Apodi,1014,1,0,
+199807,15,Defesas,Da Silva,1014,1,0,
+199807,15,Defesas,Dieguinho,1014,1,0,
+199807,15,Defesas,Reynaldo,1014,1,0,
+199807,15,Defesas,Tadeu,1014,2,0,
+199807,15,Defesas,Guillermo de los Santos,1008,1,0,Coritiba
+199807,15,Defesas,Igor Paixão,1008,1,0,Coritiba
+199807,15,Defesas,Apodi,1014,1,0,
+199807,15,Defesas,Da Silva,1014,1,0,
+199807,15,Defesas,Dieguinho,1014,1,0,
+199807,15,Defesas,Reynaldo,1014,1,0,
+199807,15,Defesas,Tadeu,1014,2,0,
+199807,23,Defesas difíceis,Tadeu,1014,3,0,
+199807,19,Rebatidas,Alex Muralha,1008,2,0,Coritiba
+199807,19,Rebatidas,Andrey,1008,3,0,Coritiba
+199807,19,Rebatidas,Egídio,1008,2,0,Coritiba
+199807,19,Rebatidas,Guillermo de los Santos,1008,1,0,Coritiba
+199807,19,Rebatidas,Henrique,1008,3,0,Coritiba
+199807,19,Rebatidas,Igor Paixão,1008,1,0,Coritiba
+199807,19,Rebatidas,Luciano Castan,1008,6,0,Coritiba
+199807,19,Rebatidas,Matheus Alexandre,1008,1,0,Coritiba
+199807,19,Rebatidas,Warley,1008,3,0,Coritiba
+199807,19,Rebatidas,Willian Farias,1008,1,0,Coritiba
+199807,19,Rebatidas,Caio Vinícius,1014,1,0,
+199807,19,Rebatidas,Da Silva,1014,17,0,
+199807,19,Rebatidas,Danilo Barcelos,1014,1,0,
+199807,19,Rebatidas,Dieguinho,1014,1,0,
+199807,19,Rebatidas,Hugo,1014,6,0,
+199807,19,Rebatidas,Luiz Filipe,1014,1,0,
+199807,19,Rebatidas,Maguinho,1014,1,0,
+199807,19,Rebatidas,Renato,1014,2,0,
+199807,19,Rebatidas,Reynaldo,1014,6,0,
+199807,19,Rebatidas,Tadeu,1014,1,0,
+199807,6,Faltas cometidas,Alef Manga,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Andrey,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Henrique,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Léo Gamalho,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Luciano Castan,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Matheus Alexandre,1008,2,0,Coritiba
+199807,6,Faltas cometidas,Thonny Anderson,1008,2,0,Coritiba
+199807,6,Faltas cometidas,Warley,1008,1,0,Coritiba
+199807,6,Faltas cometidas,Apodi,1014,1,0,
+199807,6,Faltas cometidas,Caio Vinícius,1014,4,0,
+199807,6,Faltas cometidas,Da Silva,1014,2,0,
+199807,6,Faltas cometidas,Danilo Barcelos,1014,1,0,
+199807,6,Faltas cometidas,Luiz Filipe,1014,1,0,
+199807,6,Faltas cometidas,Renato,1014,2,0,
+199807,6,Faltas cometidas,Reynaldo,1014,1,0,
+199807,7,Faltas sofridas,Fabrício Daniel,1008,2,0,Coritiba
+199807,7,Faltas sofridas,Igor Paixão,1008,3,0,Coritiba
+199807,7,Faltas sofridas,Léo Gamalho,1008,1,0,Coritiba
+199807,7,Faltas sofridas,Luciano Castan,1008,2,0,Coritiba
+199807,7,Faltas sofridas,Matheus Alexandre,1008,1,0,Coritiba
+199807,7,Faltas sofridas,Thonny Anderson,1008,2,0,Coritiba
+199807,7,Faltas sofridas,Caio Vinícius,1014,1,0,
+199807,7,Faltas sofridas,Danilo Barcelos,1014,2,0,
+199807,7,Faltas sofridas,Dieguinho,1014,1,0,
+199807,7,Faltas sofridas,Elvis,1014,2,0,
+199807,7,Faltas sofridas,Hugo,1014,1,0,
+199807,7,Faltas sofridas,Luiz Filipe,1014,1,0,
+199807,7,Faltas sofridas,Reynaldo,1014,2,0,
+199807,9,Impedimentos,Alef Manga,1008,1,0,Coritiba
+199807,9,Impedimentos,Henrique,1008,1,0,Coritiba
+199807,9,Impedimentos,Léo Gamalho,1008,1,0,Coritiba
+199807,9,Impedimentos,Hugo,1014,1,0,
+199807,9,Impedimentos,Renato,1014,1,0,
+199807,12,Perda da posse de bola,Alef Manga,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Andrey,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Egídio,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Fabrício Daniel,1008,4,0,Coritiba
+199807,12,Perda da posse de bola,Igor Paixão,1008,5,0,Coritiba
+199807,12,Perda da posse de bola,Léo Gamalho,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Luciano Castan,1008,1,0,Coritiba
+199807,12,Perda da posse de bola,Thonny Anderson,1008,5,0,Coritiba
+199807,12,Perda da posse de bola,Warley,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Willian Farias,1008,2,0,Coritiba
+199807,12,Perda da posse de bola,Auremir,1014,2,0,
+199807,12,Perda da posse de bola,Caio Vinícius,1014,2,0,
+199807,12,Perda da posse de bola,Danilo Barcelos,1014,3,0,
+199807,12,Perda da posse de bola,Dieguinho,1014,1,0,
+199807,12,Perda da posse de bola,Elvis,1014,3,0,
+199807,12,Perda da posse de bola,Fellipe Bastos,1014,1,0,
+199807,12,Perda da posse de bola,Hugo,1014,3,0,
+199807,12,Perda da posse de bola,Luiz Filipe,1014,3,0,
+199807,12,Perda da posse de bola,Maguinho,1014,1,0,
+199807,12,Perda da posse de bola,Renato,1014,2,0,
+199807,25,Cartões amarelos,Henrique,1008,1,0,Coritiba
+199807,25,Cartões amarelos,Luciano Castan,1008,1,0,Coritiba
+199807,25,Cartões amarelos,Caio Vinícius,1014,1,0,
+199807,25,Cartões amarelos,Da Silva,1014,1,0,
+199807,25,Cartões amarelos,Luiz Filipe,1014,1,0,
+199807,25,Cartões amarelos,Renato,1014,1,0,
+199869,2,Passes,André Trindade,1006,65,1,Fluminense
+199869,2,Passes,Calegari,1006,46,4,Fluminense
+199869,2,Passes,Cano,1006,16,0,Fluminense
+199869,2,Passes,Cristiano,1006,41,5,Fluminense
+199869,2,Passes,David Braz,1006,44,3,Fluminense
+199869,2,Passes,Fábio,1006,7,0,Fluminense
+199869,2,Passes,Fred,1006,4,0,Fluminense
+199869,2,Passes,Jhon Arias,1006,37,4,Fluminense
+199869,2,Passes,Luccas Claro,1006,4,0,Fluminense
+199869,2,Passes,Luiz Henrique,1006,20,1,Fluminense
+199869,2,Passes,Manoel,1006,47,1,Fluminense
+199869,2,Passes,Nathan,1006,31,1,Fluminense
+199869,2,Passes,Nino,1006,60,2,Fluminense
+199869,2,Passes,Nonato,1006,32,8,Fluminense
+199869,2,Passes,Willian,1006,3,1,Fluminense
+199869,2,Passes,Yago Felipe,1006,18,5,Fluminense
+199869,2,Passes,Bryan Angulo,1011,3,1,
+199869,2,Passes,Eduardo Bauermann,1011,19,0,
+199869,2,Passes,Jhojan Julio,1011,13,1,
+199869,2,Passes,João Paulo,1011,13,0,
+199869,2,Passes,Lucas Barbosa,1011,0,6,
+199869,2,Passes,Lucas Pires,1011,27,10,
+199869,2,Passes,Madson,1011,18,5,
+199869,2,Passes,Maicon,1011,18,0,
+199869,2,Passes,Marcos Leonardo,1011,11,3,
+199869,2,Passes,Ricardo Goulart,1011,18,6,
+199869,2,Passes,Rodrigo Fernández,1011,24,1,
+199869,2,Passes,Sandry,1011,2,1,
+199869,2,Passes,Vinicius Zanocelo,1011,21,2,
+199869,2,Passes,Willian Maranhão,1011,22,2,
+199869,3,Finalizações,Cano,1006,4,4,Fluminense
+199869,3,Finalizações,Cristiano,1006,0,1,Fluminense
+199869,3,Finalizações,David Braz,1006,0,3,Fluminense
+199869,3,Finalizações,Fred,1006,1,2,Fluminense
+199869,3,Finalizações,Jhon Arias,1006,0,2,Fluminense
+199869,3,Finalizações,Luiz Henrique,1006,0,1,Fluminense
+199869,3,Finalizações,Nathan,1006,0,2,Fluminense
+199869,3,Finalizações,Nino,1006,1,0,Fluminense
+199869,3,Finalizações,Nonato,1006,1,1,Fluminense
+199869,3,Finalizações,Maicon,1011,0,1,
+199869,3,Finalizações,Marcos Leonardo,1011,0,1,
+199869,3,Finalizações,Vinicius Zanocelo,1011,1,0,
+199869,5,Desarmes,André Trindade,1006,1,0,Fluminense
+199869,5,Desarmes,Calegari,1006,2,0,Fluminense
+199869,5,Desarmes,Cristiano,1006,4,0,Fluminense
+199869,5,Desarmes,Jhon Arias,1006,1,0,Fluminense
+199869,5,Desarmes,Manoel,1006,1,0,Fluminense
+199869,5,Desarmes,Nathan,1006,0,1,Fluminense
+199869,5,Desarmes,Nino,1006,0,1,Fluminense
+199869,5,Desarmes,Nonato,1006,2,1,Fluminense
+199869,5,Desarmes,Willian,1006,1,0,Fluminense
+199869,5,Desarmes,Yago Felipe,1006,1,0,Fluminense
+199869,5,Desarmes,Eduardo Bauermann,1011,1,1,
+199869,5,Desarmes,Jhojan Julio,1011,4,0,
+199869,5,Desarmes,Lucas Barbosa,1011,0,1,
+199869,5,Desarmes,Lucas Pires,1011,3,1,
+199869,5,Desarmes,Maicon,1011,3,0,
+199869,5,Desarmes,Rodrigo Fernández,1011,4,0,
+199869,5,Desarmes,Vinicius Zanocelo,1011,1,0,
+199869,5,Desarmes,Willian Maranhão,1011,3,0,
+199869,14,Cruzamentos,André Trindade,1006,1,0,Fluminense
+199869,14,Cruzamentos,Calegari,1006,0,2,Fluminense
+199869,14,Cruzamentos,Cano,1006,0,1,Fluminense
+199869,14,Cruzamentos,Cristiano,1006,3,7,Fluminense
+199869,14,Cruzamentos,David Braz,1006,0,1,Fluminense
+199869,14,Cruzamentos,Jhon Arias,1006,1,0,Fluminense
+199869,14,Cruzamentos,Luiz Henrique,1006,0,1,Fluminense
+199869,14,Cruzamentos,Manoel,1006,0,2,Fluminense
+199869,14,Cruzamentos,Nathan,1006,0,3,Fluminense
+199869,14,Cruzamentos,Nonato,1006,0,4,Fluminense
+199869,14,Cruzamentos,Yago Felipe,1006,3,2,Fluminense
+199869,14,Cruzamentos,Gabriel Pirani,1011,0,1,
+199869,14,Cruzamentos,Jhojan Julio,1011,0,1,
+199869,14,Cruzamentos,Lucas Barbosa,1011,0,1,
+199869,14,Cruzamentos,Lucas Pires,1011,1,3,
+199869,14,Cruzamentos,Madson,1011,0,1,
+199869,14,Cruzamentos,Ricardo Goulart,1011,0,2,
+199869,14,Cruzamentos,Vinicius Zanocelo,1011,0,1,
+199869,1,Lançamentos,André Trindade,1006,1,0,Fluminense
+199869,1,Lançamentos,Cano,1006,0,1,Fluminense
+199869,1,Lançamentos,Cristiano,1006,0,2,Fluminense
+199869,1,Lançamentos,David Braz,1006,3,2,Fluminense
+199869,1,Lançamentos,Fábio,1006,0,1,Fluminense
+199869,1,Lançamentos,Luccas Claro,1006,1,1,Fluminense
+199869,1,Lançamentos,Manoel,1006,1,1,Fluminense
+199869,1,Lançamentos,Nino,1006,1,1,Fluminense
+199869,1,Lançamentos,Yago Felipe,1006,1,0,Fluminense
+199869,1,Lançamentos,Emiliano Velázquez,1011,0,1,
+199869,1,Lançamentos,João Paulo,1011,5,12,
+199869,1,Lançamentos,Lucas Pires,1011,1,2,
+199869,1,Lançamentos,Madson,1011,0,1,
+199869,1,Lançamentos,Maicon,1011,3,3,
+199869,1,Lançamentos,Rodrigo Fernández,1011,1,3,
+199869,24,Interceptações,Calegari,1006,0,1,Fluminense
+199869,24,Interceptações,Nino,1006,0,1,Fluminense
+199869,24,Interceptações,Yago Felipe,1006,1,0,Fluminense
+199869,24,Interceptações,Eduardo Bauermann,1011,1,0,
+199869,24,Interceptações,Rodrigo Fernández,1011,1,0,
+199869,24,Interceptações,Vinicius Zanocelo,1011,1,0,
+199869,24,Interceptações,Willian Maranhão,1011,1,0,
+199869,4,Dribles,André Trindade,1006,1,2,Fluminense
+199869,4,Dribles,Calegari,1006,1,1,Fluminense
+199869,4,Dribles,Luiz Henrique,1006,1,2,Fluminense
+199869,4,Dribles,Nonato,1006,2,0,Fluminense
+199869,4,Dribles,Gabriel Pirani,1011,1,0,
+199869,4,Dribles,Marcos Leonardo,1011,1,0,
+199869,4,Dribles,Rodrigo Fernández,1011,1,0,
+199869,22,Viradas de jogo,André Trindade,1006,1,1,Fluminense
+199869,22,Viradas de jogo,David Braz,1006,0,1,Fluminense
+199869,22,Viradas de jogo,Nino,1006,2,0,Fluminense
+199869,22,Viradas de jogo,Jhojan Julio,1011,1,0,
+199869,20,Posse de bola,André Trindade,1006,200,0,Fluminense
+199869,20,Posse de bola,Calegari,1006,169,0,Fluminense
+199869,20,Posse de bola,Cano,1006,64,0,Fluminense
+199869,20,Posse de bola,Cristiano,1006,214,0,Fluminense
+199869,20,Posse de bola,David Braz,1006,182,0,Fluminense
+199869,20,Posse de bola,Fábio,1006,45,0,Fluminense
+199869,20,Posse de bola,Fred,1006,16,0,Fluminense
+199869,20,Posse de bola,Jhon Arias,1006,125,0,Fluminense
+199869,20,Posse de bola,Luccas Claro,1006,18,0,Fluminense
+199869,20,Posse de bola,Luiz Henrique,1006,77,0,Fluminense
+199869,20,Posse de bola,Manoel,1006,189,0,Fluminense
+199869,20,Posse de bola,Nathan,1006,99,0,Fluminense
+199869,20,Posse de bola,Nino,1006,218,0,Fluminense
+199869,20,Posse de bola,Nonato,1006,148,0,Fluminense
+199869,20,Posse de bola,Willian,1006,19,0,Fluminense
+199869,20,Posse de bola,Yago Felipe,1006,83,0,Fluminense
+199869,20,Posse de bola,Bryan Angulo,1011,16,0,
+199869,20,Posse de bola,Eduardo Bauermann,1011,76,0,
+199869,20,Posse de bola,Emiliano Velázquez,1011,2,0,
+199869,20,Posse de bola,Gabriel Pirani,1011,12,0,
+199869,20,Posse de bola,Jhojan Julio,1011,74,0,
+199869,20,Posse de bola,João Paulo,1011,184,0,
+199869,20,Posse de bola,Lucas Barbosa,1011,24,0,
+199869,20,Posse de bola,Lucas Pires,1011,145,0,
+199869,20,Posse de bola,Madson,1011,79,0,
+199869,20,Posse de bola,Maicon,1011,102,0,
+199869,20,Posse de bola,Marcos Leonardo,1011,67,0,
+199869,20,Posse de bola,Ricardo Goulart,1011,63,0,
+199869,20,Posse de bola,Rodrigo Fernández,1011,100,0,
+199869,20,Posse de bola,Sandry,1011,6,0,
+199869,20,Posse de bola,Vinicius Zanocelo,1011,92,0,
+199869,20,Posse de bola,Willian Maranhão,1011,75,0,
+199869,28,Assistências para finalização,André Trindade,1006,2,0,Fluminense
+199869,28,Assistências para finalização,Calegari,1006,2,0,Fluminense
+199869,28,Assistências para finalização,Cano,1006,1,0,Fluminense
+199869,28,Assistências para finalização,Cristiano,1006,2,0,Fluminense
+199869,28,Assistências para finalização,Jhon Arias,1006,3,0,Fluminense
+199869,28,Assistências para finalização,Luiz Henrique,1006,3,0,Fluminense
+199869,28,Assistências para finalização,Nathan,1006,1,0,Fluminense
+199869,28,Assistências para finalização,Nino,1006,3,0,Fluminense
+199869,28,Assistências para finalização,Yago Felipe,1006,2,0,Fluminense
+199869,28,Assistências para finalização,Lucas Pires,1011,1,0,
+199869,28,Assistências para finalização,Ricardo Goulart,1011,2,0,
+199869,15,Defesas,Eduardo Bauermann,1011,2.0,0.0,
+199869,15,Defesas,João Paulo,1011,5.0,0.0,
+199869,15,Defesas,Madson,1011,1.0,0.0,
+199869,15,Defesas,Maicon,1011,2.0,0.0,
+199869,15,Defesas,Willian Maranhão,1011,1.0,0.0,
+199869,23,Defesas difíceis,Fábio,1006,1,0,Fluminense
+199869,23,Defesas difíceis,João Paulo,1011,1,0,
+199869,19,Rebatidas,André Trindade,1006,1,0,Fluminense
+199869,19,Rebatidas,Calegari,1006,1,0,Fluminense
+199869,19,Rebatidas,Cristiano,1006,4,0,Fluminense
+199869,19,Rebatidas,David Braz,1006,6,0,Fluminense
+199869,19,Rebatidas,Luccas Claro,1006,1,0,Fluminense
+199869,19,Rebatidas,Manoel,1006,10,0,Fluminense
+199869,19,Rebatidas,Nathan,1006,1,0,Fluminense
+199869,19,Rebatidas,Nino,1006,5,0,Fluminense
+199869,19,Rebatidas,Nonato,1006,1,0,Fluminense
+199869,19,Rebatidas,Yago Felipe,1006,1,0,Fluminense
+199869,19,Rebatidas,Bryan Angulo,1011,1,0,
+199869,19,Rebatidas,Eduardo Bauermann,1011,8,0,
+199869,19,Rebatidas,João Paulo,1011,1,0,
+199869,19,Rebatidas,Lucas Pires,1011,5,0,
+199869,19,Rebatidas,Madson,1011,7,0,
+199869,19,Rebatidas,Maicon,1011,11,0,
+199869,19,Rebatidas,Ricardo Goulart,1011,2,0,
+199869,19,Rebatidas,Rodrigo Fernández,1011,4,0,
+199869,19,Rebatidas,Vinicius Zanocelo,1011,5,0,
+199869,19,Rebatidas,Willian Maranhão,1011,5,0,
+199869,6,Faltas cometidas,André Trindade,1006,2,0,Fluminense
+199869,6,Faltas cometidas,Calegari,1006,1,0,Fluminense
+199869,6,Faltas cometidas,David Braz,1006,4,0,Fluminense
+199869,6,Faltas cometidas,Fred,1006,1,0,Fluminense
+199869,6,Faltas cometidas,Jhon Arias,1006,1,0,Fluminense
+199869,6,Faltas cometidas,Manoel,1006,3,0,Fluminense
+199869,6,Faltas cometidas,Nathan,1006,1,0,Fluminense
+199869,6,Faltas cometidas,Nino,1006,1,0,Fluminense
+199869,6,Faltas cometidas,Gabriel Pirani,1011,2,0,
+199869,6,Faltas cometidas,Jhojan Julio,1011,4,0,
+199869,6,Faltas cometidas,Lucas Barbosa,1011,1,0,
+199869,6,Faltas cometidas,Madson,1011,1,0,
+199869,6,Faltas cometidas,Marcos Leonardo,1011,3,0,
+199869,6,Faltas cometidas,Ricardo Goulart,1011,1,0,
+199869,6,Faltas cometidas,Rodrigo Fernández,1011,3,0,
+199869,6,Faltas cometidas,Vinicius Zanocelo,1011,2,0,
+199869,6,Faltas cometidas,Willian Maranhão,1011,1,0,
+199869,7,Faltas sofridas,André Trindade,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Calegari,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Cristiano,1006,1,0,Fluminense
+199869,7,Faltas sofridas,David Braz,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Jhon Arias,1006,4,0,Fluminense
+199869,7,Faltas sofridas,Manoel,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Nathan,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Nino,1006,3,0,Fluminense
+199869,7,Faltas sofridas,Nonato,1006,3,0,Fluminense
+199869,7,Faltas sofridas,Yago Felipe,1006,2,0,Fluminense
+199869,7,Faltas sofridas,Bryan Angulo,1011,1,0,
+199869,7,Faltas sofridas,Eduardo Bauermann,1011,1,0,
+199869,7,Faltas sofridas,Gabriel Pirani,1011,1,0,
+199869,7,Faltas sofridas,Jhojan Julio,1011,4,0,
+199869,7,Faltas sofridas,Madson,1011,1,0,
+199869,7,Faltas sofridas,Maicon,1011,1,0,
+199869,7,Faltas sofridas,Marcos Leonardo,1011,4,0,
+199869,7,Faltas sofridas,Vinicius Zanocelo,1011,1,0,
+199869,7,Faltas sofridas,André Trindade,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Calegari,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Cristiano,1006,1,0,Fluminense
+199869,7,Faltas sofridas,David Braz,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Jhon Arias,1006,4,0,Fluminense
+199869,7,Faltas sofridas,Manoel,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Nathan,1006,1,0,Fluminense
+199869,7,Faltas sofridas,Nino,1006,3,0,Fluminense
+199869,7,Faltas sofridas,Nonato,1006,3,0,Fluminense
+199869,7,Faltas sofridas,Yago Felipe,1006,2,0,Fluminense
+199869,7,Faltas sofridas,Bryan Angulo,1011,1,0,
+199869,7,Faltas sofridas,Eduardo Bauermann,1011,1,0,
+199869,7,Faltas sofridas,Gabriel Pirani,1011,1,0,
+199869,7,Faltas sofridas,Jhojan Julio,1011,4,0,
+199869,7,Faltas sofridas,Madson,1011,1,0,
+199869,7,Faltas sofridas,Maicon,1011,1,0,
+199869,7,Faltas sofridas,Marcos Leonardo,1011,4,0,
+199869,7,Faltas sofridas,Vinicius Zanocelo,1011,1,0,
+199869,9,Impedimentos,Jhojan Julio,1011,2,0,
+199869,9,Impedimentos,Marcos Leonardo,1011,1,0,
+199869,9,Impedimentos,Willian Maranhão,1011,1,0,
+199869,12,Perda da posse de bola,André Trindade,1006,2,0,Fluminense
+199869,12,Perda da posse de bola,Calegari,1006,3,0,Fluminense
+199869,12,Perda da posse de bola,Cano,1006,2,0,Fluminense
+199869,12,Perda da posse de bola,Cristiano,1006,3,0,Fluminense
+199869,12,Perda da posse de bola,Jhon Arias,1006,3,0,Fluminense
+199869,12,Perda da posse de bola,Luccas Claro,1006,1,0,Fluminense
+199869,12,Perda da posse de bola,Luiz Henrique,1006,1,0,Fluminense
+199869,12,Perda da posse de bola,Nathan,1006,3,0,Fluminense
+199869,12,Perda da posse de bola,Nino,1006,2,0,Fluminense
+199869,12,Perda da posse de bola,Nonato,1006,1,0,Fluminense
+199869,12,Perda da posse de bola,Willian,1006,2,0,Fluminense
+199869,12,Perda da posse de bola,Yago Felipe,1006,3,0,Fluminense
+199869,12,Perda da posse de bola,Gabriel Pirani,1011,1,0,
+199869,12,Perda da posse de bola,Jhojan Julio,1011,3,0,
+199869,12,Perda da posse de bola,Lucas Barbosa,1011,2,0,
+199869,12,Perda da posse de bola,Lucas Pires,1011,5,0,
+199869,12,Perda da posse de bola,Madson,1011,1,0,
+199869,12,Perda da posse de bola,Marcos Leonardo,1011,3,0,
+199869,12,Perda da posse de bola,Ricardo Goulart,1011,1,0,
+199869,12,Perda da posse de bola,Rodrigo Fernández,1011,3,0,
+199869,12,Perda da posse de bola,Vinicius Zanocelo,1011,3,0,
+199869,25,Cartões amarelos,Manoel,1006,1,0,Fluminense
+199880,2,Passes,Brayan Ceballos,1024,49,2,Fortaleza
+199880,2,Passes,Felipe,1024,55,1,Fortaleza
+199880,2,Passes,Hércules,1024,10,6,Fortaleza
+199880,2,Passes,Lucas Crispim,1024,36,1,Fortaleza
+199880,2,Passes,Matheus Jussa,1024,23,3,Fortaleza
+199880,2,Passes,Matheus Vargas,1024,17,6,Fortaleza
+199880,2,Passes,Max Walef,1024,9,1,Fortaleza
+199880,2,Passes,Moisés,1024,6,0,Fortaleza
+199880,2,Passes,Renato Kayzer,1024,4,1,Fortaleza
+199880,2,Passes,Robson Fernandes,1024,8,1,Fortaleza
+199880,2,Passes,Romarinho,1024,19,3,Fortaleza
+199880,2,Passes,Silvio Romero,1024,4,2,Fortaleza
+199880,2,Passes,Tinga,1024,54,6,Fortaleza
+199880,2,Passes,Titi,1024,52,1,Fortaleza
+199880,2,Passes,Valentín Depietri,1024,10,0,Fortaleza
+199880,2,Passes,Vitor Ricardo,1024,24,1,Fortaleza
+199880,2,Passes,Alan Empereur,1755,15,1,
+199880,2,Passes,Alesson,1755,5,0,
+199880,2,Passes,André,1755,10,2,
+199880,2,Passes,André Luis,1755,6,1,
+199880,2,Passes,Elton,1755,2,0,
+199880,2,Passes,Everton,1755,8,1,
+199880,2,Passes,Felipe Marques,1755,7,0,
+199880,2,Passes,Igor,1755,18,9,
+199880,2,Passes,João Lucas,1755,12,6,
+199880,2,Passes,Marcão Silva,1755,2,1,
+199880,2,Passes,Marllon,1755,13,2,
+199880,2,Passes,Pepê,1755,15,1,
+199880,2,Passes,Rafael Gava,1755,22,3,
+199880,2,Passes,Rodriguinho,1755,6,2,
+199880,2,Passes,Walter,1755,4,0,
+199880,3,Finalizações,Brayan Ceballos,1024,1,0,Fortaleza
+199880,3,Finalizações,Hércules,1024,1,0,Fortaleza
+199880,3,Finalizações,Lucas Crispim,1024,0,2,Fortaleza
+199880,3,Finalizações,Matheus Jussa,1024,1,0,Fortaleza
+199880,3,Finalizações,Matheus Vargas,1024,0,3,Fortaleza
+199880,3,Finalizações,Renato Kayzer,1024,1,2,Fortaleza
+199880,3,Finalizações,Robson Fernandes,1024,0,4,Fortaleza
+199880,3,Finalizações,Romarinho,1024,0,1,Fortaleza
+199880,3,Finalizações,Silvio Romero,1024,0,2,Fortaleza
+199880,3,Finalizações,Tinga,1024,1,0,Fortaleza
+199880,3,Finalizações,Titi,1024,0,1,Fortaleza
+199880,3,Finalizações,Valentín Depietri,1024,0,1,Fortaleza
+199880,3,Finalizações,Alesson,1755,1,0,
+199880,3,Finalizações,André Luis,1755,0,1,
+199880,3,Finalizações,Elton,1755,1,0,
+199880,3,Finalizações,Everton,1755,1,1,
+199880,3,Finalizações,Felipe Marques,1755,0,1,
+199880,3,Finalizações,Pepê,1755,0,1,
+199880,3,Finalizações,Rafael Gava,1755,0,1,
+199880,3,Finalizações,Rodriguinho,1755,1,0,
+199880,5,Desarmes,Brayan Ceballos,1024,1,0,Fortaleza
+199880,5,Desarmes,Felipe,1024,2,0,Fortaleza
+199880,5,Desarmes,Hércules,1024,0,1,Fortaleza
+199880,5,Desarmes,Lucas Crispim,1024,1,0,Fortaleza
+199880,5,Desarmes,Matheus Vargas,1024,1,1,Fortaleza
+199880,5,Desarmes,Titi,1024,2,1,Fortaleza
+199880,5,Desarmes,Valentín Depietri,1024,1,0,Fortaleza
+199880,5,Desarmes,Vitor Ricardo,1024,5,1,Fortaleza
+199880,5,Desarmes,André,1755,1,0,
+199880,5,Desarmes,André Luis,1755,1,0,
+199880,5,Desarmes,Igor,1755,2,0,
+199880,5,Desarmes,João Lucas,1755,1,1,
+199880,5,Desarmes,Pepê,1755,1,3,
+199880,5,Desarmes,Rafael Gava,1755,2,1,
+199880,14,Cruzamentos,Hércules,1024,0,1,Fortaleza
+199880,14,Cruzamentos,Lucas Crispim,1024,2,7,Fortaleza
+199880,14,Cruzamentos,Matheus Vargas,1024,0,2,Fortaleza
+199880,14,Cruzamentos,Moisés,1024,0,6,Fortaleza
+199880,14,Cruzamentos,Romarinho,1024,0,2,Fortaleza
+199880,14,Cruzamentos,Silvio Romero,1024,1,0,Fortaleza
+199880,14,Cruzamentos,Tinga,1024,1,2,Fortaleza
+199880,14,Cruzamentos,Vitor Ricardo,1024,1,3,Fortaleza
+199880,14,Cruzamentos,Everton,1755,0,1,
+199880,14,Cruzamentos,Igor,1755,1,0,
+199880,14,Cruzamentos,Pepê,1755,0,1,
+199880,14,Cruzamentos,Rafael Gava,1755,0,3,
+199880,1,Lançamentos,Felipe,1024,0,2,Fortaleza
+199880,1,Lançamentos,Matheus Jussa,1024,0,1,Fortaleza
+199880,1,Lançamentos,Moisés,1024,1,1,Fortaleza
+199880,1,Lançamentos,Tinga,1024,2,4,Fortaleza
+199880,1,Lançamentos,Titi,1024,0,1,Fortaleza
+199880,1,Lançamentos,Valentín Depietri,1024,0,1,Fortaleza
+199880,1,Lançamentos,Vitor Ricardo,1024,1,2,Fortaleza
+199880,1,Lançamentos,Alan Empereur,1755,2,4,
+199880,1,Lançamentos,André,1755,0,1,
+199880,1,Lançamentos,Elton,1755,0,1,
+199880,1,Lançamentos,Felipe Marques,1755,1,0,
+199880,1,Lançamentos,Igor,1755,0,2,
+199880,1,Lançamentos,João Lucas,1755,1,4,
+199880,1,Lançamentos,Marllon,1755,1,1,
+199880,1,Lançamentos,Paulão,1755,1,4,
+199880,1,Lançamentos,Pepê,1755,0,1,
+199880,1,Lançamentos,Rafael Gava,1755,0,2,
+199880,1,Lançamentos,Rodriguinho,1755,1,1,
+199880,1,Lançamentos,Walter,1755,4,9,
+199880,24,Interceptações,Felipe,1024,1,0,Fortaleza
+199880,24,Interceptações,Titi,1024,1,0,Fortaleza
+199880,24,Interceptações,Everton,1755,1,0,
+199880,24,Interceptações,Felipe Marques,1755,1,0,
+199880,24,Interceptações,Pepê,1755,1,0,
+199880,4,Dribles,Max Walef,1024,1,0,Fortaleza
+199880,4,Dribles,Moisés,1024,1,0,Fortaleza
+199880,4,Dribles,Romarinho,1024,3,1,Fortaleza
+199880,4,Dribles,Tinga,1024,1,0,Fortaleza
+199880,4,Dribles,Felipe Marques,1755,1,1,
+199880,22,Viradas de jogo,Robson Fernandes,1024,2,0,Fortaleza
+199880,22,Viradas de jogo,Tinga,1024,1,0,Fortaleza
+199880,20,Posse de bola,Brayan Ceballos,1024,150,0,Fortaleza
+199880,20,Posse de bola,Felipe,1024,172,0,Fortaleza
+199880,20,Posse de bola,Hércules,1024,48,0,Fortaleza
+199880,20,Posse de bola,Lucas Crispim,1024,132,0,Fortaleza
+199880,20,Posse de bola,Matheus Jussa,1024,70,0,Fortaleza
+199880,20,Posse de bola,Matheus Vargas,1024,91,0,Fortaleza
+199880,20,Posse de bola,Max Walef,1024,40,0,Fortaleza
+199880,20,Posse de bola,Moisés,1024,58,0,Fortaleza
+199880,20,Posse de bola,Renato Kayzer,1024,24,0,Fortaleza
+199880,20,Posse de bola,Robson Fernandes,1024,55,0,Fortaleza
+199880,20,Posse de bola,Romarinho,1024,89,0,Fortaleza
+199880,20,Posse de bola,Silvio Romero,1024,28,0,Fortaleza
+199880,20,Posse de bola,Tinga,1024,220,0,Fortaleza
+199880,20,Posse de bola,Titi,1024,171,0,Fortaleza
+199880,20,Posse de bola,Valentín Depietri,1024,36,0,Fortaleza
+199880,20,Posse de bola,Vitor Ricardo,1024,86,0,Fortaleza
+199880,20,Posse de bola,Alan Empereur,1755,81,0,
+199880,20,Posse de bola,Alesson,1755,16,0,
+199880,20,Posse de bola,André,1755,63,0,
+199880,20,Posse de bola,André Luis,1755,46,0,
+199880,20,Posse de bola,Elton,1755,10,0,
+199880,20,Posse de bola,Everton,1755,42,0,
+199880,20,Posse de bola,Felipe Marques,1755,34,0,
+199880,20,Posse de bola,Igor,1755,94,0,
+199880,20,Posse de bola,João Lucas,1755,81,0,
+199880,20,Posse de bola,Marcão Silva,1755,12,0,
+199880,20,Posse de bola,Marllon,1755,58,0,
+199880,20,Posse de bola,Paulão,1755,19,0,
+199880,20,Posse de bola,Pepê,1755,65,0,
+199880,20,Posse de bola,Rafael Gava,1755,80,0,
+199880,20,Posse de bola,Rodriguinho,1755,36,0,
+199880,20,Posse de bola,Walter,1755,126,0,
+199880,20,Posse de bola,Brayan Ceballos,1024,150,0,Fortaleza
+199880,20,Posse de bola,Felipe,1024,172,0,Fortaleza
+199880,20,Posse de bola,Hércules,1024,48,0,Fortaleza
+199880,20,Posse de bola,Lucas Crispim,1024,132,0,Fortaleza
+199880,20,Posse de bola,Matheus Jussa,1024,70,0,Fortaleza
+199880,20,Posse de bola,Matheus Vargas,1024,91,0,Fortaleza
+199880,20,Posse de bola,Max Walef,1024,40,0,Fortaleza
+199880,20,Posse de bola,Moisés,1024,58,0,Fortaleza
+199880,20,Posse de bola,Renato Kayzer,1024,24,0,Fortaleza
+199880,20,Posse de bola,Robson Fernandes,1024,55,0,Fortaleza
+199880,20,Posse de bola,Romarinho,1024,89,0,Fortaleza
+199880,20,Posse de bola,Silvio Romero,1024,28,0,Fortaleza
+199880,20,Posse de bola,Tinga,1024,220,0,Fortaleza
+199880,20,Posse de bola,Titi,1024,171,0,Fortaleza
+199880,20,Posse de bola,Valentín Depietri,1024,36,0,Fortaleza
+199880,20,Posse de bola,Vitor Ricardo,1024,86,0,Fortaleza
+199880,20,Posse de bola,Alan Empereur,1755,81,0,
+199880,20,Posse de bola,Alesson,1755,16,0,
+199880,20,Posse de bola,André,1755,63,0,
+199880,20,Posse de bola,André Luis,1755,46,0,
+199880,20,Posse de bola,Elton,1755,10,0,
+199880,20,Posse de bola,Everton,1755,42,0,
+199880,20,Posse de bola,Felipe Marques,1755,34,0,
+199880,20,Posse de bola,Igor,1755,94,0,
+199880,20,Posse de bola,João Lucas,1755,81,0,
+199880,20,Posse de bola,Marcão Silva,1755,12,0,
+199880,20,Posse de bola,Marllon,1755,58,0,
+199880,20,Posse de bola,Paulão,1755,19,0,
+199880,20,Posse de bola,Pepê,1755,65,0,
+199880,20,Posse de bola,Rafael Gava,1755,80,0,
+199880,20,Posse de bola,Rodriguinho,1755,36,0,
+199880,20,Posse de bola,Walter,1755,126,0,
+199880,8,Gols,Everton,1755,1,0,
+199880,28,Assistências para finalização,Felipe,1024,3,0,Fortaleza
+199880,28,Assistências para finalização,Lucas Crispim,1024,2,0,Fortaleza
+199880,28,Assistências para finalização,Matheus Jussa,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Matheus Vargas,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Moisés,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Renato Kayzer,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Robson Fernandes,1024,2,0,Fortaleza
+199880,28,Assistências para finalização,Silvio Romero,1024,2,0,Fortaleza
+199880,28,Assistências para finalização,Tinga,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Vitor Ricardo,1024,1,0,Fortaleza
+199880,28,Assistências para finalização,Alesson,1755,1,0,
+199880,28,Assistências para finalização,Felipe Marques,1755,2,0,
+199880,28,Assistências para finalização,Rafael Gava,1755,2,0,
+199880,15,Defesas,Max Walef,1024,3,0,Fortaleza
+199880,15,Defesas,Tinga,1024,1,0,Fortaleza
+199880,15,Defesas,Titi,1024,1,0,Fortaleza
+199880,15,Defesas,Alan Empereur,1755,2,0,
+199880,15,Defesas,João Lucas,1755,1,0,
+199880,15,Defesas,Marllon,1755,4,0,
+199880,15,Defesas,Walter,1755,3,0,
+199880,15,Defesas,Max Walef,1024,3,0,Fortaleza
+199880,15,Defesas,Tinga,1024,1,0,Fortaleza
+199880,15,Defesas,Titi,1024,1,0,Fortaleza
+199880,15,Defesas,Alan Empereur,1755,2,0,
+199880,15,Defesas,João Lucas,1755,1,0,
+199880,15,Defesas,Marllon,1755,4,0,
+199880,15,Defesas,Walter,1755,3,0,
+199880,23,Defesas difíceis,Walter,1755,2,0,
+199880,19,Rebatidas,Brayan Ceballos,1024,10,0,Fortaleza
+199880,19,Rebatidas,Felipe,1024,1,0,Fortaleza
+199880,19,Rebatidas,Hércules,1024,1,0,Fortaleza
+199880,19,Rebatidas,Lucas Crispim,1024,2,0,Fortaleza
+199880,19,Rebatidas,Matheus Jussa,1024,2,0,Fortaleza
+199880,19,Rebatidas,Matheus Vargas,1024,1,0,Fortaleza
+199880,19,Rebatidas,Moisés,1024,1,0,Fortaleza
+199880,19,Rebatidas,Tinga,1024,6,0,Fortaleza
+199880,19,Rebatidas,Titi,1024,3,0,Fortaleza
+199880,19,Rebatidas,Vitor Ricardo,1024,1,0,Fortaleza
+199880,19,Rebatidas,Alan Empereur,1755,11,0,
+199880,19,Rebatidas,André,1755,1,0,
+199880,19,Rebatidas,André Luis,1755,2,0,
+199880,19,Rebatidas,Igor,1755,6,0,
+199880,19,Rebatidas,João Lucas,1755,6,0,
+199880,19,Rebatidas,Marcão Silva,1755,1,0,
+199880,19,Rebatidas,Marllon,1755,6,0,
+199880,19,Rebatidas,Paulão,1755,3,0,
+199880,19,Rebatidas,Pepê,1755,2,0,
+199880,19,Rebatidas,Rafael Gava,1755,2,0,
+199880,19,Rebatidas,Walter,1755,5,0,
+199880,6,Faltas cometidas,Brayan Ceballos,1024,2,0,Fortaleza
+199880,6,Faltas cometidas,Felipe,1024,3,0,Fortaleza
+199880,6,Faltas cometidas,Lucas Crispim,1024,3,0,Fortaleza
+199880,6,Faltas cometidas,Matheus Jussa,1024,2,0,Fortaleza
+199880,6,Faltas cometidas,Moisés,1024,1,0,Fortaleza
+199880,6,Faltas cometidas,Robson Fernandes,1024,2,0,Fortaleza
+199880,6,Faltas cometidas,Romarinho,1024,3,0,Fortaleza
+199880,6,Faltas cometidas,Tinga,1024,2,0,Fortaleza
+199880,6,Faltas cometidas,Titi,1024,4,0,Fortaleza
+199880,6,Faltas cometidas,Alan Empereur,1755,1,0,
+199880,6,Faltas cometidas,Alesson,1755,1,0,
+199880,6,Faltas cometidas,André,1755,4,0,
+199880,6,Faltas cometidas,André Luis,1755,2,0,
+199880,6,Faltas cometidas,Elton,1755,1,0,
+199880,6,Faltas cometidas,Everton,1755,1,0,
+199880,6,Faltas cometidas,Igor,1755,3,0,
+199880,6,Faltas cometidas,João Lucas,1755,3,0,
+199880,6,Faltas cometidas,Marcão Silva,1755,2,0,
+199880,6,Faltas cometidas,Marllon,1755,2,0,
+199880,6,Faltas cometidas,Pepê,1755,2,0,
+199880,6,Faltas cometidas,Rafael Gava,1755,1,0,
+199880,7,Faltas sofridas,Felipe,1024,3,0,Fortaleza
+199880,7,Faltas sofridas,Lucas Crispim,1024,1,0,Fortaleza
+199880,7,Faltas sofridas,Matheus Vargas,1024,2,0,Fortaleza
+199880,7,Faltas sofridas,Moisés,1024,2,0,Fortaleza
+199880,7,Faltas sofridas,Renato Kayzer,1024,2,0,Fortaleza
+199880,7,Faltas sofridas,Robson Fernandes,1024,3,0,Fortaleza
+199880,7,Faltas sofridas,Romarinho,1024,1,0,Fortaleza
+199880,7,Faltas sofridas,Silvio Romero,1024,2,0,Fortaleza
+199880,7,Faltas sofridas,Tinga,1024,2,0,Fortaleza
+199880,7,Faltas sofridas,Titi,1024,1,0,Fortaleza
+199880,7,Faltas sofridas,Alan Empereur,1755,2,0,
+199880,7,Faltas sofridas,André,1755,4,0,
+199880,7,Faltas sofridas,André Luis,1755,4,0,
+199880,7,Faltas sofridas,Everton,1755,3,0,
+199880,7,Faltas sofridas,Felipe Marques,1755,1,0,
+199880,7,Faltas sofridas,João Lucas,1755,1,0,
+199880,7,Faltas sofridas,Pepê,1755,1,0,
+199880,7,Faltas sofridas,Rafael Gava,1755,1,0,
+199880,7,Faltas sofridas,Rodriguinho,1755,3,0,
+199880,7,Faltas sofridas,Walter,1755,1,0,
+199880,9,Impedimentos,Brayan Ceballos,1024,1,0,Fortaleza
+199880,12,Perda da posse de bola,Felipe,1024,3,0,Fortaleza
+199880,12,Perda da posse de bola,Lucas Crispim,1024,1,0,Fortaleza
+199880,12,Perda da posse de bola,Matheus Jussa,1024,1,0,Fortaleza
+199880,12,Perda da posse de bola,Matheus Vargas,1024,2,0,Fortaleza
+199880,12,Perda da posse de bola,Moisés,1024,3,0,Fortaleza
+199880,12,Perda da posse de bola,Robson Fernandes,1024,4,0,Fortaleza
+199880,12,Perda da posse de bola,Romarinho,1024,1,0,Fortaleza
+199880,12,Perda da posse de bola,Silvio Romero,1024,3,0,Fortaleza
+199880,12,Perda da posse de bola,Tinga,1024,4,0,Fortaleza
+199880,12,Perda da posse de bola,Vitor Ricardo,1024,1,0,Fortaleza
+199880,12,Perda da posse de bola,Alesson,1755,1,0,
+199880,12,Perda da posse de bola,André,1755,6,0,
+199880,12,Perda da posse de bola,André Luis,1755,2,0,
+199880,12,Perda da posse de bola,Everton,1755,2,0,
+199880,12,Perda da posse de bola,Felipe Marques,1755,2,0,
+199880,12,Perda da posse de bola,Igor,1755,1,0,
+199880,12,Perda da posse de bola,João Lucas,1755,1,0,
+199880,12,Perda da posse de bola,Pepê,1755,1,0,
+199880,12,Perda da posse de bola,Rafael Gava,1755,1,0,
+199880,12,Perda da posse de bola,Rodriguinho,1755,1,0,
+199880,25,Cartões amarelos,Brayan Ceballos,1024,1,0,Fortaleza
+199880,25,Cartões amarelos,Robson Fernandes,1024,1,0,Fortaleza
+199880,25,Cartões amarelos,Alan Empereur,1755,1,0,
+199880,25,Cartões amarelos,Alesson,1755,1,0,
+199880,25,Cartões amarelos,João Lucas,1755,1,0,
+199944,2,Passes,Busanello,1019,41,2,Juventude
+199944,2,Passes,Capixaba,1019,12,3,Juventude
+199944,2,Passes,César,1019,8,1,Juventude
+199944,2,Passes,Chico,1019,24,2,Juventude
+199944,2,Passes,Darlan ,1019,7,1,Juventude
+199944,2,Passes,Edinho,1019,3,0,Juventude
+199944,2,Passes,Isidro Pitta,1019,5,0,Juventude
+199944,2,Passes,Jádson,1019,39,2,Juventude
+199944,2,Passes,Óscar Ruiz,1019,3,1,Juventude
+199944,2,Passes,Paulinho Moccelin,1019,20,5,Juventude
+199944,2,Passes,Paulo Miranda,1019,35,0,Juventude
+199944,2,Passes,Rafael Forster,1019,42,1,Juventude
+199944,2,Passes,Ricardo Bueno,1019,12,3,Juventude
+199944,2,Passes,Rodrigo Soares,1019,42,4,Juventude
+199944,2,Passes,Thalisson Kelven,1019,5,0,Juventude
+199944,2,Passes,Yuri Lima,1019,32,6,Juventude
+199944,2,Passes,Alerrandro,1055,3,3,
+199944,2,Passes,Bruno Tubarão,1055,16,7,
+199944,2,Passes,Carlos Eduardo,1055,10,1,
+199944,2,Passes,Cleiton,1055,17,0,
+199944,2,Passes,Helinho,1055,7,0,
+199944,2,Passes,Hyoran,1055,12,1,
+199944,2,Passes,Jadsom Silva,1055,29,1,
+199944,2,Passes,José Hurtado,1055,47,3,
+199944,2,Passes,Lucas Evangelista,1055,35,1,
+199944,2,Passes,Miguel,1055,3,2,
+199944,2,Passes,Praxedes,1055,19,4,
+199944,2,Passes,Ramon,1055,37,8,
+199944,2,Passes,Realpe,1055,40,3,
+199944,2,Passes,Renan,1055,40,2,
+199944,2,Passes,Sorriso,1055,10,2,
+199944,2,Passes,Ytalo,1055,4,0,
+199944,3,Finalizações,Busanello,1019,2,0,Juventude
+199944,3,Finalizações,Capixaba,1019,1,0,Juventude
+199944,3,Finalizações,Chico,1019,0,1,Juventude
+199944,3,Finalizações,Óscar Ruiz,1019,1,0,Juventude
+199944,3,Finalizações,Paulinho Moccelin,1019,1,1,Juventude
+199944,3,Finalizações,Paulo Miranda,1019,0,1,Juventude
+199944,3,Finalizações,Ricardo Bueno,1019,1,1,Juventude
+199944,3,Finalizações,Yuri Lima,1019,1,0,Juventude
+199944,3,Finalizações,Alerrandro,1055,1,2,
+199944,3,Finalizações,Bruno Tubarão,1055,0,2,
+199944,3,Finalizações,Helinho,1055,0,1,
+199944,3,Finalizações,Hyoran,1055,1,0,
+199944,3,Finalizações,Lucas Evangelista,1055,0,1,
+199944,3,Finalizações,Miguel,1055,1,0,
+199944,3,Finalizações,Praxedes,1055,0,1,
+199944,3,Finalizações,Ramon,1055,0,1,
+199944,3,Finalizações,Realpe,1055,0,1,
+199944,5,Desarmes,Busanello,1019,1,0,Juventude
+199944,5,Desarmes,Capixaba,1019,3,0,Juventude
+199944,5,Desarmes,Chico,1019,2,0,Juventude
+199944,5,Desarmes,Jádson,1019,2,1,Juventude
+199944,5,Desarmes,Óscar Ruiz,1019,1,0,Juventude
+199944,5,Desarmes,Paulinho Moccelin,1019,4,0,Juventude
+199944,5,Desarmes,Paulo Miranda,1019,1,0,Juventude
+199944,5,Desarmes,Rafael Forster,1019,1,0,Juventude
+199944,5,Desarmes,Ricardo Bueno,1019,2,0,Juventude
+199944,5,Desarmes,Rodrigo Soares,1019,1,1,Juventude
+199944,5,Desarmes,Yuri Lima,1019,3,0,Juventude
+199944,5,Desarmes,Carlos Eduardo,1055,1,0,
+199944,5,Desarmes,Helinho,1055,1,0,
+199944,5,Desarmes,Hyoran,1055,2,0,
+199944,5,Desarmes,José Hurtado,1055,4,0,
+199944,5,Desarmes,Lucas Evangelista,1055,3,0,
+199944,5,Desarmes,Praxedes,1055,1,0,
+199944,5,Desarmes,Ramon,1055,1,0,
+199944,5,Desarmes,Realpe,1055,1,0,
+199944,5,Desarmes,Renan,1055,3,2,
+199944,14,Cruzamentos,Busanello,1019,1,3,Juventude
+199944,14,Cruzamentos,Capixaba,1019,0,3,Juventude
+199944,14,Cruzamentos,Chico,1019,0,2,Juventude
+199944,14,Cruzamentos,Edinho,1019,1,0,Juventude
+199944,14,Cruzamentos,Isidro Pitta,1019,0,1,Juventude
+199944,14,Cruzamentos,Jádson,1019,0,1,Juventude
+199944,14,Cruzamentos,Paulinho Moccelin,1019,0,5,Juventude
+199944,14,Cruzamentos,Rafael Forster,1019,0,1,Juventude
+199944,14,Cruzamentos,Rodrigo Soares,1019,2,3,Juventude
+199944,14,Cruzamentos,Bruno Tubarão,1055,2,2,
+199944,14,Cruzamentos,Helinho,1055,0,2,
+199944,14,Cruzamentos,Hyoran,1055,1,2,
+199944,14,Cruzamentos,José Hurtado,1055,0,1,
+199944,14,Cruzamentos,Lucas Evangelista,1055,0,1,
+199944,14,Cruzamentos,Miguel,1055,0,1,
+199944,14,Cruzamentos,Ramon,1055,2,2,
+199944,14,Cruzamentos,Renan,1055,0,1,
+199944,14,Cruzamentos,Sorriso,1055,0,2,
+199944,1,Lançamentos,Busanello,1019,1,2,Juventude
+199944,1,Lançamentos,César,1019,0,7,Juventude
+199944,1,Lançamentos,Chico,1019,0,1,Juventude
+199944,1,Lançamentos,Darlan ,1019,2,0,Juventude
+199944,1,Lançamentos,Jádson,1019,4,3,Juventude
+199944,1,Lançamentos,Paulinho Moccelin,1019,0,1,Juventude
+199944,1,Lançamentos,Paulo Miranda,1019,2,4,Juventude
+199944,1,Lançamentos,Rafael Forster,1019,5,3,Juventude
+199944,1,Lançamentos,Ricardo Bueno,1019,1,0,Juventude
+199944,1,Lançamentos,Rodrigo Soares,1019,1,3,Juventude
+199944,1,Lançamentos,Thalisson Kelven,1019,0,1,Juventude
+199944,1,Lançamentos,Yuri Lima,1019,2,2,Juventude
+199944,1,Lançamentos,Bruno Tubarão,1055,0,1,
+199944,1,Lançamentos,Cleiton,1055,7,16,
+199944,1,Lançamentos,Hyoran,1055,1,0,
+199944,1,Lançamentos,José Hurtado,1055,0,1,
+199944,1,Lançamentos,Lucas Evangelista,1055,1,0,
+199944,1,Lançamentos,Ramon,1055,1,2,
+199944,1,Lançamentos,Realpe,1055,2,5,
+199944,1,Lançamentos,Renan,1055,3,2,
+199944,24,Interceptações,Busanello,1019,1,0,Juventude
+199944,24,Interceptações,Jádson,1019,2,0,Juventude
+199944,24,Interceptações,Paulinho Moccelin,1019,2,1,Juventude
+199944,24,Interceptações,Yuri Lima,1019,1,0,Juventude
+199944,24,Interceptações,Carlos Eduardo,1055,1,0,
+199944,24,Interceptações,Lucas Evangelista,1055,1,0,
+199944,24,Interceptações,Praxedes,1055,0,1,
+199944,24,Interceptações,Realpe,1055,2,1,
+199944,4,Dribles,Darlan ,1019,1,0,Juventude
+199944,4,Dribles,Edinho,1019,2,0,Juventude
+199944,4,Dribles,Jádson,1019,2,0,Juventude
+199944,4,Dribles,Paulinho Moccelin,1019,1,3,Juventude
+199944,4,Dribles,Ricardo Bueno,1019,1,0,Juventude
+199944,4,Dribles,Bruno Tubarão,1055,0,1,
+199944,4,Dribles,Carlos Eduardo,1055,3,1,
+199944,4,Dribles,José Hurtado,1055,1,1,
+199944,4,Dribles,Miguel,1055,0,1,
+199944,4,Dribles,Ramon,1055,1,0,
+199944,4,Dribles,Darlan ,1019,1,0,Juventude
+199944,4,Dribles,Edinho,1019,2,0,Juventude
+199944,4,Dribles,Jádson,1019,2,0,Juventude
+199944,4,Dribles,Paulinho Moccelin,1019,1,3,Juventude
+199944,4,Dribles,Ricardo Bueno,1019,1,0,Juventude
+199944,4,Dribles,Bruno Tubarão,1055,0,1,
+199944,4,Dribles,Carlos Eduardo,1055,3,1,
+199944,4,Dribles,José Hurtado,1055,1,1,
+199944,4,Dribles,Miguel,1055,0,1,
+199944,4,Dribles,Ramon,1055,1,0,
+199944,22,Viradas de jogo,Carlos Eduardo,1055,1,0,
+199944,22,Viradas de jogo,Jadsom Silva,1055,2,0,
+199944,22,Viradas de jogo,Praxedes,1055,1,0,
+199944,22,Viradas de jogo,Realpe,1055,1,0,
+199944,20,Posse de bola,Busanello,1019,141,0,Juventude
+199944,20,Posse de bola,Capixaba,1019,80,0,Juventude
+199944,20,Posse de bola,César,1019,117,0,Juventude
+199944,20,Posse de bola,Chico,1019,93,0,Juventude
+199944,20,Posse de bola,Darlan ,1019,30,0,Juventude
+199944,20,Posse de bola,Edinho,1019,24,0,Juventude
+199944,20,Posse de bola,Isidro Pitta,1019,24,0,Juventude
+199944,20,Posse de bola,Jádson,1019,126,0,Juventude
+199944,20,Posse de bola,Óscar Ruiz,1019,27,0,Juventude
+199944,20,Posse de bola,Paulinho Moccelin,1019,127,0,Juventude
+199944,20,Posse de bola,Paulo Miranda,1019,148,0,Juventude
+199944,20,Posse de bola,Rafael Forster,1019,167,0,Juventude
+199944,20,Posse de bola,Ricardo Bueno,1019,65,0,Juventude
+199944,20,Posse de bola,Rodrigo Soares,1019,166,0,Juventude
+199944,20,Posse de bola,Thalisson Kelven,1019,21,0,Juventude
+199944,20,Posse de bola,Yuri Lima,1019,112,0,Juventude
+199944,20,Posse de bola,Alerrandro,1055,32,0,
+199944,20,Posse de bola,Bruno Tubarão,1055,120,0,
+199944,20,Posse de bola,Carlos Eduardo,1055,58,0,
+199944,20,Posse de bola,Cleiton,1055,235,0,
+199944,20,Posse de bola,Helinho,1055,47,0,
+199944,20,Posse de bola,Hyoran,1055,50,0,
+199944,20,Posse de bola,Jadsom Silva,1055,88,0,
+199944,20,Posse de bola,José Hurtado,1055,158,0,
+199944,20,Posse de bola,Lucas Evangelista,1055,106,0,
+199944,20,Posse de bola,Miguel,1055,30,0,
+199944,20,Posse de bola,Praxedes,1055,71,0,
+199944,20,Posse de bola,Ramon,1055,144,0,
+199944,20,Posse de bola,Realpe,1055,160,0,
+199944,20,Posse de bola,Renan,1055,180,0,
+199944,20,Posse de bola,Sorriso,1055,64,0,
+199944,20,Posse de bola,Ytalo,1055,8,0,
+199944,8,Gols,Óscar Ruiz,1019,1,0,Juventude
+199944,8,Gols,Thalisson Kelven,1019,0,1,Juventude
+199944,8,Gols,Miguel,1055,1,0,
+199944,8,Gols,Renan,1055,0,1,
+199944,28,Assistências para finalização,Capixaba,1019,1,0,Juventude
+199944,28,Assistências para finalização,Chico,1019,2,0,Juventude
+199944,28,Assistências para finalização,Edinho,1019,1,0,Juventude
+199944,28,Assistências para finalização,Jádson,1019,1,0,Juventude
+199944,28,Assistências para finalização,Paulinho Moccelin,1019,1,0,Juventude
+199944,28,Assistências para finalização,Rodrigo Soares,1019,2,0,Juventude
+199944,28,Assistências para finalização,Bruno Tubarão,1055,3,0,
+199944,28,Assistências para finalização,Jadsom Silva,1055,1,0,
+199944,28,Assistências para finalização,Lucas Evangelista,1055,1,0,
+199944,28,Assistências para finalização,Praxedes,1055,1,0,
+199944,28,Assistências para finalização,Ramon,1055,1,0,
+199944,28,Assistências para finalização,Capixaba,1019,1,0,Juventude
+199944,28,Assistências para finalização,Chico,1019,2,0,Juventude
+199944,28,Assistências para finalização,Edinho,1019,1,0,Juventude
+199944,28,Assistências para finalização,Jádson,1019,1,0,Juventude
+199944,28,Assistências para finalização,Paulinho Moccelin,1019,1,0,Juventude
+199944,28,Assistências para finalização,Rodrigo Soares,1019,2,0,Juventude
+199944,28,Assistências para finalização,Bruno Tubarão,1055,3,0,
+199944,28,Assistências para finalização,Jadsom Silva,1055,1,0,
+199944,28,Assistências para finalização,Lucas Evangelista,1055,1,0,
+199944,28,Assistências para finalização,Praxedes,1055,1,0,
+199944,28,Assistências para finalização,Ramon,1055,1,0,
+199944,27,Assistências,Lucas Evangelista,1055,1,0,
+199944,15,Defesas,César,1019,2,0,Juventude
+199944,15,Defesas,Paulo Miranda,1019,3,0,Juventude
+199944,15,Defesas,Cleiton,1055,6,0,
+199944,15,Defesas,Realpe,1055,1,0,
+199944,15,Defesas,Renan,1055,1,0,
+199944,19,Rebatidas,Busanello,1019,8,0,Juventude
+199944,19,Rebatidas,César,1019,3,0,Juventude
+199944,19,Rebatidas,Darlan ,1019,1,0,Juventude
+199944,19,Rebatidas,Paulinho Moccelin,1019,4,0,Juventude
+199944,19,Rebatidas,Paulo Miranda,1019,14,0,Juventude
+199944,19,Rebatidas,Rafael Forster,1019,5,0,Juventude
+199944,19,Rebatidas,Rodrigo Soares,1019,8,0,Juventude
+199944,19,Rebatidas,Thalisson Kelven,1019,3,0,Juventude
+199944,19,Rebatidas,Alerrandro,1055,2,0,
+199944,19,Rebatidas,Cleiton,1055,3,0,
+199944,19,Rebatidas,Jadsom Silva,1055,3,0,
+199944,19,Rebatidas,José Hurtado,1055,5,0,
+199944,19,Rebatidas,Lucas Evangelista,1055,1,0,
+199944,19,Rebatidas,Miguel,1055,1,0,
+199944,19,Rebatidas,Ramon,1055,5,0,
+199944,19,Rebatidas,Realpe,1055,5,0,
+199944,19,Rebatidas,Renan,1055,7,0,
+199944,19,Rebatidas,Sorriso,1055,1,0,
+199944,6,Faltas cometidas,Busanello,1019,2,0,Juventude
+199944,6,Faltas cometidas,Capixaba,1019,1,0,Juventude
+199944,6,Faltas cometidas,Chico,1019,2,0,Juventude
+199944,6,Faltas cometidas,Jádson,1019,1,0,Juventude
+199944,6,Faltas cometidas,Paulinho Moccelin,1019,3,0,Juventude
+199944,6,Faltas cometidas,Paulo Miranda,1019,1,0,Juventude
+199944,6,Faltas cometidas,Rafael Forster,1019,2,0,Juventude
+199944,6,Faltas cometidas,Rodrigo Soares,1019,2,0,Juventude
+199944,6,Faltas cometidas,Yuri Lima,1019,2,0,Juventude
+199944,6,Faltas cometidas,Alerrandro,1055,1,0,
+199944,6,Faltas cometidas,Bruno Tubarão,1055,1,0,
+199944,6,Faltas cometidas,Carlos Eduardo,1055,1,0,
+199944,6,Faltas cometidas,Hyoran,1055,1,0,
+199944,6,Faltas cometidas,Jadsom Silva,1055,2,0,
+199944,6,Faltas cometidas,José Hurtado,1055,3,0,
+199944,6,Faltas cometidas,Lucas Evangelista,1055,1,0,
+199944,6,Faltas cometidas,Praxedes,1055,1,0,
+199944,6,Faltas cometidas,Ramon,1055,1,0,
+199944,6,Faltas cometidas,Realpe,1055,1,0,
+199944,6,Faltas cometidas,Renan,1055,2,0,
+199944,6,Faltas cometidas,Sorriso,1055,2,0,
+199944,7,Faltas sofridas,Capixaba,1019,2,0,Juventude
+199944,7,Faltas sofridas,Chico,1019,3,0,Juventude
+199944,7,Faltas sofridas,Edinho,1019,1,0,Juventude
+199944,7,Faltas sofridas,Jádson,1019,3,0,Juventude
+199944,7,Faltas sofridas,Paulinho Moccelin,1019,2,0,Juventude
+199944,7,Faltas sofridas,Paulo Miranda,1019,1,0,Juventude
+199944,7,Faltas sofridas,Rafael Forster,1019,1,0,Juventude
+199944,7,Faltas sofridas,Ricardo Bueno,1019,2,0,Juventude
+199944,7,Faltas sofridas,Yuri Lima,1019,1,0,Juventude
+199944,7,Faltas sofridas,Alerrandro,1055,1,0,
+199944,7,Faltas sofridas,Bruno Tubarão,1055,2,0,
+199944,7,Faltas sofridas,Carlos Eduardo,1055,4,0,
+199944,7,Faltas sofridas,Helinho,1055,2,0,
+199944,7,Faltas sofridas,Lucas Evangelista,1055,1,0,
+199944,7,Faltas sofridas,Praxedes,1055,2,0,
+199944,7,Faltas sofridas,Ramon,1055,3,0,
+199944,7,Faltas sofridas,Sorriso,1055,1,0,
+199944,9,Impedimentos,Chico,1019,2,0,Juventude
+199944,9,Impedimentos,Óscar Ruiz,1019,1,0,Juventude
+199944,9,Impedimentos,Ricardo Bueno,1019,2,0,Juventude
+199944,9,Impedimentos,José Hurtado,1055,1,0,
+199944,12,Perda da posse de bola,Busanello,1019,1,0,Juventude
+199944,12,Perda da posse de bola,Capixaba,1019,7,0,Juventude
+199944,12,Perda da posse de bola,Chico,1019,1,0,Juventude
+199944,12,Perda da posse de bola,Darlan ,1019,1,0,Juventude
+199944,12,Perda da posse de bola,Edinho,1019,4,0,Juventude
+199944,12,Perda da posse de bola,Isidro Pitta,1019,3,0,Juventude
+199944,12,Perda da posse de bola,Jádson,1019,1,0,Juventude
+199944,12,Perda da posse de bola,Óscar Ruiz,1019,3,0,Juventude
+199944,12,Perda da posse de bola,Paulinho Moccelin,1019,2,0,Juventude
+199944,12,Perda da posse de bola,Ricardo Bueno,1019,5,0,Juventude
+199944,12,Perda da posse de bola,Rodrigo Soares,1019,4,0,Juventude
+199944,12,Perda da posse de bola,Yuri Lima,1019,3,0,Juventude
+199944,12,Perda da posse de bola,Alerrandro,1055,3,0,
+199944,12,Perda da posse de bola,Bruno Tubarão,1055,4,0,
+199944,12,Perda da posse de bola,Carlos Eduardo,1055,2,0,
+199944,12,Perda da posse de bola,Hyoran,1055,3,0,
+199944,12,Perda da posse de bola,Jadsom Silva,1055,4,0,
+199944,12,Perda da posse de bola,José Hurtado,1055,2,0,
+199944,12,Perda da posse de bola,Lucas Evangelista,1055,3,0,
+199944,12,Perda da posse de bola,Miguel,1055,5,0,
+199944,12,Perda da posse de bola,Praxedes,1055,4,0,
+199944,12,Perda da posse de bola,Ramon,1055,1,0,
+199944,12,Perda da posse de bola,Renan,1055,4,0,
+199944,12,Perda da posse de bola,Sorriso,1055,5,0,
+199944,25,Cartões amarelos,Paulo Miranda,1019,1,0,Juventude
+199944,25,Cartões amarelos,Rafael Forster,1019,1,0,Juventude
+199944,25,Cartões amarelos,William Matheus,1019,1,0,Juventude
+199944,25,Cartões amarelos,Yuri Lima,1019,1,0,Juventude
+199944,25,Cartões amarelos,Alerrandro,1055,1,0,
+199944,25,Cartões amarelos,Cleiton,1055,1,0,
+199944,25,Cartões amarelos,Jadsom Silva,1055,1,0,
+199944,25,Cartões amarelos,Miguel,1055,1,0,
+199944,25,Cartões amarelos,Realpe,1055,1,0,
+199953,2,Passes,Danilo,1012,35,1,Palmeiras
+199953,2,Passes,Dudu,1012,13,5,Palmeiras
+199953,2,Passes,Eduard Atuesta,1012,17,3,Palmeiras
+199953,2,Passes,Gabriel Veron,1012,3,0,Palmeiras
+199953,2,Passes,Giovani,1012,6,1,Palmeiras
+199953,2,Passes,Gustavo Gómez,1012,36,1,Palmeiras
+199953,2,Passes,Gustavo Scarpa,1012,17,3,Palmeiras
+199953,2,Passes,Jorge,1012,12,2,Palmeiras
+199953,2,Passes,Marcos Rocha,1012,31,5,Palmeiras
+199953,2,Passes,Mayke,1012,20,1,Palmeiras
+199953,2,Passes,Murilo,1012,41,1,Palmeiras
+199953,2,Passes,Rafael Navarro,1012,7,0,Palmeiras
+199953,2,Passes,Raphael Veiga,1012,18,3,Palmeiras
+199953,2,Passes,Rony,1012,6,1,Palmeiras
+199953,2,Passes,Weverton,1012,16,0,Palmeiras
+199953,2,Passes,Zé Rafael,1012,9,3,Palmeiras
+199953,2,Passes,Bruno Pacheco,1297,23,7,
+199953,2,Passes,Erick,1297,5,4,
+199953,2,Passes,Fernando Sobral,1297,18,3,
+199953,2,Passes,Gabriel Lacerda,1297,6,0,
+199953,2,Passes,Geovane,1297,6,3,
+199953,2,Passes,João Ricardo,1297,12,0,
+199953,2,Passes,Lima,1297,14,2,
+199953,2,Passes,Lucas Ribeiro,1297,4,2,
+199953,2,Passes,Luiz Otávio,1297,16,2,
+199953,2,Passes,Messias,1297,14,1,
+199953,2,Passes,Nino Paraíba,1297,15,2,
+199953,2,Passes,Richard,1297,27,7,
+199953,2,Passes,Richardson,1297,8,0,
+199953,2,Passes,Rodrigo Lindoso,1297,22,4,
+199953,2,Passes,Stiven Mendoza,1297,20,7,
+199953,2,Passes,Vinícius,1297,21,3,
+199953,3,Finalizações,Dudu,1012,0,1,Palmeiras
+199953,3,Finalizações,Giovani,1012,0,1,Palmeiras
+199953,3,Finalizações,Gustavo Gómez,1012,1,1,Palmeiras
+199953,3,Finalizações,Gustavo Scarpa,1012,3,1,Palmeiras
+199953,3,Finalizações,Murilo,1012,0,2,Palmeiras
+199953,3,Finalizações,Rafael Navarro,1012,0,1,Palmeiras
+199953,3,Finalizações,Raphael Veiga,1012,0,1,Palmeiras
+199953,3,Finalizações,Rony,1012,0,2,Palmeiras
+199953,3,Finalizações,Zé Rafael,1012,1,0,Palmeiras
+199953,3,Finalizações,Erick,1297,2,1,
+199953,3,Finalizações,Fernando Sobral,1297,2,0,
+199953,3,Finalizações,Lima,1297,1,3,
+199953,3,Finalizações,Lucas Ribeiro,1297,1,0,
+199953,3,Finalizações,Luiz Otávio,1297,0,1,
+199953,3,Finalizações,Messias,1297,0,1,
+199953,3,Finalizações,Stiven Mendoza,1297,2,2,
+199953,3,Finalizações,Vinícius,1297,1,1,
+199953,5,Desarmes,Danilo,1012,2,1,Palmeiras
+199953,5,Desarmes,Jorge,1012,0,1,Palmeiras
+199953,5,Desarmes,Marcos Rocha,1012,2,0,Palmeiras
+199953,5,Desarmes,Mayke,1012,1,0,Palmeiras
+199953,5,Desarmes,Murilo,1012,0,1,Palmeiras
+199953,5,Desarmes,Raphael Veiga,1012,2,0,Palmeiras
+199953,5,Desarmes,Bruno Pacheco,1297,5,0,
+199953,5,Desarmes,Fernando Sobral,1297,1,0,
+199953,5,Desarmes,Gabriel Lacerda,1297,1,0,
+199953,5,Desarmes,Lima,1297,1,0,
+199953,5,Desarmes,Luiz Otávio,1297,0,2,
+199953,5,Desarmes,Messias,1297,1,0,
+199953,5,Desarmes,Richard,1297,2,0,
+199953,5,Desarmes,Richardson,1297,1,0,
+199953,5,Desarmes,Rodrigo Lindoso,1297,2,0,
+199953,5,Desarmes,Stiven Mendoza,1297,1,0,
+199953,5,Desarmes,Vinícius,1297,1,0,
+199953,14,Cruzamentos,Dudu,1012,0,2,Palmeiras
+199953,14,Cruzamentos,Eduard Atuesta,1012,2,3,Palmeiras
+199953,14,Cruzamentos,Gabriel Veron,1012,0,1,Palmeiras
+199953,14,Cruzamentos,Giovani,1012,0,2,Palmeiras
+199953,14,Cruzamentos,Gustavo Gómez,1012,0,2,Palmeiras
+199953,14,Cruzamentos,Gustavo Scarpa,1012,5,7,Palmeiras
+199953,14,Cruzamentos,Marcos Rocha,1012,1,1,Palmeiras
+199953,14,Cruzamentos,Mayke,1012,0,3,Palmeiras
+199953,14,Cruzamentos,Rony,1012,0,2,Palmeiras
+199953,14,Cruzamentos,Bruno Pacheco,1297,0,1,
+199953,14,Cruzamentos,Erick,1297,0,1,
+199953,14,Cruzamentos,Nino Paraíba,1297,1,1,
+199953,14,Cruzamentos,Stiven Mendoza,1297,1,3,
+199953,14,Cruzamentos,Vinícius,1297,3,9,
+199953,1,Lançamentos,Danilo,1012,2,1,Palmeiras
+199953,1,Lançamentos,Eduard Atuesta,1012,2,1,Palmeiras
+199953,1,Lançamentos,Gustavo Gómez,1012,4,2,Palmeiras
+199953,1,Lançamentos,Gustavo Scarpa,1012,0,2,Palmeiras
+199953,1,Lançamentos,Jorge,1012,0,1,Palmeiras
+199953,1,Lançamentos,Marcos Rocha,1012,3,1,Palmeiras
+199953,1,Lançamentos,Mayke,1012,1,0,Palmeiras
+199953,1,Lançamentos,Murilo,1012,2,1,Palmeiras
+199953,1,Lançamentos,Raphael Veiga,1012,1,0,Palmeiras
+199953,1,Lançamentos,Weverton,1012,6,4,Palmeiras
+199953,1,Lançamentos,Zé Rafael,1012,1,0,Palmeiras
+199953,1,Lançamentos,Bruno Pacheco,1297,2,3,
+199953,1,Lançamentos,Gabriel Lacerda,1297,0,2,
+199953,1,Lançamentos,João Ricardo,1297,4,15,
+199953,1,Lançamentos,Lima,1297,1,0,
+199953,1,Lançamentos,Luiz Otávio,1297,0,1,
+199953,1,Lançamentos,Messias,1297,0,3,
+199953,1,Lançamentos,Nino Paraíba,1297,1,3,
+199953,1,Lançamentos,Richardson,1297,0,1,
+199953,1,Lançamentos,Rodrigo Lindoso,1297,1,1,
+199953,24,Interceptações,Danilo,1012,1,0,Palmeiras
+199953,24,Interceptações,Eduard Atuesta,1012,1,0,Palmeiras
+199953,24,Interceptações,Gustavo Scarpa,1012,1,0,Palmeiras
+199953,24,Interceptações,Murilo,1012,0,1,Palmeiras
+199953,24,Interceptações,Raphael Veiga,1012,1,0,Palmeiras
+199953,24,Interceptações,Bruno Pacheco,1297,1,0,
+199953,24,Interceptações,Nino Paraíba,1297,1,0,
+199953,24,Interceptações,Rodrigo Lindoso,1297,1,0,
+199953,4,Dribles,Danilo,1012,2,0,Palmeiras
+199953,4,Dribles,Dudu,1012,3,4,Palmeiras
+199953,4,Dribles,Eduard Atuesta,1012,2,0,Palmeiras
+199953,4,Dribles,Gustavo Scarpa,1012,2,1,Palmeiras
+199953,4,Dribles,Rafael Navarro,1012,0,1,Palmeiras
+199953,4,Dribles,Raphael Veiga,1012,1,0,Palmeiras
+199953,4,Dribles,Zé Rafael,1012,1,0,Palmeiras
+199953,4,Dribles,Erick,1297,5,0,
+199953,4,Dribles,Lima,1297,1,0,
+199953,4,Dribles,Nino Paraíba,1297,2,1,
+199953,4,Dribles,Richardson,1297,1,0,
+199953,4,Dribles,Stiven Mendoza,1297,3,1,
+199953,4,Dribles,Vinícius,1297,1,1,
+199953,22,Viradas de jogo,Danilo,1012,1,0,Palmeiras
+199953,22,Viradas de jogo,Gustavo Scarpa,1012,2,1,Palmeiras
+199953,22,Viradas de jogo,Marcos Rocha,1012,0,1,Palmeiras
+199953,22,Viradas de jogo,Raphael Veiga,1012,1,1,Palmeiras
+199953,22,Viradas de jogo,Zé Rafael,1012,1,0,Palmeiras
+199953,20,Posse de bola,Danilo,1012,129,0,Palmeiras
+199953,20,Posse de bola,Dudu,1012,150,0,Palmeiras
+199953,20,Posse de bola,Eduard Atuesta,1012,94,0,Palmeiras
+199953,20,Posse de bola,Gabriel Veron,1012,19,0,Palmeiras
+199953,20,Posse de bola,Giovani,1012,36,0,Palmeiras
+199953,20,Posse de bola,Gustavo Gómez,1012,160,0,Palmeiras
+199953,20,Posse de bola,Gustavo Scarpa,1012,142,0,Palmeiras
+199953,20,Posse de bola,Jorge,1012,46,0,Palmeiras
+199953,20,Posse de bola,Marcos Rocha,1012,113,0,Palmeiras
+199953,20,Posse de bola,Mayke,1012,69,0,Palmeiras
+199953,20,Posse de bola,Murilo,1012,143,0,Palmeiras
+199953,20,Posse de bola,Rafael Navarro,1012,22,0,Palmeiras
+199953,20,Posse de bola,Raphael Veiga,1012,97,0,Palmeiras
+199953,20,Posse de bola,Rony,1012,42,0,Palmeiras
+199953,20,Posse de bola,Weverton,1012,98,0,Palmeiras
+199953,20,Posse de bola,Zé Rafael,1012,49,0,Palmeiras
+199953,20,Posse de bola,Bruno Pacheco,1297,115,0,
+199953,20,Posse de bola,Erick,1297,47,0,
+199953,20,Posse de bola,Fernando Sobral,1297,63,0,
+199953,20,Posse de bola,Gabriel Lacerda,1297,32,0,
+199953,20,Posse de bola,Geovane,1297,24,0,
+199953,20,Posse de bola,João Ricardo,1297,117,0,
+199953,20,Posse de bola,Lima,1297,61,0,
+199953,20,Posse de bola,Lucas Ribeiro,1297,18,0,
+199953,20,Posse de bola,Luiz Otávio,1297,64,0,
+199953,20,Posse de bola,Messias,1297,69,0,
+199953,20,Posse de bola,Nino Paraíba,1297,92,0,
+199953,20,Posse de bola,Richard,1297,96,0,
+199953,20,Posse de bola,Richardson,1297,28,0,
+199953,20,Posse de bola,Rodrigo Lindoso,1297,76,0,
+199953,20,Posse de bola,Stiven Mendoza,1297,99,0,
+199953,20,Posse de bola,Vinícius,1297,95,0,
+199953,8,Gols,Gustavo Gómez,1012,1,0,Palmeiras
+199953,8,Gols,Jorge,1012,0,1,Palmeiras
+199953,8,Gols,Zé Rafael,1012,1,0,Palmeiras
+199953,8,Gols,Lucas Ribeiro,1297,1,0,
+199953,8,Gols,Stiven Mendoza,1297,1,0,
+199953,28,Assistências para finalização,Eduard Atuesta,1012,4,0,Palmeiras
+199953,28,Assistências para finalização,Gustavo Scarpa,1012,5,0,Palmeiras
+199953,28,Assistências para finalização,Marcos Rocha,1012,1,0,Palmeiras
+199953,28,Assistências para finalização,Bruno Pacheco,1297,3,0,
+199953,28,Assistências para finalização,Luiz Otávio,1297,1,0,
+199953,28,Assistências para finalização,Nino Paraíba,1297,1,0,
+199953,28,Assistências para finalização,Richardson,1297,1,0,
+199953,28,Assistências para finalização,Rodrigo Lindoso,1297,1,0,
+199953,28,Assistências para finalização,Stiven Mendoza,1297,3,0,
+199953,28,Assistências para finalização,Vinícius,1297,2,0,
+199953,27,Assistências,Raphael Veiga,1012,1,0,Palmeiras
+199953,15,Defesas,Jorge,1012,1,0,Palmeiras
+199953,15,Defesas,Marcos Rocha,1012,1,0,Palmeiras
+199953,15,Defesas,Mayke,1012,1,0,Palmeiras
+199953,15,Defesas,Weverton,1012,4,0,Palmeiras
+199953,15,Defesas,Gabriel Lacerda,1297,2,0,
+199953,15,Defesas,João Ricardo,1297,3,0,
+199953,15,Defesas,Lima,1297,1,0,
+199953,23,Defesas difíceis,Weverton,1012,1,0,Palmeiras
+199953,19,Rebatidas,Danilo,1012,5,0,Palmeiras
+199953,19,Rebatidas,Gustavo Gómez,1012,21,0,Palmeiras
+199953,19,Rebatidas,Jorge,1012,3,0,Palmeiras
+199953,19,Rebatidas,Marcos Rocha,1012,3,0,Palmeiras
+199953,19,Rebatidas,Mayke,1012,2,0,Palmeiras
+199953,19,Rebatidas,Murilo,1012,6,0,Palmeiras
+199953,19,Rebatidas,Raphael Veiga,1012,1,0,Palmeiras
+199953,19,Rebatidas,Rony,1012,2,0,Palmeiras
+199953,19,Rebatidas,Weverton,1012,2,0,Palmeiras
+199953,19,Rebatidas,Zé Rafael,1012,2,0,Palmeiras
+199953,19,Rebatidas,Bruno Pacheco,1297,5,0,
+199953,19,Rebatidas,Erick,1297,1,0,
+199953,19,Rebatidas,Gabriel Lacerda,1297,5,0,
+199953,19,Rebatidas,Geovane,1297,1,0,
+199953,19,Rebatidas,João Ricardo,1297,2,0,
+199953,19,Rebatidas,Lucas Ribeiro,1297,2,0,
+199953,19,Rebatidas,Luiz Otávio,1297,5,0,
+199953,19,Rebatidas,Messias,1297,8,0,
+199953,19,Rebatidas,Nino Paraíba,1297,3,0,
+199953,19,Rebatidas,Richard,1297,5,0,
+199953,19,Rebatidas,Richardson,1297,1,0,
+199953,19,Rebatidas,Rodrigo Lindoso,1297,3,0,
+199953,6,Faltas cometidas,Danilo,1012,3,0,Palmeiras
+199953,6,Faltas cometidas,Dudu,1012,1,0,Palmeiras
+199953,6,Faltas cometidas,Gustavo Scarpa,1012,1,0,Palmeiras
+199953,6,Faltas cometidas,Marcos Rocha,1012,2,0,Palmeiras
+199953,6,Faltas cometidas,Murilo,1012,1,0,Palmeiras
+199953,6,Faltas cometidas,Rafael Navarro,1012,2,0,Palmeiras
+199953,6,Faltas cometidas,Raphael Veiga,1012,3,0,Palmeiras
+199953,6,Faltas cometidas,Rony,1012,2,0,Palmeiras
+199953,6,Faltas cometidas,Zé Rafael,1012,2,0,Palmeiras
+199953,6,Faltas cometidas,Erick,1297,1,0,
+199953,6,Faltas cometidas,Geovane,1297,1,0,
+199953,6,Faltas cometidas,Lima,1297,1,0,
+199953,6,Faltas cometidas,Luiz Otávio,1297,2,0,
+199953,6,Faltas cometidas,Messias,1297,1,0,
+199953,6,Faltas cometidas,Richard,1297,2,0,
+199953,6,Faltas cometidas,Richardson,1297,1,0,
+199953,6,Faltas cometidas,Rodrigo Lindoso,1297,1,0,
+199953,6,Faltas cometidas,Stiven Mendoza,1297,2,0,
+199953,6,Faltas cometidas,Vinícius,1297,1,0,
+199953,7,Faltas sofridas,Danilo,1012,2,0,Palmeiras
+199953,7,Faltas sofridas,Dudu,1012,2,0,Palmeiras
+199953,7,Faltas sofridas,Giovani,1012,1,0,Palmeiras
+199953,7,Faltas sofridas,Gustavo Scarpa,1012,3,0,Palmeiras
+199953,7,Faltas sofridas,Marcos Rocha,1012,1,0,Palmeiras
+199953,7,Faltas sofridas,Mayke,1012,1,0,Palmeiras
+199953,7,Faltas sofridas,Raphael Veiga,1012,2,0,Palmeiras
+199953,7,Faltas sofridas,Rony,1012,1,0,Palmeiras
+199953,7,Faltas sofridas,Bruno Pacheco,1297,3,0,
+199953,7,Faltas sofridas,Geovane,1297,1,0,
+199953,7,Faltas sofridas,Nino Paraíba,1297,4,0,
+199953,7,Faltas sofridas,Richard,1297,2,0,
+199953,7,Faltas sofridas,Rodrigo Lindoso,1297,3,0,
+199953,7,Faltas sofridas,Stiven Mendoza,1297,1,0,
+199953,7,Faltas sofridas,Vinícius,1297,3,0,
+199953,9,Impedimentos,Dudu,1012,1,0,Palmeiras
+199953,9,Impedimentos,Eduard Atuesta,1012,1,0,Palmeiras
+199953,9,Impedimentos,Rony,1012,1,0,Palmeiras
+199953,11,Pênaltis,Gabriel Veron,1012,1,0,Palmeiras
+199953,12,Perda da posse de bola,Dudu,1012,4,0,Palmeiras
+199953,12,Perda da posse de bola,Eduard Atuesta,1012,4,0,Palmeiras
+199953,12,Perda da posse de bola,Giovani,1012,2,0,Palmeiras
+199953,12,Perda da posse de bola,Gustavo Gómez,1012,1,0,Palmeiras
+199953,12,Perda da posse de bola,Gustavo Scarpa,1012,2,0,Palmeiras
+199953,12,Perda da posse de bola,Jorge,1012,2,0,Palmeiras
+199953,12,Perda da posse de bola,Raphael Veiga,1012,5,0,Palmeiras
+199953,12,Perda da posse de bola,Rony,1012,3,0,Palmeiras
+199953,12,Perda da posse de bola,Zé Rafael,1012,1,0,Palmeiras
+199953,12,Perda da posse de bola,Erick,1297,1,0,
+199953,12,Perda da posse de bola,Fernando Sobral,1297,3,0,
+199953,12,Perda da posse de bola,Lima,1297,3,0,
+199953,12,Perda da posse de bola,Nino Paraíba,1297,1,0,
+199953,12,Perda da posse de bola,Richard,1297,3,0,
+199953,12,Perda da posse de bola,Stiven Mendoza,1297,2,0,
+199953,25,Cartões amarelos,Danilo,1012,1,0,Palmeiras
+199953,25,Cartões amarelos,Jorge,1012,1,0,Palmeiras
+199953,25,Cartões amarelos,Marcos Rocha,1012,1,0,Palmeiras
+199953,25,Cartões amarelos,Zé Rafael,1012,1,0,Palmeiras
+199953,25,Cartões amarelos,Erick,1297,1,0,
+199953,25,Cartões amarelos,Geovane,1297,1,0,
+199953,25,Cartões amarelos,Iury Castilho,1297,1,0,
+199953,25,Cartões amarelos,Luiz Otávio,1297,1,0,
+199953,25,Cartões amarelos,Nino Paraíba,1297,1,0,
+199953,25,Cartões amarelos,Richard,1297,1,0,
+199953,25,Cartões amarelos,Rodrigo Lindoso,1297,1,0,
+199953,25,Cartões amarelos,Stiven Mendoza,1297,1,0,
+199953,25,Cartões amarelos,Vinícius,1297,1,0,
+200005,2,Passes,Alisson,1007,24,2,São Paulo
+200005,2,Passes,Andrés Colorado ,1007,6,1,São Paulo
+200005,2,Passes,Diego,1007,54,1,São Paulo
+200005,2,Passes,Éder,1007,14,2,São Paulo
+200005,2,Passes,Emiliano Rigoni,1007,3,1,São Paulo
+200005,2,Passes,Igor Gomes,1007,28,5,São Paulo
+200005,2,Passes,Jandrei,1007,35,0,São Paulo
+200005,2,Passes,Jonathan Calleri,1007,11,3,São Paulo
+200005,2,Passes,Léo,1007,48,3,São Paulo
+200005,2,Passes,Luciano  ,1007,12,1,São Paulo
+200005,2,Passes,Nikão,1007,29,1,São Paulo
+200005,2,Passes,Pablo Maia,1007,67,4,São Paulo
+200005,2,Passes,Rafinha,1007,66,0,São Paulo
+200005,2,Passes,Talles Costa,1007,6,1,São Paulo
+200005,2,Passes,Toró,1007,8,0,São Paulo
+200005,2,Passes,Wellington,1007,41,6,São Paulo
+200005,2,Passes,Abner Vinícius,1010,40,2,
+200005,2,Passes,Agustín Canobbio,1010,10,1,
+200005,2,Passes,Bento,1010,21,0,
+200005,2,Passes,Christian Roberto,1010,44,1,
+200005,2,Passes,David Terans,1010,9,0,
+200005,2,Passes,Hugo Moura,1010,33,4,
+200005,2,Passes,João Vialle,1010,15,1,
+200005,2,Passes,Khellven,1010,16,0,
+200005,2,Passes,Lucas Halter,1010,53,1,
+200005,2,Passes,Marcelo Cirino,1010,7,0,
+200005,2,Passes,Marlos,1010,18,3,
+200005,2,Passes,Pedro Henrique,1010,45,0,
+200005,2,Passes,Pedro Rocha,1010,4,1,
+200005,2,Passes,Tomás Cuello,1010,12,3,
+200005,2,Passes,Vitinho,1010,12,2,
+200005,2,Passes,Vitor Bueno,1010,6,1,
+200005,3,Finalizações,Alisson,1007,1,1,São Paulo
+200005,3,Finalizações,Diego,1007,0,1,São Paulo
+200005,3,Finalizações,Éder,1007,1,1,São Paulo
+200005,3,Finalizações,Igor Gomes,1007,1,1,São Paulo
+200005,3,Finalizações,Jonathan Calleri,1007,3,1,São Paulo
+200005,3,Finalizações,Luciano  ,1007,1,0,São Paulo
+200005,3,Finalizações,Nikão,1007,2,1,São Paulo
+200005,3,Finalizações,Pablo Maia,1007,0,1,São Paulo
+200005,3,Finalizações,Toró,1007,0,2,São Paulo
+200005,3,Finalizações,Abner Vinícius,1010,0,1,
+200005,3,Finalizações,Lucas Halter,1010,0,1,
+200005,3,Finalizações,Marcelo Cirino,1010,0,1,
+200005,3,Finalizações,Tomás Cuello,1010,0,2,
+200005,3,Finalizações,Vitor Bueno,1010,0,1,
+200005,5,Desarmes,Alisson,1007,2,0,São Paulo
+200005,5,Desarmes,Diego,1007,3,1,São Paulo
+200005,5,Desarmes,Éder,1007,3,0,São Paulo
+200005,5,Desarmes,Igor Gomes,1007,1,1,São Paulo
+200005,5,Desarmes,Pablo Maia,1007,2,0,São Paulo
+200005,5,Desarmes,Rafinha,1007,1,1,São Paulo
+200005,5,Desarmes,Talles Costa,1007,3,0,São Paulo
+200005,5,Desarmes,Toró,1007,1,0,São Paulo
+200005,5,Desarmes,Wellington,1007,1,0,São Paulo
+200005,5,Desarmes,Abner Vinícius,1010,1,0,
+200005,5,Desarmes,Agustín Canobbio,1010,1,1,
+200005,5,Desarmes,Christian Roberto,1010,1,0,
+200005,5,Desarmes,Hugo Moura,1010,1,1,
+200005,5,Desarmes,Khellven,1010,1,0,
+200005,5,Desarmes,Pedro Henrique,1010,1,0,
+200005,5,Desarmes,Tomás Cuello,1010,1,0,
+200005,14,Cruzamentos,Alisson,1007,1,0,São Paulo
+200005,14,Cruzamentos,Éder,1007,0,1,São Paulo
+200005,14,Cruzamentos,Igor Gomes,1007,1,0,São Paulo
+200005,14,Cruzamentos,Jonathan Calleri,1007,0,1,São Paulo
+200005,14,Cruzamentos,Nikão,1007,1,4,São Paulo
+200005,14,Cruzamentos,Rafinha,1007,1,0,São Paulo
+200005,14,Cruzamentos,Toró,1007,1,1,São Paulo
+200005,14,Cruzamentos,Wellington,1007,1,5,São Paulo
+200005,14,Cruzamentos,Abner Vinícius,1010,0,2,
+200005,14,Cruzamentos,Agustín Canobbio,1010,0,1,
+200005,14,Cruzamentos,Christian Roberto,1010,1,0,
+200005,14,Cruzamentos,David Terans,1010,1,0,
+200005,14,Cruzamentos,Hugo Moura,1010,0,1,
+200005,14,Cruzamentos,Khellven,1010,0,5,
+200005,14,Cruzamentos,Marcelo Cirino,1010,0,1,
+200005,14,Cruzamentos,Marlos,1010,1,0,
+200005,14,Cruzamentos,Tomás Cuello,1010,0,1,
+200005,14,Cruzamentos,Vitinho,1010,0,1,
+200005,1,Lançamentos,Alisson,1007,1,0,São Paulo
+200005,1,Lançamentos,Diego,1007,5,7,São Paulo
+200005,1,Lançamentos,Igor Gomes,1007,0,1,São Paulo
+200005,1,Lançamentos,Jandrei,1007,6,7,São Paulo
+200005,1,Lançamentos,Léo,1007,4,1,São Paulo
+200005,1,Lançamentos,Luciano  ,1007,2,0,São Paulo
+200005,1,Lançamentos,Nikão,1007,0,1,São Paulo
+200005,1,Lançamentos,Pablo Maia,1007,1,1,São Paulo
+200005,1,Lançamentos,Rafinha,1007,1,2,São Paulo
+200005,1,Lançamentos,Wellington,1007,0,2,São Paulo
+200005,1,Lançamentos,Abner Vinícius,1010,1,1,
+200005,1,Lançamentos,Bento,1010,1,7,
+200005,1,Lançamentos,David Terans,1010,0,1,
+200005,1,Lançamentos,Hugo Moura,1010,1,1,
+200005,1,Lançamentos,Khellven,1010,0,2,
+200005,1,Lançamentos,Lucas Halter,1010,0,1,
+200005,1,Lançamentos,Marlos,1010,1,1,
+200005,1,Lançamentos,Pedro Henrique,1010,2,4,
+200005,1,Lançamentos,Tomás Cuello,1010,1,0,
+200005,24,Interceptações,Emiliano Rigoni,1007,0,1,São Paulo
+200005,24,Interceptações,Igor Gomes,1007,1,0,São Paulo
+200005,24,Interceptações,Jonathan Calleri,1007,1,0,São Paulo
+200005,24,Interceptações,Léo,1007,1,0,São Paulo
+200005,24,Interceptações,Pablo Maia,1007,1,0,São Paulo
+200005,24,Interceptações,Rafinha,1007,1,0,São Paulo
+200005,24,Interceptações,Christian Roberto,1010,1,0,
+200005,24,Interceptações,Hugo Moura,1010,1,0,
+200005,24,Interceptações,Lucas Halter,1010,2,0,
+200005,24,Interceptações,Marcelo Cirino,1010,1,0,
+200005,24,Interceptações,Marlos,1010,1,0,
+200005,24,Interceptações,Pedro Henrique,1010,1,0,
+200005,4,Dribles,Alisson,1007,1,1,São Paulo
+200005,4,Dribles,Igor Gomes,1007,0,1,São Paulo
+200005,4,Dribles,Jonathan Calleri,1007,1,0,São Paulo
+200005,4,Dribles,Luciano  ,1007,1,0,São Paulo
+200005,4,Dribles,Nikão,1007,0,2,São Paulo
+200005,4,Dribles,Talles Costa,1007,1,0,São Paulo
+200005,4,Dribles,Wellington,1007,0,2,São Paulo
+200005,4,Dribles,Abner Vinícius,1010,1,0,
+200005,4,Dribles,David Terans,1010,0,1,
+200005,4,Dribles,Hugo Moura,1010,2,0,
+200005,4,Dribles,João Vialle,1010,2,0,
+200005,4,Dribles,Lucas Halter,1010,1,0,
+200005,4,Dribles,Pedro Rocha,1010,1,0,
+200005,4,Dribles,Tomás Cuello,1010,0,1,
+200005,4,Dribles,Vitor Bueno,1010,1,0,
+200005,22,Viradas de jogo,Nikão,1007,1,1,São Paulo
+200005,22,Viradas de jogo,Rafinha,1007,1,0,São Paulo
+200005,22,Viradas de jogo,Christian Roberto,1010,1,0,
+200005,22,Viradas de jogo,Marlos,1010,1,0,
+200005,22,Viradas de jogo,Pedro Henrique,1010,3,0,
+200005,22,Viradas de jogo,Tomás Cuello,1010,1,1,
+200005,20,Posse de bola,Alisson,1007,83,0,São Paulo
+200005,20,Posse de bola,Andrés Colorado ,1007,14,0,São Paulo
+200005,20,Posse de bola,Diego,1007,193,0,São Paulo
+200005,20,Posse de bola,Éder,1007,78,0,São Paulo
+200005,20,Posse de bola,Emiliano Rigoni,1007,14,0,São Paulo
+200005,20,Posse de bola,Igor Gomes,1007,95,0,São Paulo
+200005,20,Posse de bola,Jandrei,1007,195,0,São Paulo
+200005,20,Posse de bola,Jonathan Calleri,1007,64,0,São Paulo
+200005,20,Posse de bola,Léo,1007,172,0,São Paulo
+200005,20,Posse de bola,Luciano  ,1007,40,0,São Paulo
+200005,20,Posse de bola,Nikão,1007,109,0,São Paulo
+200005,20,Posse de bola,Pablo Maia,1007,162,0,São Paulo
+200005,20,Posse de bola,Rafinha,1007,183,0,São Paulo
+200005,20,Posse de bola,Talles Costa,1007,30,0,São Paulo
+200005,20,Posse de bola,Toró,1007,39,0,São Paulo
+200005,20,Posse de bola,Wellington,1007,139,0,São Paulo
+200005,20,Posse de bola,Abner Vinícius,1010,141,0,
+200005,20,Posse de bola,Agustín Canobbio,1010,36,0,
+200005,20,Posse de bola,Bento,1010,165,0,
+200005,20,Posse de bola,Christian Roberto,1010,131,0,
+200005,20,Posse de bola,David Terans,1010,38,0,
+200005,20,Posse de bola,Hugo Moura,1010,124,0,
+200005,20,Posse de bola,João Vialle,1010,47,0,
+200005,20,Posse de bola,Khellven,1010,72,0,
+200005,20,Posse de bola,Lucas Halter,1010,197,0,
+200005,20,Posse de bola,Marcelo Cirino,1010,30,0,
+200005,20,Posse de bola,Marlos,1010,77,0,
+200005,20,Posse de bola,Pedro Henrique,1010,185,0,
+200005,20,Posse de bola,Pedro Rocha,1010,21,0,
+200005,20,Posse de bola,Tomás Cuello,1010,92,0,
+200005,20,Posse de bola,Vitinho,1010,54,0,
+200005,20,Posse de bola,Vitor Bueno,1010,36,0,
+200005,8,Gols,Jonathan Calleri,1007,3,0,São Paulo
+200005,8,Gols,Luciano  ,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Alisson,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Diego,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Éder,1007,2,0,São Paulo
+200005,28,Assistências para finalização,Igor Gomes,1007,4,0,São Paulo
+200005,28,Assistências para finalização,Jonathan Calleri,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Léo,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Nikão,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Wellington,1007,1,0,São Paulo
+200005,28,Assistências para finalização,Abner Vinícius,1010,1,0,
+200005,28,Assistências para finalização,Christian Roberto,1010,1,0,
+200005,28,Assistências para finalização,Pedro Henrique,1010,1,0,
+200005,28,Assistências para finalização,Vitinho,1010,1,0,
+200005,27,Assistências,Alisson,1007,1,0,São Paulo
+200005,27,Assistências,Toró,1007,1,0,São Paulo
+200005,27,Assistências,Wellington,1007,1,0,São Paulo
+200005,15,Defesas,Diego,1007,1,0,São Paulo
+200005,15,Defesas,Igor Gomes,1007,1,0,São Paulo
+200005,15,Defesas,Abner Vinícius,1010,1,0,
+200005,15,Defesas,Bento,1010,3,0,
+200005,15,Defesas,Pedro Henrique,1010,1,0,
+200005,15,Defesas,Tomás Cuello,1010,1,0,
+200005,15,Defesas,Diego,1007,1,0,São Paulo
+200005,15,Defesas,Igor Gomes,1007,1,0,São Paulo
+200005,15,Defesas,Abner Vinícius,1010,1,0,
+200005,15,Defesas,Bento,1010,3,0,
+200005,15,Defesas,Pedro Henrique,1010,1,0,
+200005,15,Defesas,Tomás Cuello,1010,1,0,
+200005,23,Defesas difíceis,Bento,1010,2,0,
+200005,19,Rebatidas,Alisson,1007,1,0,São Paulo
+200005,19,Rebatidas,Diego,1007,4,0,São Paulo
+200005,19,Rebatidas,Emiliano Rigoni,1007,1,0,São Paulo
+200005,19,Rebatidas,Jandrei,1007,1,0,São Paulo
+200005,19,Rebatidas,Jonathan Calleri,1007,1,0,São Paulo
+200005,19,Rebatidas,Léo,1007,1,0,São Paulo
+200005,19,Rebatidas,Rafinha,1007,3,0,São Paulo
+200005,19,Rebatidas,Wellington,1007,2,0,São Paulo
+200005,19,Rebatidas,Abner Vinícius,1010,4,0,
+200005,19,Rebatidas,Bento,1010,3,0,
+200005,19,Rebatidas,Christian Roberto,1010,4,0,
+200005,19,Rebatidas,Hugo Moura,1010,1,0,
+200005,19,Rebatidas,Khellven,1010,4,0,
+200005,19,Rebatidas,Lucas Halter,1010,10,0,
+200005,19,Rebatidas,Marcelo Cirino,1010,1,0,
+200005,19,Rebatidas,Pedro Henrique,1010,8,0,
+200005,19,Rebatidas,Vitor Bueno,1010,1,0,
+200005,6,Faltas cometidas,Alisson,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Éder,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Emiliano Rigoni,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Igor Gomes,1007,2,0,São Paulo
+200005,6,Faltas cometidas,Jonathan Calleri,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Léo,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Pablo Maia,1007,2,0,São Paulo
+200005,6,Faltas cometidas,Rafinha,1007,5,0,São Paulo
+200005,6,Faltas cometidas,Talles Costa,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Toró,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Wellington,1007,1,0,São Paulo
+200005,6,Faltas cometidas,Abner Vinícius,1010,2,0,
+200005,6,Faltas cometidas,Christian Roberto,1010,1,0,
+200005,6,Faltas cometidas,David Terans,1010,1,0,
+200005,6,Faltas cometidas,Hugo Moura,1010,1,0,
+200005,6,Faltas cometidas,Khellven,1010,1,0,
+200005,6,Faltas cometidas,Lucas Halter,1010,2,0,
+200005,6,Faltas cometidas,Pedro Henrique,1010,2,0,
+200005,6,Faltas cometidas,Vitinho,1010,3,0,
+200005,6,Faltas cometidas,Vitor Bueno,1010,1,0,
+200005,7,Faltas sofridas,Alisson,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Diego,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Éder,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Jonathan Calleri,1007,4,0,São Paulo
+200005,7,Faltas sofridas,Luciano  ,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Nikão,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Rafinha,1007,2,0,São Paulo
+200005,7,Faltas sofridas,Talles Costa,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Toró,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Wellington,1007,1,0,São Paulo
+200005,7,Faltas sofridas,Christian Roberto,1010,3,0,
+200005,7,Faltas sofridas,David Terans,1010,1,0,
+200005,7,Faltas sofridas,Hugo Moura,1010,2,0,
+200005,7,Faltas sofridas,Lucas Halter,1010,1,0,
+200005,7,Faltas sofridas,Marcelo Cirino,1010,1,0,
+200005,7,Faltas sofridas,Marlos,1010,1,0,
+200005,7,Faltas sofridas,Pedro Henrique,1010,1,0,
+200005,7,Faltas sofridas,Tomás Cuello,1010,3,0,
+200005,7,Faltas sofridas,Vitinho,1010,3,0,
+200005,7,Faltas sofridas,Vitor Bueno,1010,1,0,
+200005,9,Impedimentos,Jonathan Calleri,1007,2,0,São Paulo
+200005,9,Impedimentos,Marcelo Cirino,1010,1,0,
+200005,9,Impedimentos,Vitinho,1010,1,0,
+200005,12,Perda da posse de bola,Alisson,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Éder,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Igor Gomes,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Jonathan Calleri,1007,3,0,São Paulo
+200005,12,Perda da posse de bola,Luciano  ,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Rafinha,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Wellington,1007,1,0,São Paulo
+200005,12,Perda da posse de bola,Abner Vinícius,1010,2,0,
+200005,12,Perda da posse de bola,Agustín Canobbio,1010,3,0,
+200005,12,Perda da posse de bola,Christian Roberto,1010,3,0,
+200005,12,Perda da posse de bola,David Terans,1010,2,0,
+200005,12,Perda da posse de bola,Hugo Moura,1010,3,0,
+200005,12,Perda da posse de bola,Khellven,1010,4,0,
+200005,12,Perda da posse de bola,Marcelo Cirino,1010,2,0,
+200005,12,Perda da posse de bola,Marlos,1010,1,0,
+200005,12,Perda da posse de bola,Pedro Rocha,1010,2,0,
+200005,12,Perda da posse de bola,Tomás Cuello,1010,4,0,
+200005,12,Perda da posse de bola,Vitinho,1010,2,0,
+200005,12,Perda da posse de bola,Vitor Bueno,1010,2,0,
+200005,25,Cartões amarelos,Alisson,1007,1,0,São Paulo
+200005,25,Cartões amarelos,Christian Roberto,1010,1,0,
+200005,25,Cartões amarelos,Pedro Henrique,1010,1,0,
+200005,25,Cartões amarelos,Vitor Bueno,1010,1,0,

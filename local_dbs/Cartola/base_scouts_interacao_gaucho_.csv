@@ -8506,3 +8506,1402 @@ fix_id,scout_id,idPlayer,nomePlayer,team_id,idPlayerDestino,nome,scout_name,team
 192641,24,37374,Jádson,1019,18235,William Matheus,Interceptações,Juventude,1
 192641,24,58224,Ruan Costa,1271,43363,Gilberto Alemão,Interceptações,Brasil de Pelotas,1
 192641,24,80612,Paulo Victor,1271,58224,Ruan Costa,Interceptações,Brasil de Pelotas,1
+192644,1,20341,Taison,1018,68534,Fabricio Bustos,Lançamentos,Internacional,1
+192644,1,26439,Pedro Geromel,1083,20495,Churín,Lançamentos,Grêmio,1
+192644,1,26439,Pedro Geromel,1083,64124,Nicolas,Lançamentos,Grêmio,1
+192644,1,37766,Víctor Cuesta,1018,23069,Edenílson,Lançamentos,Internacional,1
+192644,1,37766,Víctor Cuesta,1018,55200,David,Lançamentos,Internacional,1
+192644,1,37766,Víctor Cuesta,1018,79099,Wesley,Lançamentos,Internacional,1
+192644,1,38028,Thiago Santos,1083,66396,Janderson,Lançamentos,Grêmio,1
+192644,1,39299,Gabriel,1018,68534,Fabricio Bustos,Lançamentos,Internacional,2
+192644,1,39299,Gabriel,1018,86212,Paulo Victor,Lançamentos,Internacional,3
+192644,1,64124,Nicolas,1083,81374,Elias,Lançamentos,Grêmio,2
+192644,1,66245,Liziero,1018,55200,David,Lançamentos,Internacional,1
+192644,1,66245,Liziero,1018,68534,Fabricio Bustos,Lançamentos,Internacional,1
+192644,1,68534,Fabricio Bustos,1018,79099,Wesley,Lançamentos,Internacional,1
+192644,1,71398,Brenno,1083,10612,Diego Souza ,Lançamentos,Grêmio,3
+192644,1,71398,Brenno,1083,81374,Elias,Lançamentos,Grêmio,1
+192644,1,71596,Kaique Rocha,1018,55200,David,Lançamentos,Internacional,1
+192644,1,71596,Kaique Rocha,1018,68534,Fabricio Bustos,Lançamentos,Internacional,1
+192644,1,76440,Jaminton Campaz,1083,10612,Diego Souza ,Lançamentos,Grêmio,1
+192644,1,76440,Jaminton Campaz,1083,81386,Bitello,Lançamentos,Grêmio,2
+192644,1,81386,Bitello,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,1
+192644,1,86212,Paulo Victor,1018,37766,Víctor Cuesta,Lançamentos,Internacional,1
+192644,2,10612,Diego Souza ,1083,39682,Lucas Silva,Passes,Grêmio,5
+192644,2,10612,Diego Souza ,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192644,2,10612,Diego Souza ,1083,76440,Jaminton Campaz,Passes,Grêmio,4
+192644,2,10612,Diego Souza ,1083,81374,Elias,Passes,Grêmio,1
+192644,2,10612,Diego Souza ,1083,81386,Bitello,Passes,Grêmio,3
+192644,2,13936,Bruno Alves,1083,26439,Pedro Geromel,Passes,Grêmio,3
+192644,2,13936,Bruno Alves,1083,38028,Thiago Santos,Passes,Grêmio,1
+192644,2,13936,Bruno Alves,1083,39682,Lucas Silva,Passes,Grêmio,1
+192644,2,13936,Bruno Alves,1083,64124,Nicolas,Passes,Grêmio,11
+192644,2,13936,Bruno Alves,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192644,2,13936,Bruno Alves,1083,71398,Brenno,Passes,Grêmio,1
+192644,2,13936,Bruno Alves,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192644,2,13936,Bruno Alves,1083,81374,Elias,Passes,Grêmio,1
+192644,2,13936,Bruno Alves,1083,81386,Bitello,Passes,Grêmio,1
+192644,2,20341,Taison,1018,23069,Edenílson,Passes,Internacional,1
+192644,2,20341,Taison,1018,37766,Víctor Cuesta,Passes,Internacional,6
+192644,2,20341,Taison,1018,39299,Gabriel,Passes,Internacional,7
+192644,2,20341,Taison,1018,55200,David,Passes,Internacional,5
+192644,2,20341,Taison,1018,66245,Liziero,Passes,Internacional,7
+192644,2,20341,Taison,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192644,2,20341,Taison,1018,71596,Kaique Rocha,Passes,Internacional,5
+192644,2,20341,Taison,1018,75111,Mauricio,Passes,Internacional,2
+192644,2,20341,Taison,1018,79099,Wesley,Passes,Internacional,1
+192644,2,20341,Taison,1018,86212,Paulo Victor,Passes,Internacional,4
+192644,2,20495,Churín,1083,38028,Thiago Santos,Passes,Grêmio,1
+192644,2,20495,Churín,1083,75260,Gabriel Silva,Passes,Grêmio,2
+192644,2,20495,Churín,1083,81376,Rildo,Passes,Grêmio,1
+192644,2,23069,Edenílson,1018,20341,Taison,Passes,Internacional,3
+192644,2,23069,Edenílson,1018,37766,Víctor Cuesta,Passes,Internacional,3
+192644,2,23069,Edenílson,1018,39299,Gabriel,Passes,Internacional,3
+192644,2,23069,Edenílson,1018,55200,David,Passes,Internacional,6
+192644,2,23069,Edenílson,1018,66245,Liziero,Passes,Internacional,5
+192644,2,23069,Edenílson,1018,68534,Fabricio Bustos,Passes,Internacional,6
+192644,2,23069,Edenílson,1018,71596,Kaique Rocha,Passes,Internacional,5
+192644,2,23069,Edenílson,1018,75111,Mauricio,Passes,Internacional,2
+192644,2,23069,Edenílson,1018,79099,Wesley,Passes,Internacional,1
+192644,2,26439,Pedro Geromel,1083,10612,Diego Souza ,Passes,Grêmio,1
+192644,2,26439,Pedro Geromel,1083,13936,Bruno Alves,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,38028,Thiago Santos,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,39682,Lucas Silva,Passes,Grêmio,5
+192644,2,26439,Pedro Geromel,1083,57575,Rodrigues,Passes,Grêmio,4
+192644,2,26439,Pedro Geromel,1083,64124,Nicolas,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,71398,Brenno,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,76440,Jaminton Campaz,Passes,Grêmio,2
+192644,2,26439,Pedro Geromel,1083,81386,Bitello,Passes,Grêmio,2
+192644,2,37766,Víctor Cuesta,1018,20341,Taison,Passes,Internacional,5
+192644,2,37766,Víctor Cuesta,1018,23069,Edenílson,Passes,Internacional,2
+192644,2,37766,Víctor Cuesta,1018,39299,Gabriel,Passes,Internacional,24
+192644,2,37766,Víctor Cuesta,1018,55189,Daniel,Passes,Internacional,1
+192644,2,37766,Víctor Cuesta,1018,55200,David,Passes,Internacional,1
+192644,2,37766,Víctor Cuesta,1018,66245,Liziero,Passes,Internacional,7
+192644,2,37766,Víctor Cuesta,1018,68534,Fabricio Bustos,Passes,Internacional,1
+192644,2,37766,Víctor Cuesta,1018,71596,Kaique Rocha,Passes,Internacional,10
+192644,2,37766,Víctor Cuesta,1018,72062,Bruno Méndez,Passes,Internacional,2
+192644,2,37766,Víctor Cuesta,1018,86212,Paulo Victor,Passes,Internacional,5
+192644,2,38028,Thiago Santos,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192644,2,38028,Thiago Santos,1083,57575,Rodrigues,Passes,Grêmio,2
+192644,2,38028,Thiago Santos,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192644,2,39299,Gabriel,1018,20341,Taison,Passes,Internacional,15
+192644,2,39299,Gabriel,1018,23069,Edenílson,Passes,Internacional,8
+192644,2,39299,Gabriel,1018,37766,Víctor Cuesta,Passes,Internacional,9
+192644,2,39299,Gabriel,1018,55189,Daniel,Passes,Internacional,1
+192644,2,39299,Gabriel,1018,55200,David,Passes,Internacional,1
+192644,2,39299,Gabriel,1018,66245,Liziero,Passes,Internacional,19
+192644,2,39299,Gabriel,1018,68534,Fabricio Bustos,Passes,Internacional,9
+192644,2,39299,Gabriel,1018,71596,Kaique Rocha,Passes,Internacional,11
+192644,2,39299,Gabriel,1018,75111,Mauricio,Passes,Internacional,1
+192644,2,39299,Gabriel,1018,79099,Wesley,Passes,Internacional,1
+192644,2,39299,Gabriel,1018,86212,Paulo Victor,Passes,Internacional,4
+192644,2,39682,Lucas Silva,1083,10612,Diego Souza ,Passes,Grêmio,2
+192644,2,39682,Lucas Silva,1083,13936,Bruno Alves,Passes,Grêmio,3
+192644,2,39682,Lucas Silva,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192644,2,39682,Lucas Silva,1083,57575,Rodrigues,Passes,Grêmio,4
+192644,2,39682,Lucas Silva,1083,64124,Nicolas,Passes,Grêmio,1
+192644,2,39682,Lucas Silva,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192644,2,39682,Lucas Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,6
+192644,2,55189,Daniel,1018,37766,Víctor Cuesta,Passes,Internacional,7
+192644,2,55189,Daniel,1018,66245,Liziero,Passes,Internacional,1
+192644,2,55189,Daniel,1018,71596,Kaique Rocha,Passes,Internacional,5
+192644,2,55189,Daniel,1018,86212,Paulo Victor,Passes,Internacional,1
+192644,2,55200,David,1018,20341,Taison,Passes,Internacional,1
+192644,2,55200,David,1018,23069,Edenílson,Passes,Internacional,2
+192644,2,55200,David,1018,39299,Gabriel,Passes,Internacional,1
+192644,2,55200,David,1018,55189,Daniel,Passes,Internacional,1
+192644,2,55200,David,1018,66245,Liziero,Passes,Internacional,3
+192644,2,55200,David,1018,68534,Fabricio Bustos,Passes,Internacional,5
+192644,2,55200,David,1018,71596,Kaique Rocha,Passes,Internacional,2
+192644,2,55200,David,1018,75111,Mauricio,Passes,Internacional,3
+192644,2,55200,David,1018,79099,Wesley,Passes,Internacional,3
+192644,2,55200,David,1018,86212,Paulo Victor,Passes,Internacional,1
+192644,2,57575,Rodrigues,1083,10612,Diego Souza ,Passes,Grêmio,2
+192644,2,57575,Rodrigues,1083,13936,Bruno Alves,Passes,Grêmio,1
+192644,2,57575,Rodrigues,1083,26439,Pedro Geromel,Passes,Grêmio,5
+192644,2,57575,Rodrigues,1083,38028,Thiago Santos,Passes,Grêmio,2
+192644,2,57575,Rodrigues,1083,39682,Lucas Silva,Passes,Grêmio,1
+192644,2,57575,Rodrigues,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192644,2,57575,Rodrigues,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,57575,Rodrigues,1083,76440,Jaminton Campaz,Passes,Grêmio,13
+192644,2,57575,Rodrigues,1083,81376,Rildo,Passes,Grêmio,1
+192644,2,64124,Nicolas,1083,10612,Diego Souza ,Passes,Grêmio,2
+192644,2,64124,Nicolas,1083,13936,Bruno Alves,Passes,Grêmio,3
+192644,2,64124,Nicolas,1083,20495,Churín,Passes,Grêmio,1
+192644,2,64124,Nicolas,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192644,2,64124,Nicolas,1083,57575,Rodrigues,Passes,Grêmio,1
+192644,2,64124,Nicolas,1083,65851,Mathías Villasanti,Passes,Grêmio,5
+192644,2,64124,Nicolas,1083,66396,Janderson,Passes,Grêmio,5
+192644,2,64124,Nicolas,1083,71398,Brenno,Passes,Grêmio,2
+192644,2,64124,Nicolas,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,64124,Nicolas,1083,81374,Elias,Passes,Grêmio,3
+192644,2,64124,Nicolas,1083,81386,Bitello,Passes,Grêmio,9
+192644,2,65851,Mathías Villasanti,1083,13936,Bruno Alves,Passes,Grêmio,2
+192644,2,65851,Mathías Villasanti,1083,26439,Pedro Geromel,Passes,Grêmio,4
+192644,2,65851,Mathías Villasanti,1083,38028,Thiago Santos,Passes,Grêmio,1
+192644,2,65851,Mathías Villasanti,1083,39682,Lucas Silva,Passes,Grêmio,4
+192644,2,65851,Mathías Villasanti,1083,57575,Rodrigues,Passes,Grêmio,1
+192644,2,65851,Mathías Villasanti,1083,64124,Nicolas,Passes,Grêmio,7
+192644,2,65851,Mathías Villasanti,1083,66396,Janderson,Passes,Grêmio,1
+192644,2,65851,Mathías Villasanti,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,65851,Mathías Villasanti,1083,76440,Jaminton Campaz,Passes,Grêmio,2
+192644,2,65851,Mathías Villasanti,1083,81374,Elias,Passes,Grêmio,2
+192644,2,65851,Mathías Villasanti,1083,81376,Rildo,Passes,Grêmio,1
+192644,2,65851,Mathías Villasanti,1083,81386,Bitello,Passes,Grêmio,3
+192644,2,66245,Liziero,1018,20341,Taison,Passes,Internacional,9
+192644,2,66245,Liziero,1018,23069,Edenílson,Passes,Internacional,3
+192644,2,66245,Liziero,1018,37766,Víctor Cuesta,Passes,Internacional,13
+192644,2,66245,Liziero,1018,39299,Gabriel,Passes,Internacional,16
+192644,2,66245,Liziero,1018,55189,Daniel,Passes,Internacional,2
+192644,2,66245,Liziero,1018,55200,David,Passes,Internacional,5
+192644,2,66245,Liziero,1018,68534,Fabricio Bustos,Passes,Internacional,7
+192644,2,66245,Liziero,1018,71596,Kaique Rocha,Passes,Internacional,12
+192644,2,66245,Liziero,1018,74848,Caio,Passes,Internacional,1
+192644,2,66245,Liziero,1018,75111,Mauricio,Passes,Internacional,1
+192644,2,66245,Liziero,1018,79099,Wesley,Passes,Internacional,1
+192644,2,66245,Liziero,1018,79509,Johnny,Passes,Internacional,3
+192644,2,66245,Liziero,1018,86212,Paulo Victor,Passes,Internacional,6
+192644,2,66396,Janderson,1083,20495,Churín,Passes,Grêmio,1
+192644,2,66396,Janderson,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192644,2,66396,Janderson,1083,64124,Nicolas,Passes,Grêmio,2
+192644,2,66396,Janderson,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192644,2,68534,Fabricio Bustos,1018,20341,Taison,Passes,Internacional,2
+192644,2,68534,Fabricio Bustos,1018,23069,Edenílson,Passes,Internacional,6
+192644,2,68534,Fabricio Bustos,1018,39299,Gabriel,Passes,Internacional,9
+192644,2,68534,Fabricio Bustos,1018,55189,Daniel,Passes,Internacional,2
+192644,2,68534,Fabricio Bustos,1018,55200,David,Passes,Internacional,8
+192644,2,68534,Fabricio Bustos,1018,66245,Liziero,Passes,Internacional,13
+192644,2,68534,Fabricio Bustos,1018,71596,Kaique Rocha,Passes,Internacional,9
+192644,2,68534,Fabricio Bustos,1018,72062,Bruno Méndez,Passes,Internacional,1
+192644,2,68534,Fabricio Bustos,1018,74848,Caio,Passes,Internacional,1
+192644,2,68534,Fabricio Bustos,1018,75111,Mauricio,Passes,Internacional,9
+192644,2,68534,Fabricio Bustos,1018,79099,Wesley,Passes,Internacional,2
+192644,2,68534,Fabricio Bustos,1018,79509,Johnny,Passes,Internacional,2
+192644,2,68534,Fabricio Bustos,1018,86212,Paulo Victor,Passes,Internacional,1
+192644,2,71398,Brenno,1083,13936,Bruno Alves,Passes,Grêmio,4
+192644,2,71398,Brenno,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192644,2,71398,Brenno,1083,57575,Rodrigues,Passes,Grêmio,1
+192644,2,71596,Kaique Rocha,1018,20341,Taison,Passes,Internacional,4
+192644,2,71596,Kaique Rocha,1018,23069,Edenílson,Passes,Internacional,4
+192644,2,71596,Kaique Rocha,1018,37766,Víctor Cuesta,Passes,Internacional,12
+192644,2,71596,Kaique Rocha,1018,39299,Gabriel,Passes,Internacional,10
+192644,2,71596,Kaique Rocha,1018,55189,Daniel,Passes,Internacional,4
+192644,2,71596,Kaique Rocha,1018,55200,David,Passes,Internacional,1
+192644,2,71596,Kaique Rocha,1018,66245,Liziero,Passes,Internacional,13
+192644,2,71596,Kaique Rocha,1018,68534,Fabricio Bustos,Passes,Internacional,15
+192644,2,71596,Kaique Rocha,1018,75111,Mauricio,Passes,Internacional,3
+192644,2,71596,Kaique Rocha,1018,79509,Johnny,Passes,Internacional,3
+192644,2,72062,Bruno Méndez,1018,55200,David,Passes,Internacional,1
+192644,2,72062,Bruno Méndez,1018,79509,Johnny,Passes,Internacional,1
+192644,2,74848,Caio,1018,66245,Liziero,Passes,Internacional,1
+192644,2,75111,Mauricio,1018,23069,Edenílson,Passes,Internacional,2
+192644,2,75111,Mauricio,1018,37766,Víctor Cuesta,Passes,Internacional,1
+192644,2,75111,Mauricio,1018,39299,Gabriel,Passes,Internacional,6
+192644,2,75111,Mauricio,1018,55200,David,Passes,Internacional,2
+192644,2,75111,Mauricio,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192644,2,75260,Gabriel Silva,1083,20495,Churín,Passes,Grêmio,1
+192644,2,75260,Gabriel Silva,1083,57575,Rodrigues,Passes,Grêmio,1
+192644,2,75260,Gabriel Silva,1083,66396,Janderson,Passes,Grêmio,1
+192644,2,75260,Gabriel Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192644,2,75260,Gabriel Silva,1083,81386,Bitello,Passes,Grêmio,1
+192644,2,76440,Jaminton Campaz,1083,10612,Diego Souza ,Passes,Grêmio,2
+192644,2,76440,Jaminton Campaz,1083,26439,Pedro Geromel,Passes,Grêmio,2
+192644,2,76440,Jaminton Campaz,1083,39682,Lucas Silva,Passes,Grêmio,5
+192644,2,76440,Jaminton Campaz,1083,57575,Rodrigues,Passes,Grêmio,2
+192644,2,76440,Jaminton Campaz,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192644,2,76440,Jaminton Campaz,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,76440,Jaminton Campaz,1083,81386,Bitello,Passes,Grêmio,2
+192644,2,79099,Wesley,1018,39299,Gabriel,Passes,Internacional,2
+192644,2,79099,Wesley,1018,55200,David,Passes,Internacional,1
+192644,2,79099,Wesley,1018,66245,Liziero,Passes,Internacional,2
+192644,2,79099,Wesley,1018,68534,Fabricio Bustos,Passes,Internacional,1
+192644,2,79099,Wesley,1018,71596,Kaique Rocha,Passes,Internacional,1
+192644,2,79099,Wesley,1018,79509,Johnny,Passes,Internacional,2
+192644,2,79509,Johnny,1018,23069,Edenílson,Passes,Internacional,1
+192644,2,79509,Johnny,1018,55200,David,Passes,Internacional,1
+192644,2,79509,Johnny,1018,66245,Liziero,Passes,Internacional,2
+192644,2,79509,Johnny,1018,68534,Fabricio Bustos,Passes,Internacional,6
+192644,2,81374,Elias,1083,39682,Lucas Silva,Passes,Grêmio,1
+192644,2,81374,Elias,1083,64124,Nicolas,Passes,Grêmio,1
+192644,2,81374,Elias,1083,81386,Bitello,Passes,Grêmio,3
+192644,2,81376,Rildo,1083,20495,Churín,Passes,Grêmio,1
+192644,2,81376,Rildo,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,81386,Bitello,1083,10612,Diego Souza ,Passes,Grêmio,4
+192644,2,81386,Bitello,1083,13936,Bruno Alves,Passes,Grêmio,2
+192644,2,81386,Bitello,1083,39682,Lucas Silva,Passes,Grêmio,1
+192644,2,81386,Bitello,1083,64124,Nicolas,Passes,Grêmio,4
+192644,2,81386,Bitello,1083,65851,Mathías Villasanti,Passes,Grêmio,4
+192644,2,81386,Bitello,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192644,2,81386,Bitello,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192644,2,81386,Bitello,1083,81374,Elias,Passes,Grêmio,4
+192644,2,86212,Paulo Victor,1018,20341,Taison,Passes,Internacional,9
+192644,2,86212,Paulo Victor,1018,37766,Víctor Cuesta,Passes,Internacional,4
+192644,2,86212,Paulo Victor,1018,39299,Gabriel,Passes,Internacional,2
+192644,2,86212,Paulo Victor,1018,55200,David,Passes,Internacional,4
+192644,2,86212,Paulo Victor,1018,66245,Liziero,Passes,Internacional,5
+192644,4,37766,Víctor Cuesta,1018,55200,David,Dribles,Internacional,1
+192644,5,20341,Taison,1018,79509,Johnny,Desarmes,Internacional,1
+192644,5,26439,Pedro Geromel,1083,13936,Bruno Alves,Desarmes,Grêmio,1
+192644,5,38028,Thiago Santos,1083,66396,Janderson,Desarmes,Grêmio,1
+192644,5,39299,Gabriel,1018,86212,Paulo Victor,Desarmes,Internacional,1
+192644,5,39682,Lucas Silva,1083,65851,Mathías Villasanti,Desarmes,Grêmio,1
+192644,5,57575,Rodrigues,1083,65851,Mathías Villasanti,Desarmes,Grêmio,1
+192644,5,57575,Rodrigues,1083,71398,Brenno,Desarmes,Grêmio,1
+192644,5,64124,Nicolas,1083,26439,Pedro Geromel,Desarmes,Grêmio,1
+192644,5,65851,Mathías Villasanti,1083,57575,Rodrigues,Desarmes,Grêmio,1
+192644,5,66245,Liziero,1018,68534,Fabricio Bustos,Desarmes,Internacional,1
+192644,5,74848,Caio,1018,66245,Liziero,Desarmes,Internacional,1
+192644,5,75111,Mauricio,1018,39299,Gabriel,Desarmes,Internacional,1
+192644,5,76440,Jaminton Campaz,1083,64124,Nicolas,Desarmes,Grêmio,1
+192644,5,81386,Bitello,1083,64124,Nicolas,Desarmes,Grêmio,1
+192644,5,81386,Bitello,1083,65851,Mathías Villasanti,Desarmes,Grêmio,1
+192644,5,86212,Paulo Victor,1018,39299,Gabriel,Desarmes,Internacional,1
+192644,14,39682,Lucas Silva,1083,81374,Elias,Cruzamentos,Grêmio,1
+192644,14,55200,David,1018,20341,Taison,Cruzamentos,Internacional,1
+192644,14,64124,Nicolas,1083,13936,Bruno Alves,Cruzamentos,Grêmio,1
+192644,14,66245,Liziero,1018,79099,Wesley,Cruzamentos,Internacional,1
+192644,14,76440,Jaminton Campaz,1083,81386,Bitello,Cruzamentos,Grêmio,1
+192644,14,86212,Paulo Victor,1018,75111,Mauricio,Cruzamentos,Internacional,1
+192644,19,13936,Bruno Alves,1083,26439,Pedro Geromel,Rebatidas,Grêmio,2
+192644,19,13936,Bruno Alves,1083,38028,Thiago Santos,Rebatidas,Grêmio,1
+192644,19,13936,Bruno Alves,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192644,19,13936,Bruno Alves,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192644,19,13936,Bruno Alves,1083,71398,Brenno,Rebatidas,Grêmio,1
+192644,19,13936,Bruno Alves,1083,81374,Elias,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,71398,Brenno,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,81374,Elias,Rebatidas,Grêmio,1
+192644,19,26439,Pedro Geromel,1083,81386,Bitello,Rebatidas,Grêmio,1
+192644,19,37766,Víctor Cuesta,1018,23069,Edenílson,Rebatidas,Internacional,1
+192644,19,37766,Víctor Cuesta,1018,39299,Gabriel,Rebatidas,Internacional,1
+192644,19,37766,Víctor Cuesta,1018,79099,Wesley,Rebatidas,Internacional,1
+192644,19,38028,Thiago Santos,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192644,19,39682,Lucas Silva,1083,81374,Elias,Rebatidas,Grêmio,1
+192644,19,55189,Daniel,1018,55200,David,Rebatidas,Internacional,1
+192644,19,57575,Rodrigues,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192644,19,57575,Rodrigues,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192644,19,57575,Rodrigues,1083,71398,Brenno,Rebatidas,Grêmio,1
+192644,19,57575,Rodrigues,1083,81374,Elias,Rebatidas,Grêmio,1
+192644,19,64124,Nicolas,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192644,19,64124,Nicolas,1083,26439,Pedro Geromel,Rebatidas,Grêmio,2
+192644,19,64124,Nicolas,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192644,19,64124,Nicolas,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192644,19,64124,Nicolas,1083,71398,Brenno,Rebatidas,Grêmio,1
+192644,19,64124,Nicolas,1083,81374,Elias,Rebatidas,Grêmio,1
+192644,19,65851,Mathías Villasanti,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192644,19,65851,Mathías Villasanti,1083,81386,Bitello,Rebatidas,Grêmio,1
+192644,19,68534,Fabricio Bustos,1018,55189,Daniel,Rebatidas,Internacional,1
+192644,19,68534,Fabricio Bustos,1018,66245,Liziero,Rebatidas,Internacional,1
+192644,19,68534,Fabricio Bustos,1018,79099,Wesley,Rebatidas,Internacional,1
+192644,19,71596,Kaique Rocha,1018,23069,Edenílson,Rebatidas,Internacional,1
+192644,19,71596,Kaique Rocha,1018,37766,Víctor Cuesta,Rebatidas,Internacional,3
+192644,19,71596,Kaique Rocha,1018,55200,David,Rebatidas,Internacional,1
+192644,19,71596,Kaique Rocha,1018,66245,Liziero,Rebatidas,Internacional,1
+192644,19,71596,Kaique Rocha,1018,68534,Fabricio Bustos,Rebatidas,Internacional,1
+192644,19,72062,Bruno Méndez,1018,20341,Taison,Rebatidas,Internacional,1
+192644,19,75111,Mauricio,1018,20341,Taison,Rebatidas,Internacional,1
+192644,19,76440,Jaminton Campaz,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192644,19,79509,Johnny,1018,71596,Kaique Rocha,Rebatidas,Internacional,1
+192644,19,81374,Elias,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192644,19,81374,Elias,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192644,19,81374,Elias,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192644,19,81386,Bitello,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192644,19,81386,Bitello,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192644,19,86212,Paulo Victor,1018,66245,Liziero,Rebatidas,Internacional,1
+192644,19,86212,Paulo Victor,1018,71596,Kaique Rocha,Rebatidas,Internacional,1
+192644,22,26439,Pedro Geromel,1083,64124,Nicolas,Viradas de jogo,Grêmio,1
+192644,22,38028,Thiago Santos,1083,64124,Nicolas,Viradas de jogo,Grêmio,1
+192644,22,81374,Elias,1083,76440,Jaminton Campaz,Viradas de jogo,Grêmio,1
+192644,24,37766,Víctor Cuesta,1018,55189,Daniel,Interceptações,Internacional,1
+192644,24,57575,Rodrigues,1083,65851,Mathías Villasanti,Interceptações,Grêmio,1
+192644,24,64124,Nicolas,1083,10612,Diego Souza ,Interceptações,Grêmio,1
+192644,24,65851,Mathías Villasanti,1083,10612,Diego Souza ,Interceptações,Grêmio,1
+192644,24,66245,Liziero,1018,20341,Taison,Interceptações,Internacional,1
+192644,24,66245,Liziero,1018,79509,Johnny,Interceptações,Internacional,1
+192644,24,75111,Mauricio,1018,55200,David,Interceptações,Internacional,1
+192644,24,79509,Johnny,1018,79099,Wesley,Interceptações,Internacional,1
+192644,24,81386,Bitello,1083,39682,Lucas Silva,Interceptações,Grêmio,1
+192644,24,81386,Bitello,1083,57575,Rodrigues,Interceptações,Grêmio,1
+192644,24,81386,Bitello,1083,64124,Nicolas,Interceptações,Grêmio,1
+192645,1,21399,Marllon,1271,76559,Marcelinho,Lançamentos,Brasil de Pelotas,2
+192645,1,34843,Gabriel Araújo,1271,52161,Thiago dos Santos,Lançamentos,Brasil de Pelotas,1
+192645,1,42684,Karl,1271,80612,Paulo Victor,Lançamentos,Brasil de Pelotas,1
+192645,1,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,1
+192645,1,42863,Carlos Alexandre,1389,66553,Matheusinho,Lançamentos,Ypiranga,1
+192645,1,58315,Fernando Fonseca,1271,67326,Luizinho,Lançamentos,Brasil de Pelotas,1
+192645,1,60307,Bruno Bispo,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,1
+192645,1,66553,Matheusinho,1389,52436,Erick Samuel,Lançamentos,Ypiranga,1
+192645,1,69167,Marcelinho,1389,21817,Gedeílson,Lançamentos,Ypiranga,1
+192645,1,69167,Marcelinho,1389,52436,Erick Samuel,Lançamentos,Ypiranga,1
+192645,1,75352,Falcão,1389,21817,Gedeílson,Lançamentos,Ypiranga,1
+192645,1,80869,Edson,1389,46536,Jefferson,Lançamentos,Ypiranga,1
+192645,1,84186,Marcelo,1271,58315,Fernando Fonseca,Lançamentos,Brasil de Pelotas,1
+192645,1,84186,Marcelo,1271,80612,Paulo Victor,Lançamentos,Brasil de Pelotas,3
+192645,2,17606,Hugo Almeida,1389,21817,Gedeílson,Passes,Ypiranga,3
+192645,2,17606,Hugo Almeida,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192645,2,17606,Hugo Almeida,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192645,2,17606,Hugo Almeida,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192645,2,17606,Hugo Almeida,1389,66553,Matheusinho,Passes,Ypiranga,1
+192645,2,17606,Hugo Almeida,1389,69167,Marcelinho,Passes,Ypiranga,1
+192645,2,17606,Hugo Almeida,1389,71854,Lorran Rosendo,Passes,Ypiranga,2
+192645,2,17606,Hugo Almeida,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,21399,Marllon,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,21399,Marllon,1271,34843,Gabriel Araújo,Passes,Brasil de Pelotas,1
+192645,2,21399,Marllon,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,2
+192645,2,21399,Marllon,1271,42684,Karl,Passes,Brasil de Pelotas,1
+192645,2,21399,Marllon,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,1
+192645,2,21399,Marllon,1271,58224,Ruan Costa,Passes,Brasil de Pelotas,1
+192645,2,21399,Marllon,1271,67326,Luizinho,Passes,Brasil de Pelotas,4
+192645,2,21399,Marllon,1271,76559,Marcelinho,Passes,Brasil de Pelotas,3
+192645,2,21817,Gedeílson,1389,17606,Hugo Almeida,Passes,Ypiranga,3
+192645,2,21817,Gedeílson,1389,42863,Carlos Alexandre,Passes,Ypiranga,5
+192645,2,21817,Gedeílson,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192645,2,21817,Gedeílson,1389,66553,Matheusinho,Passes,Ypiranga,5
+192645,2,21817,Gedeílson,1389,69167,Marcelinho,Passes,Ypiranga,1
+192645,2,21817,Gedeílson,1389,75352,Falcão,Passes,Ypiranga,3
+192645,2,21817,Gedeílson,1389,80869,Edson,Passes,Ypiranga,1
+192645,2,24233,Bruno Paulo,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,24233,Bruno Paulo,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,1
+192645,2,24233,Bruno Paulo,1271,67326,Luizinho,Passes,Brasil de Pelotas,1
+192645,2,29774,Henrique Ávila,1271,21399,Marllon,Passes,Brasil de Pelotas,2
+192645,2,29774,Henrique Ávila,1271,24233,Bruno Paulo,Passes,Brasil de Pelotas,2
+192645,2,29774,Henrique Ávila,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,5
+192645,2,29774,Henrique Ávila,1271,42684,Karl,Passes,Brasil de Pelotas,1
+192645,2,29774,Henrique Ávila,1271,49643,Joanderson,Passes,Brasil de Pelotas,2
+192645,2,29774,Henrique Ávila,1271,58224,Ruan Costa,Passes,Brasil de Pelotas,1
+192645,2,29774,Henrique Ávila,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,1
+192645,2,29774,Henrique Ávila,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,3
+192645,2,29774,Henrique Ávila,1271,80612,Paulo Victor,Passes,Brasil de Pelotas,2
+192645,2,33808,John Lennon,1389,46536,Jefferson,Passes,Ypiranga,1
+192645,2,33808,John Lennon,1389,74527,Vitinho,Passes,Ypiranga,1
+192645,2,33808,John Lennon,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,34843,Gabriel Araújo,1271,21399,Marllon,Passes,Brasil de Pelotas,1
+192645,2,34843,Gabriel Araújo,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,3
+192645,2,34843,Gabriel Araújo,1271,42684,Karl,Passes,Brasil de Pelotas,2
+192645,2,34843,Gabriel Araújo,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,1
+192645,2,34843,Gabriel Araújo,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,1
+192645,2,34843,Gabriel Araújo,1271,80612,Paulo Victor,Passes,Brasil de Pelotas,1
+192645,2,39239,Luiz Meneses,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,2
+192645,2,39239,Luiz Meneses,1271,34843,Gabriel Araújo,Passes,Brasil de Pelotas,1
+192645,2,39239,Luiz Meneses,1271,42684,Karl,Passes,Brasil de Pelotas,2
+192645,2,39239,Luiz Meneses,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,2
+192645,2,39239,Luiz Meneses,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,1
+192645,2,39239,Luiz Meneses,1271,67326,Luizinho,Passes,Brasil de Pelotas,1
+192645,2,39239,Luiz Meneses,1271,80612,Paulo Victor,Passes,Brasil de Pelotas,1
+192645,2,42684,Karl,1271,21399,Marllon,Passes,Brasil de Pelotas,2
+192645,2,42684,Karl,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,42684,Karl,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,1
+192645,2,42684,Karl,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,1
+192645,2,42684,Karl,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,1
+192645,2,42684,Karl,1271,67326,Luizinho,Passes,Brasil de Pelotas,5
+192645,2,42684,Karl,1271,76559,Marcelinho,Passes,Brasil de Pelotas,2
+192645,2,42863,Carlos Alexandre,1389,21817,Gedeílson,Passes,Ypiranga,2
+192645,2,42863,Carlos Alexandre,1389,60307,Bruno Bispo,Passes,Ypiranga,11
+192645,2,42863,Carlos Alexandre,1389,66553,Matheusinho,Passes,Ypiranga,2
+192645,2,42863,Carlos Alexandre,1389,69167,Marcelinho,Passes,Ypiranga,1
+192645,2,42863,Carlos Alexandre,1389,71854,Lorran Rosendo,Passes,Ypiranga,8
+192645,2,42863,Carlos Alexandre,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192645,2,42863,Carlos Alexandre,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,42863,Carlos Alexandre,1389,80869,Edson,Passes,Ypiranga,9
+192645,2,46536,Jefferson,1389,33808,John Lennon,Passes,Ypiranga,1
+192645,2,46536,Jefferson,1389,74527,Vitinho,Passes,Ypiranga,1
+192645,2,49643,Joanderson,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,49643,Joanderson,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,1
+192645,2,52161,Thiago dos Santos,1271,21399,Marllon,Passes,Brasil de Pelotas,3
+192645,2,52161,Thiago dos Santos,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,52161,Thiago dos Santos,1271,42684,Karl,Passes,Brasil de Pelotas,4
+192645,2,52161,Thiago dos Santos,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,2
+192645,2,52161,Thiago dos Santos,1271,67326,Luizinho,Passes,Brasil de Pelotas,2
+192645,2,52161,Thiago dos Santos,1271,76559,Marcelinho,Passes,Brasil de Pelotas,2
+192645,2,52436,Erick Samuel,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192645,2,52436,Erick Samuel,1389,21817,Gedeílson,Passes,Ypiranga,1
+192645,2,52436,Erick Samuel,1389,66553,Matheusinho,Passes,Ypiranga,2
+192645,2,52436,Erick Samuel,1389,69167,Marcelinho,Passes,Ypiranga,2
+192645,2,52436,Erick Samuel,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192645,2,52436,Erick Samuel,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,58224,Ruan Costa,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,3
+192645,2,58224,Ruan Costa,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,2
+192645,2,58224,Ruan Costa,1271,76559,Marcelinho,Passes,Brasil de Pelotas,1
+192645,2,58315,Fernando Fonseca,1271,21399,Marllon,Passes,Brasil de Pelotas,4
+192645,2,58315,Fernando Fonseca,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,58315,Fernando Fonseca,1271,42684,Karl,Passes,Brasil de Pelotas,2
+192645,2,58315,Fernando Fonseca,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,1
+192645,2,58315,Fernando Fonseca,1271,58224,Ruan Costa,Passes,Brasil de Pelotas,1
+192645,2,58315,Fernando Fonseca,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,5
+192645,2,58315,Fernando Fonseca,1271,67326,Luizinho,Passes,Brasil de Pelotas,1
+192645,2,58315,Fernando Fonseca,1271,76559,Marcelinho,Passes,Brasil de Pelotas,4
+192645,2,58315,Fernando Fonseca,1271,84186,Marcelo,Passes,Brasil de Pelotas,1
+192645,2,60307,Bruno Bispo,1389,17606,Hugo Almeida,Passes,Ypiranga,2
+192645,2,60307,Bruno Bispo,1389,21817,Gedeílson,Passes,Ypiranga,1
+192645,2,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Passes,Ypiranga,5
+192645,2,60307,Bruno Bispo,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192645,2,60307,Bruno Bispo,1389,66553,Matheusinho,Passes,Ypiranga,3
+192645,2,60307,Bruno Bispo,1389,69167,Marcelinho,Passes,Ypiranga,5
+192645,2,60307,Bruno Bispo,1389,71854,Lorran Rosendo,Passes,Ypiranga,5
+192645,2,60307,Bruno Bispo,1389,74969,Diego Porfirio,Passes,Ypiranga,6
+192645,2,60307,Bruno Bispo,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,60307,Bruno Bispo,1389,80869,Edson,Passes,Ypiranga,10
+192645,2,65276,Helerson Mateus,1271,21399,Marllon,Passes,Brasil de Pelotas,1
+192645,2,65276,Helerson Mateus,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,8
+192645,2,65276,Helerson Mateus,1271,34843,Gabriel Araújo,Passes,Brasil de Pelotas,2
+192645,2,65276,Helerson Mateus,1271,49643,Joanderson,Passes,Brasil de Pelotas,1
+192645,2,65276,Helerson Mateus,1271,58224,Ruan Costa,Passes,Brasil de Pelotas,1
+192645,2,65276,Helerson Mateus,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,3
+192645,2,65276,Helerson Mateus,1271,84186,Marcelo,Passes,Brasil de Pelotas,2
+192645,2,66553,Matheusinho,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,21817,Gedeílson,Passes,Ypiranga,6
+192645,2,66553,Matheusinho,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,69167,Marcelinho,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,71854,Lorran Rosendo,Passes,Ypiranga,3
+192645,2,66553,Matheusinho,1389,75352,Falcão,Passes,Ypiranga,1
+192645,2,66553,Matheusinho,1389,80869,Edson,Passes,Ypiranga,1
+192645,2,67326,Luizinho,1271,21399,Marllon,Passes,Brasil de Pelotas,2
+192645,2,67326,Luizinho,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,2
+192645,2,67326,Luizinho,1271,58224,Ruan Costa,Passes,Brasil de Pelotas,1
+192645,2,67326,Luizinho,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,1
+192645,2,67326,Luizinho,1271,76559,Marcelinho,Passes,Brasil de Pelotas,8
+192645,2,69167,Marcelinho,1389,42863,Carlos Alexandre,Passes,Ypiranga,2
+192645,2,69167,Marcelinho,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192645,2,69167,Marcelinho,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192645,2,69167,Marcelinho,1389,66553,Matheusinho,Passes,Ypiranga,2
+192645,2,69167,Marcelinho,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192645,2,69167,Marcelinho,1389,74969,Diego Porfirio,Passes,Ypiranga,8
+192645,2,69167,Marcelinho,1389,75352,Falcão,Passes,Ypiranga,2
+192645,2,71854,Lorran Rosendo,1389,17606,Hugo Almeida,Passes,Ypiranga,3
+192645,2,71854,Lorran Rosendo,1389,42863,Carlos Alexandre,Passes,Ypiranga,8
+192645,2,71854,Lorran Rosendo,1389,46536,Jefferson,Passes,Ypiranga,1
+192645,2,71854,Lorran Rosendo,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192645,2,71854,Lorran Rosendo,1389,60307,Bruno Bispo,Passes,Ypiranga,5
+192645,2,71854,Lorran Rosendo,1389,66553,Matheusinho,Passes,Ypiranga,5
+192645,2,71854,Lorran Rosendo,1389,69167,Marcelinho,Passes,Ypiranga,4
+192645,2,71854,Lorran Rosendo,1389,74527,Vitinho,Passes,Ypiranga,1
+192645,2,71854,Lorran Rosendo,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192645,2,74527,Vitinho,1389,33808,John Lennon,Passes,Ypiranga,1
+192645,2,74527,Vitinho,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192645,2,74527,Vitinho,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192645,2,74969,Diego Porfirio,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192645,2,74969,Diego Porfirio,1389,52436,Erick Samuel,Passes,Ypiranga,3
+192645,2,74969,Diego Porfirio,1389,60307,Bruno Bispo,Passes,Ypiranga,5
+192645,2,74969,Diego Porfirio,1389,66553,Matheusinho,Passes,Ypiranga,1
+192645,2,74969,Diego Porfirio,1389,69167,Marcelinho,Passes,Ypiranga,6
+192645,2,74969,Diego Porfirio,1389,71854,Lorran Rosendo,Passes,Ypiranga,3
+192645,2,74969,Diego Porfirio,1389,74527,Vitinho,Passes,Ypiranga,3
+192645,2,74969,Diego Porfirio,1389,75352,Falcão,Passes,Ypiranga,3
+192645,2,74969,Diego Porfirio,1389,80869,Edson,Passes,Ypiranga,3
+192645,2,75352,Falcão,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192645,2,75352,Falcão,1389,21817,Gedeílson,Passes,Ypiranga,4
+192645,2,75352,Falcão,1389,33808,John Lennon,Passes,Ypiranga,1
+192645,2,75352,Falcão,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192645,2,75352,Falcão,1389,66553,Matheusinho,Passes,Ypiranga,3
+192645,2,75352,Falcão,1389,69167,Marcelinho,Passes,Ypiranga,1
+192645,2,75352,Falcão,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192645,2,75352,Falcão,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192645,2,75352,Falcão,1389,80869,Edson,Passes,Ypiranga,1
+192645,2,76559,Marcelinho,1271,21399,Marllon,Passes,Brasil de Pelotas,3
+192645,2,76559,Marcelinho,1271,39239,Luiz Meneses,Passes,Brasil de Pelotas,5
+192645,2,76559,Marcelinho,1271,42684,Karl,Passes,Brasil de Pelotas,5
+192645,2,76559,Marcelinho,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,3
+192645,2,76559,Marcelinho,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,3
+192645,2,76559,Marcelinho,1271,67326,Luizinho,Passes,Brasil de Pelotas,8
+192645,2,80544,Léo Ferraz,1271,67326,Luizinho,Passes,Brasil de Pelotas,1
+192645,2,80612,Paulo Victor,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,2
+192645,2,80612,Paulo Victor,1271,34843,Gabriel Araújo,Passes,Brasil de Pelotas,4
+192645,2,80612,Paulo Victor,1271,52161,Thiago dos Santos,Passes,Brasil de Pelotas,3
+192645,2,80869,Edson,1389,42863,Carlos Alexandre,Passes,Ypiranga,18
+192645,2,80869,Edson,1389,60307,Bruno Bispo,Passes,Ypiranga,12
+192645,2,80869,Edson,1389,69167,Marcelinho,Passes,Ypiranga,2
+192645,2,80869,Edson,1389,71854,Lorran Rosendo,Passes,Ypiranga,3
+192645,2,80869,Edson,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192645,2,84186,Marcelo,1271,29774,Henrique Ávila,Passes,Brasil de Pelotas,1
+192645,2,84186,Marcelo,1271,42684,Karl,Passes,Brasil de Pelotas,2
+192645,2,84186,Marcelo,1271,58315,Fernando Fonseca,Passes,Brasil de Pelotas,3
+192645,2,84186,Marcelo,1271,65276,Helerson Mateus,Passes,Brasil de Pelotas,3
+192645,4,80612,Paulo Victor,1271,65276,Helerson Mateus,Dribles,Brasil de Pelotas,1
+192645,5,21399,Marllon,1271,58224,Ruan Costa,Desarmes,Brasil de Pelotas,1
+192645,5,24233,Bruno Paulo,1271,58315,Fernando Fonseca,Desarmes,Brasil de Pelotas,1
+192645,5,34843,Gabriel Araújo,1271,84186,Marcelo,Desarmes,Brasil de Pelotas,1
+192645,5,39239,Luiz Meneses,1271,42684,Karl,Desarmes,Brasil de Pelotas,1
+192645,5,42684,Karl,1271,76559,Marcelinho,Desarmes,Brasil de Pelotas,1
+192645,5,58315,Fernando Fonseca,1271,39239,Luiz Meneses,Desarmes,Brasil de Pelotas,1
+192645,5,58315,Fernando Fonseca,1271,58224,Ruan Costa,Desarmes,Brasil de Pelotas,1
+192645,5,67326,Luizinho,1271,84186,Marcelo,Desarmes,Brasil de Pelotas,1
+192645,5,69167,Marcelinho,1389,74969,Diego Porfirio,Desarmes,Ypiranga,1
+192645,5,76559,Marcelinho,1271,84186,Marcelo,Desarmes,Brasil de Pelotas,1
+192645,5,80612,Paulo Victor,1271,58315,Fernando Fonseca,Desarmes,Brasil de Pelotas,1
+192645,12,75352,Falcão,1389,52436,Erick Samuel,Perda da posse de bola,Ypiranga,1
+192645,14,21817,Gedeílson,1389,17606,Hugo Almeida,Cruzamentos,Ypiranga,2
+192645,14,52436,Erick Samuel,1389,17606,Hugo Almeida,Cruzamentos,Ypiranga,1
+192645,14,66553,Matheusinho,1389,17606,Hugo Almeida,Cruzamentos,Ypiranga,1
+192645,14,67326,Luizinho,1271,52161,Thiago dos Santos,Cruzamentos,Brasil de Pelotas,1
+192645,14,69167,Marcelinho,1389,60307,Bruno Bispo,Cruzamentos,Ypiranga,1
+192645,14,76559,Marcelinho,1271,24233,Bruno Paulo,Cruzamentos,Brasil de Pelotas,1
+192645,14,76559,Marcelinho,1271,49643,Joanderson,Cruzamentos,Brasil de Pelotas,1
+192645,19,21817,Gedeílson,1389,17606,Hugo Almeida,Rebatidas,Ypiranga,1
+192645,19,21817,Gedeílson,1389,33808,John Lennon,Rebatidas,Ypiranga,1
+192645,19,29774,Henrique Ávila,1271,80612,Paulo Victor,Rebatidas,Brasil de Pelotas,2
+192645,19,34843,Gabriel Araújo,1271,21399,Marllon,Rebatidas,Brasil de Pelotas,1
+192645,19,34843,Gabriel Araújo,1271,52161,Thiago dos Santos,Rebatidas,Brasil de Pelotas,1
+192645,19,34843,Gabriel Araújo,1271,58315,Fernando Fonseca,Rebatidas,Brasil de Pelotas,1
+192645,19,34843,Gabriel Araújo,1271,80612,Paulo Victor,Rebatidas,Brasil de Pelotas,1
+192645,19,34843,Gabriel Araújo,1271,84186,Marcelo,Rebatidas,Brasil de Pelotas,1
+192645,19,39239,Luiz Meneses,1271,29774,Henrique Ávila,Rebatidas,Brasil de Pelotas,1
+192645,19,42684,Karl,1271,34843,Gabriel Araújo,Rebatidas,Brasil de Pelotas,2
+192645,19,42684,Karl,1271,76559,Marcelinho,Rebatidas,Brasil de Pelotas,1
+192645,19,42863,Carlos Alexandre,1389,21817,Gedeílson,Rebatidas,Ypiranga,2
+192645,19,42863,Carlos Alexandre,1389,52436,Erick Samuel,Rebatidas,Ypiranga,1
+192645,19,42863,Carlos Alexandre,1389,69167,Marcelinho,Rebatidas,Ypiranga,1
+192645,19,52161,Thiago dos Santos,1271,76559,Marcelinho,Rebatidas,Brasil de Pelotas,1
+192645,19,52436,Erick Samuel,1389,60307,Bruno Bispo,Rebatidas,Ypiranga,1
+192645,19,58224,Ruan Costa,1271,76559,Marcelinho,Rebatidas,Brasil de Pelotas,1
+192645,19,58315,Fernando Fonseca,1271,42684,Karl,Rebatidas,Brasil de Pelotas,1
+192645,19,58315,Fernando Fonseca,1271,76559,Marcelinho,Rebatidas,Brasil de Pelotas,1
+192645,19,58315,Fernando Fonseca,1271,84186,Marcelo,Rebatidas,Brasil de Pelotas,2
+192645,19,60307,Bruno Bispo,1389,21817,Gedeílson,Rebatidas,Ypiranga,1
+192645,19,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Rebatidas,Ypiranga,1
+192645,19,60307,Bruno Bispo,1389,74969,Diego Porfirio,Rebatidas,Ypiranga,1
+192645,19,60307,Bruno Bispo,1389,75352,Falcão,Rebatidas,Ypiranga,2
+192645,19,60307,Bruno Bispo,1389,80869,Edson,Rebatidas,Ypiranga,2
+192645,19,65276,Helerson Mateus,1271,24233,Bruno Paulo,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,29774,Henrique Ávila,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,34843,Gabriel Araújo,Rebatidas,Brasil de Pelotas,3
+192645,19,65276,Helerson Mateus,1271,39239,Luiz Meneses,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,52161,Thiago dos Santos,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,58224,Ruan Costa,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,67326,Luizinho,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,76559,Marcelinho,Rebatidas,Brasil de Pelotas,1
+192645,19,65276,Helerson Mateus,1271,84186,Marcelo,Rebatidas,Brasil de Pelotas,2
+192645,19,69167,Marcelinho,1389,80869,Edson,Rebatidas,Ypiranga,1
+192645,19,69697,Marcão,1389,80869,Edson,Rebatidas,Ypiranga,1
+192645,19,71854,Lorran Rosendo,1389,21817,Gedeílson,Rebatidas,Ypiranga,1
+192645,19,71854,Lorran Rosendo,1389,74969,Diego Porfirio,Rebatidas,Ypiranga,1
+192645,19,74969,Diego Porfirio,1389,66553,Matheusinho,Rebatidas,Ypiranga,1
+192645,19,74969,Diego Porfirio,1389,71854,Lorran Rosendo,Rebatidas,Ypiranga,1
+192645,19,74969,Diego Porfirio,1389,80869,Edson,Rebatidas,Ypiranga,1
+192645,19,75352,Falcão,1389,52436,Erick Samuel,Rebatidas,Ypiranga,1
+192645,19,75352,Falcão,1389,69167,Marcelinho,Rebatidas,Ypiranga,1
+192645,19,76559,Marcelinho,1271,65276,Helerson Mateus,Rebatidas,Brasil de Pelotas,1
+192645,19,76559,Marcelinho,1271,67326,Luizinho,Rebatidas,Brasil de Pelotas,2
+192645,19,76559,Marcelinho,1271,84186,Marcelo,Rebatidas,Brasil de Pelotas,1
+192645,19,84186,Marcelo,1271,42684,Karl,Rebatidas,Brasil de Pelotas,1
+192645,19,84186,Marcelo,1271,65276,Helerson Mateus,Rebatidas,Brasil de Pelotas,1
+192645,19,84186,Marcelo,1271,67326,Luizinho,Rebatidas,Brasil de Pelotas,1
+192645,22,21399,Marllon,1271,29774,Henrique Ávila,Viradas de jogo,Brasil de Pelotas,1
+192645,22,34843,Gabriel Araújo,1271,67326,Luizinho,Viradas de jogo,Brasil de Pelotas,1
+192645,22,42684,Karl,1271,76559,Marcelinho,Viradas de jogo,Brasil de Pelotas,1
+192645,22,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Viradas de jogo,Ypiranga,1
+192645,24,67326,Luizinho,1271,21399,Marllon,Interceptações,Brasil de Pelotas,1
+192645,24,80612,Paulo Victor,1271,76559,Marcelinho,Interceptações,Brasil de Pelotas,1
+192646,1,23069,Edenílson,1018,79099,Wesley,Lançamentos,Internacional,2
+192646,1,26439,Pedro Geromel,1083,10612,Diego Souza ,Lançamentos,Grêmio,1
+192646,1,38028,Thiago Santos,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,1
+192646,1,38028,Thiago Santos,1083,81374,Elias,Lançamentos,Grêmio,1
+192646,1,39299,Gabriel,1018,75111,Mauricio,Lançamentos,Internacional,1
+192646,1,39682,Lucas Silva,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,3
+192646,1,57575,Rodrigues,1083,10612,Diego Souza ,Lançamentos,Grêmio,1
+192646,1,64124,Nicolas,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,2
+192646,1,68534,Fabricio Bustos,1018,20341,Taison,Lançamentos,Internacional,1
+192646,1,68534,Fabricio Bustos,1018,55200,David,Lançamentos,Internacional,1
+192646,1,68534,Fabricio Bustos,1018,74848,Caio,Lançamentos,Internacional,1
+192646,1,68534,Fabricio Bustos,1018,79099,Wesley,Lançamentos,Internacional,3
+192646,1,71398,Brenno,1083,10612,Diego Souza ,Lançamentos,Grêmio,4
+192646,1,76440,Jaminton Campaz,1083,81374,Elias,Lançamentos,Grêmio,2
+192646,1,79099,Wesley,1018,55200,David,Lançamentos,Internacional,1
+192646,2,10612,Diego Souza ,1083,38028,Thiago Santos,Passes,Grêmio,1
+192646,2,10612,Diego Souza ,1083,39682,Lucas Silva,Passes,Grêmio,1
+192646,2,10612,Diego Souza ,1083,64124,Nicolas,Passes,Grêmio,1
+192646,2,10612,Diego Souza ,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192646,2,10612,Diego Souza ,1083,76440,Jaminton Campaz,Passes,Grêmio,3
+192646,2,10612,Diego Souza ,1083,81386,Bitello,Passes,Grêmio,1
+192646,2,13936,Bruno Alves,1083,64124,Nicolas,Passes,Grêmio,2
+192646,2,13936,Bruno Alves,1083,81386,Bitello,Passes,Grêmio,1
+192646,2,20341,Taison,1018,23069,Edenílson,Passes,Internacional,6
+192646,2,20341,Taison,1018,39299,Gabriel,Passes,Internacional,4
+192646,2,20341,Taison,1018,55200,David,Passes,Internacional,3
+192646,2,20341,Taison,1018,66245,Liziero,Passes,Internacional,15
+192646,2,20341,Taison,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192646,2,20341,Taison,1018,71596,Kaique Rocha,Passes,Internacional,2
+192646,2,20341,Taison,1018,72062,Bruno Méndez,Passes,Internacional,4
+192646,2,20341,Taison,1018,74848,Caio,Passes,Internacional,2
+192646,2,20341,Taison,1018,75111,Mauricio,Passes,Internacional,6
+192646,2,20341,Taison,1018,79099,Wesley,Passes,Internacional,1
+192646,2,23069,Edenílson,1018,20341,Taison,Passes,Internacional,6
+192646,2,23069,Edenílson,1018,39299,Gabriel,Passes,Internacional,18
+192646,2,23069,Edenílson,1018,55200,David,Passes,Internacional,2
+192646,2,23069,Edenílson,1018,66245,Liziero,Passes,Internacional,4
+192646,2,23069,Edenílson,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192646,2,23069,Edenílson,1018,71596,Kaique Rocha,Passes,Internacional,5
+192646,2,23069,Edenílson,1018,72062,Bruno Méndez,Passes,Internacional,3
+192646,2,23069,Edenílson,1018,74848,Caio,Passes,Internacional,3
+192646,2,23069,Edenílson,1018,75111,Mauricio,Passes,Internacional,3
+192646,2,23069,Edenílson,1018,79099,Wesley,Passes,Internacional,1
+192646,2,23069,Edenílson,1018,79509,Johnny,Passes,Internacional,1
+192646,2,26439,Pedro Geromel,1083,13936,Bruno Alves,Passes,Grêmio,2
+192646,2,26439,Pedro Geromel,1083,57575,Rodrigues,Passes,Grêmio,2
+192646,2,26439,Pedro Geromel,1083,71398,Brenno,Passes,Grêmio,3
+192646,2,26439,Pedro Geromel,1083,81386,Bitello,Passes,Grêmio,1
+192646,2,26439,Pedro Geromel,1083,86279,Mateus Sarará,Passes,Grêmio,1
+192646,2,38028,Thiago Santos,1083,13936,Bruno Alves,Passes,Grêmio,1
+192646,2,38028,Thiago Santos,1083,26439,Pedro Geromel,Passes,Grêmio,2
+192646,2,38028,Thiago Santos,1083,57575,Rodrigues,Passes,Grêmio,1
+192646,2,38028,Thiago Santos,1083,72936,Ferreira,Passes,Grêmio,1
+192646,2,38028,Thiago Santos,1083,81386,Bitello,Passes,Grêmio,1
+192646,2,39299,Gabriel,1018,20341,Taison,Passes,Internacional,9
+192646,2,39299,Gabriel,1018,23069,Edenílson,Passes,Internacional,13
+192646,2,39299,Gabriel,1018,55189,Daniel,Passes,Internacional,1
+192646,2,39299,Gabriel,1018,55200,David,Passes,Internacional,6
+192646,2,39299,Gabriel,1018,66245,Liziero,Passes,Internacional,16
+192646,2,39299,Gabriel,1018,68534,Fabricio Bustos,Passes,Internacional,16
+192646,2,39299,Gabriel,1018,71596,Kaique Rocha,Passes,Internacional,4
+192646,2,39299,Gabriel,1018,72062,Bruno Méndez,Passes,Internacional,13
+192646,2,39299,Gabriel,1018,74848,Caio,Passes,Internacional,3
+192646,2,39299,Gabriel,1018,75111,Mauricio,Passes,Internacional,7
+192646,2,39299,Gabriel,1018,79099,Wesley,Passes,Internacional,4
+192646,2,39682,Lucas Silva,1083,10612,Diego Souza ,Passes,Grêmio,1
+192646,2,39682,Lucas Silva,1083,26439,Pedro Geromel,Passes,Grêmio,3
+192646,2,39682,Lucas Silva,1083,38028,Thiago Santos,Passes,Grêmio,3
+192646,2,39682,Lucas Silva,1083,72936,Ferreira,Passes,Grêmio,1
+192646,2,39682,Lucas Silva,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192646,2,39682,Lucas Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,6
+192646,2,39682,Lucas Silva,1083,81386,Bitello,Passes,Grêmio,2
+192646,2,39682,Lucas Silva,1083,86279,Mateus Sarará,Passes,Grêmio,1
+192646,2,55189,Daniel,1018,23069,Edenílson,Passes,Internacional,1
+192646,2,55189,Daniel,1018,39299,Gabriel,Passes,Internacional,2
+192646,2,55189,Daniel,1018,66245,Liziero,Passes,Internacional,2
+192646,2,55189,Daniel,1018,71596,Kaique Rocha,Passes,Internacional,2
+192646,2,55189,Daniel,1018,72062,Bruno Méndez,Passes,Internacional,7
+192646,2,55189,Daniel,1018,79099,Wesley,Passes,Internacional,1
+192646,2,55200,David,1018,20341,Taison,Passes,Internacional,2
+192646,2,55200,David,1018,23069,Edenílson,Passes,Internacional,1
+192646,2,55200,David,1018,39299,Gabriel,Passes,Internacional,3
+192646,2,55200,David,1018,66245,Liziero,Passes,Internacional,3
+192646,2,55200,David,1018,71596,Kaique Rocha,Passes,Internacional,1
+192646,2,55200,David,1018,75111,Mauricio,Passes,Internacional,4
+192646,2,55200,David,1018,79099,Wesley,Passes,Internacional,1
+192646,2,57575,Rodrigues,1083,10612,Diego Souza ,Passes,Grêmio,2
+192646,2,57575,Rodrigues,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192646,2,57575,Rodrigues,1083,39682,Lucas Silva,Passes,Grêmio,4
+192646,2,57575,Rodrigues,1083,76440,Jaminton Campaz,Passes,Grêmio,2
+192646,2,57575,Rodrigues,1083,81374,Elias,Passes,Grêmio,1
+192646,2,57575,Rodrigues,1083,81386,Bitello,Passes,Grêmio,2
+192646,2,64124,Nicolas,1083,39682,Lucas Silva,Passes,Grêmio,5
+192646,2,64124,Nicolas,1083,57575,Rodrigues,Passes,Grêmio,1
+192646,2,64124,Nicolas,1083,72936,Ferreira,Passes,Grêmio,2
+192646,2,64124,Nicolas,1083,75260,Gabriel Silva,Passes,Grêmio,3
+192646,2,64124,Nicolas,1083,81374,Elias,Passes,Grêmio,3
+192646,2,64124,Nicolas,1083,81386,Bitello,Passes,Grêmio,8
+192646,2,66245,Liziero,1018,20341,Taison,Passes,Internacional,12
+192646,2,66245,Liziero,1018,23069,Edenílson,Passes,Internacional,16
+192646,2,66245,Liziero,1018,39299,Gabriel,Passes,Internacional,18
+192646,2,66245,Liziero,1018,55200,David,Passes,Internacional,2
+192646,2,66245,Liziero,1018,68534,Fabricio Bustos,Passes,Internacional,1
+192646,2,66245,Liziero,1018,71596,Kaique Rocha,Passes,Internacional,11
+192646,2,66245,Liziero,1018,72062,Bruno Méndez,Passes,Internacional,3
+192646,2,66245,Liziero,1018,74848,Caio,Passes,Internacional,4
+192646,2,66245,Liziero,1018,75111,Mauricio,Passes,Internacional,11
+192646,2,66245,Liziero,1018,79099,Wesley,Passes,Internacional,3
+192646,2,66396,Janderson,1083,39682,Lucas Silva,Passes,Grêmio,1
+192646,2,68534,Fabricio Bustos,1018,20341,Taison,Passes,Internacional,1
+192646,2,68534,Fabricio Bustos,1018,23069,Edenílson,Passes,Internacional,5
+192646,2,68534,Fabricio Bustos,1018,39299,Gabriel,Passes,Internacional,13
+192646,2,68534,Fabricio Bustos,1018,55200,David,Passes,Internacional,2
+192646,2,68534,Fabricio Bustos,1018,66245,Liziero,Passes,Internacional,1
+192646,2,68534,Fabricio Bustos,1018,71596,Kaique Rocha,Passes,Internacional,1
+192646,2,68534,Fabricio Bustos,1018,72062,Bruno Méndez,Passes,Internacional,7
+192646,2,68534,Fabricio Bustos,1018,74848,Caio,Passes,Internacional,5
+192646,2,68534,Fabricio Bustos,1018,75111,Mauricio,Passes,Internacional,7
+192646,2,68534,Fabricio Bustos,1018,79099,Wesley,Passes,Internacional,1
+192646,2,71398,Brenno,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192646,2,71398,Brenno,1083,64124,Nicolas,Passes,Grêmio,3
+192646,2,71398,Brenno,1083,72936,Ferreira,Passes,Grêmio,1
+192646,2,71596,Kaique Rocha,1018,20341,Taison,Passes,Internacional,1
+192646,2,71596,Kaique Rocha,1018,23069,Edenílson,Passes,Internacional,7
+192646,2,71596,Kaique Rocha,1018,39299,Gabriel,Passes,Internacional,7
+192646,2,71596,Kaique Rocha,1018,55189,Daniel,Passes,Internacional,3
+192646,2,71596,Kaique Rocha,1018,55200,David,Passes,Internacional,2
+192646,2,71596,Kaique Rocha,1018,66245,Liziero,Passes,Internacional,15
+192646,2,71596,Kaique Rocha,1018,72062,Bruno Méndez,Passes,Internacional,15
+192646,2,71596,Kaique Rocha,1018,75111,Mauricio,Passes,Internacional,1
+192646,2,71596,Kaique Rocha,1018,79509,Johnny,Passes,Internacional,1
+192646,2,72062,Bruno Méndez,1018,20341,Taison,Passes,Internacional,4
+192646,2,72062,Bruno Méndez,1018,23069,Edenílson,Passes,Internacional,3
+192646,2,72062,Bruno Méndez,1018,39299,Gabriel,Passes,Internacional,10
+192646,2,72062,Bruno Méndez,1018,55189,Daniel,Passes,Internacional,1
+192646,2,72062,Bruno Méndez,1018,66245,Liziero,Passes,Internacional,13
+192646,2,72062,Bruno Méndez,1018,68534,Fabricio Bustos,Passes,Internacional,13
+192646,2,72062,Bruno Méndez,1018,71596,Kaique Rocha,Passes,Internacional,13
+192646,2,72062,Bruno Méndez,1018,75111,Mauricio,Passes,Internacional,4
+192646,2,72936,Ferreira,1083,64124,Nicolas,Passes,Grêmio,4
+192646,2,74848,Caio,1018,20341,Taison,Passes,Internacional,1
+192646,2,74848,Caio,1018,23069,Edenílson,Passes,Internacional,1
+192646,2,74848,Caio,1018,39299,Gabriel,Passes,Internacional,4
+192646,2,74848,Caio,1018,66245,Liziero,Passes,Internacional,1
+192646,2,74848,Caio,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192646,2,74848,Caio,1018,75111,Mauricio,Passes,Internacional,1
+192646,2,75111,Mauricio,1018,20341,Taison,Passes,Internacional,8
+192646,2,75111,Mauricio,1018,23069,Edenílson,Passes,Internacional,4
+192646,2,75111,Mauricio,1018,39299,Gabriel,Passes,Internacional,9
+192646,2,75111,Mauricio,1018,55200,David,Passes,Internacional,2
+192646,2,75111,Mauricio,1018,66245,Liziero,Passes,Internacional,9
+192646,2,75111,Mauricio,1018,68534,Fabricio Bustos,Passes,Internacional,8
+192646,2,75111,Mauricio,1018,71596,Kaique Rocha,Passes,Internacional,1
+192646,2,75111,Mauricio,1018,72062,Bruno Méndez,Passes,Internacional,2
+192646,2,75111,Mauricio,1018,74848,Caio,Passes,Internacional,1
+192646,2,75111,Mauricio,1018,79099,Wesley,Passes,Internacional,1
+192646,2,75260,Gabriel Silva,1083,39682,Lucas Silva,Passes,Grêmio,1
+192646,2,75260,Gabriel Silva,1083,72936,Ferreira,Passes,Grêmio,1
+192646,2,75260,Gabriel Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192646,2,76440,Jaminton Campaz,1083,10612,Diego Souza ,Passes,Grêmio,3
+192646,2,76440,Jaminton Campaz,1083,39682,Lucas Silva,Passes,Grêmio,4
+192646,2,76440,Jaminton Campaz,1083,57575,Rodrigues,Passes,Grêmio,3
+192646,2,76440,Jaminton Campaz,1083,81386,Bitello,Passes,Grêmio,2
+192646,2,79099,Wesley,1018,20341,Taison,Passes,Internacional,3
+192646,2,79099,Wesley,1018,23069,Edenílson,Passes,Internacional,3
+192646,2,79099,Wesley,1018,39299,Gabriel,Passes,Internacional,1
+192646,2,79099,Wesley,1018,55200,David,Passes,Internacional,1
+192646,2,79099,Wesley,1018,66245,Liziero,Passes,Internacional,1
+192646,2,79099,Wesley,1018,68534,Fabricio Bustos,Passes,Internacional,3
+192646,2,79099,Wesley,1018,74848,Caio,Passes,Internacional,4
+192646,2,79099,Wesley,1018,75111,Mauricio,Passes,Internacional,2
+192646,2,79099,Wesley,1018,85885,Matheus Cadorini,Passes,Internacional,1
+192646,2,79509,Johnny,1018,74848,Caio,Passes,Internacional,1
+192646,2,79509,Johnny,1018,82681,Gustavo Maia,Passes,Internacional,1
+192646,2,81374,Elias,1083,64124,Nicolas,Passes,Grêmio,1
+192646,2,81374,Elias,1083,81386,Bitello,Passes,Grêmio,2
+192646,2,81386,Bitello,1083,10612,Diego Souza ,Passes,Grêmio,3
+192646,2,81386,Bitello,1083,13936,Bruno Alves,Passes,Grêmio,1
+192646,2,81386,Bitello,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192646,2,81386,Bitello,1083,38028,Thiago Santos,Passes,Grêmio,2
+192646,2,81386,Bitello,1083,39682,Lucas Silva,Passes,Grêmio,2
+192646,2,81386,Bitello,1083,64124,Nicolas,Passes,Grêmio,5
+192646,2,81386,Bitello,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192646,2,81386,Bitello,1083,76440,Jaminton Campaz,Passes,Grêmio,4
+192646,2,81386,Bitello,1083,81374,Elias,Passes,Grêmio,1
+192646,2,85885,Matheus Cadorini,1018,71596,Kaique Rocha,Passes,Internacional,1
+192646,2,85885,Matheus Cadorini,1018,79509,Johnny,Passes,Internacional,1
+192646,2,86279,Mateus Sarará,1083,10612,Diego Souza ,Passes,Grêmio,2
+192646,2,86279,Mateus Sarará,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192646,2,86279,Mateus Sarará,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192646,5,20341,Taison,1018,74848,Caio,Desarmes,Internacional,1
+192646,5,26439,Pedro Geromel,1083,39682,Lucas Silva,Desarmes,Grêmio,1
+192646,5,66245,Liziero,1018,55200,David,Desarmes,Internacional,1
+192646,5,68534,Fabricio Bustos,1018,79099,Wesley,Desarmes,Internacional,1
+192646,5,72062,Bruno Méndez,1018,23069,Edenílson,Desarmes,Internacional,1
+192646,5,72062,Bruno Méndez,1018,39299,Gabriel,Desarmes,Internacional,1
+192646,5,72062,Bruno Méndez,1018,79099,Wesley,Desarmes,Internacional,1
+192646,5,74848,Caio,1018,20341,Taison,Desarmes,Internacional,1
+192646,5,74848,Caio,1018,66245,Liziero,Desarmes,Internacional,1
+192646,5,81374,Elias,1083,13936,Bruno Alves,Desarmes,Grêmio,1
+192646,5,81386,Bitello,1083,57575,Rodrigues,Desarmes,Grêmio,1
+192646,14,23069,Edenílson,1018,72062,Bruno Méndez,Cruzamentos,Internacional,2
+192646,14,64124,Nicolas,1083,10612,Diego Souza ,Cruzamentos,Grêmio,1
+192646,14,64124,Nicolas,1083,72936,Ferreira,Cruzamentos,Grêmio,1
+192646,14,66245,Liziero,1018,72062,Bruno Méndez,Cruzamentos,Internacional,1
+192646,14,68534,Fabricio Bustos,1018,79099,Wesley,Cruzamentos,Internacional,1
+192646,14,74848,Caio,1018,20341,Taison,Cruzamentos,Internacional,1
+192646,14,75111,Mauricio,1018,55200,David,Cruzamentos,Internacional,1
+192646,14,75111,Mauricio,1018,74848,Caio,Cruzamentos,Internacional,1
+192646,14,76440,Jaminton Campaz,1083,13936,Bruno Alves,Cruzamentos,Grêmio,1
+192646,19,13936,Bruno Alves,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192646,19,13936,Bruno Alves,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192646,19,13936,Bruno Alves,1083,71398,Brenno,Rebatidas,Grêmio,1
+192646,19,13936,Bruno Alves,1083,72936,Ferreira,Rebatidas,Grêmio,1
+192646,19,13936,Bruno Alves,1083,81386,Bitello,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,38028,Thiago Santos,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,71398,Brenno,Rebatidas,Grêmio,3
+192646,19,26439,Pedro Geromel,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,81374,Elias,Rebatidas,Grêmio,1
+192646,19,26439,Pedro Geromel,1083,86279,Mateus Sarará,Rebatidas,Grêmio,1
+192646,19,38028,Thiago Santos,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192646,19,38028,Thiago Santos,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192646,19,38028,Thiago Santos,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192646,19,38028,Thiago Santos,1083,64124,Nicolas,Rebatidas,Grêmio,1
+192646,19,38028,Thiago Santos,1083,71398,Brenno,Rebatidas,Grêmio,2
+192646,19,38028,Thiago Santos,1083,81386,Bitello,Rebatidas,Grêmio,1
+192646,19,39299,Gabriel,1018,20341,Taison,Rebatidas,Internacional,1
+192646,19,39299,Gabriel,1018,55189,Daniel,Rebatidas,Internacional,1
+192646,19,39299,Gabriel,1018,66245,Liziero,Rebatidas,Internacional,1
+192646,19,39299,Gabriel,1018,68534,Fabricio Bustos,Rebatidas,Internacional,1
+192646,19,39682,Lucas Silva,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192646,19,39682,Lucas Silva,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192646,19,55200,David,1018,55189,Daniel,Rebatidas,Internacional,1
+192646,19,57575,Rodrigues,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192646,19,57575,Rodrigues,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192646,19,57575,Rodrigues,1083,38028,Thiago Santos,Rebatidas,Grêmio,1
+192646,19,57575,Rodrigues,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192646,19,57575,Rodrigues,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192646,19,64124,Nicolas,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192646,19,64124,Nicolas,1083,38028,Thiago Santos,Rebatidas,Grêmio,1
+192646,19,64124,Nicolas,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192646,19,64124,Nicolas,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192646,19,64124,Nicolas,1083,81374,Elias,Rebatidas,Grêmio,1
+192646,19,66245,Liziero,1018,20341,Taison,Rebatidas,Internacional,1
+192646,19,66245,Liziero,1018,68534,Fabricio Bustos,Rebatidas,Internacional,1
+192646,19,66245,Liziero,1018,71596,Kaique Rocha,Rebatidas,Internacional,2
+192646,19,66245,Liziero,1018,72062,Bruno Méndez,Rebatidas,Internacional,1
+192646,19,66245,Liziero,1018,75111,Mauricio,Rebatidas,Internacional,1
+192646,19,68534,Fabricio Bustos,1018,20341,Taison,Rebatidas,Internacional,1
+192646,19,68534,Fabricio Bustos,1018,39299,Gabriel,Rebatidas,Internacional,1
+192646,19,68534,Fabricio Bustos,1018,55189,Daniel,Rebatidas,Internacional,1
+192646,19,68534,Fabricio Bustos,1018,75111,Mauricio,Rebatidas,Internacional,2
+192646,19,71398,Brenno,1083,26439,Pedro Geromel,Rebatidas,Grêmio,2
+192646,19,71596,Kaique Rocha,1018,66245,Liziero,Rebatidas,Internacional,1
+192646,19,71596,Kaique Rocha,1018,72062,Bruno Méndez,Rebatidas,Internacional,3
+192646,19,71596,Kaique Rocha,1018,74848,Caio,Rebatidas,Internacional,1
+192646,19,71596,Kaique Rocha,1018,75111,Mauricio,Rebatidas,Internacional,2
+192646,19,72062,Bruno Méndez,1018,23069,Edenílson,Rebatidas,Internacional,1
+192646,19,72062,Bruno Méndez,1018,39299,Gabriel,Rebatidas,Internacional,2
+192646,19,72062,Bruno Méndez,1018,66245,Liziero,Rebatidas,Internacional,1
+192646,19,72062,Bruno Méndez,1018,75111,Mauricio,Rebatidas,Internacional,3
+192646,19,72936,Ferreira,1083,38028,Thiago Santos,Rebatidas,Grêmio,1
+192646,19,74848,Caio,1018,68534,Fabricio Bustos,Rebatidas,Internacional,1
+192646,19,75111,Mauricio,1018,71596,Kaique Rocha,Rebatidas,Internacional,1
+192646,19,75111,Mauricio,1018,72062,Bruno Méndez,Rebatidas,Internacional,1
+192646,19,76440,Jaminton Campaz,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192646,19,79099,Wesley,1018,20341,Taison,Rebatidas,Internacional,1
+192646,19,81374,Elias,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192646,19,81374,Elias,1083,81386,Bitello,Rebatidas,Grêmio,1
+192646,19,81386,Bitello,1083,72936,Ferreira,Rebatidas,Grêmio,1
+192646,19,86279,Mateus Sarará,1083,72936,Ferreira,Rebatidas,Grêmio,1
+192646,19,86279,Mateus Sarará,1083,81386,Bitello,Rebatidas,Grêmio,1
+192646,22,20341,Taison,1018,68534,Fabricio Bustos,Viradas de jogo,Internacional,1
+192646,22,23069,Edenílson,1018,68534,Fabricio Bustos,Viradas de jogo,Internacional,1
+192646,22,23069,Edenílson,1018,75111,Mauricio,Viradas de jogo,Internacional,1
+192646,22,39299,Gabriel,1018,20341,Taison,Viradas de jogo,Internacional,1
+192646,22,39299,Gabriel,1018,74848,Caio,Viradas de jogo,Internacional,1
+192646,22,39299,Gabriel,1018,75111,Mauricio,Viradas de jogo,Internacional,2
+192646,22,39682,Lucas Silva,1083,57575,Rodrigues,Viradas de jogo,Grêmio,1
+192646,22,72062,Bruno Méndez,1018,20341,Taison,Viradas de jogo,Internacional,1
+192646,22,72062,Bruno Méndez,1018,55200,David,Viradas de jogo,Internacional,1
+192646,22,75111,Mauricio,1018,20341,Taison,Viradas de jogo,Internacional,1
+192646,22,75111,Mauricio,1018,68534,Fabricio Bustos,Viradas de jogo,Internacional,1
+192646,22,76440,Jaminton Campaz,1083,81374,Elias,Viradas de jogo,Grêmio,1
+192646,24,26439,Pedro Geromel,1083,57575,Rodrigues,Interceptações,Grêmio,1
+192646,24,38028,Thiago Santos,1083,81386,Bitello,Interceptações,Grêmio,1
+192646,24,71596,Kaique Rocha,1018,66245,Liziero,Interceptações,Internacional,1
+192646,24,81386,Bitello,1083,26439,Pedro Geromel,Interceptações,Grêmio,1
+192647,1,13936,Bruno Alves,1083,65851,Mathías Villasanti,Lançamentos,Grêmio,1
+192647,1,13936,Bruno Alves,1083,81374,Elias,Lançamentos,Grêmio,1
+192647,1,30864,Diogo Barbosa,1083,81374,Elias,Lançamentos,Grêmio,1
+192647,1,39682,Lucas Silva,1083,10612,Diego Souza ,Lançamentos,Grêmio,1
+192647,1,39682,Lucas Silva,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,1
+192647,1,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,2
+192647,1,42863,Carlos Alexandre,1389,74969,Diego Porfirio,Lançamentos,Ypiranga,1
+192647,1,57017,Robson,1389,74969,Diego Porfirio,Lançamentos,Ypiranga,1
+192647,1,60307,Bruno Bispo,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,2
+192647,1,71398,Brenno,1083,10612,Diego Souza ,Lançamentos,Grêmio,3
+192647,1,71398,Brenno,1083,39682,Lucas Silva,Lançamentos,Grêmio,1
+192647,1,71398,Brenno,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,2
+192647,1,80869,Edson,1389,57017,Robson,Lançamentos,Ypiranga,1
+192647,1,80869,Edson,1389,74969,Diego Porfirio,Lançamentos,Ypiranga,2
+192647,1,81386,Bitello,1083,66396,Janderson,Lançamentos,Grêmio,1
+192647,1,81386,Bitello,1083,76440,Jaminton Campaz,Lançamentos,Grêmio,1
+192647,2,10612,Diego Souza ,1083,30864,Diogo Barbosa,Passes,Grêmio,1
+192647,2,10612,Diego Souza ,1083,39682,Lucas Silva,Passes,Grêmio,1
+192647,2,10612,Diego Souza ,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192647,2,10612,Diego Souza ,1083,76440,Jaminton Campaz,Passes,Grêmio,6
+192647,2,10612,Diego Souza ,1083,81374,Elias,Passes,Grêmio,2
+192647,2,10612,Diego Souza ,1083,81386,Bitello,Passes,Grêmio,3
+192647,2,13936,Bruno Alves,1083,26439,Pedro Geromel,Passes,Grêmio,2
+192647,2,13936,Bruno Alves,1083,30864,Diogo Barbosa,Passes,Grêmio,6
+192647,2,13936,Bruno Alves,1083,65851,Mathías Villasanti,Passes,Grêmio,4
+192647,2,13936,Bruno Alves,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192647,2,13936,Bruno Alves,1083,81386,Bitello,Passes,Grêmio,2
+192647,2,17606,Hugo Almeida,1389,21817,Gedeílson,Passes,Ypiranga,1
+192647,2,17606,Hugo Almeida,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192647,2,17606,Hugo Almeida,1389,57017,Robson,Passes,Ypiranga,1
+192647,2,17606,Hugo Almeida,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192647,2,17606,Hugo Almeida,1389,75352,Falcão,Passes,Ypiranga,3
+192647,2,17606,Hugo Almeida,1389,85991,Luiz Felipe ,Passes,Ypiranga,2
+192647,2,20495,Churín,1083,66396,Janderson,Passes,Grêmio,1
+192647,2,21817,Gedeílson,1389,17606,Hugo Almeida,Passes,Ypiranga,2
+192647,2,21817,Gedeílson,1389,42863,Carlos Alexandre,Passes,Ypiranga,10
+192647,2,21817,Gedeílson,1389,69167,Marcelinho,Passes,Ypiranga,4
+192647,2,21817,Gedeílson,1389,71854,Lorran Rosendo,Passes,Ypiranga,4
+192647,2,21817,Gedeílson,1389,74896,Cesinha,Passes,Ypiranga,2
+192647,2,21817,Gedeílson,1389,75352,Falcão,Passes,Ypiranga,11
+192647,2,21817,Gedeílson,1389,85991,Luiz Felipe ,Passes,Ypiranga,7
+192647,2,26439,Pedro Geromel,1083,10612,Diego Souza ,Passes,Grêmio,1
+192647,2,26439,Pedro Geromel,1083,13936,Bruno Alves,Passes,Grêmio,4
+192647,2,26439,Pedro Geromel,1083,39682,Lucas Silva,Passes,Grêmio,1
+192647,2,26439,Pedro Geromel,1083,57575,Rodrigues,Passes,Grêmio,4
+192647,2,26439,Pedro Geromel,1083,65851,Mathías Villasanti,Passes,Grêmio,3
+192647,2,30864,Diogo Barbosa,1083,10612,Diego Souza ,Passes,Grêmio,2
+192647,2,30864,Diogo Barbosa,1083,13936,Bruno Alves,Passes,Grêmio,3
+192647,2,30864,Diogo Barbosa,1083,39682,Lucas Silva,Passes,Grêmio,2
+192647,2,30864,Diogo Barbosa,1083,65851,Mathías Villasanti,Passes,Grêmio,5
+192647,2,30864,Diogo Barbosa,1083,66396,Janderson,Passes,Grêmio,1
+192647,2,30864,Diogo Barbosa,1083,71398,Brenno,Passes,Grêmio,1
+192647,2,30864,Diogo Barbosa,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192647,2,30864,Diogo Barbosa,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192647,2,30864,Diogo Barbosa,1083,81374,Elias,Passes,Grêmio,7
+192647,2,30864,Diogo Barbosa,1083,81386,Bitello,Passes,Grêmio,9
+192647,2,39682,Lucas Silva,1083,13936,Bruno Alves,Passes,Grêmio,2
+192647,2,39682,Lucas Silva,1083,20495,Churín,Passes,Grêmio,1
+192647,2,39682,Lucas Silva,1083,26439,Pedro Geromel,Passes,Grêmio,2
+192647,2,39682,Lucas Silva,1083,57575,Rodrigues,Passes,Grêmio,4
+192647,2,39682,Lucas Silva,1083,65851,Mathías Villasanti,Passes,Grêmio,3
+192647,2,39682,Lucas Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,7
+192647,2,39682,Lucas Silva,1083,81374,Elias,Passes,Grêmio,2
+192647,2,39682,Lucas Silva,1083,81386,Bitello,Passes,Grêmio,1
+192647,2,42863,Carlos Alexandre,1389,21817,Gedeílson,Passes,Ypiranga,8
+192647,2,42863,Carlos Alexandre,1389,43295,Guilherme Amorim,Passes,Ypiranga,2
+192647,2,42863,Carlos Alexandre,1389,57017,Robson,Passes,Ypiranga,5
+192647,2,42863,Carlos Alexandre,1389,60307,Bruno Bispo,Passes,Ypiranga,8
+192647,2,42863,Carlos Alexandre,1389,71854,Lorran Rosendo,Passes,Ypiranga,6
+192647,2,42863,Carlos Alexandre,1389,74896,Cesinha,Passes,Ypiranga,3
+192647,2,42863,Carlos Alexandre,1389,75352,Falcão,Passes,Ypiranga,2
+192647,2,42863,Carlos Alexandre,1389,80869,Edson,Passes,Ypiranga,23
+192647,2,42863,Carlos Alexandre,1389,85991,Luiz Felipe ,Passes,Ypiranga,2
+192647,2,43295,Guilherme Amorim,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192647,2,43295,Guilherme Amorim,1389,46536,Jefferson,Passes,Ypiranga,3
+192647,2,46536,Jefferson,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192647,2,46536,Jefferson,1389,43295,Guilherme Amorim,Passes,Ypiranga,1
+192647,2,52436,Erick Samuel,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192647,2,52436,Erick Samuel,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192647,2,52436,Erick Samuel,1389,69167,Marcelinho,Passes,Ypiranga,2
+192647,2,52436,Erick Samuel,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192647,2,52436,Erick Samuel,1389,74896,Cesinha,Passes,Ypiranga,5
+192647,2,52436,Erick Samuel,1389,74969,Diego Porfirio,Passes,Ypiranga,5
+192647,2,52436,Erick Samuel,1389,75352,Falcão,Passes,Ypiranga,4
+192647,2,57017,Robson,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192647,2,57017,Robson,1389,21817,Gedeílson,Passes,Ypiranga,1
+192647,2,57017,Robson,1389,42863,Carlos Alexandre,Passes,Ypiranga,10
+192647,2,57017,Robson,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192647,2,57017,Robson,1389,60307,Bruno Bispo,Passes,Ypiranga,5
+192647,2,57017,Robson,1389,74896,Cesinha,Passes,Ypiranga,2
+192647,2,57017,Robson,1389,75352,Falcão,Passes,Ypiranga,2
+192647,2,57017,Robson,1389,80869,Edson,Passes,Ypiranga,1
+192647,2,57575,Rodrigues,1083,10612,Diego Souza ,Passes,Grêmio,1
+192647,2,57575,Rodrigues,1083,26439,Pedro Geromel,Passes,Grêmio,3
+192647,2,57575,Rodrigues,1083,39682,Lucas Silva,Passes,Grêmio,5
+192647,2,57575,Rodrigues,1083,65851,Mathías Villasanti,Passes,Grêmio,3
+192647,2,57575,Rodrigues,1083,66396,Janderson,Passes,Grêmio,2
+192647,2,57575,Rodrigues,1083,76440,Jaminton Campaz,Passes,Grêmio,2
+192647,2,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Passes,Ypiranga,7
+192647,2,60307,Bruno Bispo,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192647,2,60307,Bruno Bispo,1389,57017,Robson,Passes,Ypiranga,5
+192647,2,60307,Bruno Bispo,1389,69167,Marcelinho,Passes,Ypiranga,5
+192647,2,60307,Bruno Bispo,1389,71854,Lorran Rosendo,Passes,Ypiranga,6
+192647,2,60307,Bruno Bispo,1389,74896,Cesinha,Passes,Ypiranga,1
+192647,2,60307,Bruno Bispo,1389,74969,Diego Porfirio,Passes,Ypiranga,9
+192647,2,60307,Bruno Bispo,1389,80869,Edson,Passes,Ypiranga,9
+192647,2,65851,Mathías Villasanti,1083,10612,Diego Souza ,Passes,Grêmio,3
+192647,2,65851,Mathías Villasanti,1083,13936,Bruno Alves,Passes,Grêmio,3
+192647,2,65851,Mathías Villasanti,1083,26439,Pedro Geromel,Passes,Grêmio,5
+192647,2,65851,Mathías Villasanti,1083,30864,Diogo Barbosa,Passes,Grêmio,7
+192647,2,65851,Mathías Villasanti,1083,39682,Lucas Silva,Passes,Grêmio,3
+192647,2,65851,Mathías Villasanti,1083,57575,Rodrigues,Passes,Grêmio,2
+192647,2,65851,Mathías Villasanti,1083,66396,Janderson,Passes,Grêmio,2
+192647,2,65851,Mathías Villasanti,1083,71398,Brenno,Passes,Grêmio,1
+192647,2,65851,Mathías Villasanti,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192647,2,65851,Mathías Villasanti,1083,81386,Bitello,Passes,Grêmio,6
+192647,2,66396,Janderson,1083,20495,Churín,Passes,Grêmio,1
+192647,2,66396,Janderson,1083,30864,Diogo Barbosa,Passes,Grêmio,1
+192647,2,66396,Janderson,1083,39682,Lucas Silva,Passes,Grêmio,1
+192647,2,66396,Janderson,1083,57575,Rodrigues,Passes,Grêmio,1
+192647,2,66396,Janderson,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192647,2,69167,Marcelinho,1389,17606,Hugo Almeida,Passes,Ypiranga,2
+192647,2,69167,Marcelinho,1389,21817,Gedeílson,Passes,Ypiranga,5
+192647,2,69167,Marcelinho,1389,71854,Lorran Rosendo,Passes,Ypiranga,2
+192647,2,69167,Marcelinho,1389,74896,Cesinha,Passes,Ypiranga,1
+192647,2,69167,Marcelinho,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192647,2,69167,Marcelinho,1389,75352,Falcão,Passes,Ypiranga,5
+192647,2,69167,Marcelinho,1389,85991,Luiz Felipe ,Passes,Ypiranga,1
+192647,2,71398,Brenno,1083,57575,Rodrigues,Passes,Grêmio,1
+192647,2,71854,Lorran Rosendo,1389,21817,Gedeílson,Passes,Ypiranga,6
+192647,2,71854,Lorran Rosendo,1389,42863,Carlos Alexandre,Passes,Ypiranga,12
+192647,2,71854,Lorran Rosendo,1389,60307,Bruno Bispo,Passes,Ypiranga,4
+192647,2,71854,Lorran Rosendo,1389,69167,Marcelinho,Passes,Ypiranga,3
+192647,2,71854,Lorran Rosendo,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192647,2,71854,Lorran Rosendo,1389,80869,Edson,Passes,Ypiranga,1
+192647,2,71854,Lorran Rosendo,1389,85991,Luiz Felipe ,Passes,Ypiranga,7
+192647,2,74896,Cesinha,1389,21817,Gedeílson,Passes,Ypiranga,1
+192647,2,74896,Cesinha,1389,42863,Carlos Alexandre,Passes,Ypiranga,3
+192647,2,74896,Cesinha,1389,52436,Erick Samuel,Passes,Ypiranga,3
+192647,2,74896,Cesinha,1389,57017,Robson,Passes,Ypiranga,3
+192647,2,74896,Cesinha,1389,69167,Marcelinho,Passes,Ypiranga,2
+192647,2,74896,Cesinha,1389,74969,Diego Porfirio,Passes,Ypiranga,5
+192647,2,74969,Diego Porfirio,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192647,2,74969,Diego Porfirio,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192647,2,74969,Diego Porfirio,1389,52436,Erick Samuel,Passes,Ypiranga,9
+192647,2,74969,Diego Porfirio,1389,57017,Robson,Passes,Ypiranga,4
+192647,2,74969,Diego Porfirio,1389,60307,Bruno Bispo,Passes,Ypiranga,7
+192647,2,74969,Diego Porfirio,1389,69167,Marcelinho,Passes,Ypiranga,1
+192647,2,74969,Diego Porfirio,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192647,2,74969,Diego Porfirio,1389,74896,Cesinha,Passes,Ypiranga,4
+192647,2,74969,Diego Porfirio,1389,75352,Falcão,Passes,Ypiranga,5
+192647,2,74969,Diego Porfirio,1389,80869,Edson,Passes,Ypiranga,2
+192647,2,74969,Diego Porfirio,1389,85991,Luiz Felipe ,Passes,Ypiranga,2
+192647,2,75260,Gabriel Silva,1083,66396,Janderson,Passes,Grêmio,1
+192647,2,75352,Falcão,1389,17606,Hugo Almeida,Passes,Ypiranga,3
+192647,2,75352,Falcão,1389,21817,Gedeílson,Passes,Ypiranga,6
+192647,2,75352,Falcão,1389,42863,Carlos Alexandre,Passes,Ypiranga,4
+192647,2,75352,Falcão,1389,43295,Guilherme Amorim,Passes,Ypiranga,1
+192647,2,75352,Falcão,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192647,2,75352,Falcão,1389,57017,Robson,Passes,Ypiranga,6
+192647,2,75352,Falcão,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192647,2,75352,Falcão,1389,69167,Marcelinho,Passes,Ypiranga,3
+192647,2,75352,Falcão,1389,71854,Lorran Rosendo,Passes,Ypiranga,2
+192647,2,75352,Falcão,1389,74896,Cesinha,Passes,Ypiranga,2
+192647,2,75352,Falcão,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192647,2,75352,Falcão,1389,85991,Luiz Felipe ,Passes,Ypiranga,4
+192647,2,76440,Jaminton Campaz,1083,10612,Diego Souza ,Passes,Grêmio,1
+192647,2,76440,Jaminton Campaz,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192647,2,76440,Jaminton Campaz,1083,30864,Diogo Barbosa,Passes,Grêmio,3
+192647,2,76440,Jaminton Campaz,1083,39682,Lucas Silva,Passes,Grêmio,4
+192647,2,76440,Jaminton Campaz,1083,57575,Rodrigues,Passes,Grêmio,6
+192647,2,76440,Jaminton Campaz,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192647,2,76440,Jaminton Campaz,1083,81374,Elias,Passes,Grêmio,1
+192647,2,80869,Edson,1389,21817,Gedeílson,Passes,Ypiranga,5
+192647,2,80869,Edson,1389,42863,Carlos Alexandre,Passes,Ypiranga,14
+192647,2,80869,Edson,1389,60307,Bruno Bispo,Passes,Ypiranga,18
+192647,2,80869,Edson,1389,71854,Lorran Rosendo,Passes,Ypiranga,7
+192647,2,80869,Edson,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192647,2,81374,Elias,1083,10612,Diego Souza ,Passes,Grêmio,1
+192647,2,81374,Elias,1083,13936,Bruno Alves,Passes,Grêmio,1
+192647,2,81374,Elias,1083,30864,Diogo Barbosa,Passes,Grêmio,4
+192647,2,81374,Elias,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192647,2,81374,Elias,1083,81386,Bitello,Passes,Grêmio,3
+192647,2,81386,Bitello,1083,10612,Diego Souza ,Passes,Grêmio,2
+192647,2,81386,Bitello,1083,13936,Bruno Alves,Passes,Grêmio,1
+192647,2,81386,Bitello,1083,30864,Diogo Barbosa,Passes,Grêmio,7
+192647,2,81386,Bitello,1083,39682,Lucas Silva,Passes,Grêmio,2
+192647,2,81386,Bitello,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192647,2,81386,Bitello,1083,76440,Jaminton Campaz,Passes,Grêmio,4
+192647,2,81386,Bitello,1083,81374,Elias,Passes,Grêmio,8
+192647,2,85991,Luiz Felipe ,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192647,2,85991,Luiz Felipe ,1389,21817,Gedeílson,Passes,Ypiranga,3
+192647,2,85991,Luiz Felipe ,1389,42863,Carlos Alexandre,Passes,Ypiranga,2
+192647,2,85991,Luiz Felipe ,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192647,2,85991,Luiz Felipe ,1389,69167,Marcelinho,Passes,Ypiranga,4
+192647,2,85991,Luiz Felipe ,1389,71854,Lorran Rosendo,Passes,Ypiranga,4
+192647,2,85991,Luiz Felipe ,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192647,2,85991,Luiz Felipe ,1389,75352,Falcão,Passes,Ypiranga,3
+192647,5,20495,Churín,1083,39682,Lucas Silva,Desarmes,Grêmio,1
+192647,5,30864,Diogo Barbosa,1083,13936,Bruno Alves,Desarmes,Grêmio,1
+192647,5,30864,Diogo Barbosa,1083,26439,Pedro Geromel,Desarmes,Grêmio,1
+192647,5,39682,Lucas Silva,1083,81386,Bitello,Desarmes,Grêmio,1
+192647,5,65851,Mathías Villasanti,1083,13936,Bruno Alves,Desarmes,Grêmio,1
+192647,5,65851,Mathías Villasanti,1083,81374,Elias,Desarmes,Grêmio,1
+192647,5,65851,Mathías Villasanti,1083,81386,Bitello,Desarmes,Grêmio,1
+192647,5,74969,Diego Porfirio,1389,75352,Falcão,Desarmes,Ypiranga,1
+192647,5,75352,Falcão,1389,74969,Diego Porfirio,Desarmes,Ypiranga,1
+192647,5,81386,Bitello,1083,13936,Bruno Alves,Desarmes,Grêmio,1
+192647,14,21817,Gedeílson,1389,42863,Carlos Alexandre,Cruzamentos,Ypiranga,1
+192647,14,30864,Diogo Barbosa,1083,10612,Diego Souza ,Cruzamentos,Grêmio,1
+192647,14,30864,Diogo Barbosa,1083,81386,Bitello,Cruzamentos,Grêmio,1
+192647,14,66396,Janderson,1083,13936,Bruno Alves,Cruzamentos,Grêmio,1
+192647,14,76440,Jaminton Campaz,1083,13936,Bruno Alves,Cruzamentos,Grêmio,1
+192647,14,76440,Jaminton Campaz,1083,65851,Mathías Villasanti,Cruzamentos,Grêmio,1
+192647,14,76440,Jaminton Campaz,1083,81374,Elias,Cruzamentos,Grêmio,2
+192647,14,81374,Elias,1083,57575,Rodrigues,Cruzamentos,Grêmio,1
+192647,19,13936,Bruno Alves,1083,20495,Churín,Rebatidas,Grêmio,1
+192647,19,13936,Bruno Alves,1083,26439,Pedro Geromel,Rebatidas,Grêmio,1
+192647,19,13936,Bruno Alves,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192647,19,13936,Bruno Alves,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192647,19,13936,Bruno Alves,1083,71398,Brenno,Rebatidas,Grêmio,1
+192647,19,13936,Bruno Alves,1083,75260,Gabriel Silva,Rebatidas,Grêmio,1
+192647,19,21817,Gedeílson,1389,80869,Edson,Rebatidas,Ypiranga,1
+192647,19,26439,Pedro Geromel,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192647,19,26439,Pedro Geromel,1083,39682,Lucas Silva,Rebatidas,Grêmio,2
+192647,19,26439,Pedro Geromel,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192647,19,26439,Pedro Geromel,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192647,19,26439,Pedro Geromel,1083,71398,Brenno,Rebatidas,Grêmio,2
+192647,19,26439,Pedro Geromel,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192647,19,26439,Pedro Geromel,1083,81374,Elias,Rebatidas,Grêmio,1
+192647,19,26439,Pedro Geromel,1083,81386,Bitello,Rebatidas,Grêmio,1
+192647,19,30864,Diogo Barbosa,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192647,19,39682,Lucas Silva,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192647,19,39682,Lucas Silva,1083,71398,Brenno,Rebatidas,Grêmio,1
+192647,19,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Rebatidas,Ypiranga,1
+192647,19,42863,Carlos Alexandre,1389,21817,Gedeílson,Rebatidas,Ypiranga,2
+192647,19,42863,Carlos Alexandre,1389,69167,Marcelinho,Rebatidas,Ypiranga,1
+192647,19,42863,Carlos Alexandre,1389,80869,Edson,Rebatidas,Ypiranga,1
+192647,19,42863,Carlos Alexandre,1389,85991,Luiz Felipe ,Rebatidas,Ypiranga,2
+192647,19,52436,Erick Samuel,1389,43295,Guilherme Amorim,Rebatidas,Ypiranga,1
+192647,19,57017,Robson,1389,52436,Erick Samuel,Rebatidas,Ypiranga,1
+192647,19,57017,Robson,1389,74969,Diego Porfirio,Rebatidas,Ypiranga,1
+192647,19,57575,Rodrigues,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,2
+192647,19,57575,Rodrigues,1083,81386,Bitello,Rebatidas,Grêmio,1
+192647,19,60307,Bruno Bispo,1389,17606,Hugo Almeida,Rebatidas,Ypiranga,1
+192647,19,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Rebatidas,Ypiranga,1
+192647,19,60307,Bruno Bispo,1389,57017,Robson,Rebatidas,Ypiranga,2
+192647,19,60307,Bruno Bispo,1389,89958,Gabriel Rossetto,Rebatidas,Ypiranga,1
+192647,19,71398,Brenno,1083,81374,Elias,Rebatidas,Grêmio,1
+192647,19,75260,Gabriel Silva,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192647,19,75352,Falcão,1389,52436,Erick Samuel,Rebatidas,Ypiranga,1
+192647,19,75352,Falcão,1389,71854,Lorran Rosendo,Rebatidas,Ypiranga,1
+192647,19,75352,Falcão,1389,80869,Edson,Rebatidas,Ypiranga,1
+192647,19,75352,Falcão,1389,85991,Luiz Felipe ,Rebatidas,Ypiranga,1
+192647,19,81374,Elias,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192647,19,81386,Bitello,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192647,22,17606,Hugo Almeida,1389,21817,Gedeílson,Viradas de jogo,Ypiranga,1
+192647,22,57017,Robson,1389,74969,Diego Porfirio,Viradas de jogo,Ypiranga,1
+192647,22,81386,Bitello,1083,76440,Jaminton Campaz,Viradas de jogo,Grêmio,1
+192648,1,17606,Hugo Almeida,1389,52436,Erick Samuel,Lançamentos,Ypiranga,1
+192648,1,26439,Pedro Geromel,1083,20495,Churín,Lançamentos,Grêmio,1
+192648,1,26439,Pedro Geromel,1083,81374,Elias,Lançamentos,Grêmio,1
+192648,1,26439,Pedro Geromel,1083,81386,Bitello,Lançamentos,Grêmio,1
+192648,1,30864,Diogo Barbosa,1083,81374,Elias,Lançamentos,Grêmio,1
+192648,1,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,1
+192648,1,57017,Robson,1389,74969,Diego Porfirio,Lançamentos,Ypiranga,2
+192648,1,60307,Bruno Bispo,1389,52436,Erick Samuel,Lançamentos,Ypiranga,2
+192648,1,71398,Brenno,1083,39682,Lucas Silva,Lançamentos,Grêmio,2
+192648,1,71398,Brenno,1083,81386,Bitello,Lançamentos,Grêmio,1
+192648,1,74896,Cesinha,1389,17606,Hugo Almeida,Lançamentos,Ypiranga,1
+192648,1,74969,Diego Porfirio,1389,42863,Carlos Alexandre,Lançamentos,Ypiranga,1
+192648,1,80869,Edson,1389,21817,Gedeílson,Lançamentos,Ypiranga,2
+192648,1,80869,Edson,1389,52436,Erick Samuel,Lançamentos,Ypiranga,1
+192648,1,80869,Edson,1389,74969,Diego Porfirio,Lançamentos,Ypiranga,2
+192648,2,13936,Bruno Alves,1083,26439,Pedro Geromel,Passes,Grêmio,3
+192648,2,13936,Bruno Alves,1083,30864,Diogo Barbosa,Passes,Grêmio,3
+192648,2,13936,Bruno Alves,1083,57575,Rodrigues,Passes,Grêmio,3
+192648,2,13936,Bruno Alves,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,13936,Bruno Alves,1083,71398,Brenno,Passes,Grêmio,2
+192648,2,13936,Bruno Alves,1083,72936,Ferreira,Passes,Grêmio,1
+192648,2,13936,Bruno Alves,1083,81386,Bitello,Passes,Grêmio,1
+192648,2,17606,Hugo Almeida,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192648,2,17606,Hugo Almeida,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,17606,Hugo Almeida,1389,69167,Marcelinho,Passes,Ypiranga,3
+192648,2,17606,Hugo Almeida,1389,75352,Falcão,Passes,Ypiranga,2
+192648,2,20495,Churín,1083,66396,Janderson,Passes,Grêmio,2
+192648,2,20495,Churín,1083,72936,Ferreira,Passes,Grêmio,1
+192648,2,20495,Churín,1083,81386,Bitello,Passes,Grêmio,1
+192648,2,21817,Gedeílson,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,21817,Gedeílson,1389,42863,Carlos Alexandre,Passes,Ypiranga,10
+192648,2,21817,Gedeílson,1389,46536,Jefferson,Passes,Ypiranga,4
+192648,2,21817,Gedeílson,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,21817,Gedeílson,1389,57017,Robson,Passes,Ypiranga,1
+192648,2,21817,Gedeílson,1389,66553,Matheusinho,Passes,Ypiranga,4
+192648,2,21817,Gedeílson,1389,69167,Marcelinho,Passes,Ypiranga,3
+192648,2,21817,Gedeílson,1389,72411,Rodrigo Carioca,Passes,Ypiranga,2
+192648,2,21817,Gedeílson,1389,74896,Cesinha,Passes,Ypiranga,2
+192648,2,21817,Gedeílson,1389,75352,Falcão,Passes,Ypiranga,6
+192648,2,21817,Gedeílson,1389,80869,Edson,Passes,Ypiranga,2
+192648,2,21817,Gedeílson,1389,89958,Gabriel Rossetto,Passes,Ypiranga,1
+192648,2,26439,Pedro Geromel,1083,13936,Bruno Alves,Passes,Grêmio,2
+192648,2,26439,Pedro Geromel,1083,39682,Lucas Silva,Passes,Grêmio,1
+192648,2,26439,Pedro Geromel,1083,57575,Rodrigues,Passes,Grêmio,3
+192648,2,26439,Pedro Geromel,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,26439,Pedro Geromel,1083,71398,Brenno,Passes,Grêmio,3
+192648,2,26439,Pedro Geromel,1083,72936,Ferreira,Passes,Grêmio,1
+192648,2,26439,Pedro Geromel,1083,81386,Bitello,Passes,Grêmio,2
+192648,2,30864,Diogo Barbosa,1083,13936,Bruno Alves,Passes,Grêmio,1
+192648,2,30864,Diogo Barbosa,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,30864,Diogo Barbosa,1083,39682,Lucas Silva,Passes,Grêmio,2
+192648,2,30864,Diogo Barbosa,1083,45496,Benítez,Passes,Grêmio,1
+192648,2,30864,Diogo Barbosa,1083,65851,Mathías Villasanti,Passes,Grêmio,2
+192648,2,30864,Diogo Barbosa,1083,72936,Ferreira,Passes,Grêmio,6
+192648,2,30864,Diogo Barbosa,1083,76440,Jaminton Campaz,Passes,Grêmio,2
+192648,2,30864,Diogo Barbosa,1083,81374,Elias,Passes,Grêmio,1
+192648,2,30864,Diogo Barbosa,1083,81386,Bitello,Passes,Grêmio,6
+192648,2,39682,Lucas Silva,1083,13936,Bruno Alves,Passes,Grêmio,2
+192648,2,39682,Lucas Silva,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,39682,Lucas Silva,1083,30864,Diogo Barbosa,Passes,Grêmio,2
+192648,2,39682,Lucas Silva,1083,57575,Rodrigues,Passes,Grêmio,5
+192648,2,39682,Lucas Silva,1083,65851,Mathías Villasanti,Passes,Grêmio,4
+192648,2,39682,Lucas Silva,1083,72936,Ferreira,Passes,Grêmio,4
+192648,2,39682,Lucas Silva,1083,76440,Jaminton Campaz,Passes,Grêmio,3
+192648,2,39682,Lucas Silva,1083,81374,Elias,Passes,Grêmio,1
+192648,2,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,42863,Carlos Alexandre,1389,21817,Gedeílson,Passes,Ypiranga,13
+192648,2,42863,Carlos Alexandre,1389,46536,Jefferson,Passes,Ypiranga,2
+192648,2,42863,Carlos Alexandre,1389,57017,Robson,Passes,Ypiranga,5
+192648,2,42863,Carlos Alexandre,1389,60307,Bruno Bispo,Passes,Ypiranga,6
+192648,2,42863,Carlos Alexandre,1389,66553,Matheusinho,Passes,Ypiranga,3
+192648,2,42863,Carlos Alexandre,1389,71854,Lorran Rosendo,Passes,Ypiranga,1
+192648,2,42863,Carlos Alexandre,1389,74896,Cesinha,Passes,Ypiranga,1
+192648,2,42863,Carlos Alexandre,1389,75352,Falcão,Passes,Ypiranga,5
+192648,2,42863,Carlos Alexandre,1389,80869,Edson,Passes,Ypiranga,10
+192648,2,46536,Jefferson,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192648,2,46536,Jefferson,1389,75352,Falcão,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,21817,Gedeílson,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,57017,Robson,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,66553,Matheusinho,Passes,Ypiranga,2
+192648,2,52436,Erick Samuel,1389,69167,Marcelinho,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,72411,Rodrigo Carioca,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,74896,Cesinha,Passes,Ypiranga,1
+192648,2,52436,Erick Samuel,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192648,2,52436,Erick Samuel,1389,75352,Falcão,Passes,Ypiranga,3
+192648,2,52436,Erick Samuel,1389,89958,Gabriel Rossetto,Passes,Ypiranga,1
+192648,2,57017,Robson,1389,21817,Gedeílson,Passes,Ypiranga,1
+192648,2,57017,Robson,1389,42863,Carlos Alexandre,Passes,Ypiranga,4
+192648,2,57017,Robson,1389,60307,Bruno Bispo,Passes,Ypiranga,4
+192648,2,57017,Robson,1389,66553,Matheusinho,Passes,Ypiranga,2
+192648,2,57017,Robson,1389,74896,Cesinha,Passes,Ypiranga,2
+192648,2,57017,Robson,1389,74969,Diego Porfirio,Passes,Ypiranga,3
+192648,2,57017,Robson,1389,75352,Falcão,Passes,Ypiranga,2
+192648,2,57017,Robson,1389,80869,Edson,Passes,Ypiranga,1
+192648,2,57575,Rodrigues,1083,13936,Bruno Alves,Passes,Grêmio,1
+192648,2,57575,Rodrigues,1083,26439,Pedro Geromel,Passes,Grêmio,2
+192648,2,57575,Rodrigues,1083,39682,Lucas Silva,Passes,Grêmio,2
+192648,2,57575,Rodrigues,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,57575,Rodrigues,1083,76440,Jaminton Campaz,Passes,Grêmio,5
+192648,2,57575,Rodrigues,1083,81374,Elias,Passes,Grêmio,1
+192648,2,57575,Rodrigues,1083,81386,Bitello,Passes,Grêmio,1
+192648,2,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Passes,Ypiranga,3
+192648,2,60307,Bruno Bispo,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192648,2,60307,Bruno Bispo,1389,57017,Robson,Passes,Ypiranga,2
+192648,2,60307,Bruno Bispo,1389,69167,Marcelinho,Passes,Ypiranga,1
+192648,2,60307,Bruno Bispo,1389,71854,Lorran Rosendo,Passes,Ypiranga,2
+192648,2,60307,Bruno Bispo,1389,74896,Cesinha,Passes,Ypiranga,3
+192648,2,60307,Bruno Bispo,1389,74969,Diego Porfirio,Passes,Ypiranga,9
+192648,2,60307,Bruno Bispo,1389,75352,Falcão,Passes,Ypiranga,4
+192648,2,60307,Bruno Bispo,1389,80869,Edson,Passes,Ypiranga,6
+192648,2,65851,Mathías Villasanti,1083,13936,Bruno Alves,Passes,Grêmio,2
+192648,2,65851,Mathías Villasanti,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,65851,Mathías Villasanti,1083,30864,Diogo Barbosa,Passes,Grêmio,3
+192648,2,65851,Mathías Villasanti,1083,39682,Lucas Silva,Passes,Grêmio,2
+192648,2,65851,Mathías Villasanti,1083,57575,Rodrigues,Passes,Grêmio,2
+192648,2,65851,Mathías Villasanti,1083,71398,Brenno,Passes,Grêmio,2
+192648,2,65851,Mathías Villasanti,1083,72936,Ferreira,Passes,Grêmio,3
+192648,2,65851,Mathías Villasanti,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192648,2,65851,Mathías Villasanti,1083,81374,Elias,Passes,Grêmio,1
+192648,2,65851,Mathías Villasanti,1083,81386,Bitello,Passes,Grêmio,3
+192648,2,66396,Janderson,1083,75260,Gabriel Silva,Passes,Grêmio,1
+192648,2,66553,Matheusinho,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,66553,Matheusinho,1389,21817,Gedeílson,Passes,Ypiranga,3
+192648,2,66553,Matheusinho,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192648,2,66553,Matheusinho,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,66553,Matheusinho,1389,57017,Robson,Passes,Ypiranga,2
+192648,2,66553,Matheusinho,1389,69167,Marcelinho,Passes,Ypiranga,2
+192648,2,66553,Matheusinho,1389,72411,Rodrigo Carioca,Passes,Ypiranga,1
+192648,2,66553,Matheusinho,1389,74896,Cesinha,Passes,Ypiranga,1
+192648,2,66553,Matheusinho,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192648,2,69167,Marcelinho,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,69167,Marcelinho,1389,21817,Gedeílson,Passes,Ypiranga,1
+192648,2,69167,Marcelinho,1389,42863,Carlos Alexandre,Passes,Ypiranga,2
+192648,2,69167,Marcelinho,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,69167,Marcelinho,1389,66553,Matheusinho,Passes,Ypiranga,1
+192648,2,69167,Marcelinho,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192648,2,71398,Brenno,1083,13936,Bruno Alves,Passes,Grêmio,1
+192648,2,71854,Lorran Rosendo,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,71854,Lorran Rosendo,1389,42863,Carlos Alexandre,Passes,Ypiranga,2
+192648,2,71854,Lorran Rosendo,1389,66553,Matheusinho,Passes,Ypiranga,1
+192648,2,71854,Lorran Rosendo,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192648,2,72411,Rodrigo Carioca,1389,74896,Cesinha,Passes,Ypiranga,1
+192648,2,72936,Ferreira,1083,13936,Bruno Alves,Passes,Grêmio,1
+192648,2,72936,Ferreira,1083,30864,Diogo Barbosa,Passes,Grêmio,3
+192648,2,72936,Ferreira,1083,39682,Lucas Silva,Passes,Grêmio,2
+192648,2,72936,Ferreira,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,72936,Ferreira,1083,81374,Elias,Passes,Grêmio,4
+192648,2,72936,Ferreira,1083,81386,Bitello,Passes,Grêmio,5
+192648,2,74896,Cesinha,1389,21817,Gedeílson,Passes,Ypiranga,1
+192648,2,74896,Cesinha,1389,42863,Carlos Alexandre,Passes,Ypiranga,1
+192648,2,74896,Cesinha,1389,46536,Jefferson,Passes,Ypiranga,2
+192648,2,74896,Cesinha,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,74896,Cesinha,1389,57017,Robson,Passes,Ypiranga,1
+192648,2,74896,Cesinha,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192648,2,74896,Cesinha,1389,66553,Matheusinho,Passes,Ypiranga,3
+192648,2,74896,Cesinha,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192648,2,74896,Cesinha,1389,75352,Falcão,Passes,Ypiranga,5
+192648,2,74969,Diego Porfirio,1389,46536,Jefferson,Passes,Ypiranga,1
+192648,2,74969,Diego Porfirio,1389,52436,Erick Samuel,Passes,Ypiranga,8
+192648,2,74969,Diego Porfirio,1389,57017,Robson,Passes,Ypiranga,4
+192648,2,74969,Diego Porfirio,1389,60307,Bruno Bispo,Passes,Ypiranga,7
+192648,2,74969,Diego Porfirio,1389,69167,Marcelinho,Passes,Ypiranga,4
+192648,2,74969,Diego Porfirio,1389,71854,Lorran Rosendo,Passes,Ypiranga,2
+192648,2,74969,Diego Porfirio,1389,72411,Rodrigo Carioca,Passes,Ypiranga,2
+192648,2,74969,Diego Porfirio,1389,74896,Cesinha,Passes,Ypiranga,6
+192648,2,74969,Diego Porfirio,1389,75352,Falcão,Passes,Ypiranga,3
+192648,2,75260,Gabriel Silva,1083,66396,Janderson,Passes,Grêmio,1
+192648,2,75352,Falcão,1389,17606,Hugo Almeida,Passes,Ypiranga,1
+192648,2,75352,Falcão,1389,21817,Gedeílson,Passes,Ypiranga,9
+192648,2,75352,Falcão,1389,42863,Carlos Alexandre,Passes,Ypiranga,10
+192648,2,75352,Falcão,1389,52436,Erick Samuel,Passes,Ypiranga,2
+192648,2,75352,Falcão,1389,57017,Robson,Passes,Ypiranga,1
+192648,2,75352,Falcão,1389,60307,Bruno Bispo,Passes,Ypiranga,3
+192648,2,75352,Falcão,1389,66553,Matheusinho,Passes,Ypiranga,3
+192648,2,75352,Falcão,1389,69167,Marcelinho,Passes,Ypiranga,1
+192648,2,75352,Falcão,1389,74896,Cesinha,Passes,Ypiranga,1
+192648,2,75352,Falcão,1389,74969,Diego Porfirio,Passes,Ypiranga,1
+192648,2,75352,Falcão,1389,80869,Edson,Passes,Ypiranga,2
+192648,2,76440,Jaminton Campaz,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,76440,Jaminton Campaz,1083,39682,Lucas Silva,Passes,Grêmio,4
+192648,2,76440,Jaminton Campaz,1083,57575,Rodrigues,Passes,Grêmio,2
+192648,2,76440,Jaminton Campaz,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,76440,Jaminton Campaz,1083,81374,Elias,Passes,Grêmio,1
+192648,2,76440,Jaminton Campaz,1083,81386,Bitello,Passes,Grêmio,1
+192648,2,80869,Edson,1389,42863,Carlos Alexandre,Passes,Ypiranga,12
+192648,2,80869,Edson,1389,57017,Robson,Passes,Ypiranga,2
+192648,2,80869,Edson,1389,60307,Bruno Bispo,Passes,Ypiranga,6
+192648,2,80869,Edson,1389,74969,Diego Porfirio,Passes,Ypiranga,2
+192648,2,81374,Elias,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,81374,Elias,1083,65851,Mathías Villasanti,Passes,Grêmio,1
+192648,2,81374,Elias,1083,76440,Jaminton Campaz,Passes,Grêmio,1
+192648,2,81386,Bitello,1083,13936,Bruno Alves,Passes,Grêmio,3
+192648,2,81386,Bitello,1083,26439,Pedro Geromel,Passes,Grêmio,1
+192648,2,81386,Bitello,1083,30864,Diogo Barbosa,Passes,Grêmio,8
+192648,2,81386,Bitello,1083,39682,Lucas Silva,Passes,Grêmio,3
+192648,2,81386,Bitello,1083,57575,Rodrigues,Passes,Grêmio,1
+192648,2,81386,Bitello,1083,65851,Mathías Villasanti,Passes,Grêmio,4
+192648,2,81386,Bitello,1083,72936,Ferreira,Passes,Grêmio,3
+192648,2,89958,Gabriel Rossetto,1389,52436,Erick Samuel,Passes,Ypiranga,1
+192648,2,89958,Gabriel Rossetto,1389,60307,Bruno Bispo,Passes,Ypiranga,1
+192648,5,13936,Bruno Alves,1083,45496,Benítez,Desarmes,Grêmio,1
+192648,5,30864,Diogo Barbosa,1083,39682,Lucas Silva,Desarmes,Grêmio,1
+192648,5,30864,Diogo Barbosa,1083,71398,Brenno,Desarmes,Grêmio,1
+192648,5,57017,Robson,1389,74969,Diego Porfirio,Desarmes,Ypiranga,1
+192648,5,57575,Rodrigues,1083,76440,Jaminton Campaz,Desarmes,Grêmio,1
+192648,5,65851,Mathías Villasanti,1083,75260,Gabriel Silva,Desarmes,Grêmio,1
+192648,5,66553,Matheusinho,1389,71854,Lorran Rosendo,Desarmes,Ypiranga,1
+192648,5,76440,Jaminton Campaz,1083,39682,Lucas Silva,Desarmes,Grêmio,1
+192648,5,76440,Jaminton Campaz,1083,57575,Rodrigues,Desarmes,Grêmio,1
+192648,5,80869,Edson,1389,71854,Lorran Rosendo,Desarmes,Ypiranga,1
+192648,14,21817,Gedeílson,1389,52436,Erick Samuel,Cruzamentos,Ypiranga,2
+192648,14,57575,Rodrigues,1083,26439,Pedro Geromel,Cruzamentos,Grêmio,1
+192648,14,69167,Marcelinho,1389,75352,Falcão,Cruzamentos,Ypiranga,1
+192648,14,81374,Elias,1083,72936,Ferreira,Cruzamentos,Grêmio,1
+192648,19,13936,Bruno Alves,1083,71398,Brenno,Rebatidas,Grêmio,1
+192648,19,13936,Bruno Alves,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192648,19,21817,Gedeílson,1389,42863,Carlos Alexandre,Rebatidas,Ypiranga,1
+192648,19,21817,Gedeílson,1389,60307,Bruno Bispo,Rebatidas,Ypiranga,1
+192648,19,21817,Gedeílson,1389,74969,Diego Porfirio,Rebatidas,Ypiranga,1
+192648,19,21817,Gedeílson,1389,75352,Falcão,Rebatidas,Ypiranga,1
+192648,19,26439,Pedro Geromel,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192648,19,26439,Pedro Geromel,1083,81374,Elias,Rebatidas,Grêmio,1
+192648,19,26439,Pedro Geromel,1083,81386,Bitello,Rebatidas,Grêmio,2
+192648,19,30864,Diogo Barbosa,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192648,19,30864,Diogo Barbosa,1083,57575,Rodrigues,Rebatidas,Grêmio,1
+192648,19,30864,Diogo Barbosa,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192648,19,30864,Diogo Barbosa,1083,76440,Jaminton Campaz,Rebatidas,Grêmio,1
+192648,19,30864,Diogo Barbosa,1083,81386,Bitello,Rebatidas,Grêmio,1
+192648,19,39682,Lucas Silva,1083,20495,Churín,Rebatidas,Grêmio,2
+192648,19,39682,Lucas Silva,1083,81386,Bitello,Rebatidas,Grêmio,1
+192648,19,42863,Carlos Alexandre,1389,17606,Hugo Almeida,Rebatidas,Ypiranga,1
+192648,19,42863,Carlos Alexandre,1389,21817,Gedeílson,Rebatidas,Ypiranga,1
+192648,19,42863,Carlos Alexandre,1389,60307,Bruno Bispo,Rebatidas,Ypiranga,1
+192648,19,42863,Carlos Alexandre,1389,74969,Diego Porfirio,Rebatidas,Ypiranga,2
+192648,19,42863,Carlos Alexandre,1389,75352,Falcão,Rebatidas,Ypiranga,2
+192648,19,42863,Carlos Alexandre,1389,80869,Edson,Rebatidas,Ypiranga,1
+192648,19,57017,Robson,1389,21817,Gedeílson,Rebatidas,Ypiranga,2
+192648,19,57017,Robson,1389,42863,Carlos Alexandre,Rebatidas,Ypiranga,1
+192648,19,57017,Robson,1389,75352,Falcão,Rebatidas,Ypiranga,1
+192648,19,57575,Rodrigues,1083,30864,Diogo Barbosa,Rebatidas,Grêmio,1
+192648,19,57575,Rodrigues,1083,39682,Lucas Silva,Rebatidas,Grêmio,1
+192648,19,57575,Rodrigues,1083,65851,Mathías Villasanti,Rebatidas,Grêmio,1
+192648,19,60307,Bruno Bispo,1389,17606,Hugo Almeida,Rebatidas,Ypiranga,1
+192648,19,60307,Bruno Bispo,1389,42863,Carlos Alexandre,Rebatidas,Ypiranga,1
+192648,19,60307,Bruno Bispo,1389,57017,Robson,Rebatidas,Ypiranga,2
+192648,19,60307,Bruno Bispo,1389,69167,Marcelinho,Rebatidas,Ypiranga,1
+192648,19,60307,Bruno Bispo,1389,74896,Cesinha,Rebatidas,Ypiranga,1
+192648,19,65851,Mathías Villasanti,1083,13936,Bruno Alves,Rebatidas,Grêmio,1
+192648,19,74969,Diego Porfirio,1389,69167,Marcelinho,Rebatidas,Ypiranga,1
+192648,19,80869,Edson,1389,66553,Matheusinho,Rebatidas,Ypiranga,1
+192648,22,57575,Rodrigues,1083,72936,Ferreira,Viradas de jogo,Grêmio,1
+192648,22,74896,Cesinha,1389,21817,Gedeílson,Viradas de jogo,Ypiranga,1
+192648,22,74896,Cesinha,1389,75352,Falcão,Viradas de jogo,Ypiranga,1
+192648,24,60307,Bruno Bispo,1389,21817,Gedeílson,Interceptações,Ypiranga,1
+192648,24,69167,Marcelinho,1389,17606,Hugo Almeida,Interceptações,Ypiranga,1
+192648,24,69167,Marcelinho,1389,80869,Edson,Interceptações,Ypiranga,1
+192648,24,81386,Bitello,1083,30864,Diogo Barbosa,Interceptações,Grêmio,1

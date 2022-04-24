@@ -6769,12 +6769,12 @@ fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_na
 192637,25,Cartões amarelos,Allan,1389,1,0,Ypiranga
 192637,25,Cartões amarelos,Guilherme Amorim,1389,1,0,Ypiranga
 192637,25,Cartões amarelos,Lorran Rosendo,1389,1,0,Ypiranga
-192637,25,Cartões amarelos,Marcão,1389,1,0,Ypiranga
+192637,25,Cartões amarelos,Windson,1389,1,0,Ypiranga
 192637,25,Cartões amarelos,Mathías Villasanti,1083,1,0,Grêmio
 192637,25,Cartões amarelos,Allan,1389,1,0,Ypiranga
 192637,25,Cartões amarelos,Guilherme Amorim,1389,1,0,Ypiranga
 192637,25,Cartões amarelos,Lorran Rosendo,1389,1,0,Ypiranga
-192637,25,Cartões amarelos,Marcão,1389,1,0,Ypiranga
+192637,25,Cartões amarelos,Windson,1389,1,0,Ypiranga
 192637,26,Cartões vermelhos,Jefferson,1389,1,0,Ypiranga
 192638,2,Passes,David Cunha,1257,8,2,Guarany de Bagé
 192638,2,Passes,Diego Macedo,1257,9,2,Guarany de Bagé
@@ -7026,6 +7026,7 @@ fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_na
 192638,12,Perda da posse de bola,Paulo Victor,1018,3,0,Internacional
 192638,12,Perda da posse de bola,Víctor Cuesta,1018,1,0,Internacional
 192638,25,Cartões amarelos,David Cunha,1257,1,0,Guarany de Bagé
+192638,25,Cartões amarelos,Diego Rocha,1257,1,0,Guarany de Bagé
 192638,25,Cartões amarelos,Marcos Paulo,1257,1,0,Guarany de Bagé
 192638,25,Cartões amarelos,Otávio,1257,1,0,Guarany de Bagé
 192638,25,Cartões amarelos,Edenílson,1018,1,0,Internacional
@@ -7271,5 +7272,1360 @@ fix_id,scout_id,scout_name,player_name,team_id,scout_correct,scout_wrong,team_na
 192641,25,Cartões amarelos,Bruno Paulo,1271,1,0,Brasil de Pelotas
 192641,25,Cartões amarelos,Fernando Fonseca,1271,1,0,Brasil de Pelotas
 192641,25,Cartões amarelos,Henrique Ávila,1271,1,0,Brasil de Pelotas
+192641,25,Cartões amarelos,Marcelo,1271,1,0,Brasil de Pelotas
 192641,25,Cartões amarelos,Marllon,1271,1,0,Brasil de Pelotas
 192641,25,Cartões amarelos,William Matheus,1019,1,0,Juventude
+192644,2,Passes,Bruno Méndez,1018,2,0,Internacional
+192644,2,Passes,Caio,1018,1,0,Internacional
+192644,2,Passes,Daniel,1018,14,0,Internacional
+192644,2,Passes,David,1018,22,7,Internacional
+192644,2,Passes,Edenílson,1018,34,3,Internacional
+192644,2,Passes,Fabricio Bustos,1018,65,9,Internacional
+192644,2,Passes,Gabriel,1018,79,7,Internacional
+192644,2,Passes,Johnny,1018,10,1,Internacional
+192644,2,Passes,Kaique Rocha,1018,69,1,Internacional
+192644,2,Passes,Liziero,1018,79,6,Internacional
+192644,2,Passes,Mauricio,1018,15,6,Internacional
+192644,2,Passes,Paulo Victor,1018,24,5,Internacional
+192644,2,Passes,Taison,1018,43,6,Internacional
+192644,2,Passes,Víctor Cuesta,1018,58,1,Internacional
+192644,2,Passes,Wesley,1018,9,2,Internacional
+192644,2,Passes,Bitello,1083,21,3,Grêmio
+192644,2,Passes,Brenno,1083,6,0,Grêmio
+192644,2,Passes,Bruno Alves,1083,22,1,Grêmio
+192644,2,Passes,Churín,1083,4,0,Grêmio
+192644,2,Passes,Diego Souza ,1083,14,3,Grêmio
+192644,2,Passes,Elias,1083,5,4,Grêmio
+192644,2,Passes,Gabriel Silva,1083,5,1,Grêmio
+192644,2,Passes,Jaminton Campaz,1083,15,8,Grêmio
+192644,2,Passes,Janderson,1083,5,0,Grêmio
+192644,2,Passes,Lucas Silva,1083,18,1,Grêmio
+192644,2,Passes,Mathías Villasanti,1083,29,3,Grêmio
+192644,2,Passes,Nicolas,1083,33,7,Grêmio
+192644,2,Passes,Pedro Geromel,1083,24,1,Grêmio
+192644,2,Passes,Rildo,1083,2,1,Grêmio
+192644,2,Passes,Rodrigues,1083,28,3,Grêmio
+192644,2,Passes,Thiago Santos,1083,4,2,Grêmio
+192644,3,Finalizações,David,1018,0,2,Internacional
+192644,3,Finalizações,Gabriel,1018,0,1,Internacional
+192644,3,Finalizações,Liziero,1018,1,2,Internacional
+192644,3,Finalizações,Mauricio,1018,1,1,Internacional
+192644,3,Finalizações,Taison,1018,0,2,Internacional
+192644,3,Finalizações,Wesley,1018,0,2,Internacional
+192644,3,Finalizações,Bitello,1083,1,0,Grêmio
+192644,3,Finalizações,Churín,1083,1,0,Grêmio
+192644,3,Finalizações,Diego Souza ,1083,1,0,Grêmio
+192644,3,Finalizações,Elias,1083,2,2,Grêmio
+192644,3,Finalizações,Jaminton Campaz,1083,1,0,Grêmio
+192644,3,Finalizações,Janderson,1083,0,1,Grêmio
+192644,3,Finalizações,Lucas Silva,1083,0,2,Grêmio
+192644,3,Finalizações,Rildo,1083,1,0,Grêmio
+192644,5,Desarmes,Bruno Méndez,1018,0,1,Internacional
+192644,5,Desarmes,Caio,1018,1,0,Internacional
+192644,5,Desarmes,Edenílson,1018,1,0,Internacional
+192644,5,Desarmes,Gabriel,1018,2,1,Internacional
+192644,5,Desarmes,Johnny,1018,1,0,Internacional
+192644,5,Desarmes,Kaique Rocha,1018,1,0,Internacional
+192644,5,Desarmes,Liziero,1018,2,2,Internacional
+192644,5,Desarmes,Mauricio,1018,1,0,Internacional
+192644,5,Desarmes,Paulo Victor,1018,2,1,Internacional
+192644,5,Desarmes,Taison,1018,1,1,Internacional
+192644,5,Desarmes,Víctor Cuesta,1018,1,0,Internacional
+192644,5,Desarmes,Bitello,1083,4,0,Grêmio
+192644,5,Desarmes,Bruno Alves,1083,1,0,Grêmio
+192644,5,Desarmes,Elias,1083,1,0,Grêmio
+192644,5,Desarmes,Jaminton Campaz,1083,2,1,Grêmio
+192644,5,Desarmes,Lucas Silva,1083,1,0,Grêmio
+192644,5,Desarmes,Mathías Villasanti,1083,1,1,Grêmio
+192644,5,Desarmes,Nicolas,1083,1,0,Grêmio
+192644,5,Desarmes,Pedro Geromel,1083,2,0,Grêmio
+192644,5,Desarmes,Rodrigues,1083,2,1,Grêmio
+192644,5,Desarmes,Thiago Santos,1083,1,0,Grêmio
+192644,14,Cruzamentos,David,1018,1,2,Internacional
+192644,14,Cruzamentos,Edenílson,1018,0,4,Internacional
+192644,14,Cruzamentos,Fabricio Bustos,1018,0,3,Internacional
+192644,14,Cruzamentos,Liziero,1018,1,2,Internacional
+192644,14,Cruzamentos,Mauricio,1018,0,1,Internacional
+192644,14,Cruzamentos,Paulo Victor,1018,1,2,Internacional
+192644,14,Cruzamentos,Wesley,1018,0,1,Internacional
+192644,14,Cruzamentos,Bitello,1083,0,3,Grêmio
+192644,14,Cruzamentos,Gabriel Silva,1083,0,1,Grêmio
+192644,14,Cruzamentos,Jaminton Campaz,1083,1,1,Grêmio
+192644,14,Cruzamentos,Lucas Silva,1083,1,1,Grêmio
+192644,14,Cruzamentos,Nicolas,1083,1,2,Grêmio
+192644,1,Lançamentos,David,1018,0,1,Internacional
+192644,1,Lançamentos,Fabricio Bustos,1018,1,7,Internacional
+192644,1,Lançamentos,Gabriel,1018,5,4,Internacional
+192644,1,Lançamentos,Johnny,1018,0,2,Internacional
+192644,1,Lançamentos,Kaique Rocha,1018,2,1,Internacional
+192644,1,Lançamentos,Liziero,1018,2,2,Internacional
+192644,1,Lançamentos,Paulo Victor,1018,1,2,Internacional
+192644,1,Lançamentos,Taison,1018,1,2,Internacional
+192644,1,Lançamentos,Víctor Cuesta,1018,3,3,Internacional
+192644,1,Lançamentos,Bitello,1083,1,0,Grêmio
+192644,1,Lançamentos,Brenno,1083,4,11,Grêmio
+192644,1,Lançamentos,Diego Souza ,1083,0,1,Grêmio
+192644,1,Lançamentos,Jaminton Campaz,1083,3,0,Grêmio
+192644,1,Lançamentos,Nicolas,1083,2,2,Grêmio
+192644,1,Lançamentos,Pedro Geromel,1083,2,3,Grêmio
+192644,1,Lançamentos,Rodrigues,1083,0,2,Grêmio
+192644,1,Lançamentos,Thiago Santos,1083,1,0,Grêmio
+192644,24,Interceptações,Johnny,1018,1,0,Internacional
+192644,24,Interceptações,Liziero,1018,0,2,Internacional
+192644,24,Interceptações,Mauricio,1018,1,0,Internacional
+192644,24,Interceptações,Taison,1018,1,0,Internacional
+192644,24,Interceptações,Víctor Cuesta,1018,1,1,Internacional
+192644,24,Interceptações,Bitello,1083,2,1,Grêmio
+192644,24,Interceptações,Elias,1083,1,0,Grêmio
+192644,24,Interceptações,Mathías Villasanti,1083,1,0,Grêmio
+192644,24,Interceptações,Nicolas,1083,1,0,Grêmio
+192644,24,Interceptações,Rodrigues,1083,2,0,Grêmio
+192644,4,Dribles,Caio,1018,1,0,Internacional
+192644,4,Dribles,David,1018,2,1,Internacional
+192644,4,Dribles,Edenílson,1018,0,1,Internacional
+192644,4,Dribles,Kaique Rocha,1018,1,0,Internacional
+192644,4,Dribles,Liziero,1018,1,0,Internacional
+192644,4,Dribles,Paulo Victor,1018,1,2,Internacional
+192644,4,Dribles,Taison,1018,3,1,Internacional
+192644,4,Dribles,Víctor Cuesta,1018,1,0,Internacional
+192644,4,Dribles,Wesley,1018,1,0,Internacional
+192644,4,Dribles,Jaminton Campaz,1083,1,0,Grêmio
+192644,4,Dribles,Janderson,1083,1,0,Grêmio
+192644,4,Dribles,Rodrigues,1083,0,1,Grêmio
+192644,4,Dribles,Caio,1018,1,0,Internacional
+192644,4,Dribles,David,1018,2,1,Internacional
+192644,4,Dribles,Edenílson,1018,0,1,Internacional
+192644,4,Dribles,Kaique Rocha,1018,1,0,Internacional
+192644,4,Dribles,Liziero,1018,1,0,Internacional
+192644,4,Dribles,Paulo Victor,1018,1,2,Internacional
+192644,4,Dribles,Taison,1018,3,1,Internacional
+192644,4,Dribles,Víctor Cuesta,1018,1,0,Internacional
+192644,4,Dribles,Wesley,1018,1,0,Internacional
+192644,4,Dribles,Jaminton Campaz,1083,1,0,Grêmio
+192644,4,Dribles,Janderson,1083,1,0,Grêmio
+192644,4,Dribles,Rodrigues,1083,0,1,Grêmio
+192644,22,Viradas de jogo,Elias,1083,1,0,Grêmio
+192644,22,Viradas de jogo,Lucas Silva,1083,0,1,Grêmio
+192644,22,Viradas de jogo,Pedro Geromel,1083,1,0,Grêmio
+192644,22,Viradas de jogo,Thiago Santos,1083,1,0,Grêmio
+192644,20,Posse de bola,Bruno Méndez,1018,13,0,Internacional
+192644,20,Posse de bola,Caio,1018,12,0,Internacional
+192644,20,Posse de bola,Daniel,1018,49,0,Internacional
+192644,20,Posse de bola,David,1018,114,0,Internacional
+192644,20,Posse de bola,Edenílson,1018,98,0,Internacional
+192644,20,Posse de bola,Fabricio Bustos,1018,212,0,Internacional
+192644,20,Posse de bola,Gabriel,1018,237,0,Internacional
+192644,20,Posse de bola,Johnny,1018,46,0,Internacional
+192644,20,Posse de bola,Kaique Rocha,1018,194,0,Internacional
+192644,20,Posse de bola,Liziero,1018,241,0,Internacional
+192644,20,Posse de bola,Mauricio,1018,59,0,Internacional
+192644,20,Posse de bola,Paulo Victor,1018,115,0,Internacional
+192644,20,Posse de bola,Taison,1018,147,0,Internacional
+192644,20,Posse de bola,Víctor Cuesta,1018,192,0,Internacional
+192644,20,Posse de bola,Wesley,1018,45,0,Internacional
+192644,20,Posse de bola,Bitello,1083,95,0,Grêmio
+192644,20,Posse de bola,Brenno,1083,122,0,Grêmio
+192644,20,Posse de bola,Bruno Alves,1083,70,0,Grêmio
+192644,20,Posse de bola,Churín,1083,12,0,Grêmio
+192644,20,Posse de bola,Diego Souza ,1083,44,0,Grêmio
+192644,20,Posse de bola,Elias,1083,65,0,Grêmio
+192644,20,Posse de bola,Gabriel Silva,1083,16,0,Grêmio
+192644,20,Posse de bola,Jaminton Campaz,1083,110,0,Grêmio
+192644,20,Posse de bola,Janderson,1083,26,0,Grêmio
+192644,20,Posse de bola,Lucas Silva,1083,66,0,Grêmio
+192644,20,Posse de bola,Mathías Villasanti,1083,94,0,Grêmio
+192644,20,Posse de bola,Nicolas,1083,122,0,Grêmio
+192644,20,Posse de bola,Pedro Geromel,1083,94,0,Grêmio
+192644,20,Posse de bola,Rildo,1083,10,0,Grêmio
+192644,20,Posse de bola,Rodrigues,1083,94,0,Grêmio
+192644,20,Posse de bola,Thiago Santos,1083,22,0,Grêmio
+192644,20,Posse de bola,Bruno Méndez,1018,13,0,Internacional
+192644,20,Posse de bola,Caio,1018,12,0,Internacional
+192644,20,Posse de bola,Daniel,1018,49,0,Internacional
+192644,20,Posse de bola,David,1018,114,0,Internacional
+192644,20,Posse de bola,Edenílson,1018,98,0,Internacional
+192644,20,Posse de bola,Fabricio Bustos,1018,212,0,Internacional
+192644,20,Posse de bola,Gabriel,1018,237,0,Internacional
+192644,20,Posse de bola,Johnny,1018,46,0,Internacional
+192644,20,Posse de bola,Kaique Rocha,1018,194,0,Internacional
+192644,20,Posse de bola,Liziero,1018,241,0,Internacional
+192644,20,Posse de bola,Mauricio,1018,59,0,Internacional
+192644,20,Posse de bola,Paulo Victor,1018,115,0,Internacional
+192644,20,Posse de bola,Taison,1018,147,0,Internacional
+192644,20,Posse de bola,Víctor Cuesta,1018,192,0,Internacional
+192644,20,Posse de bola,Wesley,1018,45,0,Internacional
+192644,20,Posse de bola,Bitello,1083,95,0,Grêmio
+192644,20,Posse de bola,Brenno,1083,122,0,Grêmio
+192644,20,Posse de bola,Bruno Alves,1083,70,0,Grêmio
+192644,20,Posse de bola,Churín,1083,12,0,Grêmio
+192644,20,Posse de bola,Diego Souza ,1083,44,0,Grêmio
+192644,20,Posse de bola,Elias,1083,65,0,Grêmio
+192644,20,Posse de bola,Gabriel Silva,1083,16,0,Grêmio
+192644,20,Posse de bola,Jaminton Campaz,1083,110,0,Grêmio
+192644,20,Posse de bola,Janderson,1083,26,0,Grêmio
+192644,20,Posse de bola,Lucas Silva,1083,66,0,Grêmio
+192644,20,Posse de bola,Mathías Villasanti,1083,94,0,Grêmio
+192644,20,Posse de bola,Nicolas,1083,122,0,Grêmio
+192644,20,Posse de bola,Pedro Geromel,1083,94,0,Grêmio
+192644,20,Posse de bola,Rildo,1083,10,0,Grêmio
+192644,20,Posse de bola,Rodrigues,1083,94,0,Grêmio
+192644,20,Posse de bola,Thiago Santos,1083,22,0,Grêmio
+192644,8,Gols,Bitello,1083,1,0,Grêmio
+192644,8,Gols,Diego Souza ,1083,1,0,Grêmio
+192644,8,Gols,Elias,1083,1,0,Grêmio
+192644,28,Assistências para finalização,David,1018,3,0,Internacional
+192644,28,Assistências para finalização,Fabricio Bustos,1018,1,0,Internacional
+192644,28,Assistências para finalização,Gabriel,1018,1,0,Internacional
+192644,28,Assistências para finalização,Mauricio,1018,2,0,Internacional
+192644,28,Assistências para finalização,Paulo Victor,1018,3,0,Internacional
+192644,28,Assistências para finalização,Taison,1018,1,0,Internacional
+192644,28,Assistências para finalização,Bitello,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Churín,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Diego Souza ,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Jaminton Campaz,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Janderson,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Lucas Silva,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Thiago Santos,1083,1,0,Grêmio
+192644,28,Assistências para finalização,David,1018,3,0,Internacional
+192644,28,Assistências para finalização,Fabricio Bustos,1018,1,0,Internacional
+192644,28,Assistências para finalização,Gabriel,1018,1,0,Internacional
+192644,28,Assistências para finalização,Mauricio,1018,2,0,Internacional
+192644,28,Assistências para finalização,Paulo Victor,1018,3,0,Internacional
+192644,28,Assistências para finalização,Taison,1018,1,0,Internacional
+192644,28,Assistências para finalização,Bitello,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Churín,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Diego Souza ,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Jaminton Campaz,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Janderson,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Lucas Silva,1083,1,0,Grêmio
+192644,28,Assistências para finalização,Thiago Santos,1083,1,0,Grêmio
+192644,27,Assistências,Nicolas,1083,1,0,Grêmio
+192644,15,Defesas,Daniel,1018,3,0,Internacional
+192644,15,Defesas,Edenílson,1018,1,0,Internacional
+192644,15,Defesas,Fabricio Bustos,1018,1,0,Internacional
+192644,15,Defesas,Kaique Rocha,1018,1,0,Internacional
+192644,15,Defesas,Liziero,1018,1,0,Internacional
+192644,15,Defesas,Brenno,1083,2,0,Grêmio
+192644,15,Defesas,Bruno Alves,1083,1,0,Grêmio
+192644,15,Defesas,Pedro Geromel,1083,2,0,Grêmio
+192644,23,Defesas difíceis,Daniel,1018,1,0,Internacional
+192644,19,Rebatidas,Bruno Méndez,1018,1,0,Internacional
+192644,19,Rebatidas,Daniel,1018,1,0,Internacional
+192644,19,Rebatidas,David,1018,1,0,Internacional
+192644,19,Rebatidas,Fabricio Bustos,1018,4,0,Internacional
+192644,19,Rebatidas,Johnny,1018,2,0,Internacional
+192644,19,Rebatidas,Kaique Rocha,1018,7,0,Internacional
+192644,19,Rebatidas,Liziero,1018,1,0,Internacional
+192644,19,Rebatidas,Mauricio,1018,1,0,Internacional
+192644,19,Rebatidas,Paulo Victor,1018,2,0,Internacional
+192644,19,Rebatidas,Víctor Cuesta,1018,3,0,Internacional
+192644,19,Rebatidas,Bitello,1083,2,0,Grêmio
+192644,19,Rebatidas,Bruno Alves,1083,7,0,Grêmio
+192644,19,Rebatidas,Elias,1083,4,0,Grêmio
+192644,19,Rebatidas,Jaminton Campaz,1083,1,0,Grêmio
+192644,19,Rebatidas,Lucas Silva,1083,1,0,Grêmio
+192644,19,Rebatidas,Mathías Villasanti,1083,2,0,Grêmio
+192644,19,Rebatidas,Nicolas,1083,8,0,Grêmio
+192644,19,Rebatidas,Pedro Geromel,1083,8,0,Grêmio
+192644,19,Rebatidas,Rodrigues,1083,4,0,Grêmio
+192644,19,Rebatidas,Thiago Santos,1083,1,0,Grêmio
+192644,6,Faltas cometidas,Bruno Méndez,1018,1,0,Internacional
+192644,6,Faltas cometidas,David,1018,1,0,Internacional
+192644,6,Faltas cometidas,Johnny,1018,2,0,Internacional
+192644,6,Faltas cometidas,Liziero,1018,1,0,Internacional
+192644,6,Faltas cometidas,Paulo Victor,1018,1,0,Internacional
+192644,6,Faltas cometidas,Víctor Cuesta,1018,2,0,Internacional
+192644,6,Faltas cometidas,Wesley,1018,1,0,Internacional
+192644,6,Faltas cometidas,Bitello,1083,1,0,Grêmio
+192644,6,Faltas cometidas,Bruno Alves,1083,1,0,Grêmio
+192644,6,Faltas cometidas,Elias,1083,1,0,Grêmio
+192644,6,Faltas cometidas,Lucas Silva,1083,1,0,Grêmio
+192644,6,Faltas cometidas,Mathías Villasanti,1083,2,0,Grêmio
+192644,6,Faltas cometidas,Rodrigues,1083,2,0,Grêmio
+192644,6,Faltas cometidas,Thiago Santos,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Caio,1018,1,0,Internacional
+192644,7,Faltas sofridas,David,1018,3,0,Internacional
+192644,7,Faltas sofridas,Taison,1018,3,0,Internacional
+192644,7,Faltas sofridas,Wesley,1018,1,0,Internacional
+192644,7,Faltas sofridas,Bitello,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Bruno Alves,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Churín,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Diego Souza ,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Gabriel Silva,1083,1,0,Grêmio
+192644,7,Faltas sofridas,Jaminton Campaz,1083,3,0,Grêmio
+192644,7,Faltas sofridas,Pedro Geromel,1083,1,0,Grêmio
+192644,9,Impedimentos,David,1018,1,0,Internacional
+192644,9,Impedimentos,Bitello,1083,2,0,Grêmio
+192644,9,Impedimentos,Diego Souza ,1083,1,0,Grêmio
+192644,9,Impedimentos,Elias,1083,1,0,Grêmio
+192644,9,Impedimentos,David,1018,1,0,Internacional
+192644,9,Impedimentos,Bitello,1083,2,0,Grêmio
+192644,9,Impedimentos,Diego Souza ,1083,1,0,Grêmio
+192644,9,Impedimentos,Elias,1083,1,0,Grêmio
+192644,11,Pênaltis,Elias,1083,1,0,Grêmio
+192644,12,Perda da posse de bola,David,1018,6,0,Internacional
+192644,12,Perda da posse de bola,Edenílson,1018,2,0,Internacional
+192644,12,Perda da posse de bola,Fabricio Bustos,1018,3,0,Internacional
+192644,12,Perda da posse de bola,Gabriel,1018,2,0,Internacional
+192644,12,Perda da posse de bola,Mauricio,1018,1,0,Internacional
+192644,12,Perda da posse de bola,Paulo Victor,1018,4,0,Internacional
+192644,12,Perda da posse de bola,Víctor Cuesta,1018,1,0,Internacional
+192644,12,Perda da posse de bola,Wesley,1018,1,0,Internacional
+192644,12,Perda da posse de bola,Bitello,1083,4,0,Grêmio
+192644,12,Perda da posse de bola,Bruno Alves,1083,1,0,Grêmio
+192644,12,Perda da posse de bola,Diego Souza ,1083,1,0,Grêmio
+192644,12,Perda da posse de bola,Elias,1083,6,0,Grêmio
+192644,12,Perda da posse de bola,Jaminton Campaz,1083,9,0,Grêmio
+192644,12,Perda da posse de bola,Janderson,1083,3,0,Grêmio
+192644,12,Perda da posse de bola,Lucas Silva,1083,5,0,Grêmio
+192644,12,Perda da posse de bola,Mathías Villasanti,1083,3,0,Grêmio
+192644,12,Perda da posse de bola,Pedro Geromel,1083,1,0,Grêmio
+192644,25,Cartões amarelos,Bruno Méndez,1018,1,0,Internacional
+192644,25,Cartões amarelos,Johnny,1018,1,0,Internacional
+192644,25,Cartões amarelos,Taison,1018,1,0,Internacional
+192644,25,Cartões amarelos,Víctor Cuesta,1018,1,0,Internacional
+192644,25,Cartões amarelos,Bruno Alves,1083,1,0,Grêmio
+192644,25,Cartões amarelos,Diego Souza ,1083,1,0,Grêmio
+192644,25,Cartões amarelos,Lucas Silva,1083,1,0,Grêmio
+192644,25,Cartões amarelos,Rodrigues,1083,1,0,Grêmio
+192644,26,Cartões vermelhos,Paulo Victor,1018,1,0,Internacional
+192645,2,Passes,Bruno Bispo,1389,39,5,Ypiranga
+192645,2,Passes,Carlos Alexandre,1389,35,3,Ypiranga
+192645,2,Passes,Diego Porfirio,1389,28,1,Ypiranga
+192645,2,Passes,Edson,1389,38,0,Ypiranga
+192645,2,Passes,Erick Samuel,1389,10,1,Ypiranga
+192645,2,Passes,Falcão,1389,15,1,Ypiranga
+192645,2,Passes,Gedeílson,1389,20,6,Ypiranga
+192645,2,Passes,Hugo Almeida,1389,11,3,Ypiranga
+192645,2,Passes,Jefferson,1389,2,0,Ypiranga
+192645,2,Passes,John Lennon,1389,3,0,Ypiranga
+192645,2,Passes,Lorran Rosendo,1389,31,4,Ypiranga
+192645,2,Passes,Marcelinho,1389,18,4,Ypiranga
+192645,2,Passes,Matheusinho,1389,16,2,Ypiranga
+192645,2,Passes,Vitinho,1389,5,0,Ypiranga
+192645,2,Passes,Bruno Paulo,1271,3,0,Brasil de Pelotas
+192645,2,Passes,Fernando Fonseca,1271,20,2,Brasil de Pelotas
+192645,2,Passes,Gabriel Araújo,1271,9,0,Brasil de Pelotas
+192645,2,Passes,Helerson Mateus,1271,18,0,Brasil de Pelotas
+192645,2,Passes,Henrique Ávila,1271,19,4,Brasil de Pelotas
+192645,2,Passes,Joanderson,1271,2,0,Brasil de Pelotas
+192645,2,Passes,Karl,1271,13,4,Brasil de Pelotas
+192645,2,Passes,Léo Ferraz,1271,1,0,Brasil de Pelotas
+192645,2,Passes,Luiz Meneses,1271,10,3,Brasil de Pelotas
+192645,2,Passes,Luizinho,1271,14,4,Brasil de Pelotas
+192645,2,Passes,Marcelinho,1271,27,4,Brasil de Pelotas
+192645,2,Passes,Marcelo,1271,9,0,Brasil de Pelotas
+192645,2,Passes,Marllon,1271,15,1,Brasil de Pelotas
+192645,2,Passes,Paulo Victor,1271,9,2,Brasil de Pelotas
+192645,2,Passes,Ruan Costa,1271,6,0,Brasil de Pelotas
+192645,2,Passes,Thiago dos Santos,1271,14,1,Brasil de Pelotas
+192645,3,Finalizações,Carlos Alexandre,1389,1,1,Ypiranga
+192645,3,Finalizações,Erick Samuel,1389,2,0,Ypiranga
+192645,3,Finalizações,Falcão,1389,0,1,Ypiranga
+192645,3,Finalizações,Gedeílson,1389,0,2,Ypiranga
+192645,3,Finalizações,Hugo Almeida,1389,2,2,Ypiranga
+192645,3,Finalizações,Marcelinho,1389,0,1,Ypiranga
+192645,3,Finalizações,Matheusinho,1389,2,1,Ypiranga
+192645,3,Finalizações,Vitinho,1389,0,1,Ypiranga
+192645,3,Finalizações,Karl,1271,0,1,Brasil de Pelotas
+192645,3,Finalizações,Luiz Meneses,1271,0,1,Brasil de Pelotas
+192645,3,Finalizações,Luizinho,1271,2,0,Brasil de Pelotas
+192645,3,Finalizações,Marcelinho,1271,0,1,Brasil de Pelotas
+192645,3,Finalizações,Marllon,1271,3,2,Brasil de Pelotas
+192645,3,Finalizações,Thiago dos Santos,1271,0,1,Brasil de Pelotas
+192645,5,Desarmes,Bruno Bispo,1389,2,1,Ypiranga
+192645,5,Desarmes,Diego Porfirio,1389,1,0,Ypiranga
+192645,5,Desarmes,Erick Samuel,1389,1,1,Ypiranga
+192645,5,Desarmes,Falcão,1389,1,1,Ypiranga
+192645,5,Desarmes,Marcelinho,1389,1,0,Ypiranga
+192645,5,Desarmes,Matheusinho,1389,1,0,Ypiranga
+192645,5,Desarmes,Bruno Paulo,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Fernando Fonseca,1271,2,0,Brasil de Pelotas
+192645,5,Desarmes,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Henrique Ávila,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Karl,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Luiz Meneses,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Luizinho,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Marcelinho,1271,2,0,Brasil de Pelotas
+192645,5,Desarmes,Marllon,1271,2,1,Brasil de Pelotas
+192645,5,Desarmes,Paulo Victor,1271,1,0,Brasil de Pelotas
+192645,5,Desarmes,Thiago dos Santos,1271,0,1,Brasil de Pelotas
+192645,14,Cruzamentos,Diego Porfirio,1389,0,3,Ypiranga
+192645,14,Cruzamentos,Erick Samuel,1389,1,1,Ypiranga
+192645,14,Cruzamentos,Gedeílson,1389,2,1,Ypiranga
+192645,14,Cruzamentos,John Lennon,1389,0,1,Ypiranga
+192645,14,Cruzamentos,Marcelinho,1389,1,4,Ypiranga
+192645,14,Cruzamentos,Matheusinho,1389,1,4,Ypiranga
+192645,14,Cruzamentos,Henrique Ávila,1271,0,3,Brasil de Pelotas
+192645,14,Cruzamentos,Luizinho,1271,1,1,Brasil de Pelotas
+192645,14,Cruzamentos,Marcelinho,1271,2,4,Brasil de Pelotas
+192645,14,Cruzamentos,Marllon,1271,0,2,Brasil de Pelotas
+192645,14,Cruzamentos,Thiago dos Santos,1271,0,1,Brasil de Pelotas
+192645,1,Lançamentos,Bruno Bispo,1389,1,0,Ypiranga
+192645,1,Lançamentos,Carlos Alexandre,1389,2,4,Ypiranga
+192645,1,Lançamentos,Edson,1389,1,5,Ypiranga
+192645,1,Lançamentos,Falcão,1389,1,1,Ypiranga
+192645,1,Lançamentos,Lorran Rosendo,1389,0,1,Ypiranga
+192645,1,Lançamentos,Marcelinho,1389,2,3,Ypiranga
+192645,1,Lançamentos,Matheusinho,1389,1,1,Ypiranga
+192645,1,Lançamentos,Fernando Fonseca,1271,1,6,Brasil de Pelotas
+192645,1,Lançamentos,Gabriel Araújo,1271,1,1,Brasil de Pelotas
+192645,1,Lançamentos,Helerson Mateus,1271,0,5,Brasil de Pelotas
+192645,1,Lançamentos,Henrique Ávila,1271,0,2,Brasil de Pelotas
+192645,1,Lançamentos,Karl,1271,1,3,Brasil de Pelotas
+192645,1,Lançamentos,Luiz Meneses,1271,0,1,Brasil de Pelotas
+192645,1,Lançamentos,Marcelo,1271,4,5,Brasil de Pelotas
+192645,1,Lançamentos,Marllon,1271,2,2,Brasil de Pelotas
+192645,1,Lançamentos,Thiago dos Santos,1271,0,1,Brasil de Pelotas
+192645,1,Lançamentos,Bruno Bispo,1389,1,0,Ypiranga
+192645,1,Lançamentos,Carlos Alexandre,1389,2,4,Ypiranga
+192645,1,Lançamentos,Edson,1389,1,5,Ypiranga
+192645,1,Lançamentos,Falcão,1389,1,1,Ypiranga
+192645,1,Lançamentos,Lorran Rosendo,1389,0,1,Ypiranga
+192645,1,Lançamentos,Marcelinho,1389,2,3,Ypiranga
+192645,1,Lançamentos,Matheusinho,1389,1,1,Ypiranga
+192645,1,Lançamentos,Fernando Fonseca,1271,1,6,Brasil de Pelotas
+192645,1,Lançamentos,Gabriel Araújo,1271,1,1,Brasil de Pelotas
+192645,1,Lançamentos,Helerson Mateus,1271,0,5,Brasil de Pelotas
+192645,1,Lançamentos,Henrique Ávila,1271,0,2,Brasil de Pelotas
+192645,1,Lançamentos,Karl,1271,1,3,Brasil de Pelotas
+192645,1,Lançamentos,Luiz Meneses,1271,0,1,Brasil de Pelotas
+192645,1,Lançamentos,Marcelo,1271,4,5,Brasil de Pelotas
+192645,1,Lançamentos,Marllon,1271,2,2,Brasil de Pelotas
+192645,1,Lançamentos,Thiago dos Santos,1271,0,1,Brasil de Pelotas
+192645,24,Interceptações,Luizinho,1271,0,1,Brasil de Pelotas
+192645,24,Interceptações,Paulo Victor,1271,0,1,Brasil de Pelotas
+192645,4,Dribles,Diego Porfirio,1389,1,1,Ypiranga
+192645,4,Dribles,Gedeílson,1389,0,1,Ypiranga
+192645,4,Dribles,John Lennon,1389,1,0,Ypiranga
+192645,4,Dribles,Marcelinho,1389,2,0,Ypiranga
+192645,4,Dribles,Matheusinho,1389,2,0,Ypiranga
+192645,4,Dribles,Gabriel Araújo,1271,0,1,Brasil de Pelotas
+192645,4,Dribles,Henrique Ávila,1271,1,0,Brasil de Pelotas
+192645,4,Dribles,Luizinho,1271,3,1,Brasil de Pelotas
+192645,4,Dribles,Marcelinho,1271,1,0,Brasil de Pelotas
+192645,4,Dribles,Marllon,1271,1,0,Brasil de Pelotas
+192645,4,Dribles,Paulo Victor,1271,1,0,Brasil de Pelotas
+192645,22,Viradas de jogo,Bruno Bispo,1389,1,0,Ypiranga
+192645,22,Viradas de jogo,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,22,Viradas de jogo,Joanderson,1271,0,1,Brasil de Pelotas
+192645,22,Viradas de jogo,Karl,1271,1,0,Brasil de Pelotas
+192645,22,Viradas de jogo,Marcelinho,1271,0,1,Brasil de Pelotas
+192645,22,Viradas de jogo,Marllon,1271,1,1,Brasil de Pelotas
+192645,20,Posse de bola,Bruno Bispo,1389,182,0,Ypiranga
+192645,20,Posse de bola,Carlos Alexandre,1389,150,0,Ypiranga
+192645,20,Posse de bola,Diego Porfirio,1389,115,0,Ypiranga
+192645,20,Posse de bola,Edson,1389,170,0,Ypiranga
+192645,20,Posse de bola,Erick Samuel,1389,42,0,Ypiranga
+192645,20,Posse de bola,Falcão,1389,77,0,Ypiranga
+192645,20,Posse de bola,Gedeílson,1389,87,0,Ypiranga
+192645,20,Posse de bola,Hugo Almeida,1389,44,0,Ypiranga
+192645,20,Posse de bola,Jefferson,1389,6,0,Ypiranga
+192645,20,Posse de bola,John Lennon,1389,17,0,Ypiranga
+192645,20,Posse de bola,Lorran Rosendo,1389,96,0,Ypiranga
+192645,20,Posse de bola,Marcão,1389,2,0,Ypiranga
+192645,20,Posse de bola,Marcelinho,1389,95,0,Ypiranga
+192645,20,Posse de bola,Matheusinho,1389,97,0,Ypiranga
+192645,20,Posse de bola,Vitinho,1389,23,0,Ypiranga
+192645,20,Posse de bola,Bruno Paulo,1271,16,0,Brasil de Pelotas
+192645,20,Posse de bola,Fernando Fonseca,1271,84,0,Brasil de Pelotas
+192645,20,Posse de bola,Gabriel Araújo,1271,46,0,Brasil de Pelotas
+192645,20,Posse de bola,Helerson Mateus,1271,78,0,Brasil de Pelotas
+192645,20,Posse de bola,Henrique Ávila,1271,98,0,Brasil de Pelotas
+192645,20,Posse de bola,Joanderson,1271,12,0,Brasil de Pelotas
+192645,20,Posse de bola,Karl,1271,69,0,Brasil de Pelotas
+192645,20,Posse de bola,Léo Ferraz,1271,2,0,Brasil de Pelotas
+192645,20,Posse de bola,Luiz Meneses,1271,44,0,Brasil de Pelotas
+192645,20,Posse de bola,Luizinho,1271,83,0,Brasil de Pelotas
+192645,20,Posse de bola,Marcelinho,1271,124,0,Brasil de Pelotas
+192645,20,Posse de bola,Marcelo,1271,61,0,Brasil de Pelotas
+192645,20,Posse de bola,Marllon,1271,80,0,Brasil de Pelotas
+192645,20,Posse de bola,Paulo Victor,1271,38,0,Brasil de Pelotas
+192645,20,Posse de bola,Ruan Costa,1271,18,0,Brasil de Pelotas
+192645,20,Posse de bola,Thiago dos Santos,1271,42,0,Brasil de Pelotas
+192645,8,Gols,Erick Samuel,1389,2,0,Ypiranga
+192645,8,Gols,Hugo Almeida,1389,1,0,Ypiranga
+192645,8,Gols,Luizinho,1271,1,0,Brasil de Pelotas
+192645,28,Assistências para finalização,Bruno Bispo,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Diego Porfirio,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Erick Samuel,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Falcão,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Gedeílson,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Hugo Almeida,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Lorran Rosendo,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Marcelinho,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Matheusinho,1389,1,0,Ypiranga
+192645,28,Assistências para finalização,Léo Ferraz,1271,1,0,Brasil de Pelotas
+192645,28,Assistências para finalização,Luizinho,1271,1,0,Brasil de Pelotas
+192645,28,Assistências para finalização,Marcelinho,1271,1,0,Brasil de Pelotas
+192645,28,Assistências para finalização,Marllon,1271,2,0,Brasil de Pelotas
+192645,28,Assistências para finalização,Thiago dos Santos,1271,1,0,Brasil de Pelotas
+192645,27,Assistências,Gedeílson,1389,1,0,Ypiranga
+192645,27,Assistências,Lorran Rosendo,1389,1,0,Ypiranga
+192645,27,Assistências,Thiago dos Santos,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Edson,1389,3,0,Ypiranga
+192645,15,Defesas,Fernando Fonseca,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Helerson Mateus,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Marcelo,1271,2,0,Brasil de Pelotas
+192645,15,Defesas,Ruan Costa,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Edson,1389,3,0,Ypiranga
+192645,15,Defesas,Fernando Fonseca,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Helerson Mateus,1271,1,0,Brasil de Pelotas
+192645,15,Defesas,Marcelo,1271,2,0,Brasil de Pelotas
+192645,15,Defesas,Ruan Costa,1271,1,0,Brasil de Pelotas
+192645,23,Defesas difíceis,Marcelo,1271,2,0,Brasil de Pelotas
+192645,19,Rebatidas,Bruno Bispo,1389,8,0,Ypiranga
+192645,19,Rebatidas,Carlos Alexandre,1389,5,0,Ypiranga
+192645,19,Rebatidas,Diego Porfirio,1389,4,0,Ypiranga
+192645,19,Rebatidas,Erick Samuel,1389,1,0,Ypiranga
+192645,19,Rebatidas,Falcão,1389,2,0,Ypiranga
+192645,19,Rebatidas,Gedeílson,1389,3,0,Ypiranga
+192645,19,Rebatidas,Lorran Rosendo,1389,2,0,Ypiranga
+192645,19,Rebatidas,Marcão,1389,1,0,Ypiranga
+192645,19,Rebatidas,Marcelinho,1389,1,0,Ypiranga
+192645,19,Rebatidas,Fernando Fonseca,1271,5,0,Brasil de Pelotas
+192645,19,Rebatidas,Gabriel Araújo,1271,5,0,Brasil de Pelotas
+192645,19,Rebatidas,Helerson Mateus,1271,13,0,Brasil de Pelotas
+192645,19,Rebatidas,Henrique Ávila,1271,2,0,Brasil de Pelotas
+192645,19,Rebatidas,Karl,1271,3,0,Brasil de Pelotas
+192645,19,Rebatidas,Luiz Meneses,1271,1,0,Brasil de Pelotas
+192645,19,Rebatidas,Marcelinho,1271,5,0,Brasil de Pelotas
+192645,19,Rebatidas,Marcelo,1271,3,0,Brasil de Pelotas
+192645,19,Rebatidas,Ruan Costa,1271,1,0,Brasil de Pelotas
+192645,19,Rebatidas,Thiago dos Santos,1271,1,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Erick Samuel,1389,1,0,Ypiranga
+192645,6,Faltas cometidas,Falcão,1389,4,0,Ypiranga
+192645,6,Faltas cometidas,Hugo Almeida,1389,1,0,Ypiranga
+192645,6,Faltas cometidas,John Lennon,1389,1,0,Ypiranga
+192645,6,Faltas cometidas,Marcelinho,1389,4,0,Ypiranga
+192645,6,Faltas cometidas,Matheusinho,1389,4,0,Ypiranga
+192645,6,Faltas cometidas,Vitinho,1389,1,0,Ypiranga
+192645,6,Faltas cometidas,Bruno Paulo,1271,1,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Henrique Ávila,1271,1,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Luizinho,1271,1,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Marllon,1271,2,0,Brasil de Pelotas
+192645,6,Faltas cometidas,Paulo Victor,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Bruno Bispo,1389,2,0,Ypiranga
+192645,7,Faltas sofridas,Falcão,1389,3,0,Ypiranga
+192645,7,Faltas sofridas,Marcelinho,1389,1,0,Ypiranga
+192645,7,Faltas sofridas,Bruno Paulo,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Henrique Ávila,1271,3,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Karl,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Luiz Meneses,1271,3,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Luizinho,1271,2,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Marcelinho,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Marllon,1271,1,0,Brasil de Pelotas
+192645,7,Faltas sofridas,Ruan Costa,1271,1,0,Brasil de Pelotas
+192645,9,Impedimentos,Diego Porfirio,1389,1,0,Ypiranga
+192645,9,Impedimentos,Hugo Almeida,1389,1,0,Ypiranga
+192645,9,Impedimentos,Joanderson,1271,1,0,Brasil de Pelotas
+192645,9,Impedimentos,Thiago dos Santos,1271,1,0,Brasil de Pelotas
+192645,9,Impedimentos,Diego Porfirio,1389,1,0,Ypiranga
+192645,9,Impedimentos,Hugo Almeida,1389,1,0,Ypiranga
+192645,9,Impedimentos,Joanderson,1271,1,0,Brasil de Pelotas
+192645,9,Impedimentos,Thiago dos Santos,1271,1,0,Brasil de Pelotas
+192645,11,Pênaltis,Luizinho,1271,1,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Diego Porfirio,1389,4,0,Ypiranga
+192645,12,Perda da posse de bola,Erick Samuel,1389,2,0,Ypiranga
+192645,12,Perda da posse de bola,Falcão,1389,1,0,Ypiranga
+192645,12,Perda da posse de bola,Gedeílson,1389,3,0,Ypiranga
+192645,12,Perda da posse de bola,Hugo Almeida,1389,2,0,Ypiranga
+192645,12,Perda da posse de bola,Jefferson,1389,1,0,Ypiranga
+192645,12,Perda da posse de bola,John Lennon,1389,1,0,Ypiranga
+192645,12,Perda da posse de bola,Marcelinho,1389,1,0,Ypiranga
+192645,12,Perda da posse de bola,Matheusinho,1389,3,0,Ypiranga
+192645,12,Perda da posse de bola,Vitinho,1389,1,0,Ypiranga
+192645,12,Perda da posse de bola,Bruno Paulo,1271,2,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Helerson Mateus,1271,1,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Henrique Ávila,1271,2,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Karl,1271,2,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Luiz Meneses,1271,2,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Luizinho,1271,6,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Marcelinho,1271,4,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Marcelo,1271,1,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Marllon,1271,2,0,Brasil de Pelotas
+192645,12,Perda da posse de bola,Paulo Victor,1271,3,0,Brasil de Pelotas
+192645,25,Cartões amarelos,Hugo Almeida,1389,1,0,Ypiranga
+192645,25,Cartões amarelos,Marcelinho,1389,1,0,Ypiranga
+192645,25,Cartões amarelos,Matheusinho,1389,1,0,Ypiranga
+192645,25,Cartões amarelos,Fernando Fonseca,1271,1,0,Brasil de Pelotas
+192645,25,Cartões amarelos,Gabriel Araújo,1271,1,0,Brasil de Pelotas
+192645,25,Cartões amarelos,Marcelo,1271,1,0,Brasil de Pelotas
+192645,25,Cartões amarelos,Marllon,1271,1,0,Brasil de Pelotas
+192646,2,Passes,Bitello,1083,20,1,Grêmio
+192646,2,Passes,Brenno,1083,5,0,Grêmio
+192646,2,Passes,Bruno Alves,1083,3,0,Grêmio
+192646,2,Passes,Diego Souza ,1083,8,5,Grêmio
+192646,2,Passes,Elias,1083,3,3,Grêmio
+192646,2,Passes,Ferreira,1083,4,2,Grêmio
+192646,2,Passes,Gabriel Silva,1083,3,2,Grêmio
+192646,2,Passes,Jaminton Campaz,1083,12,6,Grêmio
+192646,2,Passes,Janderson,1083,1,0,Grêmio
+192646,2,Passes,Lucas Silva,1083,18,0,Grêmio
+192646,2,Passes,Mateus Sarará,1083,4,1,Grêmio
+192646,2,Passes,Nicolas,1083,22,9,Grêmio
+192646,2,Passes,Pedro Geromel,1083,9,0,Grêmio
+192646,2,Passes,Rodrigues,1083,12,3,Grêmio
+192646,2,Passes,Thiago Santos,1083,6,5,Grêmio
+192646,2,Passes,Bruno Méndez,1018,61,1,Internacional
+192646,2,Passes,Caio,1018,11,1,Internacional
+192646,2,Passes,Daniel,1018,15,0,Internacional
+192646,2,Passes,David,1018,15,2,Internacional
+192646,2,Passes,Edenílson,1018,50,10,Internacional
+192646,2,Passes,Fabricio Bustos,1018,43,3,Internacional
+192646,2,Passes,Gabriel,1018,92,2,Internacional
+192646,2,Passes,Johnny,1018,2,0,Internacional
+192646,2,Passes,Kaique Rocha,1018,53,0,Internacional
+192646,2,Passes,Liziero,1018,81,3,Internacional
+192646,2,Passes,Matheus Cadorini,1018,2,0,Internacional
+192646,2,Passes,Mauricio,1018,45,2,Internacional
+192646,2,Passes,Taison,1018,46,3,Internacional
+192646,2,Passes,Wesley,1018,19,0,Internacional
+192646,3,Finalizações,Bitello,1083,0,1,Grêmio
+192646,3,Finalizações,Bruno Alves,1083,1,0,Grêmio
+192646,3,Finalizações,Ferreira,1083,1,1,Grêmio
+192646,3,Finalizações,Jaminton Campaz,1083,0,4,Grêmio
+192646,3,Finalizações,Nicolas,1083,1,0,Grêmio
+192646,3,Finalizações,Caio,1018,0,2,Internacional
+192646,3,Finalizações,David,1018,1,0,Internacional
+192646,3,Finalizações,Edenílson,1018,1,0,Internacional
+192646,3,Finalizações,Fabricio Bustos,1018,1,1,Internacional
+192646,3,Finalizações,Gabriel,1018,0,2,Internacional
+192646,3,Finalizações,Mauricio,1018,1,0,Internacional
+192646,3,Finalizações,Taison,1018,2,3,Internacional
+192646,3,Finalizações,Wesley,1018,0,1,Internacional
+192646,5,Desarmes,Bitello,1083,1,0,Grêmio
+192646,5,Desarmes,Elias,1083,1,0,Grêmio
+192646,5,Desarmes,Jaminton Campaz,1083,1,0,Grêmio
+192646,5,Desarmes,Lucas Silva,1083,0,1,Grêmio
+192646,5,Desarmes,Pedro Geromel,1083,1,0,Grêmio
+192646,5,Desarmes,Rodrigues,1083,1,1,Grêmio
+192646,5,Desarmes,Thiago Santos,1083,1,0,Grêmio
+192646,5,Desarmes,Bruno Méndez,1018,3,0,Internacional
+192646,5,Desarmes,Caio,1018,3,0,Internacional
+192646,5,Desarmes,Edenílson,1018,1,0,Internacional
+192646,5,Desarmes,Fabricio Bustos,1018,2,0,Internacional
+192646,5,Desarmes,Gabriel,1018,2,0,Internacional
+192646,5,Desarmes,Kaique Rocha,1018,1,0,Internacional
+192646,5,Desarmes,Liziero,1018,1,0,Internacional
+192646,5,Desarmes,Matheus Cadorini,1018,1,0,Internacional
+192646,5,Desarmes,Mauricio,1018,1,0,Internacional
+192646,5,Desarmes,Taison,1018,1,0,Internacional
+192646,14,Cruzamentos,Bitello,1083,0,1,Grêmio
+192646,14,Cruzamentos,Diego Souza ,1083,0,1,Grêmio
+192646,14,Cruzamentos,Elias,1083,0,1,Grêmio
+192646,14,Cruzamentos,Jaminton Campaz,1083,1,3,Grêmio
+192646,14,Cruzamentos,Mateus Sarará,1083,0,1,Grêmio
+192646,14,Cruzamentos,Nicolas,1083,2,1,Grêmio
+192646,14,Cruzamentos,Rodrigues,1083,0,2,Grêmio
+192646,14,Cruzamentos,Caio,1018,1,2,Internacional
+192646,14,Cruzamentos,Edenílson,1018,2,5,Internacional
+192646,14,Cruzamentos,Fabricio Bustos,1018,1,4,Internacional
+192646,14,Cruzamentos,Gustavo Maia,1018,0,1,Internacional
+192646,14,Cruzamentos,Liziero,1018,1,7,Internacional
+192646,14,Cruzamentos,Mauricio,1018,2,7,Internacional
+192646,14,Cruzamentos,Taison,1018,0,3,Internacional
+192646,1,Lançamentos,Brenno,1083,4,8,Grêmio
+192646,1,Lançamentos,Bruno Alves,1083,0,3,Grêmio
+192646,1,Lançamentos,Diego Souza ,1083,0,1,Grêmio
+192646,1,Lançamentos,Ferreira,1083,0,1,Grêmio
+192646,1,Lançamentos,Jaminton Campaz,1083,2,1,Grêmio
+192646,1,Lançamentos,Lucas Silva,1083,3,0,Grêmio
+192646,1,Lançamentos,Nicolas,1083,2,1,Grêmio
+192646,1,Lançamentos,Pedro Geromel,1083,1,2,Grêmio
+192646,1,Lançamentos,Rodrigues,1083,1,0,Grêmio
+192646,1,Lançamentos,Thiago Santos,1083,2,0,Grêmio
+192646,1,Lançamentos,Daniel,1018,0,2,Internacional
+192646,1,Lançamentos,Edenílson,1018,2,2,Internacional
+192646,1,Lançamentos,Fabricio Bustos,1018,6,2,Internacional
+192646,1,Lançamentos,Gabriel,1018,1,1,Internacional
+192646,1,Lançamentos,Liziero,1018,0,1,Internacional
+192646,1,Lançamentos,Mauricio,1018,0,1,Internacional
+192646,1,Lançamentos,Wesley,1018,1,0,Internacional
+192646,24,Interceptações,Bitello,1083,1,0,Grêmio
+192646,24,Interceptações,Lucas Silva,1083,1,0,Grêmio
+192646,24,Interceptações,Pedro Geromel,1083,0,1,Grêmio
+192646,24,Interceptações,Thiago Santos,1083,1,0,Grêmio
+192646,24,Interceptações,Bruno Méndez,1018,0,1,Internacional
+192646,24,Interceptações,Gabriel,1018,1,0,Internacional
+192646,24,Interceptações,Kaique Rocha,1018,1,0,Internacional
+192646,4,Dribles,Diego Souza ,1083,1,0,Grêmio
+192646,4,Dribles,Elias,1083,1,0,Grêmio
+192646,4,Dribles,Ferreira,1083,1,0,Grêmio
+192646,4,Dribles,Gabriel Silva,1083,0,1,Grêmio
+192646,4,Dribles,Jaminton Campaz,1083,2,0,Grêmio
+192646,4,Dribles,Lucas Silva,1083,2,0,Grêmio
+192646,4,Dribles,Nicolas,1083,2,0,Grêmio
+192646,4,Dribles,Caio,1018,1,1,Internacional
+192646,4,Dribles,Edenílson,1018,2,0,Internacional
+192646,4,Dribles,Fabricio Bustos,1018,1,0,Internacional
+192646,4,Dribles,Johnny,1018,1,0,Internacional
+192646,4,Dribles,Kaique Rocha,1018,1,0,Internacional
+192646,4,Dribles,Liziero,1018,1,0,Internacional
+192646,4,Dribles,Mauricio,1018,2,0,Internacional
+192646,4,Dribles,Taison,1018,0,3,Internacional
+192646,4,Dribles,Wesley,1018,2,0,Internacional
+192646,22,Viradas de jogo,Jaminton Campaz,1083,1,0,Grêmio
+192646,22,Viradas de jogo,Lucas Silva,1083,1,0,Grêmio
+192646,22,Viradas de jogo,Bruno Méndez,1018,2,1,Internacional
+192646,22,Viradas de jogo,Edenílson,1018,2,1,Internacional
+192646,22,Viradas de jogo,Fabricio Bustos,1018,0,1,Internacional
+192646,22,Viradas de jogo,Gabriel,1018,4,0,Internacional
+192646,22,Viradas de jogo,Liziero,1018,0,1,Internacional
+192646,22,Viradas de jogo,Mauricio,1018,2,1,Internacional
+192646,22,Viradas de jogo,Taison,1018,1,0,Internacional
+192646,20,Posse de bola,Bitello,1083,70,0,Grêmio
+192646,20,Posse de bola,Brenno,1083,156,0,Grêmio
+192646,20,Posse de bola,Bruno Alves,1083,32,0,Grêmio
+192646,20,Posse de bola,Diego Souza ,1083,46,0,Grêmio
+192646,20,Posse de bola,Elias,1083,37,0,Grêmio
+192646,20,Posse de bola,Fernando Henrique,1083,2,0,Grêmio
+192646,20,Posse de bola,Ferreira,1083,34,0,Grêmio
+192646,20,Posse de bola,Gabriel Silva,1083,18,0,Grêmio
+192646,20,Posse de bola,Jaminton Campaz,1083,111,0,Grêmio
+192646,20,Posse de bola,Janderson,1083,2,0,Grêmio
+192646,20,Posse de bola,Lucas Silva,1083,78,0,Grêmio
+192646,20,Posse de bola,Mateus Sarará,1083,16,0,Grêmio
+192646,20,Posse de bola,Nicolas,1083,107,0,Grêmio
+192646,20,Posse de bola,Pedro Geromel,1083,55,0,Grêmio
+192646,20,Posse de bola,Rodrigues,1083,74,0,Grêmio
+192646,20,Posse de bola,Thiago Santos,1083,52,0,Grêmio
+192646,20,Posse de bola,Bruno Méndez,1018,185,0,Internacional
+192646,20,Posse de bola,Caio,1018,83,0,Internacional
+192646,20,Posse de bola,Daniel,1018,57,0,Internacional
+192646,20,Posse de bola,David,1018,64,0,Internacional
+192646,20,Posse de bola,Edenílson,1018,181,0,Internacional
+192646,20,Posse de bola,Fabricio Bustos,1018,175,0,Internacional
+192646,20,Posse de bola,Gabriel,1018,238,0,Internacional
+192646,20,Posse de bola,Gustavo Maia,1018,2,0,Internacional
+192646,20,Posse de bola,Johnny,1018,10,0,Internacional
+192646,20,Posse de bola,Kaique Rocha,1018,136,0,Internacional
+192646,20,Posse de bola,Liziero,1018,245,0,Internacional
+192646,20,Posse de bola,Matheus Cadorini,1018,6,0,Internacional
+192646,20,Posse de bola,Mauricio,1018,168,0,Internacional
+192646,20,Posse de bola,Taison,1018,153,0,Internacional
+192646,20,Posse de bola,Wesley,1018,50,0,Internacional
+192646,20,Posse de bola,Bitello,1083,70,0,Grêmio
+192646,20,Posse de bola,Brenno,1083,156,0,Grêmio
+192646,20,Posse de bola,Bruno Alves,1083,32,0,Grêmio
+192646,20,Posse de bola,Diego Souza ,1083,46,0,Grêmio
+192646,20,Posse de bola,Elias,1083,37,0,Grêmio
+192646,20,Posse de bola,Fernando Henrique,1083,2,0,Grêmio
+192646,20,Posse de bola,Ferreira,1083,34,0,Grêmio
+192646,20,Posse de bola,Gabriel Silva,1083,18,0,Grêmio
+192646,20,Posse de bola,Jaminton Campaz,1083,111,0,Grêmio
+192646,20,Posse de bola,Janderson,1083,2,0,Grêmio
+192646,20,Posse de bola,Lucas Silva,1083,78,0,Grêmio
+192646,20,Posse de bola,Mateus Sarará,1083,16,0,Grêmio
+192646,20,Posse de bola,Nicolas,1083,107,0,Grêmio
+192646,20,Posse de bola,Pedro Geromel,1083,55,0,Grêmio
+192646,20,Posse de bola,Rodrigues,1083,74,0,Grêmio
+192646,20,Posse de bola,Thiago Santos,1083,52,0,Grêmio
+192646,20,Posse de bola,Bruno Méndez,1018,185,0,Internacional
+192646,20,Posse de bola,Caio,1018,83,0,Internacional
+192646,20,Posse de bola,Daniel,1018,57,0,Internacional
+192646,20,Posse de bola,David,1018,64,0,Internacional
+192646,20,Posse de bola,Edenílson,1018,181,0,Internacional
+192646,20,Posse de bola,Fabricio Bustos,1018,175,0,Internacional
+192646,20,Posse de bola,Gabriel,1018,238,0,Internacional
+192646,20,Posse de bola,Gustavo Maia,1018,2,0,Internacional
+192646,20,Posse de bola,Johnny,1018,10,0,Internacional
+192646,20,Posse de bola,Kaique Rocha,1018,136,0,Internacional
+192646,20,Posse de bola,Liziero,1018,245,0,Internacional
+192646,20,Posse de bola,Matheus Cadorini,1018,6,0,Internacional
+192646,20,Posse de bola,Mauricio,1018,168,0,Internacional
+192646,20,Posse de bola,Taison,1018,153,0,Internacional
+192646,20,Posse de bola,Wesley,1018,50,0,Internacional
+192646,8,Gols,Taison,1018,1,0,Internacional
+192646,28,Assistências para finalização,Bitello,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Gabriel Silva,1083,2,0,Grêmio
+192646,28,Assistências para finalização,Jaminton Campaz,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Lucas Silva,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Nicolas,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Rodrigues,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Thiago Santos,1083,1,0,Grêmio
+192646,28,Assistências para finalização,Caio,1018,1,0,Internacional
+192646,28,Assistências para finalização,Edenílson,1018,2,0,Internacional
+192646,28,Assistências para finalização,Fabricio Bustos,1018,1,0,Internacional
+192646,28,Assistências para finalização,Gabriel,1018,1,0,Internacional
+192646,28,Assistências para finalização,Liziero,1018,2,0,Internacional
+192646,28,Assistências para finalização,Mauricio,1018,2,0,Internacional
+192646,28,Assistências para finalização,Wesley,1018,1,0,Internacional
+192646,15,Defesas,Bitello,1083,1,0,Grêmio
+192646,15,Defesas,Brenno,1083,4,0,Grêmio
+192646,15,Defesas,Bruno Alves,1083,1,0,Grêmio
+192646,15,Defesas,Pedro Geromel,1083,2,0,Grêmio
+192646,15,Defesas,Rodrigues,1083,2,0,Grêmio
+192646,15,Defesas,Daniel,1018,3,0,Internacional
+192646,23,Defesas difíceis,Brenno,1083,1,0,Grêmio
+192646,19,Rebatidas,Bitello,1083,1,0,Grêmio
+192646,19,Rebatidas,Brenno,1083,2,0,Grêmio
+192646,19,Rebatidas,Bruno Alves,1083,5,0,Grêmio
+192646,19,Rebatidas,Elias,1083,4,0,Grêmio
+192646,19,Rebatidas,Ferreira,1083,1,0,Grêmio
+192646,19,Rebatidas,Jaminton Campaz,1083,1,0,Grêmio
+192646,19,Rebatidas,Lucas Silva,1083,2,0,Grêmio
+192646,19,Rebatidas,Mateus Sarará,1083,2,0,Grêmio
+192646,19,Rebatidas,Nicolas,1083,6,0,Grêmio
+192646,19,Rebatidas,Pedro Geromel,1083,10,0,Grêmio
+192646,19,Rebatidas,Rodrigues,1083,8,0,Grêmio
+192646,19,Rebatidas,Thiago Santos,1083,7,0,Grêmio
+192646,19,Rebatidas,Bruno Méndez,1018,7,0,Internacional
+192646,19,Rebatidas,Caio,1018,1,0,Internacional
+192646,19,Rebatidas,David,1018,1,0,Internacional
+192646,19,Rebatidas,Fabricio Bustos,1018,5,0,Internacional
+192646,19,Rebatidas,Gabriel,1018,4,0,Internacional
+192646,19,Rebatidas,Kaique Rocha,1018,9,0,Internacional
+192646,19,Rebatidas,Liziero,1018,9,0,Internacional
+192646,19,Rebatidas,Mauricio,1018,3,0,Internacional
+192646,19,Rebatidas,Wesley,1018,1,0,Internacional
+192646,6,Faltas cometidas,Fernando Henrique,1083,1,0,Grêmio
+192646,6,Faltas cometidas,Ferreira,1083,1,0,Grêmio
+192646,6,Faltas cometidas,Lucas Silva,1083,1,0,Grêmio
+192646,6,Faltas cometidas,Nicolas,1083,1,0,Grêmio
+192646,6,Faltas cometidas,Rodrigues,1083,1,0,Grêmio
+192646,6,Faltas cometidas,Thiago Santos,1083,4,0,Grêmio
+192646,6,Faltas cometidas,Bruno Méndez,1018,1,0,Internacional
+192646,6,Faltas cometidas,Caio,1018,2,0,Internacional
+192646,6,Faltas cometidas,David,1018,1,0,Internacional
+192646,6,Faltas cometidas,Edenílson,1018,1,0,Internacional
+192646,6,Faltas cometidas,Fabricio Bustos,1018,2,0,Internacional
+192646,6,Faltas cometidas,Gabriel,1018,2,0,Internacional
+192646,6,Faltas cometidas,Liziero,1018,1,0,Internacional
+192646,6,Faltas cometidas,Mauricio,1018,1,0,Internacional
+192646,7,Faltas sofridas,Bitello,1083,1,0,Grêmio
+192646,7,Faltas sofridas,Brenno,1083,1,0,Grêmio
+192646,7,Faltas sofridas,Diego Souza ,1083,2,0,Grêmio
+192646,7,Faltas sofridas,Ferreira,1083,2,0,Grêmio
+192646,7,Faltas sofridas,Jaminton Campaz,1083,1,0,Grêmio
+192646,7,Faltas sofridas,Lucas Silva,1083,3,0,Grêmio
+192646,7,Faltas sofridas,Rodrigues,1083,1,0,Grêmio
+192646,7,Faltas sofridas,Caio,1018,5,0,Internacional
+192646,7,Faltas sofridas,Edenílson,1018,2,0,Internacional
+192646,7,Faltas sofridas,Johnny,1018,1,0,Internacional
+192646,7,Faltas sofridas,Mauricio,1018,1,0,Internacional
+192646,9,Impedimentos,Diego Souza ,1083,1,0,Grêmio
+192646,9,Impedimentos,Elias,1083,1,0,Grêmio
+192646,9,Impedimentos,Jaminton Campaz,1083,1,0,Grêmio
+192646,9,Impedimentos,Caio,1018,1,0,Internacional
+192646,9,Impedimentos,David,1018,1,0,Internacional
+192646,12,Perda da posse de bola,Bitello,1083,3,0,Grêmio
+192646,12,Perda da posse de bola,Bruno Alves,1083,1,0,Grêmio
+192646,12,Perda da posse de bola,Diego Souza ,1083,3,0,Grêmio
+192646,12,Perda da posse de bola,Elias,1083,3,0,Grêmio
+192646,12,Perda da posse de bola,Ferreira,1083,1,0,Grêmio
+192646,12,Perda da posse de bola,Gabriel Silva,1083,3,0,Grêmio
+192646,12,Perda da posse de bola,Jaminton Campaz,1083,5,0,Grêmio
+192646,12,Perda da posse de bola,Lucas Silva,1083,1,0,Grêmio
+192646,12,Perda da posse de bola,Rodrigues,1083,3,0,Grêmio
+192646,12,Perda da posse de bola,Bruno Méndez,1018,1,0,Internacional
+192646,12,Perda da posse de bola,Caio,1018,7,0,Internacional
+192646,12,Perda da posse de bola,David,1018,7,0,Internacional
+192646,12,Perda da posse de bola,Fabricio Bustos,1018,4,0,Internacional
+192646,12,Perda da posse de bola,Johnny,1018,1,0,Internacional
+192646,12,Perda da posse de bola,Liziero,1018,2,0,Internacional
+192646,12,Perda da posse de bola,Mauricio,1018,2,0,Internacional
+192646,12,Perda da posse de bola,Taison,1018,7,0,Internacional
+192646,12,Perda da posse de bola,Wesley,1018,1,0,Internacional
+192646,25,Cartões amarelos,Brenno,1083,1,0,Grêmio
+192646,25,Cartões amarelos,Ferreira,1083,1,0,Grêmio
+192646,25,Cartões amarelos,Nicolas,1083,1,0,Grêmio
+192646,25,Cartões amarelos,Mauricio,1018,1,0,Internacional
+192646,26,Cartões vermelhos,Ferreira,1083,1,0,Grêmio
+192646,26,Cartões vermelhos,Bruno Méndez,1018,1,0,Internacional
+192647,2,Passes,Bruno Bispo,1389,44,6,Ypiranga
+192647,2,Passes,Carlos Alexandre,1389,59,2,Ypiranga
+192647,2,Passes,Cesinha,1389,17,1,Ypiranga
+192647,2,Passes,Diego Porfirio,1389,37,4,Ypiranga
+192647,2,Passes,Edson,1389,46,1,Ypiranga
+192647,2,Passes,Erick Samuel,1389,19,4,Ypiranga
+192647,2,Passes,Falcão,1389,37,1,Ypiranga
+192647,2,Passes,Gedeílson,1389,40,4,Ypiranga
+192647,2,Passes,Guilherme Amorim,1389,4,2,Ypiranga
+192647,2,Passes,Hugo Almeida,1389,10,1,Ypiranga
+192647,2,Passes,Jefferson,1389,2,0,Ypiranga
+192647,2,Passes,Lorran Rosendo,1389,34,4,Ypiranga
+192647,2,Passes,Luiz Felipe ,1389,22,3,Ypiranga
+192647,2,Passes,Marcelinho,1389,19,4,Ypiranga
+192647,2,Passes,Robson,1389,24,1,Ypiranga
+192647,2,Passes,Bitello,1083,26,4,Grêmio
+192647,2,Passes,Brenno,1083,1,0,Grêmio
+192647,2,Passes,Bruno Alves,1083,15,1,Grêmio
+192647,2,Passes,Churín,1083,1,0,Grêmio
+192647,2,Passes,Diego Souza ,1083,15,2,Grêmio
+192647,2,Passes,Diogo Barbosa,1083,32,5,Grêmio
+192647,2,Passes,Elias,1083,11,4,Grêmio
+192647,2,Passes,Gabriel Silva,1083,1,1,Grêmio
+192647,2,Passes,Jaminton Campaz,1083,17,6,Grêmio
+192647,2,Passes,Janderson,1083,5,0,Grêmio
+192647,2,Passes,Lucas Silva,1083,22,5,Grêmio
+192647,2,Passes,Mathías Villasanti,1083,35,1,Grêmio
+192647,2,Passes,Pedro Geromel,1083,13,1,Grêmio
+192647,2,Passes,Rodrigues,1083,17,7,Grêmio
+192647,3,Finalizações,Diego Porfirio,1389,0,1,Ypiranga
+192647,3,Finalizações,Falcão,1389,1,2,Ypiranga
+192647,3,Finalizações,Hugo Almeida,1389,1,1,Ypiranga
+192647,3,Finalizações,Bitello,1083,0,1,Grêmio
+192647,3,Finalizações,Elias,1083,4,2,Grêmio
+192647,3,Finalizações,Gabriel Silva,1083,1,0,Grêmio
+192647,3,Finalizações,Jaminton Campaz,1083,3,1,Grêmio
+192647,3,Finalizações,Janderson,1083,0,1,Grêmio
+192647,3,Finalizações,Lucas Silva,1083,1,0,Grêmio
+192647,3,Finalizações,Mathías Villasanti,1083,0,1,Grêmio
+192647,5,Desarmes,Diego Porfirio,1389,2,0,Ypiranga
+192647,5,Desarmes,Erick Samuel,1389,2,0,Ypiranga
+192647,5,Desarmes,Falcão,1389,2,1,Ypiranga
+192647,5,Desarmes,Lorran Rosendo,1389,0,1,Ypiranga
+192647,5,Desarmes,Luiz Felipe ,1389,1,0,Ypiranga
+192647,5,Desarmes,Bitello,1083,3,0,Grêmio
+192647,5,Desarmes,Bruno Alves,1083,2,0,Grêmio
+192647,5,Desarmes,Churín,1083,1,0,Grêmio
+192647,5,Desarmes,Diogo Barbosa,1083,4,0,Grêmio
+192647,5,Desarmes,Jaminton Campaz,1083,2,0,Grêmio
+192647,5,Desarmes,Lucas Silva,1083,2,0,Grêmio
+192647,5,Desarmes,Mathías Villasanti,1083,7,3,Grêmio
+192647,5,Desarmes,Rodrigues,1083,2,0,Grêmio
+192647,14,Cruzamentos,Carlos Alexandre,1389,0,1,Ypiranga
+192647,14,Cruzamentos,Cesinha,1389,0,3,Ypiranga
+192647,14,Cruzamentos,Diego Porfirio,1389,0,4,Ypiranga
+192647,14,Cruzamentos,Erick Samuel,1389,0,1,Ypiranga
+192647,14,Cruzamentos,Gedeílson,1389,1,4,Ypiranga
+192647,14,Cruzamentos,Luiz Felipe ,1389,0,1,Ypiranga
+192647,14,Cruzamentos,Marcelinho,1389,0,2,Ypiranga
+192647,14,Cruzamentos,Diego Souza ,1083,0,1,Grêmio
+192647,14,Cruzamentos,Diogo Barbosa,1083,2,2,Grêmio
+192647,14,Cruzamentos,Elias,1083,1,0,Grêmio
+192647,14,Cruzamentos,Jaminton Campaz,1083,4,4,Grêmio
+192647,14,Cruzamentos,Janderson,1083,1,3,Grêmio
+192647,14,Cruzamentos,Lucas Silva,1083,0,1,Grêmio
+192647,14,Cruzamentos,Rodrigues,1083,0,2,Grêmio
+192647,1,Lançamentos,Bruno Bispo,1389,2,2,Ypiranga
+192647,1,Lançamentos,Carlos Alexandre,1389,3,8,Ypiranga
+192647,1,Lançamentos,Diego Porfirio,1389,0,1,Ypiranga
+192647,1,Lançamentos,Edson,1389,3,5,Ypiranga
+192647,1,Lançamentos,Gedeílson,1389,0,1,Ypiranga
+192647,1,Lançamentos,Guilherme Amorim,1389,0,1,Ypiranga
+192647,1,Lançamentos,Hugo Almeida,1389,0,1,Ypiranga
+192647,1,Lançamentos,Lorran Rosendo,1389,0,1,Ypiranga
+192647,1,Lançamentos,Robson,1389,1,0,Ypiranga
+192647,1,Lançamentos,Bitello,1083,2,0,Grêmio
+192647,1,Lançamentos,Brenno,1083,6,4,Grêmio
+192647,1,Lançamentos,Bruno Alves,1083,2,2,Grêmio
+192647,1,Lançamentos,Diogo Barbosa,1083,1,1,Grêmio
+192647,1,Lançamentos,Elias,1083,0,1,Grêmio
+192647,1,Lançamentos,Jaminton Campaz,1083,0,2,Grêmio
+192647,1,Lançamentos,Lucas Silva,1083,2,0,Grêmio
+192647,1,Lançamentos,Mathías Villasanti,1083,0,2,Grêmio
+192647,1,Lançamentos,Pedro Geromel,1083,0,2,Grêmio
+192647,1,Lançamentos,Rodrigues,1083,0,3,Grêmio
+192647,24,Interceptações,Falcão,1389,1,0,Ypiranga
+192647,24,Interceptações,Bitello,1083,1,0,Grêmio
+192647,24,Interceptações,Lucas Silva,1083,1,0,Grêmio
+192647,24,Interceptações,Mathías Villasanti,1083,2,0,Grêmio
+192647,4,Dribles,Carlos Alexandre,1389,1,0,Ypiranga
+192647,4,Dribles,Diego Porfirio,1389,2,0,Ypiranga
+192647,4,Dribles,Gedeílson,1389,2,0,Ypiranga
+192647,4,Dribles,Bitello,1083,2,0,Grêmio
+192647,4,Dribles,Janderson,1083,1,0,Grêmio
+192647,22,Viradas de jogo,Cesinha,1389,0,1,Ypiranga
+192647,22,Viradas de jogo,Hugo Almeida,1389,1,0,Ypiranga
+192647,22,Viradas de jogo,Robson,1389,1,0,Ypiranga
+192647,22,Viradas de jogo,Bitello,1083,1,0,Grêmio
+192647,22,Viradas de jogo,Rodrigues,1083,0,1,Grêmio
+192647,20,Posse de bola,Bruno Bispo,1389,141,0,Ypiranga
+192647,20,Posse de bola,Carlos Alexandre,1389,217,0,Ypiranga
+192647,20,Posse de bola,Cesinha,1389,59,0,Ypiranga
+192647,20,Posse de bola,Diego Porfirio,1389,127,0,Ypiranga
+192647,20,Posse de bola,Edson,1389,239,0,Ypiranga
+192647,20,Posse de bola,Erick Samuel,1389,72,0,Ypiranga
+192647,20,Posse de bola,Falcão,1389,118,0,Ypiranga
+192647,20,Posse de bola,Gabriel Rossetto,1389,2,0,Ypiranga
+192647,20,Posse de bola,Gedeílson,1389,153,0,Ypiranga
+192647,20,Posse de bola,Guilherme Amorim,1389,20,0,Ypiranga
+192647,20,Posse de bola,Hugo Almeida,1389,44,0,Ypiranga
+192647,20,Posse de bola,Jefferson,1389,8,0,Ypiranga
+192647,20,Posse de bola,Lorran Rosendo,1389,91,0,Ypiranga
+192647,20,Posse de bola,Luiz Felipe ,1389,66,0,Ypiranga
+192647,20,Posse de bola,Marcelinho,1389,64,0,Ypiranga
+192647,20,Posse de bola,Robson,1389,75,0,Ypiranga
+192647,20,Posse de bola,Bitello,1083,110,0,Grêmio
+192647,20,Posse de bola,Brenno,1083,39,0,Grêmio
+192647,20,Posse de bola,Bruno Alves,1083,68,0,Grêmio
+192647,20,Posse de bola,Churín,1083,8,0,Grêmio
+192647,20,Posse de bola,Diego Souza ,1083,38,0,Grêmio
+192647,20,Posse de bola,Diogo Barbosa,1083,136,0,Grêmio
+192647,20,Posse de bola,Elias,1083,67,0,Grêmio
+192647,20,Posse de bola,Gabriel Silva,1083,12,0,Grêmio
+192647,20,Posse de bola,Jaminton Campaz,1083,119,0,Grêmio
+192647,20,Posse de bola,Janderson,1083,37,0,Grêmio
+192647,20,Posse de bola,Lucas Silva,1083,88,0,Grêmio
+192647,20,Posse de bola,Mathías Villasanti,1083,118,0,Grêmio
+192647,20,Posse de bola,Pedro Geromel,1083,58,0,Grêmio
+192647,20,Posse de bola,Rodrigues,1083,86,0,Grêmio
+192647,20,Posse de bola,Vini Paulista,1083,2,0,Grêmio
+192647,20,Posse de bola,Bruno Bispo,1389,141,0,Ypiranga
+192647,20,Posse de bola,Carlos Alexandre,1389,217,0,Ypiranga
+192647,20,Posse de bola,Cesinha,1389,59,0,Ypiranga
+192647,20,Posse de bola,Diego Porfirio,1389,127,0,Ypiranga
+192647,20,Posse de bola,Edson,1389,239,0,Ypiranga
+192647,20,Posse de bola,Erick Samuel,1389,72,0,Ypiranga
+192647,20,Posse de bola,Falcão,1389,118,0,Ypiranga
+192647,20,Posse de bola,Gabriel Rossetto,1389,2,0,Ypiranga
+192647,20,Posse de bola,Gedeílson,1389,153,0,Ypiranga
+192647,20,Posse de bola,Guilherme Amorim,1389,20,0,Ypiranga
+192647,20,Posse de bola,Hugo Almeida,1389,44,0,Ypiranga
+192647,20,Posse de bola,Jefferson,1389,8,0,Ypiranga
+192647,20,Posse de bola,Lorran Rosendo,1389,91,0,Ypiranga
+192647,20,Posse de bola,Luiz Felipe ,1389,66,0,Ypiranga
+192647,20,Posse de bola,Marcelinho,1389,64,0,Ypiranga
+192647,20,Posse de bola,Robson,1389,75,0,Ypiranga
+192647,20,Posse de bola,Bitello,1083,110,0,Grêmio
+192647,20,Posse de bola,Brenno,1083,39,0,Grêmio
+192647,20,Posse de bola,Bruno Alves,1083,68,0,Grêmio
+192647,20,Posse de bola,Churín,1083,8,0,Grêmio
+192647,20,Posse de bola,Diego Souza ,1083,38,0,Grêmio
+192647,20,Posse de bola,Diogo Barbosa,1083,136,0,Grêmio
+192647,20,Posse de bola,Elias,1083,67,0,Grêmio
+192647,20,Posse de bola,Gabriel Silva,1083,12,0,Grêmio
+192647,20,Posse de bola,Jaminton Campaz,1083,119,0,Grêmio
+192647,20,Posse de bola,Janderson,1083,37,0,Grêmio
+192647,20,Posse de bola,Lucas Silva,1083,88,0,Grêmio
+192647,20,Posse de bola,Mathías Villasanti,1083,118,0,Grêmio
+192647,20,Posse de bola,Pedro Geromel,1083,58,0,Grêmio
+192647,20,Posse de bola,Rodrigues,1083,86,0,Grêmio
+192647,20,Posse de bola,Vini Paulista,1083,2,0,Grêmio
+192647,8,Gols,Lucas Silva,1083,1,0,Grêmio
+192647,28,Assistências para finalização,Erick Samuel,1389,2,0,Ypiranga
+192647,28,Assistências para finalização,Hugo Almeida,1389,3,0,Ypiranga
+192647,28,Assistências para finalização,Bitello,1083,6,0,Grêmio
+192647,28,Assistências para finalização,Bruno Alves,1083,1,0,Grêmio
+192647,28,Assistências para finalização,Diego Souza ,1083,1,0,Grêmio
+192647,28,Assistências para finalização,Diogo Barbosa,1083,1,0,Grêmio
+192647,28,Assistências para finalização,Jaminton Campaz,1083,4,0,Grêmio
+192647,28,Assistências para finalização,Lucas Silva,1083,1,0,Grêmio
+192647,15,Defesas,Bruno Bispo,1389,2,0,Ypiranga
+192647,15,Defesas,Edson,1389,5,0,Ypiranga
+192647,23,Defesas difíceis,Edson,1389,1,0,Ypiranga
+192647,23,Defesas difíceis,Brenno,1083,1,0,Grêmio
+192647,19,Rebatidas,Bruno Bispo,1389,5,0,Ypiranga
+192647,19,Rebatidas,Carlos Alexandre,1389,7,0,Ypiranga
+192647,19,Rebatidas,Erick Samuel,1389,1,0,Ypiranga
+192647,19,Rebatidas,Falcão,1389,4,0,Ypiranga
+192647,19,Rebatidas,Gedeílson,1389,1,0,Ypiranga
+192647,19,Rebatidas,Robson,1389,2,0,Ypiranga
+192647,19,Rebatidas,Bitello,1083,1,0,Grêmio
+192647,19,Rebatidas,Brenno,1083,2,0,Grêmio
+192647,19,Rebatidas,Bruno Alves,1083,6,0,Grêmio
+192647,19,Rebatidas,Diogo Barbosa,1083,1,0,Grêmio
+192647,19,Rebatidas,Elias,1083,1,0,Grêmio
+192647,19,Rebatidas,Gabriel Silva,1083,1,0,Grêmio
+192647,19,Rebatidas,Lucas Silva,1083,2,0,Grêmio
+192647,19,Rebatidas,Mathías Villasanti,1083,1,0,Grêmio
+192647,19,Rebatidas,Pedro Geromel,1083,11,0,Grêmio
+192647,19,Rebatidas,Rodrigues,1083,3,0,Grêmio
+192647,6,Faltas cometidas,Cesinha,1389,1,0,Ypiranga
+192647,6,Faltas cometidas,Erick Samuel,1389,1,0,Ypiranga
+192647,6,Faltas cometidas,Falcão,1389,1,0,Ypiranga
+192647,6,Faltas cometidas,Gabriel Rossetto,1389,1,0,Ypiranga
+192647,6,Faltas cometidas,Jefferson,1389,1,0,Ypiranga
+192647,6,Faltas cometidas,Lorran Rosendo,1389,2,0,Ypiranga
+192647,6,Faltas cometidas,Marcelinho,1389,3,0,Ypiranga
+192647,6,Faltas cometidas,Robson,1389,2,0,Ypiranga
+192647,6,Faltas cometidas,Bitello,1083,2,0,Grêmio
+192647,6,Faltas cometidas,Bruno Alves,1083,4,0,Grêmio
+192647,6,Faltas cometidas,Diego Souza ,1083,1,0,Grêmio
+192647,6,Faltas cometidas,Elias,1083,1,0,Grêmio
+192647,6,Faltas cometidas,Gabriel Silva,1083,1,0,Grêmio
+192647,6,Faltas cometidas,Jaminton Campaz,1083,2,0,Grêmio
+192647,6,Faltas cometidas,Lucas Silva,1083,1,0,Grêmio
+192647,6,Faltas cometidas,Mathías Villasanti,1083,3,0,Grêmio
+192647,6,Faltas cometidas,Pedro Geromel,1083,1,0,Grêmio
+192647,6,Faltas cometidas,Rodrigues,1083,1,0,Grêmio
+192647,7,Faltas sofridas,Bruno Bispo,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Carlos Alexandre,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Cesinha,1389,3,0,Ypiranga
+192647,7,Faltas sofridas,Diego Porfirio,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Erick Samuel,1389,2,0,Ypiranga
+192647,7,Faltas sofridas,Falcão,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Gedeílson,1389,2,0,Ypiranga
+192647,7,Faltas sofridas,Guilherme Amorim,1389,2,0,Ypiranga
+192647,7,Faltas sofridas,Hugo Almeida,1389,2,0,Ypiranga
+192647,7,Faltas sofridas,Luiz Felipe ,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Marcelinho,1389,1,0,Ypiranga
+192647,7,Faltas sofridas,Bitello,1083,2,0,Grêmio
+192647,7,Faltas sofridas,Bruno Alves,1083,1,0,Grêmio
+192647,7,Faltas sofridas,Diogo Barbosa,1083,1,0,Grêmio
+192647,7,Faltas sofridas,Jaminton Campaz,1083,3,0,Grêmio
+192647,7,Faltas sofridas,Janderson,1083,2,0,Grêmio
+192647,7,Faltas sofridas,Lucas Silva,1083,2,0,Grêmio
+192647,7,Faltas sofridas,Rodrigues,1083,1,0,Grêmio
+192647,11,Pênaltis,Churín,1083,1.0,0.0,Grêmio
+192647,12,Perda da posse de bola,Carlos Alexandre,1389,1,0,Ypiranga
+192647,12,Perda da posse de bola,Cesinha,1389,1,0,Ypiranga
+192647,12,Perda da posse de bola,Diego Porfirio,1389,6,0,Ypiranga
+192647,12,Perda da posse de bola,Erick Samuel,1389,5,0,Ypiranga
+192647,12,Perda da posse de bola,Falcão,1389,7,0,Ypiranga
+192647,12,Perda da posse de bola,Gedeílson,1389,3,0,Ypiranga
+192647,12,Perda da posse de bola,Hugo Almeida,1389,4,0,Ypiranga
+192647,12,Perda da posse de bola,Jefferson,1389,1,0,Ypiranga
+192647,12,Perda da posse de bola,Luiz Felipe ,1389,5,0,Ypiranga
+192647,12,Perda da posse de bola,Marcelinho,1389,3,0,Ypiranga
+192647,12,Perda da posse de bola,Robson,1389,3,0,Ypiranga
+192647,12,Perda da posse de bola,Bitello,1083,3,0,Grêmio
+192647,12,Perda da posse de bola,Bruno Alves,1083,1,0,Grêmio
+192647,12,Perda da posse de bola,Churín,1083,1,0,Grêmio
+192647,12,Perda da posse de bola,Elias,1083,4,0,Grêmio
+192647,12,Perda da posse de bola,Gabriel Silva,1083,1,0,Grêmio
+192647,12,Perda da posse de bola,Jaminton Campaz,1083,2,0,Grêmio
+192647,12,Perda da posse de bola,Janderson,1083,1,0,Grêmio
+192647,12,Perda da posse de bola,Lucas Silva,1083,2,0,Grêmio
+192647,12,Perda da posse de bola,Mathías Villasanti,1083,4,0,Grêmio
+192647,12,Perda da posse de bola,Rodrigues,1083,2,0,Grêmio
+192647,12,Perda da posse de bola,Vini Paulista,1083,1,0,Grêmio
+192647,25,Cartões amarelos,Bruno Bispo,1389,1,0,Ypiranga
+192647,25,Cartões amarelos,Edson,1389,1,0,Ypiranga
+192647,25,Cartões amarelos,Marcão,1389,1,0,Ypiranga
+192647,25,Cartões amarelos,Bitello,1083,1,0,Grêmio
+192647,25,Cartões amarelos,Pedro Geromel,1083,1,0,Grêmio
+192648,2,Passes,Bitello,1083,23,4,Grêmio
+192648,2,Passes,Brenno,1083,1,0,Grêmio
+192648,2,Passes,Bruno Alves,1083,14,0,Grêmio
+192648,2,Passes,Churín,1083,5,0,Grêmio
+192648,2,Passes,Diogo Barbosa,1083,23,10,Grêmio
+192648,2,Passes,Elias,1083,3,2,Grêmio
+192648,2,Passes,Ferreira,1083,17,4,Grêmio
+192648,2,Passes,Gabriel Silva,1083,1,1,Grêmio
+192648,2,Passes,Jaminton Campaz,1083,10,3,Grêmio
+192648,2,Passes,Janderson,1083,1,0,Grêmio
+192648,2,Passes,Lucas Silva,1083,22,7,Grêmio
+192648,2,Passes,Mathías Villasanti,1083,20,2,Grêmio
+192648,2,Passes,Pedro Geromel,1083,13,2,Grêmio
+192648,2,Passes,Rodrigues,1083,13,6,Grêmio
+192648,2,Passes,Bruno Bispo,1389,32,2,Ypiranga
+192648,2,Passes,Carlos Alexandre,1389,47,0,Ypiranga
+192648,2,Passes,Cesinha,1389,17,1,Ypiranga
+192648,2,Passes,Diego Porfirio,1389,37,5,Ypiranga
+192648,2,Passes,Edson,1389,22,1,Ypiranga
+192648,2,Passes,Erick Samuel,1389,14,1,Ypiranga
+192648,2,Passes,Falcão,1389,34,5,Ypiranga
+192648,2,Passes,Gabriel Rossetto,1389,2,0,Ypiranga
+192648,2,Passes,Gedeílson,1389,37,7,Ypiranga
+192648,2,Passes,Hugo Almeida,1389,7,1,Ypiranga
+192648,2,Passes,Jefferson,1389,3,0,Ypiranga
+192648,2,Passes,Lorran Rosendo,1389,5,2,Ypiranga
+192648,2,Passes,Marcelinho,1389,8,3,Ypiranga
+192648,2,Passes,Matheusinho,1389,13,3,Ypiranga
+192648,2,Passes,Robson,1389,19,1,Ypiranga
+192648,2,Passes,Rodrigo Carioca,1389,1,2,Ypiranga
+192648,3,Finalizações,Bitello,1083,1,0,Grêmio
+192648,3,Finalizações,Bruno Alves,1083,1,0,Grêmio
+192648,3,Finalizações,Ferreira,1083,2,0,Grêmio
+192648,3,Finalizações,Gabriel Silva,1083,0,1,Grêmio
+192648,3,Finalizações,Jaminton Campaz,1083,1,2,Grêmio
+192648,3,Finalizações,Lucas Silva,1083,0,2,Grêmio
+192648,3,Finalizações,Pedro Geromel,1083,0,1,Grêmio
+192648,3,Finalizações,Rodrigues,1083,1,0,Grêmio
+192648,3,Finalizações,Diego Porfirio,1389,0,1,Ypiranga
+192648,3,Finalizações,Erick Samuel,1389,1,2,Ypiranga
+192648,3,Finalizações,Falcão,1389,0,1,Ypiranga
+192648,3,Finalizações,Gabriel Rossetto,1389,0,1,Ypiranga
+192648,3,Finalizações,Hugo Almeida,1389,0,1,Ypiranga
+192648,3,Finalizações,Jefferson,1389,1,0,Ypiranga
+192648,5,Desarmes,Bitello,1083,1,0,Grêmio
+192648,5,Desarmes,Bruno Alves,1083,1,0,Grêmio
+192648,5,Desarmes,Diogo Barbosa,1083,3,0,Grêmio
+192648,5,Desarmes,Ferreira,1083,1,0,Grêmio
+192648,5,Desarmes,Jaminton Campaz,1083,2,0,Grêmio
+192648,5,Desarmes,Mathías Villasanti,1083,3,0,Grêmio
+192648,5,Desarmes,Pedro Geromel,1083,1,2,Grêmio
+192648,5,Desarmes,Rodrigues,1083,2,0,Grêmio
+192648,5,Desarmes,Carlos Alexandre,1389,1,0,Ypiranga
+192648,5,Desarmes,Cesinha,1389,1,0,Ypiranga
+192648,5,Desarmes,Edson,1389,1,0,Ypiranga
+192648,5,Desarmes,Erick Samuel,1389,1,0,Ypiranga
+192648,5,Desarmes,Gedeílson,1389,1,0,Ypiranga
+192648,5,Desarmes,Matheusinho,1389,1,0,Ypiranga
+192648,5,Desarmes,Robson,1389,1,0,Ypiranga
+192648,14,Cruzamentos,Elias,1083,1,0,Grêmio
+192648,14,Cruzamentos,Ferreira,1083,0,4,Grêmio
+192648,14,Cruzamentos,Jaminton Campaz,1083,0,1,Grêmio
+192648,14,Cruzamentos,Janderson,1083,0,2,Grêmio
+192648,14,Cruzamentos,Mathías Villasanti,1083,0,3,Grêmio
+192648,14,Cruzamentos,Rodrigues,1083,1,1,Grêmio
+192648,14,Cruzamentos,Carlos Alexandre,1389,0,1,Ypiranga
+192648,14,Cruzamentos,Cesinha,1389,0,3,Ypiranga
+192648,14,Cruzamentos,Diego Porfirio,1389,0,1,Ypiranga
+192648,14,Cruzamentos,Erick Samuel,1389,0,1,Ypiranga
+192648,14,Cruzamentos,Gedeílson,1389,2,1,Ypiranga
+192648,14,Cruzamentos,Jefferson,1389,0,1,Ypiranga
+192648,14,Cruzamentos,Marcelinho,1389,1,0,Ypiranga
+192648,14,Cruzamentos,Matheusinho,1389,0,2,Ypiranga
+192648,14,Cruzamentos,Rodrigo Carioca,1389,0,1,Ypiranga
+192648,1,Lançamentos,Brenno,1083,3,8,Grêmio
+192648,1,Lançamentos,Diogo Barbosa,1083,1,0,Grêmio
+192648,1,Lançamentos,Pedro Geromel,1083,3,3,Grêmio
+192648,1,Lançamentos,Rodrigues,1083,0,3,Grêmio
+192648,1,Lançamentos,Bruno Bispo,1389,2,3,Ypiranga
+192648,1,Lançamentos,Carlos Alexandre,1389,1,5,Ypiranga
+192648,1,Lançamentos,Cesinha,1389,1,0,Ypiranga
+192648,1,Lançamentos,Diego Porfirio,1389,1,1,Ypiranga
+192648,1,Lançamentos,Edson,1389,6,3,Ypiranga
+192648,1,Lançamentos,Falcão,1389,0,1,Ypiranga
+192648,1,Lançamentos,Hugo Almeida,1389,1,0,Ypiranga
+192648,1,Lançamentos,Matheusinho,1389,0,1,Ypiranga
+192648,1,Lançamentos,Robson,1389,2,1,Ypiranga
+192648,24,Interceptações,Bitello,1083,1,0,Grêmio
+192648,24,Interceptações,Bruno Bispo,1389,1,0,Ypiranga
+192648,24,Interceptações,Gedeílson,1389,1,0,Ypiranga
+192648,24,Interceptações,Marcelinho,1389,1,1,Ypiranga
+192648,4,Dribles,Diogo Barbosa,1083,1,0,Grêmio
+192648,4,Dribles,Elias,1083,0,1,Grêmio
+192648,4,Dribles,Ferreira,1083,4,0,Grêmio
+192648,4,Dribles,Jaminton Campaz,1083,2,0,Grêmio
+192648,4,Dribles,Lucas Silva,1083,2,0,Grêmio
+192648,4,Dribles,Mathías Villasanti,1083,1,0,Grêmio
+192648,4,Dribles,Bruno Bispo,1389,1,0,Ypiranga
+192648,4,Dribles,Diego Porfirio,1389,2,1,Ypiranga
+192648,4,Dribles,Erick Samuel,1389,1,0,Ypiranga
+192648,4,Dribles,Falcão,1389,1,0,Ypiranga
+192648,4,Dribles,Gedeílson,1389,1,1,Ypiranga
+192648,22,Viradas de jogo,Rodrigues,1083,1,0,Grêmio
+192648,22,Viradas de jogo,Cesinha,1389,2,0,Ypiranga
+192648,20,Posse de bola,Benítez,1083,4,0,Grêmio
+192648,20,Posse de bola,Bitello,1083,81,0,Grêmio
+192648,20,Posse de bola,Brenno,1083,32,0,Grêmio
+192648,20,Posse de bola,Bruno Alves,1083,42,0,Grêmio
+192648,20,Posse de bola,Churín,1083,12,0,Grêmio
+192648,20,Posse de bola,Diogo Barbosa,1083,110,0,Grêmio
+192648,20,Posse de bola,Elias,1083,36,0,Grêmio
+192648,20,Posse de bola,Ferreira,1083,109,0,Grêmio
+192648,20,Posse de bola,Gabriel Silva,1083,6,0,Grêmio
+192648,20,Posse de bola,Jaminton Campaz,1083,59,0,Grêmio
+192648,20,Posse de bola,Janderson,1083,8,0,Grêmio
+192648,20,Posse de bola,Lucas Silva,1083,88,0,Grêmio
+192648,20,Posse de bola,Mathías Villasanti,1083,71,0,Grêmio
+192648,20,Posse de bola,Pedro Geromel,1083,70,0,Grêmio
+192648,20,Posse de bola,Rodrigues,1083,72,0,Grêmio
+192648,20,Posse de bola,Bruno Bispo,1389,120,0,Ypiranga
+192648,20,Posse de bola,Carlos Alexandre,1389,167,0,Ypiranga
+192648,20,Posse de bola,Cesinha,1389,62,0,Ypiranga
+192648,20,Posse de bola,Diego Porfirio,1389,130,0,Ypiranga
+192648,20,Posse de bola,Edson,1389,117,0,Ypiranga
+192648,20,Posse de bola,Erick Samuel,1389,73,0,Ypiranga
+192648,20,Posse de bola,Falcão,1389,98,0,Ypiranga
+192648,20,Posse de bola,Gabriel Rossetto,1389,8,0,Ypiranga
+192648,20,Posse de bola,Gedeílson,1389,144,0,Ypiranga
+192648,20,Posse de bola,Hugo Almeida,1389,32,0,Ypiranga
+192648,20,Posse de bola,Jefferson,1389,27,0,Ypiranga
+192648,20,Posse de bola,Lorran Rosendo,1389,22,0,Ypiranga
+192648,20,Posse de bola,Marcelinho,1389,40,0,Ypiranga
+192648,20,Posse de bola,Matheusinho,1389,84,0,Ypiranga
+192648,20,Posse de bola,Robson,1389,66,0,Ypiranga
+192648,20,Posse de bola,Rodrigo Carioca,1389,16,0,Ypiranga
+192648,8,Gols,Bruno Alves,1083,1,0,Grêmio
+192648,8,Gols,Rodrigues,1083,1,0,Grêmio
+192648,8,Gols,Erick Samuel,1389,1,0,Ypiranga
+192648,28,Assistências para finalização,Churín,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Diogo Barbosa,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Elias,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Ferreira,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Janderson,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Lucas Silva,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Rodrigues,1083,1,0,Grêmio
+192648,28,Assistências para finalização,Cesinha,1389,2,0,Ypiranga
+192648,28,Assistências para finalização,Gedeílson,1389,1,0,Ypiranga
+192648,28,Assistências para finalização,Robson,1389,1,0,Ypiranga
+192648,27,Assistências,Rodrigues,1083,1,0,Grêmio
+192648,27,Assistências,Gedeílson,1389,1,0,Ypiranga
+192648,15,Defesas,Bitello,1083,1,0,Grêmio
+192648,15,Defesas,Brenno,1083,1,0,Grêmio
+192648,15,Defesas,Pedro Geromel,1083,1,0,Grêmio
+192648,15,Defesas,Diego Porfirio,1389,1,0,Ypiranga
+192648,15,Defesas,Edson,1389,2,0,Ypiranga
+192648,15,Defesas,Bitello,1083,1,0,Grêmio
+192648,15,Defesas,Brenno,1083,1,0,Grêmio
+192648,15,Defesas,Pedro Geromel,1083,1,0,Grêmio
+192648,15,Defesas,Diego Porfirio,1389,1,0,Ypiranga
+192648,15,Defesas,Edson,1389,2,0,Ypiranga
+192648,23,Defesas difíceis,Edson,1389,1,0,Ypiranga
+192648,19,Rebatidas,Bitello,1083,1,0,Grêmio
+192648,19,Rebatidas,Bruno Alves,1083,2,0,Grêmio
+192648,19,Rebatidas,Diogo Barbosa,1083,5,0,Grêmio
+192648,19,Rebatidas,Lucas Silva,1083,3,0,Grêmio
+192648,19,Rebatidas,Mathías Villasanti,1083,1,0,Grêmio
+192648,19,Rebatidas,Pedro Geromel,1083,4,0,Grêmio
+192648,19,Rebatidas,Rodrigues,1083,4,0,Grêmio
+192648,19,Rebatidas,Bruno Bispo,1389,6,0,Ypiranga
+192648,19,Rebatidas,Carlos Alexandre,1389,8,0,Ypiranga
+192648,19,Rebatidas,Diego Porfirio,1389,1,0,Ypiranga
+192648,19,Rebatidas,Edson,1389,1,0,Ypiranga
+192648,19,Rebatidas,Gedeílson,1389,4,0,Ypiranga
+192648,19,Rebatidas,Robson,1389,4,0,Ypiranga
+192648,6,Faltas cometidas,Bitello,1083,2,0,Grêmio
+192648,6,Faltas cometidas,Bruno Alves,1083,1,0,Grêmio
+192648,6,Faltas cometidas,Diogo Barbosa,1083,1,0,Grêmio
+192648,6,Faltas cometidas,Elias,1083,1,0,Grêmio
+192648,6,Faltas cometidas,Ferreira,1083,1,0,Grêmio
+192648,6,Faltas cometidas,Jaminton Campaz,1083,3,0,Grêmio
+192648,6,Faltas cometidas,Pedro Geromel,1083,1,0,Grêmio
+192648,6,Faltas cometidas,Rodrigues,1083,2,0,Grêmio
+192648,6,Faltas cometidas,Carlos Alexandre,1389,3,0,Ypiranga
+192648,6,Faltas cometidas,Diego Porfirio,1389,2,0,Ypiranga
+192648,6,Faltas cometidas,Erick Samuel,1389,2,0,Ypiranga
+192648,6,Faltas cometidas,Falcão,1389,1,0,Ypiranga
+192648,6,Faltas cometidas,Gabriel Rossetto,1389,1,0,Ypiranga
+192648,6,Faltas cometidas,Gedeílson,1389,1,0,Ypiranga
+192648,6,Faltas cometidas,Marcelinho,1389,1,0,Ypiranga
+192648,6,Faltas cometidas,Matheusinho,1389,2,0,Ypiranga
+192648,6,Faltas cometidas,Robson,1389,2,0,Ypiranga
+192648,6,Faltas cometidas,Rodrigo Carioca,1389,1,0,Ypiranga
+192648,7,Faltas sofridas,Bitello,1083,3,0,Grêmio
+192648,7,Faltas sofridas,Diogo Barbosa,1083,2,0,Grêmio
+192648,7,Faltas sofridas,Elias,1083,3,0,Grêmio
+192648,7,Faltas sofridas,Jaminton Campaz,1083,1,0,Grêmio
+192648,7,Faltas sofridas,Janderson,1083,1,0,Grêmio
+192648,7,Faltas sofridas,Lucas Silva,1083,1,0,Grêmio
+192648,7,Faltas sofridas,Mathías Villasanti,1083,2,0,Grêmio
+192648,7,Faltas sofridas,Pedro Geromel,1083,2,0,Grêmio
+192648,7,Faltas sofridas,Bruno Bispo,1389,1,0,Ypiranga
+192648,7,Faltas sofridas,Erick Samuel,1389,2,0,Ypiranga
+192648,7,Faltas sofridas,Falcão,1389,2,0,Ypiranga
+192648,7,Faltas sofridas,Gedeílson,1389,2,0,Ypiranga
+192648,7,Faltas sofridas,Hugo Almeida,1389,1,0,Ypiranga
+192648,7,Faltas sofridas,Matheusinho,1389,1,0,Ypiranga
+192648,7,Faltas sofridas,Rodrigo Carioca,1389,1,0,Ypiranga
+192648,9,Impedimentos,Diogo Barbosa,1083,1,0,Grêmio
+192648,9,Impedimentos,Elias,1083,1,0,Grêmio
+192648,9,Impedimentos,Ferreira,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Benítez,1083,2,0,Grêmio
+192648,12,Perda da posse de bola,Bitello,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Bruno Alves,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Churín,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Elias,1083,5,0,Grêmio
+192648,12,Perda da posse de bola,Ferreira,1083,5,0,Grêmio
+192648,12,Perda da posse de bola,Jaminton Campaz,1083,3,0,Grêmio
+192648,12,Perda da posse de bola,Lucas Silva,1083,4,0,Grêmio
+192648,12,Perda da posse de bola,Pedro Geromel,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Rodrigues,1083,1,0,Grêmio
+192648,12,Perda da posse de bola,Carlos Alexandre,1389,2,0,Ypiranga
+192648,12,Perda da posse de bola,Cesinha,1389,3,0,Ypiranga
+192648,12,Perda da posse de bola,Diego Porfirio,1389,2,0,Ypiranga
+192648,12,Perda da posse de bola,Erick Samuel,1389,6,0,Ypiranga
+192648,12,Perda da posse de bola,Falcão,1389,4,0,Ypiranga
+192648,12,Perda da posse de bola,Gedeílson,1389,5,0,Ypiranga
+192648,12,Perda da posse de bola,Hugo Almeida,1389,4,0,Ypiranga
+192648,12,Perda da posse de bola,Jefferson,1389,4,0,Ypiranga
+192648,12,Perda da posse de bola,Lorran Rosendo,1389,2,0,Ypiranga
+192648,12,Perda da posse de bola,Marcelinho,1389,5,0,Ypiranga
+192648,12,Perda da posse de bola,Matheusinho,1389,7,0,Ypiranga
+192648,12,Perda da posse de bola,Robson,1389,2,0,Ypiranga
+192648,12,Perda da posse de bola,Rodrigo Carioca,1389,2,0,Ypiranga
+192648,25,Cartões amarelos,Ferreira,1083,1,0,Grêmio
+192648,25,Cartões amarelos,Diego Porfirio,1389,1,0,Ypiranga
+192648,25,Cartões amarelos,Falcão,1389,1,0,Ypiranga
+192648,25,Cartões amarelos,Rodrigo Carioca,1389,1,0,Ypiranga
