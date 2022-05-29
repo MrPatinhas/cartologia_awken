@@ -1492,6 +1492,7 @@ def get_mapa_confronto(df_data, rodada_atual, df_liga, pos__):
     return p
 
 def get_pont_distribution(df_data, team_id_ = -1, player_id_=-1, dist_user = st.norm, flag_std=4):
+
     p = figure(title='Distribuição de Probabilidade',
                tools='',
                background_fill_color="#fafafa",
